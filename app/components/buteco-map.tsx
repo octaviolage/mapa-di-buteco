@@ -1,5 +1,3 @@
-"use client";
-
 import { useEffect, useRef } from "react";
 import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import { useButecosStore } from "@/store/butecos-store";
@@ -97,13 +95,13 @@ function MapController() {
   // Fit bounds to all visible markers when filters change
   useEffect(() => {
     const validButecos = butecos.filter((b) => b.lat && b.lon);
-    if (validButecos.length > 0 && !selectedButeco) {
+    if (validButecos.length > 0) {
       const bounds = L.latLngBounds(
         validButecos.map((b) => [b.lat!, b.lon!] as [number, number]),
       );
       map.fitBounds(bounds, { padding: [50, 50], maxZoom: 14 });
     }
-  }, [butecos.length, map, selectedButeco]);
+  }, [butecos, map]);
 
   return null;
 }

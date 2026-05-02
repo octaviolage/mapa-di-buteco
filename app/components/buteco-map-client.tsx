@@ -2,6 +2,7 @@
 
 import dynamic from "next/dynamic";
 import type { Buteco } from "@/types/buteco";
+import { useButecosStore } from "@/store/butecos-store";
 
 const ButecoMap = dynamic(
   () => import("@/components/buteco-map").then((mod) => mod.ButecoMap),
@@ -20,5 +21,8 @@ interface ButecoMapClientProps {
 }
 
 export function ButecoMapClient({ allButecos }: ButecoMapClientProps) {
-  return <ButecoMap allButecos={allButecos} />;
+  // Usa os butecos filtrados do Zustand para os pins
+  const { filteredButecos } = useButecosStore();
+  const filtered = filteredButecos();
+  return <ButecoMap allButecos={filtered} />;
 }
