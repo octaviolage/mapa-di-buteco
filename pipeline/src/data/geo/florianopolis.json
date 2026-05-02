@@ -1,0 +1,2018 @@
+{
+  "Rodovia Jornalista Manoel de Menezes, 1264 | Barra da Lagoa, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rodovia Jornalista Manoel de Menezes",
+        "ref": "SC-406",
+        "other_names": {
+          "ref": "SC-406",
+          "name": "Rodovia Jornalista Manoel de Menezes",
+          "name:pt": "Rodovia Jornalista Manoel de Menezes"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "village": "Barra da Lagoa",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88061-407",
+        "suburb": "Fortaleza da Barra da Lagoa",
+        "street": "Rodovia Jornalista Manoel de Menezes",
+        "iso3166_2": "BR-SC",
+        "lon": -48.4365766,
+        "lat": -27.5859755,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rodovia Jornalista Manoel de Menezes, Fortaleza da Barra da Lagoa, Florianópolis - SC, 88061-407, Brazil",
+        "address_line1": "Rodovia Jornalista Manoel de Menezes",
+        "address_line2": "Fortaleza da Barra da Lagoa, Florianópolis - SC, 88061-407, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCH77+J9",
+        "plus_code_short": "CH77+J9 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517599f5bde13748c059dbc1887d02963bc0f00102f901101b8e0200000000c00204920324526f646f766961204a6f726e616c69737461204d616e6f656c206465204d656e657a6573",
+        "bbox": {
+          "lon1": -48.4366378,
+          "lat1": -27.5879593,
+          "lon2": -48.4359992,
+          "lat2": -27.5840642
+        }
+      }
+    ],
+    "query": {
+      "text": "Rodovia Jornalista Manoel de Menezes, 1264 | Barra da Lagoa, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "1264 |",
+        "street": "rodovia jornalista manoel de menezes",
+        "suburb": "barra da lagoa",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. das Rendeiras, 1796 | Lagoa da Conceição, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida das Rendeiras",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88062-400",
+        "suburb": "Lagoa da Conceição",
+        "quarter": "Retiro",
+        "street": "Avenida das Rendeiras",
+        "iso3166_2": "BR-SC",
+        "lon": -48.446658,
+        "lat": -27.609463,
+        "state_code": "SC",
+        "housenumber": "1796",
+        "result_type": "building",
+        "formatted": "Avenida das Rendeiras 1796, Lagoa da Conceição, Florianópolis - SC, 88062-400, Brazil",
+        "address_line1": "Avenida das Rendeiras 1796",
+        "address_line2": "Lagoa da Conceição, Florianópolis - SC, 88062-400, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9HR3+68",
+        "plus_code_short": "9HR3+68 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51963fdf162c3948c0593f1f65c4059c3bc0c002039203154176656e696461206461732052656e646569726173e203266f70656e6164647265737365733a616464726573733a64393931626235646332663536393964",
+        "bbox": {
+          "lon1": -48.4487951,
+          "lat1": -27.6094802,
+          "lon2": -48.4421559,
+          "lat2": -27.6090905
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. das Rendeiras, 1796 | Lagoa da Conceição, Florianópolis - SC",
+      "parsed": {
+        "house": "| lagoa da conceição",
+        "housenumber": "1796",
+        "street": "av. das rendeiras",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Victor Meirelles, 154 | Centro, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Vodu Bar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88010-440",
+        "suburb": "Sede",
+        "quarter": "Downtown",
+        "street": "Rua Victor Meirelles",
+        "housenumber": "154",
+        "iso3166_2": "BR-SC",
+        "lon": -48.548503,
+        "lat": -27.5988556,
+        "state_code": "SC",
+        "result_type": "amenity",
+        "formatted": "Vodu Bar, Rua Victor Meirelles 154, Sede, Florianópolis - SC, 88010-440, Brazil",
+        "address_line1": "Vodu Bar",
+        "address_line2": "Rua Victor Meirelles 154, Sede, Florianópolis - SC, 88010-440, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCF22+FH",
+        "plus_code_short": "22+FH Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.652246890969738e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "510261a758354648c059c606c1994e993bc0f00102f901dfbbf23500000000c00201920308566f647520426172",
+        "bbox": {
+          "lon1": -48.5485837,
+          "lat1": -27.5989255,
+          "lon2": -48.5484224,
+          "lat2": -27.5987858
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Victor Meirelles, 154 | Centro, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "154 |",
+        "street": "rua victor meirelles",
+        "suburb": "centro",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Intendente João Nunes Vieira, 1058 | Ingleses, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua CI Ingleses",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88058-570",
+        "suburb": "Ingleses do Rio Vermelho",
+        "quarter": "Ingleses Norte",
+        "street": "Rua CI Ingleses",
+        "iso3166_2": "BR-SC",
+        "lon": -48.4022149,
+        "lat": -27.425621,
+        "state_code": "SC",
+        "housenumber": "1058",
+        "result_type": "building",
+        "formatted": "Rua CI Ingleses 1058, Ingleses do Rio Vermelho, Florianópolis - SC, 88058-570, Brazil",
+        "address_line1": "Rua CI Ingleses 1058",
+        "address_line2": "Ingleses do Rio Vermelho, Florianópolis - SC, 88058-570, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HHHFX+Q4",
+        "plus_code_short": "HHFX+Q4 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05335803387502858,
+          "confidence": 0.2835,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.567,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5161bb20c77b3348c059a67d737ff56c3bc0f00102f901e599700700000000c0020392030f52756120434920496e676c65736573",
+        "bbox": {
+          "lon1": -48.402248,
+          "lat1": -27.4261065,
+          "lon2": -48.4021814,
+          "lat2": -27.4251355
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Intendente João Nunes Vieira, 1058 | Ingleses, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "1058",
+        "street": "| ingleses",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da Universidade, 346 | Pedra Branca, Palhoça - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hippo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Palhoça",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88137-072",
+        "suburb": "Cidade Universitária Pedra Branca",
+        "street": "Rua da Universidade",
+        "housenumber": "346",
+        "iso3166_2": "BR-SC",
+        "lon": -48.6773522,
+        "lat": -27.623057,
+        "state_code": "SC",
+        "result_type": "amenity",
+        "formatted": "Hippo, Rua da Universidade 346, Cidade Universitária Pedra Branca, Palhoça - SC, 88137-072, Brazil",
+        "address_line1": "Hippo",
+        "address_line2": "Rua da Universidade 346, Cidade Universitária Pedra Branca, Palhoça - SC, 88137-072, Brazil",
+        "category": "commercial.supermarket",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H98GF+Q3",
+        "plus_code_short": "98GF+Q3 Palhoça, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 5.5494773784954874e-05,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0,
+          "confidence_building_level": 0,
+          "match_type": "inner_part"
+        },
+        "place_id": "51d46f157ab35648c0593b8bdea9809f3bc0f00102f901776de42600000000c00201920305486970706f",
+        "bbox": {
+          "lon1": -48.6777168,
+          "lat1": -27.6234172,
+          "lon2": -48.6770825,
+          "lat2": -27.6226518
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da Universidade, 346 | Pedra Branca, Palhoça - SC",
+      "parsed": {
+        "housenumber": "346",
+        "street": "| pedra branca",
+        "city": "palhoça",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Hercílio Luz, 692 | Centro, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Hercílio Luz",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88010-290",
+        "suburb": "Sede",
+        "quarter": "Downtown",
+        "street": "Avenida Hercílio Luz",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5501763,
+        "lat": -27.6018091,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Avenida Hercílio Luz, Sede, Florianópolis - SC, 88010-290, Brazil",
+        "address_line1": "Avenida Hercílio Luz",
+        "address_line2": "Sede, Florianópolis - SC, 88010-290, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9CXX+7W",
+        "plus_code_short": "XX+7W Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5163c44f2d6c4648c05969ef4229109a3bc0f00102f9017189eb0d00000000c002049203154176656e6964612048657263c3ad6c696f204c757a",
+        "bbox": {
+          "lon1": -48.5503478,
+          "lat1": -27.6019731,
+          "lon2": -48.5500047,
+          "lat2": -27.6016451
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Hercílio Luz, 692 | Centro, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "692 |",
+        "street": "av. hercílio luz",
+        "suburb": "centro",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua José Bonifácio, 311 | Canto, Florianópolis - SC": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "311",
+        "street": "Rua Jose Henrique Veras",
+        "country": "Brazil",
+        "county": "Santa Catarina",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "88062-216",
+        "state": "South",
+        "district": "Lagoa Da Conceição",
+        "city": "Florianópolis",
+        "county_code": "SC",
+        "lon": -48.468264,
+        "lat": -27.604345,
+        "result_type": "building",
+        "suburb": "Canto da Lagoa",
+        "formatted": "Rua Jose Henrique Veras 311, Canto da Lagoa, Florianópolis - South, 88062-216, Brazil",
+        "address_line1": "Rua Jose Henrique Veras 311",
+        "address_line2": "Canto da Lagoa, Florianópolis - South, 88062-216, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9GWJ+7M",
+        "plus_code_short": "9GWJ+7M Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "confidence": 0.15384615384615385,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.15384615384615385,
+          "confidence_building_level": 0.15384615384615385,
+          "match_type": "full_match"
+        },
+        "place_id": "5173f22213f03b48c05949809a5ab69a3bc0c00203e203466f70656e6164647265737365733a616464726573733a62722f73632f7374617465776964652d6164647265737365732d73746174653a34343935363466303164383163363738"
+      }
+    ],
+    "query": {
+      "text": "Rua José Bonifácio, 311 | Canto, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "311 |",
+        "street": "rua josé bonifácio",
+        "suburb": "canto",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rod. Gilson da Costa Xavier, 1520 | Sambaqui, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "old_name": "Nossa Senhora do Desterro;Desterro",
+        "other_names": {
+          "name:ar": "فلوريانوبوليس",
+          "name:be": "Фларыянопаліс",
+          "name:bg": "Флорианополис",
+          "name:eo": "Florianopolo",
+          "name:fa": "فلرینو پولیس",
+          "name:he": "פלוריאנופוליס",
+          "name:hy": "Ֆլորիանոպոլիս",
+          "name:ja": "フロリアノーポリス",
+          "name:ka": "ფლორიანოპოლისი",
+          "name:ko": "플로리아노폴리스",
+          "name:la": "Florianopolis",
+          "name:lt": "Florianopolis",
+          "name:lv": "Florjanopolisa",
+          "name:mk": "Флорианополис",
+          "name:mr": "फ्लोरियानोपोलिस",
+          "name:os": "Флорианополис",
+          "name:ru": "Флорианополис",
+          "name:sr": "Флоријанополис",
+          "name:tg": "Флорианополис",
+          "name:th": "โฟลเรียนอโปลิส",
+          "name:uk": "Флоріанополіс",
+          "name:uz": "Florianopolis",
+          "name:zh": "弗洛里亚诺波利斯",
+          "alt_name": "Floripa",
+          "loc_name": "Floripa",
+          "old_name": "Nossa Senhora do Desterro;Desterro",
+          "reg_name": "Ilha da Magia"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5496098,
+        "lat": -27.5973002,
+        "state_code": "SC",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Florianópolis, SC, Brazil",
+        "address_line1": "Florianópolis",
+        "address_line2": "SC, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCF32+35",
+        "plus_code_short": "+35 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.6090438877809486,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51d2472a9d594648c059eee478aae8983bc0f00101f9017186040000000000c00208",
+        "bbox": {
+          "lon1": -48.613,
+          "lat1": -27.847,
+          "lon2": -48.3585929,
+          "lat2": -27.3782759
+        }
+      }
+    ],
+    "query": {
+      "text": "Rod. Gilson da Costa Xavier, 1520 | Sambaqui, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "1520",
+        "street": "| sambaqui",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Hypólito Gregório Pereira, 605 | Canasvieiras, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Hypólito Gregório Pereira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88054-072",
+        "suburb": "Canasvieiras",
+        "street": "Rua Hypólito Gregório Pereira",
+        "iso3166_2": "BR-SC",
+        "lon": -48.4591266,
+        "lat": -27.4281266,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Hypólito Gregório Pereira, Canasvieiras, Florianópolis - SC, 88054-072, Brazil",
+        "address_line1": "Rua Hypólito Gregório Pereira",
+        "address_line2": "Canasvieiras, Florianópolis - SC, 88054-072, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HHGCR+P8",
+        "plus_code_short": "HGCR+P8 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51a1dc11a9c43a48c059348c71b4996d3bc0f00102f901c9f6a10900000000c0020492031f52756120487970c3b36c69746f2047726567c3b372696f2050657265697261",
+        "bbox": {
+          "lon1": -48.4591477,
+          "lat1": -27.4286946,
+          "lon2": -48.4591055,
+          "lat2": -27.4275586
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Hypólito Gregório Pereira, 605 | Canasvieiras, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "605 | canasvieiras",
+        "street": "rua hypólito gregório pereira",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Leoberto Leal, 1066 | Barreiros, São José - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Leoberto Leal",
+        "other_names": {
+          "alt_name": "Rua Deputado Leoberto Leal",
+          "name": "Avenida Leoberto Leal",
+          "name:pt": "Avenida Leoberto Leal"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "São José",
+        "village": "Barreiros",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88117-001",
+        "suburb": "Barreiros",
+        "street": "Avenida Leoberto Leal",
+        "iso3166_2": "BR-SC",
+        "lon": -48.6026644,
+        "lat": -27.5726426,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Avenida Leoberto Leal, Barreiros, São José - SC, 88117-001, Brazil",
+        "address_line1": "Avenida Leoberto Leal",
+        "address_line2": "Barreiros, São José - SC, 88117-001, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HC9GW+WW",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51533b681b244d48c059e14b97b498923bc0f00102f9013aa8ce1b00000000c002049203154176656e696461204c656f626572746f204c65616c",
+        "bbox": {
+          "lon1": -48.6031163,
+          "lat1": -27.5729061,
+          "lon2": -48.6022124,
+          "lat2": -27.572379
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Leoberto Leal, 1066 | Barreiros, São José - SC",
+      "parsed": {
+        "housenumber": "1066 |",
+        "street": "av. leoberto leal",
+        "suburb": "barreiros",
+        "city": "são josé",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. César Seara, 19 | Carvoeira, Florianópolis - SC": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88040-901",
+        "suburb": "Pantanal",
+        "street": "Avenida César Seara",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "SC",
+        "lon": -48.5215479,
+        "lat": -27.6047732,
+        "result_type": "street",
+        "formatted": "Avenida César Seara, Pantanal, Florianópolis - SC, 88040-901, Brazil",
+        "address_line1": "Avenida César Seara",
+        "address_line2": "Pantanal, Florianópolis - SC, 88040-901, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9FWH+39",
+        "plus_code_short": "9FWH+39 Florianópolis, Santa Catarina, Brazil",
+        "iso3166_2": "BR-SC",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5114e6e214c24248c0594d7f9b6ad29a3bc0f00102f901ce5d360f00000000c00204",
+        "bbox": {
+          "lon1": -48.5225303,
+          "lat1": -27.6056573,
+          "lon2": -48.5208013,
+          "lat2": -27.6043021
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. César Seara, 19 | Carvoeira, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "19 | carvoeira",
+        "street": "av. césar seara",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Hercílio Luz, 636 | Centro, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Edifício Dona Elvira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88020-000",
+        "suburb": "Sede",
+        "quarter": "Downtown",
+        "street": "Avenida Hercílio Luz",
+        "housenumber": "636",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5476377,
+        "lat": -27.5977721,
+        "state_code": "SC",
+        "result_type": "amenity",
+        "formatted": "Edifício Dona Elvira, Avenida Hercílio Luz 636, Sede, Florianópolis - SC, 88020-000, Brazil",
+        "address_line1": "Edifício Dona Elvira",
+        "address_line2": "Avenida Hercílio Luz 636, Sede, Florianópolis - SC, 88020-000, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCF22+VW",
+        "plus_code_short": "22+VW Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.652246890969738e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5141c7fdfd184648c05914f6a39707993bc0f00102f90154942b2800000000c0020192031545646966c3ad63696f20446f6e6120456c76697261",
+        "bbox": {
+          "lon1": -48.5478104,
+          "lat1": -27.5979296,
+          "lon2": -48.547465,
+          "lat2": -27.5976148
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Hercílio Luz, 636 | Centro, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "636 |",
+        "street": "av. hercílio luz",
+        "suburb": "centro",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rodovia Doutor Antônio Luiz Moura Gonzaga, 4381 | Rio Tavares, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rodovia Doutor Antônio Luiz Moura Gonzaga",
+        "ref": "SC-406",
+        "other_names": {
+          "ref": "SC-406"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88048-391",
+        "suburb": "Campeche",
+        "quarter": "North Rio Tavares",
+        "street": "Rodovia Doutor Antônio Luiz Moura Gonzaga",
+        "iso3166_2": "BR-SC",
+        "lon": -48.4750652,
+        "lat": -27.6416952,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rodovia Doutor Antônio Luiz Moura Gonzaga, Campeche, North Rio Tavares, Florianópolis - SC, 88048-391, Brazil",
+        "address_line1": "Rodovia Doutor Antônio Luiz Moura Gonzaga",
+        "address_line2": "Campeche, North Rio Tavares, Florianópolis - SC, 88048-391, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9G5F+8X",
+        "plus_code_short": "9G5F+8X Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51debbbcefce3c48c0590c00fa2246a43bc0f00102f9010b24b81200000000c0020492032a526f646f76696120446f75746f7220416e74c3b46e696f204c75697a204d6f75726120476f6e7a616761",
+        "bbox": {
+          "lon1": -48.4758089,
+          "lat1": -27.6437249,
+          "lon2": -48.4742555,
+          "lat2": -27.6395926
+        }
+      }
+    ],
+    "query": {
+      "text": "Rodovia Doutor Antônio Luiz Moura Gonzaga, 4381 | Rio Tavares, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "4381 |",
+        "street": "rodovia doutor antônio luiz moura gonzaga",
+        "suburb": "rio tavares",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rodovia Francisco Thomaz dos Santos, 4527 | Pântano do Sul, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rodovia Francisco Thomaz dos Santos",
+        "ref": "SC-406",
+        "other_names": {
+          "ref": "SC-406"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88067-079",
+        "suburb": "Pântano do Sul",
+        "street": "Rodovia Francisco Thomaz dos Santos",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5054231,
+        "lat": -27.7736945,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rodovia Francisco Thomaz dos Santos, Pântano do Sul, Florianópolis - SC, 88067-079, Brazil",
+        "address_line1": "Rodovia Francisco Thomaz dos Santos",
+        "address_line2": "Pântano do Sul, Florianópolis - SC, 88067-079, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H6FGV+GR",
+        "plus_code_short": "6FGV+GR Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "514c9242b4b14048c0595798bed710c63bc0f00102f901fee5800e00000000c00204920323526f646f766961204672616e636973636f2054686f6d617a20646f732053616e746f73",
+        "bbox": {
+          "lon1": -48.5077711,
+          "lat1": -27.7798819,
+          "lon2": -48.5049275,
+          "lat2": -27.768423
+        }
+      }
+    ],
+    "query": {
+      "text": "Rodovia Francisco Thomaz dos Santos, 4527 | Pântano do Sul, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "4527 |",
+        "street": "rodovia francisco thomaz dos santos",
+        "suburb": "pântano do sul",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Cônego Serpa, 68 | Santo Antônio de Lisboa, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Cônego Serpa",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88050-400",
+        "suburb": "Santo Antônio de Lisboa",
+        "quarter": "West Santo Antônio de Lisboa",
+        "street": "Rua Cônego Serpa",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5190081,
+        "lat": -27.5076768,
+        "state_code": "SC",
+        "housenumber": "68",
+        "result_type": "building",
+        "formatted": "Rua Cônego Serpa 68, Santo Antônio de Lisboa, Florianópolis - SC, 88050-400, Brazil",
+        "address_line1": "Rua Cônego Serpa 68",
+        "address_line2": "Santo Antônio de Lisboa, Florianópolis - SC, 88050-400, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HFFRJ+W9",
+        "plus_code_short": "FFRJ+W9 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51f7ed7fdb6e4248c0591cf0541bf7813bc0f00102f901c8b03d0d00000000c002039203115275612043c3b46e65676f205365727061",
+        "bbox": {
+          "lon1": -48.520217,
+          "lat1": -27.5073116,
+          "lon2": -48.5193411,
+          "lat2": -27.5063884
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Cônego Serpa, 68 | Santo Antônio de Lisboa, Florianópolis - SC",
+      "parsed": {
+        "house": "| santo antônio de lisboa",
+        "housenumber": "68",
+        "street": "r. cônego serpa",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Avenida das Rendeiras, 2096 | Lagoa da Conceição, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida das Rendeiras",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88062-400",
+        "suburb": "Lagoa da Conceição",
+        "quarter": "Retiro",
+        "street": "Avenida das Rendeiras",
+        "iso3166_2": "BR-SC",
+        "lon": -48.443707,
+        "lat": -27.609551,
+        "state_code": "SC",
+        "housenumber": "2096",
+        "result_type": "building",
+        "formatted": "Avenida das Rendeiras 2096, Lagoa da Conceição, Florianópolis - SC, 88062-400, Brazil",
+        "address_line1": "Avenida das Rendeiras 2096",
+        "address_line2": "Lagoa da Conceição, Florianópolis - SC, 88062-400, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9HR4+5G",
+        "plus_code_short": "9HR4+5G Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51ce001764cb3848c0597d3eca880b9c3bc0c002039203154176656e696461206461732052656e646569726173e203266f70656e6164647265737365733a616464726573733a32646636366331643762366361323337",
+        "bbox": {
+          "lon1": -48.4487951,
+          "lat1": -27.6094802,
+          "lon2": -48.4421559,
+          "lat2": -27.6090905
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida das Rendeiras, 2096 | Lagoa da Conceição, Florianópolis - SC",
+      "parsed": {
+        "house": "| lagoa da conceição",
+        "housenumber": "2096",
+        "street": "avenida das rendeiras",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Cyro Belli Müller, 53 | Santa Mônica, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Cyro Belli Müller",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88035-500",
+        "suburb": "Santa Mônica",
+        "street": "Rua Cyro Belli Müller",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5112605,
+        "lat": -27.5898543,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Cyro Belli Müller, Santa Mônica, Florianópolis - SC, 88035-500, Brazil",
+        "address_line1": "Rua Cyro Belli Müller",
+        "address_line2": "Santa Mônica, Florianópolis - SC, 88035-500, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCF6Q+3F",
+        "plus_code_short": "CF6Q+3F Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51499eebfb704148c059ace7ffb000973bc0f00102f9018510570700000000c00204920316527561204379726f2042656c6c69204dc3bc6c6c6572",
+        "bbox": {
+          "lon1": -48.5115958,
+          "lat1": -27.5904256,
+          "lon2": -48.5109252,
+          "lat2": -27.5892831
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Cyro Belli Müller, 53 | Santa Mônica, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "53 |",
+        "street": "r. cyro belli müller",
+        "suburb": "santa mônica",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Lauro Linhares, 1065 | Trindade, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Lauro Linhares",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88036-001",
+        "suburb": "Trindade",
+        "quarter": "North Trindade",
+        "street": "Rua Lauro Linhares",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5248478,
+        "lat": -27.5865475,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Lauro Linhares, Trindade, Florianópolis - SC, 88036-001, Brazil",
+        "address_line1": "Rua Lauro Linhares",
+        "address_line2": "Trindade, Florianópolis - SC, 88036-001, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCF7G+93",
+        "plus_code_short": "CF7G+93 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51543074362e4348c059f20c1afa27963bc0f00102f90126dbda0d00000000c00204920312527561204c6175726f204c696e6861726573",
+        "bbox": {
+          "lon1": -48.5252924,
+          "lat1": -27.5884921,
+          "lon2": -48.5228649,
+          "lat2": -27.5839691
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Lauro Linhares, 1065 | Trindade, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "1065 |",
+        "street": "r. lauro linhares",
+        "suburb": "trindade",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rod. Baldicero Filomeno, 7176 | Ribeirão da Ilha, Florianópolis - SC": {
+    "results": [],
+    "query": {
+      "text": "Rod. Baldicero Filomeno, 7176 | Ribeirão da Ilha, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "7176 |",
+        "street": "rod. baldicero filomeno",
+        "suburb": "ribeirão da ilha",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Nunes Machado, 132 | Centro, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88010-460",
+        "suburb": "Centro",
+        "quarter": "Downtown",
+        "street": "Rua Nunes Machado",
+        "housenumber": "132",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5493898,
+        "lat": -27.59926,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Nunes Machado 132, Centro, Florianópolis - SC, 88010-460, Brazil",
+        "address_line1": "Rua Nunes Machado 132",
+        "address_line2": "Centro, Florianópolis - SC, 88010-460, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCF22+76",
+        "plus_code_short": "22+76 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.652246890969738e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c4e0ab67524648c0590ccd751a69993bc0f00102f901db79ae4700000000c00203",
+        "bbox": {
+          "lon1": -48.5495409,
+          "lat1": -27.5993874,
+          "lon2": -48.5492373,
+          "lat2": -27.5991332
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Nunes Machado, 132 | Centro, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "132 |",
+        "street": "r. nunes machado",
+        "suburb": "centro",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida das Rendeiras, 1908 | Lagoa da Conceição, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida das Rendeiras",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88062-400",
+        "suburb": "Lagoa da Conceição",
+        "quarter": "Retiro",
+        "street": "Avenida das Rendeiras",
+        "iso3166_2": "BR-SC",
+        "lon": -48.445534,
+        "lat": -27.609489,
+        "state_code": "SC",
+        "housenumber": "1908",
+        "result_type": "building",
+        "formatted": "Avenida das Rendeiras 1908, Lagoa da Conceição, Florianópolis - SC, 88062-400, Brazil",
+        "address_line1": "Avenida das Rendeiras 1908",
+        "address_line2": "Lagoa da Conceição, Florianópolis - SC, 88062-400, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9HR3+6Q",
+        "plus_code_short": "9HR3+6Q Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51c7a01342073948c05991459a78079c3bc0c002039203154176656e696461206461732052656e646569726173e203266f70656e6164647265737365733a616464726573733a65363466656436613335313861643639",
+        "bbox": {
+          "lon1": -48.4487951,
+          "lat1": -27.6094802,
+          "lon2": -48.4421559,
+          "lat2": -27.6090905
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida das Rendeiras, 1908 | Lagoa da Conceição, Florianópolis - SC",
+      "parsed": {
+        "house": "| lagoa da conceição",
+        "housenumber": "1908",
+        "street": "avenida das rendeiras",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Amaro Coelho, 221 | Barra da Lagoa, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Amaro Coelho",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "village": "Barra da Lagoa",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88061-090",
+        "suburb": "Fortaleza da Barra da Lagoa",
+        "street": "Rua Amaro Coelho",
+        "iso3166_2": "BR-SC",
+        "lon": -48.4232009,
+        "lat": -27.5752211,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Amaro Coelho, Fortaleza da Barra da Lagoa, Florianópolis - SC, 88061-090, Brazil",
+        "address_line1": "Rua Amaro Coelho",
+        "address_line2": "Fortaleza da Barra da Lagoa, Florianópolis - SC, 88061-090, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCHFG+WP",
+        "plus_code_short": "CHFG+WP Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.0533620332646677,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51a29174722b3648c0591a78a4b041933bc0f00102f9012c32450900000000c0020492031052756120416d61726f20436f656c686f",
+        "bbox": {
+          "lon1": -48.4233134,
+          "lat1": -27.5755488,
+          "lon2": -48.4231525,
+          "lat2": -27.5748951
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Amaro Coelho, 221 | Barra da Lagoa, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "221 |",
+        "street": "rua amaro coelho",
+        "suburb": "barra da lagoa",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Cruz e Souza, 32 | Centro, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Cruz e Souza",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Palhoça",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88137-272",
+        "suburb": "Jardim Eldorado",
+        "street": "Rua Cruz e Souza",
+        "iso3166_2": "BR-SC",
+        "lon": -48.6661981,
+        "lat": -27.6261567,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Cruz e Souza, Jardim Eldorado, Palhoça - SC, 88137-272, Brazil",
+        "address_line1": "Rua Cruz e Souza",
+        "address_line2": "Jardim Eldorado, Palhoça - SC, 88137-272, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H98FM+GG",
+        "plus_code_short": "98FM+GG Palhoça, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.0533888281071183,
+          "confidence": 0.32805000000000006,
+          "confidence_city_level": 0.6561000000000001,
+          "confidence_street_level": 0.6561000000000001,
+          "match_type": "match_by_street"
+        },
+        "place_id": "512414b6fa455548c059d9ab34ce4ba03bc0f00102f901cdf0e94400000000c00204920310527561204372757a206520536f757a61",
+        "bbox": {
+          "lon1": -48.6665345,
+          "lat1": -27.626295,
+          "lon2": -48.6658617,
+          "lat2": -27.6260185
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Cruz e Souza, 32 | Centro, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "32 |",
+        "street": "r. cruz souza",
+        "suburb": "centro",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Pereira Oliveira, 0 | Centro, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Antônio Pereira Oliveira Neto",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88010-230",
+        "suburb": "Sede",
+        "quarter": "Downtown",
+        "street": "Rua Antônio Pereira Oliveira Neto",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5598794,
+        "lat": -27.5972388,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Antônio Pereira Oliveira Neto, Sede, Florianópolis - SC, 88010-230, Brazil",
+        "address_line1": "Rua Antônio Pereira Oliveira Neto",
+        "address_line2": "Sede, Florianópolis - SC, 88010-230, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCC3R+42",
+        "plus_code_short": "3R+42 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.36450000000000005,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51205ad020aa4748c059fce659a4e4983bc0f00102f901056fdc0a00000000c0020492032252756120416e74c3b46e696f2050657265697261204f6c697665697261204e65746f",
+        "bbox": {
+          "lon1": -48.5605748,
+          "lat1": -27.5988486,
+          "lon2": -48.5597551,
+          "lat2": -27.5958376
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Pereira Oliveira, 0 | Centro, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "0 |",
+        "street": "r. pereira oliveira",
+        "suburb": "centro",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Tv. Leopoldo João Santos, 114 | Lagoa da Conceição, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Travessa Leopoldo João Santos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88062-970",
+        "suburb": "Lagoa da Conceição",
+        "street": "Travessa Leopoldo João Santos",
+        "iso3166_2": "BR-SC",
+        "lon": -48.463906,
+        "lat": -27.603963,
+        "state_code": "SC",
+        "housenumber": "114",
+        "result_type": "building",
+        "formatted": "Travessa Leopoldo João Santos 114, Lagoa da Conceição, Florianópolis - SC, 88062-970, Brazil",
+        "address_line1": "Travessa Leopoldo João Santos 114",
+        "address_line2": "Lagoa da Conceição, Florianópolis - SC, 88062-970, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9GWP+CC",
+        "plus_code_short": "9GWP+CC Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5187359545613b48c0597afeb4519d9a3bc0c0020392031e5472617665737361204c656f706f6c646f204a6fc3a36f2053616e746f73e203266f70656e6164647265737365733a616464726573733a64313734633030306235326235366235",
+        "bbox": {
+          "lon1": -48.4648078,
+          "lat1": -27.6039996,
+          "lon2": -48.463691,
+          "lat2": -27.6032187
+        }
+      }
+    ],
+    "query": {
+      "text": "Tv. Leopoldo João Santos, 114 | Lagoa da Conceição, Florianópolis - SC",
+      "parsed": {
+        "house": "| lagoa da conceição",
+        "housenumber": "114",
+        "street": "tv. leopoldo joão santos",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Manoel Isidoro da Silveira, 655 | Lagoa da Conceição, Florianópolis - SC": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88062-025",
+        "suburb": "Lagoa da Conceição",
+        "street": "Rua Manoel Isidoro da Silveira",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "SC",
+        "lon": -48.4665663,
+        "lat": -27.604315,
+        "housenumber": "655",
+        "result_type": "building",
+        "name": "Rua Manoel Isidoro da Silveira",
+        "iso3166_2": "BR-SC",
+        "formatted": "Rua Manoel Isidoro da Silveira 655, Lagoa da Conceição, Florianópolis - SC, 88062-025, Brazil",
+        "address_line1": "Rua Manoel Isidoro da Silveira 655",
+        "address_line2": "Lagoa da Conceição, Florianópolis - SC, 88062-025, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H9GWM+79",
+        "plus_code_short": "9GWM+79 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5136f5cb71b83b48c059747b4963b49a3bc0f00102f901fb3e750800000000c0020392031e527561204d616e6f656c20497369646f726f2064612053696c7665697261",
+        "bbox": {
+          "lon1": -48.4702054,
+          "lat1": -27.6050515,
+          "lon2": -48.4659501,
+          "lat2": -27.5997821
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Manoel Isidoro da Silveira, 655 | Lagoa da Conceição, Florianópolis - SC",
+      "parsed": {
+        "house": "| lagoa da conceição",
+        "housenumber": "655",
+        "street": "r. manoel isidoro da silveira",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua São José, 610 | Balneário, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua São José",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88075-260",
+        "suburb": "Estreito",
+        "street": "Rua São José",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5817574,
+        "lat": -27.577921,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua São José, Estreito, Florianópolis - SC, 88075-260, Brazil",
+        "address_line1": "Rua São José",
+        "address_line2": "Estreito, Florianópolis - SC, 88075-260, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCCC9+R7",
+        "plus_code_short": "CCC9+R7 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "515e9ac706774a48c059efab72a1f2933bc0f00102f9010fd3612900000000c0020492030e5275612053c3a36f204a6f73c3a9",
+        "bbox": {
+          "lon1": -48.581923,
+          "lat1": -27.5782745,
+          "lon2": -48.5815919,
+          "lat2": -27.5775674
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua São José, 610 | Balneário, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "610 |",
+        "street": "rua são josé",
+        "suburb": "balneário",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Campeche, 3733 | Campeche, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sufocos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88063-301",
+        "suburb": "Campeche",
+        "quarter": "Lagoa Pequena",
+        "street": "Avenida Campeche",
+        "housenumber": "3733",
+        "iso3166_2": "BR-SC",
+        "lon": -48.4796245,
+        "lat": -27.6556758,
+        "state_code": "SC",
+        "result_type": "amenity",
+        "formatted": "Sufocos, Avenida Campeche 3733, Campeche, Florianópolis - SC, 88063-301, Brazil",
+        "address_line1": "Sufocos",
+        "address_line2": "Avenida Campeche 3733, Campeche, Florianópolis - SC, 88063-301, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H8GVC+P5",
+        "plus_code_short": "8GVC+P5 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.652246890969738e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5120eeea55643d48c05955c7855edaa73bc0f00103f901a533d59d00000000c002019203075375666f636f73",
+        "bbox": {
+          "lon1": -48.4796745,
+          "lat1": -27.6557258,
+          "lon2": -48.4795745,
+          "lat2": -27.6556258
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Campeche, 3733 | Campeche, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "3733 | campeche",
+        "street": "av. campeche",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Quinze de Novembro, 181 | Santo Antônio de Lisboa, Florianópolis - SC": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88075-260",
+        "suburb": "Balneário",
+        "street": "Rua Quinze de Novembro",
+        "other_names": {
+          "name": "Rua Quinze de Novembro",
+          "name:pt": "Rua Quinze de Novembro",
+          "alt_name": "Rua XV de Novembro",
+          "short_name": "Rua 15 de Novembro"
+        },
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "SC",
+        "lon": -48.5768876,
+        "lat": -27.5796195,
+        "housenumber": "181",
+        "result_type": "building",
+        "name": "Rua Quinze de Novembro",
+        "iso3166_2": "BR-SC",
+        "formatted": "Rua Quinze de Novembro 181, Balneário, Florianópolis - SC, 88075-260, Brazil",
+        "address_line1": "Rua Quinze de Novembro 181",
+        "address_line2": "Balneário, Florianópolis - SC, 88075-260, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCCCF+56",
+        "plus_code_short": "CCCF+56 Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51e5bbef73d74948c059b69f8cf161943bc0f00102f90116ba9b0800000000c00203920316527561205175696e7a65206465204e6f76656d62726f",
+        "bbox": {
+          "lon1": -48.5775899,
+          "lat1": -27.5813532,
+          "lon2": -48.5765991,
+          "lat2": -27.5789077
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Quinze de Novembro, 181 | Santo Antônio de Lisboa, Florianópolis - SC",
+      "parsed": {
+        "house": "| santo antônio de lisboa",
+        "housenumber": "181",
+        "street": "r. quinze de novembro",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Jerônimo Coelho, 60 | Centro, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88010-030",
+        "suburb": "Centro",
+        "quarter": "Downtown",
+        "street": "Rua Jerônimo Coelho",
+        "housenumber": "60",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5530324,
+        "lat": -27.5970496,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Jerônimo Coelho 60, Centro, Florianópolis - SC, 88010-030, Brazil",
+        "address_line1": "Rua Jerônimo Coelho 60",
+        "address_line2": "Centro, Florianópolis - SC, 88010-030, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584HCC3W+5Q",
+        "plus_code_short": "3W+5Q Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.652246890969738e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516fd003c4c94648c05902171a3ed8983bc0f00103f901d24b0b1a02000000c00203",
+        "bbox": {
+          "lon1": -48.5530824,
+          "lat1": -27.5970996,
+          "lon2": -48.5529824,
+          "lat2": -27.5969996
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Jerônimo Coelho, 60 | Centro, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "60 |",
+        "street": "r. jerônimo coelho",
+        "suburb": "centro",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Pequeno Príncipe, 3348 | Campeche, Florianópolis - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Pequeno Príncipe",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Florianópolis",
+        "state": "Santa Catarina",
+        "city": "Florianópolis",
+        "municipality": "Região Geográfica Imediata de Florianópolis",
+        "postcode": "88063-700",
+        "suburb": "Campeche",
+        "quarter": "Central Campeche",
+        "street": "Avenida Pequeno Príncipe",
+        "iso3166_2": "BR-SC",
+        "lon": -48.5052463,
+        "lat": -27.6707077,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Avenida Pequeno Príncipe, Campeche, Florianópolis - SC, 88063-700, Brazil",
+        "address_line1": "Avenida Pequeno Príncipe",
+        "address_line2": "Campeche, Florianópolis - SC, 88063-700, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "584H8FHV+PW",
+        "plus_code_short": "8FHV+PW Florianópolis, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339985580224304,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51677627e9ab4048c059e6acf47fb3ab3bc0f00102f901decdf30700000000c002049203194176656e6964612050657175656e6f205072c3ad6e63697065",
+        "bbox": {
+          "lon1": -48.5053365,
+          "lat1": -27.6707959,
+          "lon2": -48.5051704,
+          "lat2": -27.6706371
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Pequeno Príncipe, 3348 | Campeche, Florianópolis - SC",
+      "parsed": {
+        "housenumber": "3348 | campeche",
+        "street": "av. pequeno príncipe",
+        "city": "florianópolis",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  }
+}

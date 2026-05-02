@@ -1,0 +1,1036 @@
+{
+  "R. Henrique Dias, 32 | Velha, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Garten Boulevard",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89036-370",
+        "suburb": "Velha",
+        "street": "Rua Henrique Dias",
+        "housenumber": "32",
+        "iso3166_2": "BR-SC",
+        "lon": -49.0910191,
+        "lat": -26.9146956,
+        "state_code": "SC",
+        "result_type": "amenity",
+        "formatted": "Garten Boulevard, Rua Henrique Dias 32, Velha, Blumenau - SC, 89036-370, Brazil",
+        "address_line1": "Garten Boulevard",
+        "address_line2": "Rua Henrique Dias 32, Velha, Blumenau - SC, 89036-370, Brazil",
+        "category": "commercial.shopping_mall",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G3WP5+4H",
+        "plus_code_short": "3WP5+4H Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.10673685816284e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51dae78c83a68b48c0598ccba77d29ea3ac0f00102f90191e46c4500000000c0020192031047617274656e20426f756c6576617264",
+        "bbox": {
+          "lon1": -49.0911901,
+          "lat1": -26.9148866,
+          "lon2": -49.0908482,
+          "lat2": -26.9145208
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Henrique Dias, 32 | Velha, Blumenau - SC",
+      "parsed": {
+        "housenumber": "32 |",
+        "street": "r. henrique dias",
+        "suburb": "velha",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. General Osório, 3730 | Água Verde, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89042-100",
+        "suburb": "Água Verde",
+        "street": "Rua General Osório",
+        "housenumber": "3730",
+        "iso3166_2": "BR-SC",
+        "lon": -49.1295085,
+        "lat": -26.9070617,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua General Osório 3730, Água Verde, Blumenau - SC, 89042-100, Brazil",
+        "address_line1": "Rua General Osório 3730",
+        "address_line2": "Água Verde, Blumenau - SC, 89042-100, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G3VVC+55",
+        "plus_code_short": "3VVC+55 Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.10673685816284e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51ea060abc939048c05944f4103235e83ac0f00102f901e1dadd5600000000c00203",
+        "bbox": {
+          "lon1": -49.1296311,
+          "lat1": -26.9071689,
+          "lon2": -49.1293875,
+          "lat2": -26.9069476
+        }
+      }
+    ],
+    "query": {
+      "text": "R. General Osório, 3730 | Água Verde, Blumenau - SC",
+      "parsed": {
+        "housenumber": "3730 |",
+        "street": "r. general osório",
+        "suburb": "água verde",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. São Bernardo, 75 | Itoupava Norte, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89052-100",
+        "suburb": "Itoupava Norte",
+        "street": "Rua São Bernardo",
+        "housenumber": "75",
+        "iso3166_2": "BR-SC",
+        "lon": -49.0674787,
+        "lat": -26.8936695,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua São Bernardo 75, Itoupava Norte, Blumenau - SC, 89052-100, Brazil",
+        "address_line1": "Rua São Bernardo 75",
+        "address_line2": "Itoupava Norte, Blumenau - SC, 89052-100, Brazil",
+        "category": "building.residential",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G4W4M+G2",
+        "plus_code_short": "4W4M+G2 Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.10673685816284e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519bd65c24a38848c059c4ee3b86c7e43ac0f00102f9013ff46e1b00000000c00203",
+        "bbox": {
+          "lon1": -49.0676033,
+          "lat1": -26.8937416,
+          "lon2": -49.0673532,
+          "lat2": -26.8935875
+        }
+      }
+    ],
+    "query": {
+      "text": "R. São Bernardo, 75 | Itoupava Norte, Blumenau - SC",
+      "parsed": {
+        "housenumber": "75 |",
+        "street": "r. são bernardo",
+        "suburb": "itoupava norte",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Werner Duwe, 667 | Badenfurt, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Werner Duwe",
+        "ref": "SC-421",
+        "other_names": {
+          "ref": "SC-421",
+          "old_ref": "SC-418",
+          "alt_name": "Rodovia João Karsten"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89074-300",
+        "suburb": "Testo Salto",
+        "street": "Rua Werner Duwe",
+        "iso3166_2": "BR-SC",
+        "lon": -49.1423341,
+        "lat": -26.8688339,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Werner Duwe, Testo Salto, Blumenau - SC, 89074-300, Brazil",
+        "address_line1": "Rua Werner Duwe",
+        "address_line2": "Testo Salto, Blumenau - SC, 89074-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G4VJ5+F3",
+        "plus_code_short": "4VJ5+F3 Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339440070191497,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51844df800389248c059f82702e66bde3ac0f00102f901f573781500000000c0020492030f527561205765726e65722044757765",
+        "bbox": {
+          "lon1": -49.14316,
+          "lat1": -26.8706314,
+          "lon2": -49.1421049,
+          "lat2": -26.8673305
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Werner Duwe, 667 | Badenfurt, Blumenau - SC",
+      "parsed": {
+        "housenumber": "667 |",
+        "street": "r. werner duwe",
+        "suburb": "badenfurt",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Frederico Jensen, 1360 - Casa | Itoupavazinha, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Frederico Jensen",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89066-347",
+        "suburb": "Salto do Norte",
+        "street": "Rua Frederico Jensen",
+        "iso3166_2": "BR-SC",
+        "lon": -49.099354,
+        "lat": -26.860581,
+        "state_code": "SC",
+        "housenumber": "1360",
+        "result_type": "building",
+        "formatted": "Rua Frederico Jensen 1360, Salto do Norte, Blumenau - SC, 89066-347, Brazil",
+        "address_line1": "Rua Frederico Jensen 1360",
+        "address_line2": "Salto do Norte, Blumenau - SC, 89066-347, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G4WQ2+Q7",
+        "plus_code_short": "4WQ2+Q7 Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339440070191497,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51075dc2a1b78c48c059198f52094fdc3ac0c002039203145275612046726564657269636f204a656e73656ee203266f70656e6164647265737365733a616464726573733a31613531643232663166653361396363",
+        "bbox": {
+          "lon1": -49.1000472,
+          "lat1": -26.8609247,
+          "lon2": -49.0996371,
+          "lat2": -26.8607742
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Frederico Jensen, 1360 - Casa | Itoupavazinha, Blumenau - SC",
+      "parsed": {
+        "housenumber": "1360",
+        "street": "r. frederico jensen",
+        "suburb": "itoupavazinha",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Fritz Spernau, 511 | Fortaleza, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Fritz Spernau",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89055-200",
+        "suburb": "Itoupava Norte",
+        "street": "Rua Fritz Spernau",
+        "iso3166_2": "BR-SC",
+        "lon": -49.0628642,
+        "lat": -26.885872,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Fritz Spernau, Itoupava Norte, Blumenau - SC, 89055-200, Brazil",
+        "address_line1": "Rua Fritz Spernau",
+        "address_line2": "Itoupava Norte, Blumenau - SC, 89055-200, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G4W7P+MV",
+        "plus_code_short": "4W7P+MV Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339440070191497,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516b8b21ef0b8848c0592e71e481c8e23ac0f00102f901e4c4b91300000000c0020492031152756120467269747a20537065726e6175",
+        "bbox": {
+          "lon1": -49.0632695,
+          "lat1": -26.8913714,
+          "lon2": -49.061644,
+          "lat2": -26.8805864
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Fritz Spernau, 511 | Fortaleza, Blumenau - SC",
+      "parsed": {
+        "housenumber": "511 |",
+        "street": "r. fritz spernau",
+        "suburb": "fortaleza",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Almirante Tamandaré, 488 | Vila Nova, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lecker Burger",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89035-066",
+        "suburb": "Vila Nova",
+        "street": "Rua Almirante Tamandaré",
+        "housenumber": "488",
+        "iso3166_2": "BR-SC",
+        "lon": -49.0858864,
+        "lat": -26.9114138,
+        "state_code": "SC",
+        "result_type": "amenity",
+        "formatted": "Lecker Burger, Rua Almirante Tamandaré 488, Vila Nova, Blumenau - SC, 89035-066, Brazil",
+        "address_line1": "Lecker Burger",
+        "address_line2": "Rua Almirante Tamandaré 488, Vila Nova, Blumenau - SC, 89035-066, Brazil",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G3WQ7+CJ",
+        "plus_code_short": "3WQ7+CJ Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.10673685816284e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51e9955753fe8a48c059821f306a52e93ac0f00103f901a51a125301000000c0020192030d4c65636b657220427572676572",
+        "bbox": {
+          "lon1": -49.0859364,
+          "lat1": -26.9114638,
+          "lon2": -49.0858364,
+          "lat2": -26.9113638
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Almirante Tamandaré, 488 | Vila Nova, Blumenau - SC",
+      "parsed": {
+        "housenumber": "488 |",
+        "street": "rua almirante tamandaré",
+        "suburb": "vila nova",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Progresso, 2178 | Progresso, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Progresso",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89027-003",
+        "suburb": "Progresso",
+        "street": "Rua Progresso",
+        "iso3166_2": "BR-SC",
+        "lon": -49.0725953,
+        "lat": -26.9914774,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Progresso, Progresso, Blumenau - SC, 89027-003, Brazil",
+        "address_line1": "Rua Progresso",
+        "address_line2": "Progresso, Blumenau - SC, 89027-003, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G2W5G+CX",
+        "plus_code_short": "2W5G+CX Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339440070191497,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f2ab83cd4a8948c0591eb97f76d1fd3ac0f00102f9014b68740900000000c0020492030d5275612050726f67726573736f",
+        "bbox": {
+          "lon1": -49.0756892,
+          "lat1": -26.9970051,
+          "lon2": -49.0694854,
+          "lat2": -26.9855844
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Progresso, 2178 | Progresso, Blumenau - SC",
+      "parsed": {
+        "housenumber": "2178 |",
+        "street": "r. progresso",
+        "suburb": "progresso",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. José Reuter, 914 | Velha Central, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Reuter",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89046-650",
+        "suburb": "Velha Central",
+        "street": "Rua José Reuter",
+        "iso3166_2": "BR-SC",
+        "lon": -49.1596172,
+        "lat": -26.9442917,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua José Reuter, Velha Central, Blumenau - SC, 89046-650, Brazil",
+        "address_line1": "Rua José Reuter",
+        "address_line2": "Velha Central, Blumenau - SC, 89046-650, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G3R4R+75",
+        "plus_code_short": "3R4R+75 Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339440070191497,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5186f01e566e9448c0595e62d119bdf13ac0f00102f9013554fc1300000000c00204920310527561204a6f73c3a920526575746572",
+        "bbox": {
+          "lon1": -49.1636954,
+          "lat1": -26.9457373,
+          "lon2": -49.1584379,
+          "lat2": -26.9410665
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Reuter, 914 | Velha Central, Blumenau - SC",
+      "parsed": {
+        "housenumber": "914 |",
+        "street": "r. josé reuter",
+        "suburb": "velha central",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Lucie Herkenhoff, 48 | Velha Central, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "suburb": "Velha Central",
+        "iso3166_2": "BR-SC",
+        "lon": -49.1268685,
+        "lat": -26.9300231,
+        "state_code": "SC",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Velha Central, Blumenau, SC, Brazil",
+        "address_line1": "Velha Central",
+        "address_line2": "Blumenau, SC, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G3V9F+X7",
+        "plus_code_short": "3V9F+X7 Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.1467277340352483,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "5140321d3a3d9048c05948066ffe15ee3ac0f00101f901a36d470000000000c00205",
+        "bbox": {
+          "lon1": -49.165,
+          "lat1": -26.947,
+          "lon2": -49.1135966,
+          "lat2": -26.9136369
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Lucie Herkenhoff, 48 | Velha Central, Blumenau - SC",
+      "parsed": {
+        "housenumber": "48 |",
+        "street": "r. lucie herkenhoff",
+        "suburb": "velha central",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Júlio Michel, 136 | Fortaleza, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89055-000",
+        "suburb": "Fortaleza",
+        "street": "Rua Júlio Michel",
+        "housenumber": "136",
+        "iso3166_2": "BR-SC",
+        "lon": -49.0662803,
+        "lat": -26.8796911,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Júlio Michel 136, Fortaleza, Blumenau - SC, 89055-000, Brazil",
+        "address_line1": "Rua Júlio Michel 136",
+        "address_line2": "Fortaleza, Blumenau - SC, 89055-000, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G4WCM+4F",
+        "plus_code_short": "4WCM+4F Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.10673685816284e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513e6f74df7b8848c0590f15996f33e13ac0f00102f9016768b82700000000c00203",
+        "bbox": {
+          "lon1": -49.0663205,
+          "lat1": -26.8798418,
+          "lon2": -49.0661996,
+          "lat2": -26.8796329
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Júlio Michel, 136 | Fortaleza, Blumenau - SC",
+      "parsed": {
+        "housenumber": "136 |",
+        "street": "r. júlio michel",
+        "suburb": "fortaleza",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Heinz Scheidemantel, 268 | Testo Salto, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Heinz Scheidemantel",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89074-130",
+        "suburb": "Testo Salto",
+        "street": "Rua Heinz Scheidemantel",
+        "iso3166_2": "BR-SC",
+        "lon": -49.1563953,
+        "lat": -26.8579958,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Heinz Scheidemantel, Testo Salto, Blumenau - SC, 89074-130, Brazil",
+        "address_line1": "Rua Heinz Scheidemantel",
+        "address_line2": "Testo Salto, Blumenau - SC, 89074-130, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G4RRV+RC",
+        "plus_code_short": "4RRV+RC Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339440070191497,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c25fddc2049448c059f91add9ca5db3ac0f00102f9010c159a0300000000c00204920317527561204865696e7a20536368656964656d616e74656c",
+        "bbox": {
+          "lon1": -49.1571478,
+          "lat1": -26.8590683,
+          "lon2": -49.1550918,
+          "lat2": -26.8566347
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Heinz Scheidemantel, 268 | Testo Salto, Blumenau - SC",
+      "parsed": {
+        "housenumber": "268 |",
+        "street": "r. heinz scheidemantel",
+        "suburb": "testo salto",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Progresso, 1919 | Progresso, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Progresso",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89027-003",
+        "suburb": "Progresso",
+        "street": "Rua Progresso",
+        "iso3166_2": "BR-SC",
+        "lon": -49.0725953,
+        "lat": -26.9914774,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Progresso, Progresso, Blumenau - SC, 89027-003, Brazil",
+        "address_line1": "Rua Progresso",
+        "address_line2": "Progresso, Blumenau - SC, 89027-003, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G2W5G+CX",
+        "plus_code_short": "2W5G+CX Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339440070191497,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f2ab83cd4a8948c0591eb97f76d1fd3ac0f00102f9014b68740900000000c0020492030d5275612050726f67726573736f",
+        "bbox": {
+          "lon1": -49.0756892,
+          "lat1": -26.9970051,
+          "lon2": -49.0694854,
+          "lat2": -26.9855844
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Progresso, 1919 | Progresso, Blumenau - SC",
+      "parsed": {
+        "housenumber": "1919 |",
+        "street": "r. progresso",
+        "suburb": "progresso",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Johann Sachse, 3155 | Badenfurt, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89070-531",
+        "street": "Rua Johann Sachse",
+        "housenumber": "3155",
+        "iso3166_2": "BR-SC",
+        "lon": -49.1166749,
+        "lat": -26.8691747,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Johann Sachse 3155, Blumenau - SC, 89070-531, Brazil",
+        "address_line1": "Rua Johann Sachse 3155",
+        "address_line2": "Blumenau - SC, 89070-531, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G4VJM+88",
+        "plus_code_short": "4VJM+88 Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.10673685816284e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51cde1ff33ef8e48c059b702af3b82de3ac0f00102f901f009f92200000000c00203",
+        "bbox": {
+          "lon1": -49.1168051,
+          "lat1": -26.8692665,
+          "lon2": -49.1165378,
+          "lat2": -26.8690531
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Johann Sachse, 3155 | Badenfurt, Blumenau - SC",
+      "parsed": {
+        "housenumber": "3155 |",
+        "street": "r. johann sachse",
+        "suburb": "badenfurt",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Sete de Maio, 377 | Itoupava Norte, Blumenau - SC": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "377",
+        "street": "Rua Teresopolis",
+        "country": "Brazil",
+        "county": "Santa Catarina",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "89030-110",
+        "state": "South",
+        "district": "Blumenau",
+        "city": "Blumenau",
+        "county_code": "SC",
+        "lon": -49.080904,
+        "lat": -26.904215,
+        "result_type": "building",
+        "formatted": "Rua Teresopolis 377, Blumenau - South, 89030-110, Brazil",
+        "address_line1": "Rua Teresopolis 377",
+        "address_line2": "Blumenau - South, 89030-110, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G3WW9+8J",
+        "plus_code_short": "3WW9+8J Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "confidence": 0.2727272727272727,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.2727272727272727,
+          "confidence_building_level": 0.2727272727272727,
+          "match_type": "full_match"
+        },
+        "place_id": "51cb0ef10f5b8a48c0597a8d5da27ae73ac0c00203e203466f70656e6164647265737365733a616464726573733a62722f73632f7374617465776964652d6164647265737365732d73746174653a36336263383362663732616263636539"
+      }
+    ],
+    "query": {
+      "text": "Rua Sete de Maio, 377 | Itoupava Norte, Blumenau - SC",
+      "parsed": {
+        "housenumber": "377 |",
+        "street": "rua sete de maio",
+        "suburb": "itoupava norte",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Amazonas, 2107 | Garcia, Blumenau - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Amazonas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Blumenau",
+        "state": "Santa Catarina",
+        "city": "Blumenau",
+        "municipality": "Região Geográfica Imediata de Blumenau",
+        "postcode": "89020-060",
+        "suburb": "Garcia",
+        "street": "Rua Amazonas",
+        "iso3166_2": "BR-SC",
+        "lon": -49.0600302,
+        "lat": -26.9338993,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Amazonas, Garcia, Blumenau - SC, 89020-060, Brazil",
+        "address_line1": "Rua Amazonas",
+        "address_line2": "Garcia, Blumenau - SC, 89020-060, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585G3W8Q+CX",
+        "plus_code_short": "8Q+CX Blumenau, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339440070191497,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51dce2d011af8748c059de41470614ef3ac0f00102f9015e82fd1400000000c0020492030c52756120416d617a6f6e6173",
+        "bbox": {
+          "lon1": -49.0639213,
+          "lat1": -26.9363798,
+          "lon2": -49.0586999,
+          "lat2": -26.9296468
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Amazonas, 2107 | Garcia, Blumenau - SC",
+      "parsed": {
+        "housenumber": "2107 |",
+        "street": "r. amazonas",
+        "suburb": "garcia",
+        "city": "blumenau",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  }
+}

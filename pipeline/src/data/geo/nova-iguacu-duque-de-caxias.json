@@ -1,0 +1,824 @@
+{
+  "R. Juiz Aderbal de Oliveira, 209  | Centro, São João de Meriti - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Juiz Aderbal de Oliveira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "São João de Meriti",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "25520-570",
+        "suburb": "Centro",
+        "street": "Rua Juiz Aderbal de Oliveira",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.3693421,
+        "lat": -22.803852,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Juiz Aderbal de Oliveira, Centro, São João de Meriti - RJ, 25520-570, Brazil",
+        "address_line1": "Rua Juiz Aderbal de Oliveira",
+        "address_line2": "Centro, São João de Meriti - RJ, 25520-570, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R5JWJ+F7",
+        "plus_code_short": "WJ+F7 São João de Meriti, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05338825284199279,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519a44189a46af45c059fed2a23ec9cd36c0f00102f901348d961b00000000c0020492031c527561204a75697a204164657262616c206465204f6c697665697261",
+        "bbox": {
+          "lon1": -43.3706439,
+          "lat1": -22.8047131,
+          "lon2": -43.3683792,
+          "lat2": -22.8038418
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Juiz Aderbal de Oliveira, 209  | Centro, São João de Meriti - RJ",
+      "parsed": {
+        "housenumber": "209 |",
+        "street": "r. juiz aderbal de oliveira",
+        "suburb": "centro",
+        "city": "são joão de meriti",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rod. Washington Luiz, 2500 | Pq. Duque de Caxias, Duque de Caxias - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Governador Leonel de Moura Brizola",
+        "ref": "RJ-101",
+        "other_names": {
+          "ref": "RJ-101",
+          "alt_name": "Avenida President Kennedy"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Duque de Caxias",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "25070-050",
+        "suburb": "Centro",
+        "quarter": "Vila Meriti",
+        "street": "Avenida Governador Leonel de Moura Brizola",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.3079688,
+        "lat": -22.7494788,
+        "state_code": "RJ",
+        "housenumber": "2500",
+        "result_type": "building",
+        "formatted": "Avenida Governador Leonel de Moura Brizola 2500, Centro, Duque de Caxias - RJ, 25070-050, Brazil",
+        "address_line1": "Avenida Governador Leonel de Moura Brizola 2500",
+        "address_line2": "Centro, Duque de Caxias - RJ, 25070-050, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R7M2R+6R",
+        "plus_code_short": "7M2R+6R Duque de Caxias, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.057692307692307696,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.07692307692307693,
+          "confidence_building_level": 0.057692307692307696,
+          "match_type": "full_match"
+        },
+        "place_id": "511c188a856ba745c0599a0bb7d7ddbf36c0f00102f901a4f8270400000000c0020392032a4176656e69646120476f7665726e61646f72204c656f6e656c206465204d6f757261204272697a6f6c61",
+        "bbox": {
+          "lon1": -43.3088478,
+          "lat1": -22.7817782,
+          "lon2": -43.3067301,
+          "lat2": -22.7715314
+        }
+      }
+    ],
+    "query": {
+      "text": "Rod. Washington Luiz, 2500 | Pq. Duque de Caxias, Duque de Caxias - RJ",
+      "parsed": {
+        "housenumber": "2500",
+        "street": "| pq. duque de caxias",
+        "city": "duque de caxias",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Major Correia de Melo, 353 | Jardim Vinte e Cinco de Agosto, Duque de Caxias - RJ": {
+    "results": [],
+    "query": {
+      "text": "R. Major Correia de Melo, 353 | Jardim Vinte e Cinco de Agosto, Duque de Caxias - RJ",
+      "parsed": {
+        "housenumber": "353",
+        "street": "| jardim vinte e cinco de agosto",
+        "city": "duque de caxias",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Deputado Sá Rego, 289  | Vila São Luís, Duque de Caxias - RJ": {
+    "results": [],
+    "query": {
+      "text": "R. Deputado Sá Rego, 289  | Vila São Luís, Duque de Caxias - RJ",
+      "parsed": {
+        "housenumber": "289",
+        "street": "| vila são luís",
+        "city": "duque de caxias",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Passo da Pátria, 228 - Loja | Jardim Vinte e Cinco de Agosto, Duque de Caxias - RJ": {
+    "results": [],
+    "query": {
+      "text": "R. Passo da Pátria, 228 - Loja | Jardim Vinte e Cinco de Agosto, Duque de Caxias - RJ",
+      "parsed": {
+        "housenumber": "228",
+        "street": "r. passo da pátria",
+        "city": "duque de caxias",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Presidente Lincoln, 263 | Jardim Meriti, São João de Meriti - RJ": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "263",
+        "street": "Avenida Presidente Lincoln",
+        "country": "Brazil",
+        "county": "Rio De Janeiro",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "25555-120",
+        "state": "Southeast",
+        "district": "Coelho Da Rocha",
+        "city": "São João de Meriti",
+        "suburb": "Jardim Meriti",
+        "county_code": "RJ",
+        "lon": -43.373081,
+        "lat": -22.780691,
+        "result_type": "building",
+        "formatted": "Avenida Presidente Lincoln 263, Jardim Meriti, São João de Meriti - Southeast, 25555-120, Brazil",
+        "address_line1": "Avenida Presidente Lincoln 263",
+        "address_line2": "Jardim Meriti, São João de Meriti - Southeast, 25555-120, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R6J9G+PQ",
+        "plus_code_short": "6J9G+PQ São João de Meriti, Rio De Janeiro, Brazil",
+        "rank": {
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5126e1421ec1af45c0591348895ddbc736c0c00203e203466f70656e6164647265737365733a616464726573733a62722f726a2f7374617465776964652d6164647265737365732d73746174653a38663866663038363433663136366361"
+      }
+    ],
+    "query": {
+      "text": "Av. Presidente Lincoln, 263 | Jardim Meriti, São João de Meriti - RJ"
+    }
+  },
+  "Rua Caburi, 60 | Califórnia, Nova Iguaçu - RJ": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Nova Iguaçu",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "26216-130",
+        "suburb": "Califórnia",
+        "street": "Rua Caburi",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "RJ",
+        "lon": -43.436302,
+        "lat": -22.7560016,
+        "result_type": "street",
+        "formatted": "Rua Caburi, Califórnia, Nova Iguaçu - RJ, 26216-130, Brazil",
+        "address_line1": "Rua Caburi",
+        "address_line2": "Califórnia, Nova Iguaçu - RJ, 26216-130, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R6HV7+HF",
+        "plus_code_short": "V7+HF Nova Iguaçu, Região Metropolitana do Rio de Janeiro, Brazil",
+        "iso3166_2": "BR-RJ",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f69672bed8b745c05943b9235289c136c0f00102f9014b13650600000000c00204",
+        "bbox": {
+          "lon1": -43.436541,
+          "lat1": -22.7563937,
+          "lon2": -43.4360663,
+          "lat2": -22.7556115
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Caburi, 60 | Califórnia, Nova Iguaçu - RJ",
+      "parsed": {
+        "housenumber": "60 | califórnia",
+        "street": "rua caburi",
+        "city": "nova iguaçu",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Estudante Galdêncio Miguel, 530 | Centro, São João de Meriti - RJ": {
+    "results": [],
+    "query": {
+      "text": "R. Estudante Galdêncio Miguel, 530 | Centro, São João de Meriti - RJ",
+      "parsed": {
+        "housenumber": "530 |",
+        "street": "r. estudante galdêncio miguel",
+        "suburb": "centro",
+        "city": "são joão de meriti",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Alberto Teixeira da Cunha, 1046  | Centro, Nilópolis - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Alberto Teixeira da Cunha",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Nilópolis",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "26525-001",
+        "suburb": "Centro",
+        "street": "Rua Alberto Teixeira da Cunha",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.4172873,
+        "lat": -22.8110514,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Alberto Teixeira da Cunha, Centro, Nilópolis - RJ, 26525-001, Brazil",
+        "address_line1": "Rua Alberto Teixeira da Cunha",
+        "address_line2": "Centro, Nilópolis - RJ, 26525-001, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R5HQM+H3",
+        "plus_code_short": "QM+H3 Nilópolis, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.053386490424963726,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51a04495ab69b545c05901608610a1cf36c0f00102f901dfa93f1000000000c0020492031d52756120416c626572746f2054656978656972612064612043756e6861",
+        "bbox": {
+          "lon1": -43.4182248,
+          "lat1": -22.8114447,
+          "lon2": -43.4163486,
+          "lat2": -22.810661
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Alberto Teixeira da Cunha, 1046  | Centro, Nilópolis - RJ",
+      "parsed": {
+        "housenumber": "1046 |",
+        "street": "r. alberto teixeira da cunha",
+        "suburb": "centro",
+        "city": "nilópolis",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Automóvel Clube, 2697 | Vilar dos Teles, São João de Meriti - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Automóvel Clube",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "São João de Meriti",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "25576-210",
+        "suburb": "Vilar dos Teles",
+        "street": "Avenida Automóvel Clube",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.360686,
+        "lat": -22.774407,
+        "state_code": "RJ",
+        "housenumber": "2697",
+        "result_type": "building",
+        "formatted": "Avenida Automóvel Clube 2697, Vilar dos Teles, São João de Meriti - RJ, 25576-210, Brazil",
+        "address_line1": "Avenida Automóvel Clube 2697",
+        "address_line2": "Vilar dos Teles, São João de Meriti - RJ, 25576-210, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R6JGQ+6P",
+        "plus_code_short": "6JGQ+6P São João de Meriti, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05338825284199279,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51021077f52aae45c05921cb82893fc636c0c002039203184176656e696461204175746f6dc3b376656c20436c756265e203266f70656e6164647265737365733a616464726573733a61396339653734363265346435383264",
+        "bbox": {
+          "lon1": -43.3609712,
+          "lat1": -22.7757344,
+          "lon2": -43.360941,
+          "lat2": -22.7747657
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Automóvel Clube, 2697 | Vilar dos Teles, São João de Meriti - RJ",
+      "parsed": {
+        "housenumber": "2697",
+        "street": "av. automóvel clube",
+        "city": "são joão de meriti",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Humberto de Campos, 143  | Centro, Duque de Caxias - RJ": {
+    "results": [],
+    "query": {
+      "text": "R. Humberto de Campos, 143  | Centro, Duque de Caxias - RJ",
+      "parsed": {
+        "housenumber": "143 |",
+        "street": "r. humberto de campos",
+        "suburb": "centro",
+        "city": "duque de caxias",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Estudante Eliane Castanheira, 808  | Centro, São João de Meriti - RJ": {
+    "results": [],
+    "query": {
+      "text": "R. Estudante Eliane Castanheira, 808  | Centro, São João de Meriti - RJ",
+      "parsed": {
+        "housenumber": "808 |",
+        "street": "r. estudante eliane castanheira",
+        "suburb": "centro",
+        "city": "são joão de meriti",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Carioca, 181 -| Vila Rosali, São João de Meriti - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Carioca",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "São João de Meriti",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "25510-170",
+        "suburb": "Vila Rosali",
+        "street": "Avenida Carioca",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.373206,
+        "lat": -22.792319,
+        "state_code": "RJ",
+        "housenumber": "181",
+        "result_type": "building",
+        "formatted": "Avenida Carioca 181, Vila Rosali, São João de Meriti - RJ, 25510-170, Brazil",
+        "address_line1": "Avenida Carioca 181",
+        "address_line2": "Vila Rosali, São João de Meriti - RJ, 25510-170, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R6J5G+3P",
+        "plus_code_short": "5G+3P São João de Meriti, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05338825284199279,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e355d636c5af45c059daff006bd5ca36c0c0020392030f4176656e69646120436172696f6361e203266f70656e6164647265737365733a616464726573733a66353031636235316166636536613162",
+        "bbox": {
+          "lon1": -43.375803,
+          "lat1": -22.7939882,
+          "lon2": -43.3724112,
+          "lat2": -22.7878526
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Carioca, 181 -| Vila Rosali, São João de Meriti - RJ",
+      "parsed": {
+        "housenumber": "181",
+        "street": "av. carioca",
+        "city": "são joão de meriti",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Genuíno Siqueira, 1395 - Loja | Jardim Meriti, São João de Meriti - RJ": {
+    "results": [],
+    "query": {
+      "text": "R. Genuíno Siqueira, 1395 - Loja | Jardim Meriti, São João de Meriti - RJ",
+      "parsed": {
+        "house": "loja | jardim meriti",
+        "housenumber": "1395",
+        "street": "r. genuíno siqueira",
+        "city": "são joão de meriti",
+        "state": "rj",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Estr. Vereador Oscar Dias Oliveira, 210 | Vila São Sebastião, Duque de Caxias - RJ": {
+    "results": [],
+    "query": {
+      "text": "Estr. Vereador Oscar Dias Oliveira, 210 | Vila São Sebastião, Duque de Caxias - RJ",
+      "parsed": {
+        "housenumber": "210 | vila",
+        "street": "estr. vereador oscar dias oliveira",
+        "city": "duque de caxias",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Brasil, 367 | Vila São Luís, Duque de Caxias - RJ": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "367",
+        "street": "Avenida Brasil",
+        "country": "Brazil",
+        "county": "Rio De Janeiro",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "26556-000",
+        "state": "Southeast",
+        "city": "Mesquita",
+        "county_code": "RJ",
+        "lon": -43.43358,
+        "lat": -22.779767,
+        "result_type": "building",
+        "formatted": "Avenida Brasil 367, Mesquita - Southeast, 26556-000, Brazil",
+        "address_line1": "Avenida Brasil 367",
+        "address_line2": "Mesquita - Southeast, 26556-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R6HC8+3H",
+        "rank": {
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518f19a88c7fb745c059028063cf9ec736c0c00203e203466f70656e6164647265737365733a616464726573733a62722f726a2f7374617465776964652d6164647265737365732d73746174653a65333232653035333034383264636333"
+      }
+    ],
+    "query": {
+      "text": "Avenida Brasil, 367 | Vila São Luís, Duque de Caxias - RJ"
+    }
+  },
+  "Av. Expedicionário José Amaro, 838 | Vila São Luís, Duque de Caxias - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Expedicionário José Amaro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Duque de Caxias",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "25065-240",
+        "suburb": "Vila São Luiz",
+        "quarter": "Jardim Variante",
+        "street": "Avenida Expedicionário José Amaro",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.291983,
+        "lat": -22.770912,
+        "state_code": "RJ",
+        "housenumber": "838",
+        "result_type": "building",
+        "formatted": "Avenida Expedicionário José Amaro 838, Vila São Luiz, Duque de Caxias - RJ, 25065-240, Brazil",
+        "address_line1": "Avenida Expedicionário José Amaro 838",
+        "address_line2": "Vila São Luiz, Duque de Caxias - RJ, 25065-240, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R6PH5+J6",
+        "plus_code_short": "6PH5+J6 Duque de Caxias, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.053390183108262726,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5176feedb25fa545c0590d18247d5ac536c0c002039203234176656e6964612045787065646963696f6ec3a172696f204a6f73c3a920416d61726fe203266f70656e6164647265737365733a616464726573733a35383333623562383965363635623935",
+        "bbox": {
+          "lon1": -43.2922389,
+          "lat1": -22.7714826,
+          "lon2": -43.2905129,
+          "lat2": -22.7675787
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Expedicionário José Amaro, 838 | Vila São Luís, Duque de Caxias - RJ",
+      "parsed": {
+        "housenumber": "838",
+        "street": "av. expedicionário josé amaro",
+        "city": "duque de caxias",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dr. Manuel Reis, 910 - Pça. Osmar S. de Carvalho | Centro, Nilópolis - RJ": {
+    "results": [],
+    "query": {
+      "text": "R. Dr. Manuel Reis, 910 - Pça. Osmar S. de Carvalho | Centro, Nilópolis - RJ",
+      "parsed": {
+        "housenumber": "910",
+        "street": "r. dr. manuel reis",
+        "suburb": "centro",
+        "city": "nilópolis",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Joaquim Cardoso de Matos, 745 | Luz, Nova Iguaçu - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Professor Joaquim Cardoso Matos",
+        "other_names": {
+          "alt_name": "Rua Joaquim Cardoso de Matos"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Nova Iguaçu",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "26260-045",
+        "suburb": "Bairro da Luz",
+        "street": "Rua Professor Joaquim Cardoso Matos",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.4673659,
+        "lat": -22.7584706,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Professor Joaquim Cardoso Matos, Bairro da Luz, Nova Iguaçu - RJ, 26260-045, Brazil",
+        "address_line1": "Rua Professor Joaquim Cardoso Matos",
+        "address_line2": "Bairro da Luz, Nova Iguaçu - RJ, 26260-045, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R6GRM+J3",
+        "plus_code_short": "6GRM+J3 Nova Iguaçu, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05339196536202026,
+          "confidence": 0.315,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.63,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ffe153a5d2bb45c0593dfa15212bc236c0f00102f9017470331e00000000c002049203235275612050726f666573736f72204a6f617175696d20436172646f736f204d61746f73",
+        "bbox": {
+          "lon1": -43.4673927,
+          "lat1": -22.7606451,
+          "lon2": -43.4673489,
+          "lat2": -22.756296
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Joaquim Cardoso de Matos, 745 | Luz, Nova Iguaçu - RJ",
+      "parsed": {
+        "housenumber": "745 | luz",
+        "street": "r. joaquim cardoso de matos",
+        "city": "nova iguaçu",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. José Amaro, 812 Duque de Caxias - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Amaro Ferreira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Duque de Caxias",
+        "village": "Campos Elyseos",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "25045-366",
+        "suburb": "Parque Fluminense",
+        "quarter": "Parque Muisa",
+        "street": "Rua José Amaro Ferreira",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.3251794,
+        "lat": -22.7216531,
+        "state_code": "RJ",
+        "housenumber": "812",
+        "result_type": "building",
+        "formatted": "Rua José Amaro Ferreira 812, Parque Fluminense, Duque de Caxias - RJ, 25045-366, Brazil",
+        "address_line1": "Rua José Amaro Ferreira 812",
+        "address_line2": "Parque Fluminense, Duque de Caxias - RJ, 25045-366, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R7MHF+8W",
+        "plus_code_short": "7MHF+8W Duque de Caxias, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.053390183108262726,
+          "confidence": 0.405,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519d2a847a9fa945c059998eef41beb836c0f00102f901af00752400000000c00203920318527561204a6f73c3a920416d61726f204665727265697261",
+        "bbox": {
+          "lon1": -43.3252595,
+          "lat1": -22.7220515,
+          "lon2": -43.3250543,
+          "lat2": -22.7212438
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Amaro, 812 Duque de Caxias - RJ",
+      "parsed": {
+        "housenumber": "812",
+        "street": "r. josé amaro",
+        "city": "duque de caxias",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  }
+}

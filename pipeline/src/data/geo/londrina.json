@@ -1,0 +1,1326 @@
+{
+  "Rua Visconde de Mauá, 168 |  Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mercado Municipal do Shangri-lá",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86070-540",
+        "district": "Jardim Shangri-Lá",
+        "suburb": "Vila Nova",
+        "quarter": "Jardim Agari",
+        "street": "Rua Visconde de Mauá",
+        "housenumber": "168",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1754701,
+        "lat": -23.3007172,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Mercado Municipal do Shangri-lá, Rua Visconde de Mauá 168, Vila Nova, Londrina - PR, 86070-540, Brazil",
+        "address_line1": "Mercado Municipal do Shangri-lá",
+        "address_line2": "Rua Visconde de Mauá 168, Vila Nova, Londrina - PR, 86070-540, Brazil",
+        "category": "commercial.marketplace",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRXF+PR",
+        "plus_code_short": "XF+PR Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 6.309681849388902e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "518276e2cd759649c0593e586bcdfb4c37c0f00102f9019ae8241c00000000c002019203204d65726361646f204d756e69636970616c20646f205368616e6772692d6cc3a1",
+        "bbox": {
+          "lon1": -51.1759437,
+          "lat1": -23.3008908,
+          "lon2": -51.1750008,
+          "lat2": -23.3004979
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Visconde de Mauá, 168 |  Londrina - PR",
+      "parsed": {
+        "housenumber": "168 |",
+        "street": "rua visconde de mauá",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Jorge Velho, 221 | Centro, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Jorge Velho",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86010-610",
+        "district": "Ipiranga",
+        "suburb": "Higienópolis",
+        "street": "Rua Jorge Velho",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1580432,
+        "lat": -23.3219436,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Jorge Velho, Higienópolis, Londrina - PR, 86010-610, Brazil",
+        "address_line1": "Rua Jorge Velho",
+        "address_line2": "Higienópolis, Londrina - PR, 86010-610, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRHR+6Q",
+        "plus_code_short": "HR+6Q Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5177ad73c23a9449c059112851e56a5237c0f00102f9017549be0500000000c0020492030f527561204a6f7267652056656c686f",
+        "bbox": {
+          "lon1": -51.1622002,
+          "lat1": -23.3219975,
+          "lon2": -51.153887,
+          "lat2": -23.3219387
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Jorge Velho, 221 | Centro, Londrina - PR",
+      "parsed": {
+        "housenumber": "221 |",
+        "street": "rua jorge velho",
+        "suburb": "centro",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Belém, 245 | Centro, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Belém",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86026-440",
+        "district": "Vila Recreio",
+        "suburb": "Vila Casoni",
+        "street": "Rua Belém",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1580084,
+        "lat": -23.3044224,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Belém, Vila Casoni, Londrina - PR, 86026-440, Brazil",
+        "address_line1": "Rua Belém",
+        "address_line2": "Vila Casoni, Londrina - PR, 86026-440, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRWR+6Q",
+        "plus_code_short": "WR+6Q Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51243f879e399449c0597a2b5ca0ee4d37c0f00102f901a7f6140e00000000c0020492030a5275612042656cc3a96d",
+        "bbox": {
+          "lon1": -51.1646379,
+          "lat1": -23.3044532,
+          "lon2": -51.1513787,
+          "lat2": -23.304415
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Belém, 245 | Centro, Londrina - PR",
+      "parsed": {
+        "housenumber": "245 |",
+        "street": "rua belém",
+        "suburb": "centro",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua São Vicente, 1173 | Jardim Palmares, Londrina - PR": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "1173",
+        "street": "Rua Sao Vicente",
+        "country": "Brazil",
+        "county": "Parana",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "86025-040",
+        "state": "South",
+        "district": "Londrina",
+        "city": "Londrina",
+        "county_code": "PR",
+        "lon": -51.160309,
+        "lat": -23.297153,
+        "result_type": "building",
+        "formatted": "Rua Sao Vicente 1173, Londrina - South, 86025-040, Brazil",
+        "address_line1": "Rua Sao Vicente 1173",
+        "address_line2": "Londrina - South, 86025-040, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CPR3Q+4V",
+        "plus_code_short": "3Q+4V Londrina, Parana, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5192205c01859449c05986e81038124c37c0c00203e203466f70656e6164647265737365733a616464726573733a62722f70722f7374617465776964652d6164647265737365732d73746174653a65623134316161656263313435356364"
+      }
+    ],
+    "query": {
+      "text": "Rua São Vicente, 1173 | Jardim Palmares, Londrina - PR",
+      "parsed": {
+        "housenumber": "1173 |",
+        "street": "rua são vicente",
+        "suburb": "jardim palmares",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Paranaguá, 1146 | Centro, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Paranaguá",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86015-110",
+        "district": "Higienópolis",
+        "suburb": "Higienópolis",
+        "street": "Rua Paranaguá",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1692303,
+        "lat": -23.3254681,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Paranaguá, Higienópolis, Londrina - PR, 86015-110, Brazil",
+        "address_line1": "Rua Paranaguá",
+        "address_line2": "Higienópolis, Londrina - PR, 86015-110, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRFJ+R8",
+        "plus_code_short": "MRFJ+R8 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5103ffa556a99549c05929649de0515337c0f00102f901058f051900000000c0020492030e52756120506172616e616775c3a1",
+        "bbox": {
+          "lon1": -51.1692351,
+          "lat1": -23.3270801,
+          "lon2": -51.1692201,
+          "lat2": -23.323856
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Paranaguá, 1146 | Centro, Londrina - PR",
+      "parsed": {
+        "housenumber": "1146 |",
+        "street": "rua paranaguá",
+        "suburb": "centro",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Araguaia, 43 | Vila Nova, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86070-000",
+        "district": "Quebec",
+        "suburb": "Vila Nova",
+        "quarter": "Jardim Agari",
+        "street": "Avenida Tiradentes",
+        "housenumber": "43",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1735503,
+        "lat": -23.3027282,
+        "state_code": "PR",
+        "result_type": "building",
+        "formatted": "Avenida Tiradentes 43, Vila Nova, Londrina - PR, 86070-000, Brazil",
+        "address_line1": "Avenida Tiradentes 43",
+        "address_line2": "Vila Nova, Londrina - PR, 86070-000, Brazil",
+        "category": "activity.community_center",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRWG+WH",
+        "plus_code_short": "WG+WH Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 6.309681849388902e-05,
+          "confidence": 0.1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.1,
+          "confidence_building_level": 0.1,
+          "match_type": "full_match"
+        },
+        "place_id": "51025b6fe5369649c059b39366987f4d37c0f00102f90106728c4f00000000c00203",
+        "bbox": {
+          "lon1": -51.1737344,
+          "lat1": -23.303009,
+          "lon2": -51.1733323,
+          "lat2": -23.3024388
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Araguaia, 43 | Vila Nova, Londrina - PR",
+      "parsed": {
+        "housenumber": "43",
+        "street": "| vila nova",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Saul Elkind, 2244 | Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Saul Elkind",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86085-300",
+        "district": "Conjunto Habitacional Sebastião de Mello Cesar",
+        "suburb": "Cinco Conjuntos",
+        "street": "Avenida Saul Elkind",
+        "iso3166_2": "BR-PR",
+        "lon": -51.147362,
+        "lat": -23.2584435,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Avenida Saul Elkind, Cinco Conjuntos, Londrina - PR, 86085-300, Brazil",
+        "address_line1": "Avenida Saul Elkind",
+        "address_line2": "Cinco Conjuntos, Londrina - PR, 86085-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CPVR3+J3",
+        "plus_code_short": "PVR3+J3 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "512a560dc2dc9249c059205d6c5a294237c0f00102f9016a6dd90700000000c002049203134176656e696461205361756c20456c6b696e64",
+        "bbox": {
+          "lon1": -51.157344,
+          "lat1": -23.2604933,
+          "lon2": -51.1381131,
+          "lat2": -23.2575977
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Saul Elkind, 2244 | Londrina - PR",
+      "parsed": {
+        "housenumber": "2244 |",
+        "street": "avenida saul elkind",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Celso Garcia Cid, 330 | Centro, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Celso Garcia Cid",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86039-270",
+        "suburb": "Brasilia",
+        "street": "Avenida Celso Garcia Cid",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1458129,
+        "lat": -23.3152083,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Avenida Celso Garcia Cid, Brasilia, Londrina - PR, 86039-270, Brazil",
+        "address_line1": "Avenida Celso Garcia Cid",
+        "address_line2": "Brasilia, Londrina - PR, 86039-270, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMVM3+WM",
+        "plus_code_short": "MVM3+WM Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51df6a42ffa99249c05981edbb7db15037c0f00102f901eae0e60f00000000c002049203184176656e6964612043656c736f2047617263696120436964",
+        "bbox": {
+          "lon1": -51.1489007,
+          "lat1": -23.3159053,
+          "lon2": -51.1427313,
+          "lat2": -23.3145386
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Celso Garcia Cid, 330 | Centro, Londrina - PR",
+      "parsed": {
+        "housenumber": "330 |",
+        "street": "avenida celso garcia cid",
+        "suburb": "centro",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Figueira, 822 , Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Figueira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86072-160",
+        "district": "Leonor",
+        "street": "Rua Figueira",
+        "iso3166_2": "BR-PR",
+        "lon": -51.199557,
+        "lat": -23.286952,
+        "state_code": "PR",
+        "housenumber": "822",
+        "result_type": "building",
+        "formatted": "Rua Figueira 822, Londrina - PR, 86072-160, Brazil",
+        "address_line1": "Rua Figueira 822",
+        "address_line2": "Londrina - PR, 86072-160, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CPR72+65",
+        "plus_code_short": "PR72+65 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "510c5872158b9949c0599485afaf754937c0c0020392030c527561204669677565697261e203266f70656e6164647265737365733a616464726573733a33663932363839613462636237346165",
+        "bbox": {
+          "lon1": -51.2045799,
+          "lat1": -23.2930054,
+          "lon2": -51.1966807,
+          "lat2": -23.2833995
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Figueira, 822 , Londrina - PR",
+      "parsed": {
+        "housenumber": "822",
+        "street": "rua figueira",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Garibaldi Deliberador, 800 | Parque Residencial Alcântara, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Garibaldi Deliberador",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86047-320",
+        "district": "Tucanos",
+        "suburb": "Bela Suíça",
+        "street": "Avenida Garibaldi Deliberador",
+        "iso3166_2": "BR-PR",
+        "lon": -51.169643,
+        "lat": -23.342832,
+        "state_code": "PR",
+        "housenumber": "800",
+        "result_type": "building",
+        "formatted": "Avenida Garibaldi Deliberador 800, Bela Suíça, Londrina - PR, 86047-320, Brazil",
+        "address_line1": "Avenida Garibaldi Deliberador 800",
+        "address_line2": "Bela Suíça, Londrina - PR, 86047-320, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMR4J+V4",
+        "plus_code_short": "MR4J+V4 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51677fa0dcb69549c059b40584d6c35737c0c0020392031d4176656e696461204761726962616c64692044656c6962657261646f72e203266f70656e6164647265737365733a616464726573733a65393361646233656532633931643165",
+        "bbox": {
+          "lon1": -51.1709553,
+          "lat1": -23.3465217,
+          "lon2": -51.1695836,
+          "lat2": -23.3359235
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Garibaldi Deliberador, 800 | Parque Residencial Alcântara, Londrina - PR",
+      "parsed": {
+        "house": "| parque residencial alcântara",
+        "housenumber": "800",
+        "street": "avenida garibaldi deliberador",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Rio Paraná, 198 | Jardim do Café, Cambé - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Rio Paraná",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Cambé",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86181-000",
+        "district": "Jardim do Café",
+        "street": "Rua Rio Paraná",
+        "iso3166_2": "BR-PR",
+        "lon": -51.252322,
+        "lat": -23.297951,
+        "state_code": "PR",
+        "housenumber": "198",
+        "result_type": "building",
+        "formatted": "Rua Rio Paraná 198, Cambé - PR, 86181-000, Brazil",
+        "address_line1": "Rua Rio Paraná 198",
+        "address_line2": "Cambé - PR, 86181-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CPP2X+R3",
+        "plus_code_short": "PP2X+R3 Cambé, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05338945830472263,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51d90759164ca049c0597dcf4884464c37c0c0020392030f5275612052696f20506172616ec3a1e203266f70656e6164647265737365733a616464726573733a39303530383830633861323939623234",
+        "bbox": {
+          "lon1": -51.2520993,
+          "lat1": -23.2975774,
+          "lon2": -51.2482312,
+          "lat2": -23.2947886
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Rio Paraná, 198 | Jardim do Café, Cambé - PR",
+      "parsed": {
+        "house": "| jardim do café",
+        "housenumber": "198",
+        "street": "rua rio paraná",
+        "city": "cambé",
+        "state": "pr",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Mossoró, 483 | Centro, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Mossoró",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86020-100",
+        "district": "Centro",
+        "suburb": "Centro",
+        "quarter": "Jardim Agari",
+        "street": "Rua Mossoró",
+        "iso3166_2": "BR-PR",
+        "lon": -51.167147,
+        "lat": -23.3065968,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Mossoró, Centro, Londrina - PR, 86020-100, Brazil",
+        "address_line1": "Rua Mossoró",
+        "address_line2": "Centro, Londrina - PR, 86020-100, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRVM+94",
+        "plus_code_short": "VM+94 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f04fa912659549c059ea0ebd207d4e37c0f00102f90151cb441600000000c0020492030c527561204d6f73736f72c3b3",
+        "bbox": {
+          "lon1": -51.170562,
+          "lat1": -23.3066047,
+          "lon2": -51.163732,
+          "lat2": -23.3065905
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Mossoró, 483 | Centro, Londrina - PR",
+      "parsed": {
+        "housenumber": "483 |",
+        "street": "rua mossoró",
+        "suburb": "centro",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Chile, 687 | Centro, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Chile",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86010-680",
+        "district": "Vila Brasil",
+        "suburb": "Vila Brasil",
+        "street": "Rua Chile",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1513317,
+        "lat": -23.3231194,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Chile, Vila Brasil, Londrina - PR, 86010-680, Brazil",
+        "address_line1": "Rua Chile",
+        "address_line2": "Vila Brasil, Londrina - PR, 86010-680, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRGX+QF",
+        "plus_code_short": "GX+QF Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518e2c4fd65e9349c05901b4f7f3b75237c0f00102f9011c5e620f00000000c00204920309527561204368696c65",
+        "bbox": {
+          "lon1": -51.1513426,
+          "lat1": -23.3276571,
+          "lon2": -51.1513011,
+          "lat2": -23.3185818
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Chile, 687 | Centro, Londrina - PR",
+      "parsed": {
+        "housenumber": "687 |",
+        "street": "rua chile",
+        "suburb": "centro",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Arcindo Sardo, 197 | Jardim das Américas, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Arcindo Sardo",
+        "other_names": {
+          "alt_name": "Rua Maria Jesus Araujo"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86080-010",
+        "district": "Coliseu",
+        "suburb": "Vila Nova",
+        "street": "Rua Arcindo Sardo",
+        "iso3166_2": "BR-PR",
+        "lon": -51.17472,
+        "lat": -23.285584,
+        "state_code": "PR",
+        "housenumber": "197",
+        "result_type": "building",
+        "formatted": "Rua Arcindo Sardo 197, Vila Nova, Londrina - PR, 86080-010, Brazil",
+        "address_line1": "Rua Arcindo Sardo 197",
+        "address_line2": "Vila Nova, Londrina - PR, 86080-010, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CPR7G+Q4",
+        "plus_code_short": "PR7G+Q4 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5183fa96395d9649c059c84274081c4937c0c0020392031152756120417263696e646f20536172646fe203266f70656e6164647265737365733a616464726573733a30386334363262336164643135633730",
+        "bbox": {
+          "lon1": -51.1879974,
+          "lat1": -23.2858767,
+          "lon2": -51.1730665,
+          "lat2": -23.2851426
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Arcindo Sardo, 197 | Jardim das Américas, Londrina - PR",
+      "parsed": {
+        "house": "| jardim das américas",
+        "housenumber": "197",
+        "street": "rua arcindo sardo",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Humaitá, 198 | Kennedy, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Presidente Kennedy",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Cambé",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86181-080",
+        "suburb": "Centro",
+        "street": "Rua Presidente Kennedy",
+        "iso3166_2": "BR-PR",
+        "lon": -51.278983,
+        "lat": -23.281243,
+        "state_code": "PR",
+        "housenumber": "198",
+        "result_type": "building",
+        "formatted": "Rua Presidente Kennedy 198, Centro, Cambé - PR, 86181-080, Brazil",
+        "address_line1": "Rua Presidente Kennedy 198",
+        "address_line2": "Centro, Cambé - PR, 86181-080, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CPP9C+GC",
+        "plus_code_short": "9C+GC Cambé, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05338945830472263,
+          "confidence": 0.3690562500000001,
+          "confidence_city_level": 0.6561000000000001,
+          "confidence_street_level": 0.4920750000000001,
+          "confidence_building_level": 0.3690562500000001,
+          "match_type": "full_match"
+        },
+        "place_id": "51ea9106b7b5a349c0599b3a8f8aff4737c0f00102f901ada95b0600000000c0020392031652756120507265736964656e7465204b656e6e656479",
+        "bbox": {
+          "lon1": -51.2797087,
+          "lat1": -23.283707,
+          "lon2": -51.2778539,
+          "lat2": -23.279592
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Humaitá, 198 | Kennedy, Londrina - PR",
+      "parsed": {
+        "housenumber": "198",
+        "street": "| kennedy",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Anita Garibaldi, 25 | Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Anita Garibaldi",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86020-500",
+        "district": "Centro",
+        "suburb": "Centro",
+        "street": "Rua Anita Garibaldi",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1648559,
+        "lat": -23.3187574,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Anita Garibaldi, Centro, Londrina - PR, 86020-500, Brazil",
+        "address_line1": "Rua Anita Garibaldi",
+        "address_line2": "Centro, Londrina - PR, 86020-500, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRJP+F3",
+        "plus_code_short": "JP+F3 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51bd8685ff199549c059a55bc0159a5137c0f00102f901e6bb220600000000c0020492031352756120416e697461204761726962616c6469",
+        "bbox": {
+          "lon1": -51.165287,
+          "lat1": -23.3198052,
+          "lon2": -51.1646336,
+          "lat2": -23.3176606
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Anita Garibaldi, 25 | Londrina - PR",
+      "parsed": {
+        "housenumber": "25 |",
+        "street": "rua anita garibaldi",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Harry Prochet, 725 |  Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Harry Prochet",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86947-285",
+        "district": "Tucanos",
+        "suburb": "Tucanos",
+        "street": "Avenida Harry Prochet",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1670624,
+        "lat": -23.3492485,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Avenida Harry Prochet, Tucanos, Londrina - PR, 86947-285, Brazil",
+        "address_line1": "Avenida Harry Prochet",
+        "address_line2": "Tucanos, Londrina - PR, 86947-285, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMR2M+85",
+        "plus_code_short": "MR2M+85 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "511532fc4c629549c05954ad8559685937c0f00102f90127ac383700000000c002049203154176656e6964612048617272792050726f63686574",
+        "bbox": {
+          "lon1": -51.1672186,
+          "lat1": -23.3494239,
+          "lon2": -51.1668981,
+          "lat2": -23.349081
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Harry Prochet, 725 |  Londrina - PR",
+      "parsed": {
+        "housenumber": "725 |",
+        "street": "avenida harry prochet",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Pernambuco, 1039 | Centro, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Pernambuco",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86020-120",
+        "district": "Centro",
+        "suburb": "Centro",
+        "street": "Rua Pernambuco",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1627583,
+        "lat": -23.3137522,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Pernambuco, Centro, Londrina - PR, 86020-120, Brazil",
+        "address_line1": "Rua Pernambuco",
+        "address_line2": "Centro, Londrina - PR, 86020-120, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRPP+FV",
+        "plus_code_short": "PP+FV Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5187d39343d59449c0594d0c6e10525037c0f00102f901d432ee0100000000c0020492030e527561205065726e616d6275636f",
+        "bbox": {
+          "lon1": -51.1628258,
+          "lat1": -23.3197875,
+          "lon2": -51.1627336,
+          "lat2": -23.3077177
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Pernambuco, 1039 | Centro, Londrina - PR",
+      "parsed": {
+        "housenumber": "1039 |",
+        "street": "rua pernambuco",
+        "suburb": "centro",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Senador Souza Naves, 1221 | Centro, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Senador Souza Naves",
+        "other_names": {
+          "alt_name": "Avenida Senador Souza Naves"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86010-610",
+        "district": "Ipiranga",
+        "suburb": "Jardim Petrópolis",
+        "street": "Rua Senador Souza Naves",
+        "iso3166_2": "BR-PR",
+        "lon": -51.1576294,
+        "lat": -23.3230845,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Senador Souza Naves, Jardim Petrópolis, Londrina - PR, 86010-610, Brazil",
+        "address_line1": "Rua Senador Souza Naves",
+        "address_line2": "Jardim Petrópolis, Londrina - PR, 86010-610, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRGR+QW",
+        "plus_code_short": "GR+QW Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51adf13e332d9449c059325871aab55237c0f00102f9014df6f61300000000c002049203175275612053656e61646f7220536f757a61204e61766573",
+        "bbox": {
+          "lon1": -51.1577447,
+          "lat1": -23.3263401,
+          "lon2": -51.1576291,
+          "lat2": -23.3198114
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Senador Souza Naves, 1221 | Centro, Londrina - PR",
+      "parsed": {
+        "housenumber": "1221 |",
+        "street": "rua senador souza naves",
+        "suburb": "centro",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Professor Samuel Moura, 555 | Judith, Londrina - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Maria Judith Felício",
+        "other_names": {
+          "alt_name": "Rua Professora Maria Judith Felício"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Geográfica Intermediária de Londrina",
+        "city": "Londrina",
+        "municipality": "Região Geográfica Imediata de Londrina",
+        "postcode": "86055-645",
+        "district": "Central Park Residence",
+        "suburb": "Jamaica",
+        "street": "Rua Maria Judith Felício",
+        "iso3166_2": "BR-PR",
+        "lon": -51.189399,
+        "lat": -23.3190406,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Maria Judith Felício, Jamaica, Londrina - PR, 86055-645, Brazil",
+        "address_line1": "Rua Maria Judith Felício",
+        "address_line2": "Jamaica, Londrina - PR, 86055-645, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588CMRJ6+96",
+        "plus_code_short": "MRJ6+96 Londrina, Região Geográfica Intermediária de Londrina, Brazil",
+        "rank": {
+          "importance": 0.05339643015182723,
+          "confidence": 0.36450000000000005,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519372f7393e9849c059a2180fa5ac5137c0f00102f90131b1bc0700000000c00204920319527561204d61726961204a75646974682046656cc3ad63696f",
+        "bbox": {
+          "lon1": -51.1905378,
+          "lat1": -23.3210316,
+          "lon2": -51.1883327,
+          "lat2": -23.3170992
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Professor Samuel Moura, 555 | Judith, Londrina - PR",
+      "parsed": {
+        "housenumber": "555 |",
+        "street": "judith",
+        "city": "londrina",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  }
+}

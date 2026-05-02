@@ -1,0 +1,1858 @@
+{
+  "R. Dr. Saraiba, 32 | Bonfim Paulista, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Doutor Saraiba",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14110-000",
+        "district": "Bonfim Paulista",
+        "suburb": "Residencial Alphaville 1",
+        "street": "Rua Doutor Saraiba",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8195625,
+        "lat": -21.2675028,
+        "state_code": "SP",
+        "result_type": "street",
+        "village": "Bonfim Paulista",
+        "formatted": "Rua Doutor Saraiba, Residencial Alphaville 1, Bonfim Paulista, Ribeirão Preto - SP, 14110-000, Brazil",
+        "address_line1": "Rua Doutor Saraiba",
+        "address_line2": "Residencial Alphaville 1, Bonfim Paulista, Ribeirão Preto - SP, 14110-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJP5JJ+X5",
+        "plus_code_short": "P5JJ+X5 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5196438b6ce7e847c059a39641107b4435c0f00102f901bffb6e0b00000000c0020492031252756120446f75746f722053617261696261",
+        "bbox": {
+          "lon1": -47.8200813,
+          "lat1": -21.2678056,
+          "lon2": -47.8190437,
+          "lat2": -21.2672001
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dr. Saraiba, 32 | Bonfim Paulista, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "32 |",
+        "street": "r. dr. saraiba",
+        "district": "bonfim paulista",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Domingos Padovan, 1540 | Jardim Anhanguera, Ribeirão Preto - SP": {
+    "results": [],
+    "query": {
+      "text": "R. Domingos Padovan, 1540 | Jardim Anhanguera, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1540 |",
+        "street": "r. domingos padovan",
+        "suburb": "jardim anhanguera",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. José Aissum, 125 | Parque dos Bandeirantes, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Aissum",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14090-680",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim Palmares",
+        "street": "Rua José Aissum",
+        "iso3166_2": "BR-SP",
+        "lon": -47.781558,
+        "lat": -21.178162,
+        "state_code": "SP",
+        "housenumber": "125",
+        "result_type": "building",
+        "formatted": "Rua José Aissum 125, Jardim Palmares, Ribeirão Preto - SP, 14090-680, Brazil",
+        "address_line1": "Rua José Aissum 125",
+        "address_line2": "Jardim Palmares, Ribeirão Preto - SP, 14090-680, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR6C9+P9",
+        "plus_code_short": "R6C9+P9 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51adf6b0170ae447c059d4635b069c2d35c0c00203920310527561204a6f73c3a92041697373756de203266f70656e6164647265737365733a616464726573733a65326331656131316636616362633664",
+        "bbox": {
+          "lon1": -47.7802679,
+          "lat1": -21.1823517,
+          "lon2": -47.7788755,
+          "lat2": -21.1801658
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Aissum, 125 | Parque dos Bandeirantes, Ribeirão Preto - SP",
+      "parsed": {
+        "house": "| parque dos bandeirantes",
+        "housenumber": "125",
+        "street": "r. josé aissum",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Duque de Caxias, 1211 | Centro, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14015-020",
+        "district": "Ribeirão Preto",
+        "suburb": "Centro",
+        "street": "Rua Duque de Caxias",
+        "housenumber": "1211",
+        "iso3166_2": "BR-SP",
+        "lon": -47.80391175,
+        "lat": -21.178167144444444,
+        "state_code": "SP",
+        "result_type": "building",
+        "formatted": "Rua Duque de Caxias 1211, Centro, Ribeirão Preto - SP, 14015-020, Brazil",
+        "address_line1": "Rua Duque de Caxias 1211",
+        "address_line2": "Centro, Ribeirão Preto - SP, 14015-020, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5CW+PC",
+        "plus_code_short": "CW+PC Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51608f8994e6e647c059509caa5c9c2d35c0f00102f9012297fe0c00000000c00203",
+        "bbox": {
+          "lon1": -47.8039617,
+          "lat1": -21.1782171,
+          "lon2": -47.8038617,
+          "lat2": -21.1781171
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Duque de Caxias, 1211 | Centro, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1211 |",
+        "street": "r. duque de caxias",
+        "suburb": "centro",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Professor Pedreira de Freitas, 564 | Parque Ribeirão Preto, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Professor Pedreira de Freitas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14040-900",
+        "district": "Ribeirão Preto",
+        "suburb": "Cidade Universitária",
+        "street": "Rua Professor Pedreira de Freitas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8513501,
+        "lat": -21.1689449,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Professor Pedreira de Freitas, Cidade Universitária, Ribeirão Preto - SP, 14040-900, Brazil",
+        "address_line1": "Rua Professor Pedreira de Freitas",
+        "address_line2": "Cidade Universitária, Ribeirão Preto - SP, 14040-900, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR4JX+CF",
+        "plus_code_short": "R4JX+CF Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.04006571068894483,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "512179420af9ec47c059745314f93f2b35c0f00102f90178a6de3100000000c002049203215275612050726f666573736f722050656472656972612064652046726569746173",
+        "bbox": {
+          "lon1": -47.8519397,
+          "lat1": -21.1692773,
+          "lon2": -47.8508119,
+          "lat2": -21.168533
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Professor Pedreira de Freitas, 564 | Parque Ribeirão Preto, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "564 |",
+        "street": "r. professor pedreira de freitas",
+        "suburb": "parque ribeirão preto",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Franca, 432 | Jardim Paulista, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Franca",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14090-250",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim Paulista",
+        "street": "Rua Franca",
+        "iso3166_2": "BR-SP",
+        "lon": -47.7906268,
+        "lat": -21.178649,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Franca, Jardim Paulista, Ribeirão Preto - SP, 14090-250, Brazil",
+        "address_line1": "Rua Franca",
+        "address_line2": "Jardim Paulista, Ribeirão Preto - SP, 14090-250, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR6C5+GP",
+        "plus_code_short": "R6C5+GP Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51aaab4c4233e547c0598e76dcf0bb2d35c0f00102f901b8208e3100000000c0020492030a527561204672616e6361",
+        "bbox": {
+          "lon1": -47.7937075,
+          "lat1": -21.1808745,
+          "lon2": -47.7875141,
+          "lat2": -21.1763785
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Franca, 432 | Jardim Paulista, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "432 |",
+        "street": "rua franca",
+        "suburb": "jardim paulista",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Edgard Patrick, 20 | Jardim São José, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14098-558",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim São José",
+        "street": "Rua Edgard Patrick",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "SP",
+        "lon": -47.7666666,
+        "lat": -21.225718,
+        "result_type": "street",
+        "name": "Rua Edgard Patrick",
+        "iso3166_2": "BR-SP",
+        "formatted": "Rua Edgard Patrick, Jardim São José, Ribeirão Preto - SP, 14098-558, Brazil",
+        "address_line1": "Rua Edgard Patrick",
+        "address_line2": "Jardim São José, Ribeirão Preto - SP, 14098-558, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJQ6FM+P8",
+        "plus_code_short": "Q6FM+P8 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51bff7922122e247c059581ea4a7c83935c0f00102f901c6503f0a00000000c0020492031252756120456467617264205061747269636b",
+        "bbox": {
+          "lon1": -47.7673285,
+          "lat1": -21.2258218,
+          "lon2": -47.7660047,
+          "lat2": -21.2256142
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Edgard Patrick, 20 | Jardim São José, Ribeirão Preto - SP",
+      "parsed": {
+        "house": "20 | jardim são josé",
+        "street": "r. edgard patrick",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Capitão Salomão, 1439 - Campos Elísios, Ribeirão Preto": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14085-000",
+        "district": "Ribeirão Preto",
+        "suburb": "Centro",
+        "street": "Rua Capitão Salomão",
+        "housenumber": "1439",
+        "iso3166_2": "BR-SP",
+        "lon": -47.803198404739334,
+        "lat": -21.16855091706161,
+        "state_code": "SP",
+        "result_type": "building",
+        "formatted": "Rua Capitão Salomão 1439, Centro, Ribeirão Preto - SP, 14085-000, Brazil",
+        "address_line1": "Rua Capitão Salomão 1439",
+        "address_line2": "Centro, Ribeirão Preto - SP, 14085-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5JW+HP",
+        "plus_code_short": "JW+HP Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 0.20360970000000003,
+          "confidence_city_level": 0.44099999999999995,
+          "confidence_street_level": 0.44099999999999995,
+          "confidence_building_level": 0.44099999999999995,
+          "match_type": "full_match"
+        },
+        "place_id": "5104479034cfe647c0598c7d2427262b35c0f00102f901f73df41700000000c00203",
+        "bbox": {
+          "lon1": -47.8032484,
+          "lat1": -21.1686009,
+          "lon2": -47.8031484,
+          "lat2": -21.1685009
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Capitão Salomão, 1439 - Campos Elísios, Ribeirão Preto"
+    }
+  },
+  "R. Contabilista Marcos Mendonça Coelho, 830 | Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Contabilista Marcos Mendonça Coelho",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14062-100",
+        "district": "Ribeirão Preto",
+        "neighbourhood": "Residencial Vida Nova Ribeirão",
+        "suburb": "Jardim Cristo Redentor",
+        "street": "Rua Contabilista Marcos Mendonça Coelho",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8268487,
+        "lat": -21.1055433,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Contabilista Marcos Mendonça Coelho, Jardim Cristo Redentor, Ribeirão Preto - SP, 14062-100, Brazil",
+        "address_line1": "Rua Contabilista Marcos Mendonça Coelho",
+        "address_line2": "Jardim Cristo Redentor, Ribeirão Preto - SP, 14062-100, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJV5VF+Q7",
+        "plus_code_short": "V5VF+Q7 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51bc9e9e2dd6e947c059dacfbde2041b35c0f00102f90120f3811600000000c0020492032852756120436f6e746162696c69737461204d6172636f73204d656e646f6ec3a76120436f656c686f",
+        "bbox": {
+          "lon1": -47.828958,
+          "lat1": -21.1085085,
+          "lon2": -47.8254336,
+          "lat2": -21.1030333
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Contabilista Marcos Mendonça Coelho, 830 | Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "830 |",
+        "street": "r. contabilista marcos mendonça coelho",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Guido Borsaro, 625 | Parque dos Bandeirantes, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Guido Borsaro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14090-680",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim Palmares",
+        "street": "Rua Guido Borsaro",
+        "iso3166_2": "BR-SP",
+        "lon": -47.779867,
+        "lat": -21.181354,
+        "state_code": "SP",
+        "housenumber": "625",
+        "result_type": "building",
+        "formatted": "Rua Guido Borsaro 625, Jardim Palmares, Ribeirão Preto - SP, 14090-680, Brazil",
+        "address_line1": "Rua Guido Borsaro 625",
+        "address_line2": "Jardim Palmares, Ribeirão Preto - SP, 14090-680, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR69C+F3",
+        "plus_code_short": "R69C+F3 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51651d8eaed2e347c059b0ff3a376d2e35c0c0020392031152756120477569646f20426f727361726fe203266f70656e6164647265737365733a616464726573733a63646332643138616438633763333864",
+        "bbox": {
+          "lon1": -47.7823187,
+          "lat1": -21.1827485,
+          "lon2": -47.7796061,
+          "lat2": -21.181203
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Guido Borsaro, 625 | Parque dos Bandeirantes, Ribeirão Preto - SP",
+      "parsed": {
+        "house": "| parque dos bandeirantes",
+        "housenumber": "625",
+        "street": "r. guido borsaro",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Cesário Motta, 1469 | Jardim Paulistano, Ribeirão Preto - SP": {
+    "results": [],
+    "query": {
+      "text": "Rua Cesário Motta, 1469 | Jardim Paulistano, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1469 |",
+        "street": "rua cesário motta",
+        "suburb": "jardim paulistano",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. João Bim, 712 | Campos Elíseos, Ribeirão Preto - SP": {
+    "results": [],
+    "query": {
+      "text": "R. João Bim, 712 | Campos Elíseos, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "712 |",
+        "street": "r. joão bim",
+        "suburb": "campos elíseos",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Aníbal Vercesi, 246 | Bonfim Paulista, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Anibal Vercesi",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14035-160",
+        "district": "Bonfim Paulista",
+        "street": "Rua Anibal Vercesi",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8139345,
+        "lat": -21.25974,
+        "state_code": "SP",
+        "result_type": "street",
+        "village": "Bonfim Paulista",
+        "formatted": "Rua Anibal Vercesi, Bonfim Paulista, Ribeirão Preto - SP, 14035-160, Brazil",
+        "address_line1": "Rua Anibal Vercesi",
+        "address_line2": "Bonfim Paulista, Ribeirão Preto - SP, 14035-160, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJP5RP+4C",
+        "plus_code_short": "P5RP+4C Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51064b75012fe847c0598a7615527e4235c0f00102f9014dfec20e00000000c0020492031252756120416e6962616c2056657263657369",
+        "bbox": {
+          "lon1": -47.8143501,
+          "lat1": -21.2623115,
+          "lon2": -47.8132816,
+          "lat2": -21.2571379
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Aníbal Vercesi, 246 | Bonfim Paulista, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "246 |",
+        "street": "r. aníbal vercesi",
+        "district": "bonfim paulista",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. do Café, 166 | Vila Tibério, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida do Café",
+        "other_names": {
+          "alt_name": "Via do Café",
+          "name": "Avenida do Café",
+          "name:pt": "Avenida do Café"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14030-390",
+        "district": "Ribeirão Preto",
+        "suburb": "Vila Tibério",
+        "street": "Avenida do Café",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8210653,
+        "lat": -21.1746992,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida do Café, Vila Tibério, Ribeirão Preto - SP, 14030-390, Brazil",
+        "address_line1": "Avenida do Café",
+        "address_line2": "Vila Tibério, Ribeirão Preto - SP, 14030-390, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5GH+4H",
+        "plus_code_short": "GH+4H Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b2b0f1aa18e947c0592aa33616b92c35c0f00102f9015c6ced3100000000c002049203104176656e69646120646f20436166c3a9",
+        "bbox": {
+          "lon1": -47.8222439,
+          "lat1": -21.1749056,
+          "lon2": -47.8198888,
+          "lat2": -21.1744814
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. do Café, 166 | Vila Tibério, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "166 |",
+        "street": "av. do café",
+        "suburb": "vila tibério",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Antônio Aché, 769 | Jardim Irajá, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Antônio Achê",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14020-610",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim Irajá",
+        "street": "Rua Antônio Achê",
+        "iso3166_2": "BR-SP",
+        "lon": -47.801604,
+        "lat": -21.2070709,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Antônio Achê, Jardim Irajá, Ribeirão Preto - SP, 14020-610, Brazil",
+        "address_line1": "Rua Antônio Achê",
+        "address_line2": "Jardim Irajá, Ribeirão Preto - SP, 14020-610, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJQ5VX+59",
+        "plus_code_short": "Q5VX+59 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e02bbaf59ae647c0590b743799023535c0f00102f901e6473d0a00000000c0020492031252756120416e74c3b46e696f20416368c3aa",
+        "bbox": {
+          "lon1": -47.80549,
+          "lat1": -21.2088838,
+          "lon2": -47.7976941,
+          "lat2": -21.2053109
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Antônio Aché, 769 | Jardim Irajá, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "769 |",
+        "street": "r. antônio aché",
+        "suburb": "jardim irajá",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Onze de Agosto, 1978 - , Campos Elísios, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua XI de Agosto",
+        "other_names": {
+          "alt_name": "Rua 11 de Agosto",
+          "official_name": "Rua Onze de Agosto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14080-000",
+        "district": "Ribeirão Preto",
+        "street": "Rua XI de Agosto",
+        "iso3166_2": "BR-SP",
+        "lon": -47.794823,
+        "lat": -21.158425,
+        "state_code": "SP",
+        "housenumber": "1978",
+        "result_type": "building",
+        "formatted": "Rua XI de Agosto 1978, Ribeirão Preto - SP, 14080-000, Brazil",
+        "address_line1": "Rua XI de Agosto 1978",
+        "address_line2": "Ribeirão Preto - SP, 14080-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR6R4+J3",
+        "plus_code_short": "R6R4+J3 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.28185353035714295,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "confidence_building_level": 0.7290000000000001,
+          "match_type": "full_match"
+        },
+        "place_id": "51e78d93c2bce547c0596ade718a8e2835c0c002039203105275612058492064652041676f73746fe203266f70656e6164647265737365733a616464726573733a33323262356363343634306632653462",
+        "bbox": {
+          "lon1": -47.7942312,
+          "lat1": -21.1575841,
+          "lon2": -47.7911453,
+          "lat2": -21.1542488
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Onze de Agosto, 1978 - , Campos Elísios, Ribeirão Preto - SP"
+    }
+  },
+  "Av. Doutor Plínio de Castro Prado, 1000 | Jardim Palma Travassos, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "1000",
+        "street": "Avenida Doutor Plinio De Castro Prado",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "14091-170",
+        "state": "Southeast",
+        "district": "Ribeirão Preto",
+        "city": "Ribeirao Preto",
+        "county_code": "SP",
+        "lon": -47.789661,
+        "lat": -21.186847,
+        "result_type": "building",
+        "formatted": "Avenida Doutor Plinio De Castro Prado 1000, Ribeirão Preto, Ribeirao Preto - Southeast, 14091-170, Brazil",
+        "address_line1": "Avenida Doutor Plinio De Castro Prado 1000",
+        "address_line2": "Ribeirão Preto, Ribeirao Preto - Southeast, 14091-170, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR676+74",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519df6949c13e547c059105b7a34d52f35c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a66626639653762373363313632663864"
+      }
+    ],
+    "query": {
+      "text": "Av. Doutor Plínio de Castro Prado, 1000 | Jardim Palma Travassos, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1000 |",
+        "street": "av. doutor plínio de castro prado",
+        "suburb": "jardim palma travassos",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Piracicaba, 1825 | Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Piracicaba",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14090-510",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim Palmares",
+        "street": "Rua Piracicaba",
+        "iso3166_2": "BR-SP",
+        "lon": -47.7845371,
+        "lat": -21.1858781,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Piracicaba, Jardim Palmares, Ribeirão Preto - SP, 14090-510, Brazil",
+        "address_line1": "Rua Piracicaba",
+        "address_line2": "Jardim Palmares, Ribeirão Preto - SP, 14090-510, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR678+J5",
+        "plus_code_short": "R678+J5 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51d57f31b66be447c059e98a08b5952f35c0f00102f901c49c740d00000000c0020492030e5275612050697261636963616261",
+        "bbox": {
+          "lon1": -47.7851653,
+          "lat1": -21.1861533,
+          "lon2": -47.7838521,
+          "lat2": -21.1854974
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Piracicaba, 1825 | Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1825 |",
+        "street": "r. piracicaba",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Ipanema, 746 |  Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Ipanema",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14030-440",
+        "district": "Ribeirão Preto",
+        "suburb": "Alto da Boa Vista",
+        "street": "Rua Ipanema",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8229974,
+        "lat": -21.1866102,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Ipanema, Alto da Boa Vista, Ribeirão Preto - SP, 14030-440, Brazil",
+        "address_line1": "Rua Ipanema",
+        "address_line2": "Alto da Boa Vista, Ribeirão Preto - SP, 14030-440, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR57G+9R",
+        "plus_code_short": "7G+9R Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b5d892fa57e947c0599b19a2afc52f35c0f00102f9012772380a00000000c0020492030b527561204970616e656d61",
+        "bbox": {
+          "lon1": -47.8233187,
+          "lat1": -21.1880194,
+          "lon2": -47.8226256,
+          "lat2": -21.1852133
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Ipanema, 746 |  Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "746 |",
+        "street": "r. ipanema",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Antônio Fregonesi, 676 | Jardim Manoel Penna, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Antônio Fregonesi",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14098-323",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim Manoel Penna",
+        "street": "Rua Antônio Fregonesi",
+        "iso3166_2": "BR-SP",
+        "lon": -47.7675183,
+        "lat": -21.2130129,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Antônio Fregonesi, Jardim Manoel Penna, Ribeirão Preto - SP, 14098-323, Brazil",
+        "address_line1": "Rua Antônio Fregonesi",
+        "address_line2": "Jardim Manoel Penna, Ribeirão Preto - SP, 14098-323, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJQ6PJ+QX",
+        "plus_code_short": "Q6PJ+QX Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516fca260a3ee247c05949206f03883635c0f00102f901973aca3100000000c0020492031652756120416e74c3b46e696f20467265676f6e657369",
+        "bbox": {
+          "lon1": -47.7687371,
+          "lat1": -21.2138803,
+          "lon2": -47.7663057,
+          "lat2": -21.2121542
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Antônio Fregonesi, 676 | Jardim Manoel Penna, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "676 |",
+        "street": "r. antônio fregonesi",
+        "suburb": "jardim manoel penna",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Saldanha Marinho, 1136 | Centro, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Saldanha Marinho",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14010-070",
+        "district": "Ribeirão Preto",
+        "suburb": "Centro",
+        "street": "Rua Saldanha Marinho",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8104173,
+        "lat": -21.172679,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Saldanha Marinho, Centro, Ribeirão Preto - SP, 14010-070, Brazil",
+        "address_line1": "Rua Saldanha Marinho",
+        "address_line2": "Centro, Ribeirão Preto - SP, 14010-070, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5GQ+WR",
+        "plus_code_short": "GQ+WR Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516ace0bc1bbe747c059bbb4e1b0342c35c0f00102f901647d230c00000000c002049203145275612053616c64616e6861204d6172696e686f",
+        "bbox": {
+          "lon1": -47.8119568,
+          "lat1": -21.174509,
+          "lon2": -47.8088785,
+          "lat2": -21.1708484
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Saldanha Marinho, 1136 | Centro, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1136 |",
+        "street": "r. saldanha marinho",
+        "suburb": "centro",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Lafaiete, 1045 | Centro, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14015-080",
+        "district": "Ribeirão Preto",
+        "suburb": "Centro",
+        "street": "Rua Lafaiete",
+        "housenumber": "1045",
+        "iso3166_2": "BR-SP",
+        "lon": -47.80690303695652,
+        "lat": -21.18169906521739,
+        "state_code": "SP",
+        "result_type": "building",
+        "formatted": "Rua Lafaiete 1045, Centro, Ribeirão Preto - SP, 14015-080, Brazil",
+        "address_line1": "Rua Lafaiete 1045",
+        "address_line2": "Centro, Ribeirão Preto - SP, 14015-080, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR59V+86",
+        "plus_code_short": "9V+86 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bb62459948e747c0598dd276d4832e35c0f00102f9015b55681200000000c00203",
+        "bbox": {
+          "lon1": -47.806953,
+          "lat1": -21.1817491,
+          "lon2": -47.806853,
+          "lat2": -21.1816491
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Lafaiete, 1045 | Centro, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1045 |",
+        "street": "r. lafaiete",
+        "suburb": "centro",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Henrique Dumont, 1265 | Jardim Paulista, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Henrique Dumont",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14085-280",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim Paulista",
+        "street": "Rua Henrique Dumont",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8006035,
+        "lat": -21.1773144,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Henrique Dumont, Jardim Paulista, Ribeirão Preto - SP, 14085-280, Brazil",
+        "address_line1": "Rua Henrique Dumont",
+        "address_line2": "Jardim Paulista, Ribeirão Preto - SP, 14085-280, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5FX+3Q",
+        "plus_code_short": "FX+3Q Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5115c8ec2c7ae647c059201cfd79642d35c0f00102f9010db23d0a00000000c002049203135275612048656e72697175652044756d6f6e74",
+        "bbox": {
+          "lon1": -47.8020769,
+          "lat1": -21.1784425,
+          "lon2": -47.7990908,
+          "lat2": -21.1761352
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Henrique Dumont, 1265 | Jardim Paulista, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1265 |",
+        "street": "r. henrique dumont",
+        "suburb": "jardim paulista",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Daniel Kujawski, 930 | Jardim Macedo, Ribeirão Preto - SP": {
+    "results": [],
+    "query": {
+      "text": "R. Daniel Kujawski, 930 | Jardim Macedo, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "930 |",
+        "street": "r. daniel kujawski",
+        "suburb": "jardim macedo",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Visconde do Rio Branco, 710 | Centro, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14015-020",
+        "district": "Ribeirão Preto",
+        "suburb": "Centro",
+        "street": "Rua Visconde do Rio Branco",
+        "housenumber": "710",
+        "iso3166_2": "BR-SP",
+        "lon": -47.806348168639055,
+        "lat": -21.17423325887574,
+        "state_code": "SP",
+        "result_type": "building",
+        "formatted": "Rua Visconde do Rio Branco 710, Centro, Ribeirão Preto - SP, 14015-020, Brazil",
+        "address_line1": "Rua Visconde do Rio Branco 710",
+        "address_line2": "Centro, Ribeirão Preto - SP, 14015-020, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5GV+8F",
+        "plus_code_short": "GV+8F Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5143bfb26a36e747c0592fbf048d9a2c35c0f00102f9014745b71200000000c00203",
+        "bbox": {
+          "lon1": -47.8063982,
+          "lat1": -21.1742833,
+          "lon2": -47.8062982,
+          "lat2": -21.1741833
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Visconde do Rio Branco, 710 | Centro, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "710 |",
+        "street": "rua visconde do rio branco",
+        "suburb": "centro",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Luiz Barreto, 273 | Campos Elíseos, Ribeirão Preto - SP": {
+    "results": [],
+    "query": {
+      "text": "R. Luiz Barreto, 273 | Campos Elíseos, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "273 |",
+        "street": "r. luiz barreto",
+        "suburb": "campos elíseos",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Sérgio Aché, 71 | Planalto Verde, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "71",
+        "street": "Rua Sergio Ache",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "14056-440",
+        "state": "Southeast",
+        "district": "Ribeirão Preto",
+        "city": "Ribeirao Preto",
+        "county_code": "SP",
+        "lon": -47.835152,
+        "lat": -21.139323,
+        "result_type": "building",
+        "formatted": "Rua Sergio Ache 71, Ribeirão Preto, Ribeirao Preto - Southeast, 14056-440, Brazil",
+        "address_line1": "Rua Sergio Ache 71",
+        "address_line2": "Ribeirão Preto, Ribeirao Preto - Southeast, 14056-440, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJV567+7W",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513198bf42e6ea47c059a39410acaa2335c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a32656433323730323039356463653635"
+      }
+    ],
+    "query": {
+      "text": "R. Sérgio Aché, 71 | Planalto Verde, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "71 |",
+        "street": "r. sérgio aché",
+        "suburb": "planalto verde",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. São José, 610 | Centro, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14015-050",
+        "district": "Ribeirão Preto",
+        "suburb": "Centro",
+        "street": "Rua São José",
+        "housenumber": "610",
+        "iso3166_2": "BR-SP",
+        "lon": -47.80663476521739,
+        "lat": -21.179891626086956,
+        "state_code": "SP",
+        "result_type": "building",
+        "formatted": "Rua São José 610, Centro, Ribeirão Preto - SP, 14015-050, Brazil",
+        "address_line1": "Rua São José 610",
+        "address_line2": "Centro, Ribeirão Preto - SP, 14015-050, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5CV+28",
+        "plus_code_short": "CV+28 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517136d8ce3fe747c05924deaa600d2e35c0f00102f901fc502f1200000000c00203",
+        "bbox": {
+          "lon1": -47.8066848,
+          "lat1": -21.1799416,
+          "lon2": -47.8065848,
+          "lat2": -21.1798416
+        }
+      }
+    ],
+    "query": {
+      "text": "R. São José, 610 | Centro, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "610 |",
+        "street": "r. são josé",
+        "suburb": "centro",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Piracicaba, 760 | Jardim Paulista, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Piracicaba",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14090-680",
+        "district": "Ribeirão Preto",
+        "suburb": "Jardim Palmares",
+        "street": "Rua Piracicaba",
+        "iso3166_2": "BR-SP",
+        "lon": -47.7855884,
+        "lat": -21.1851919,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Piracicaba, Jardim Palmares, Ribeirão Preto - SP, 14090-680, Brazil",
+        "address_line1": "Rua Piracicaba",
+        "address_line2": "Jardim Palmares, Ribeirão Preto - SP, 14090-680, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR677+WQ",
+        "plus_code_short": "R677+WQ Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f90e23298ee447c059eefb81bc682f35c0f00102f901611bf01100000000c0020492030e5275612050697261636963616261",
+        "bbox": {
+          "lon1": -47.7860105,
+          "lat1": -21.1854974,
+          "lon2": -47.7851653,
+          "lat2": -21.184885
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Piracicaba, 760 | Jardim Paulista, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "760 |",
+        "street": "r. piracicaba",
+        "suburb": "jardim paulista",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Américo Brasiliense, 1193 | Centro, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14015-050",
+        "district": "Ribeirão Preto",
+        "suburb": "Centro",
+        "street": "Rua Américo Brasiliense",
+        "housenumber": "1193",
+        "iso3166_2": "BR-SP",
+        "lon": -47.804734,
+        "lat": -21.1808946,
+        "state_code": "SP",
+        "result_type": "building",
+        "formatted": "Rua Américo Brasiliense 1193, Centro, Ribeirão Preto - SP, 14015-050, Brazil",
+        "address_line1": "Rua Américo Brasiliense 1193",
+        "address_line2": "Centro, Ribeirão Preto - SP, 14015-050, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR59W+J4",
+        "plus_code_short": "9W+J4 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 6.571068894479313e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5159fd118601e747c059e305c71b4f2e35c0f00103f9017f0e7d1403000000c00203",
+        "bbox": {
+          "lon1": -47.804784,
+          "lat1": -21.1809446,
+          "lon2": -47.804684,
+          "lat2": -21.1808446
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Américo Brasiliense, 1193 | Centro, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "1193 |",
+        "street": "r. américo brasiliense",
+        "suburb": "centro",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Santos Dumont, 980 | Vila Tibério, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Santos Dumont",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14055-030",
+        "district": "Ribeirão Preto",
+        "suburb": "Sumarezinho",
+        "street": "Rua Santos Dumont",
+        "iso3166_2": "BR-SP",
+        "lon": -47.8245646,
+        "lat": -21.1651709,
+        "state_code": "SP",
+        "result_type": "amenity",
+        "formatted": "Rua Santos Dumont, Sumarezinho, Ribeirão Preto - SP, 14055-030, Brazil",
+        "address_line1": "Rua Santos Dumont",
+        "address_line2": "Sumarezinho, Ribeirão Preto - SP, 14055-030, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5MG+W5",
+        "plus_code_short": "MG+W5 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 0.05339904402227814,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "513c3833558be947c0593ac0dda3482a35c0f00102f9018d2d630d00000000c002019203115275612053616e746f732044756d6f6e74",
+        "bbox": {
+          "lon1": -47.8246113,
+          "lat1": -21.165205,
+          "lon2": -47.824518,
+          "lat2": -21.1651368
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Santos Dumont, 980 | Vila Tibério, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "980 |",
+        "street": "rua santos dumont",
+        "suburb": "vila tibério",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Américo Brasiliense, 968 | Centro, Ribeirão Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Ribeirão Preto",
+        "state_district": "Região Geográfica Intermediária de Ribeirão Preto",
+        "city": "Ribeirão Preto",
+        "municipality": "Região Imediata de Ribeirão Preto",
+        "postcode": "14015-050",
+        "district": "Ribeirão Preto",
+        "suburb": "Centro",
+        "street": "Rua Américo Brasiliense",
+        "housenumber": "968",
+        "iso3166_2": "BR-SP",
+        "lon": -47.80653661258993,
+        "lat": -21.179784185971222,
+        "state_code": "SP",
+        "result_type": "building",
+        "formatted": "Rua Américo Brasiliense 968, Centro, Ribeirão Preto - SP, 14015-050, Brazil",
+        "address_line1": "Rua Américo Brasiliense 968",
+        "address_line2": "Centro, Ribeirão Preto - SP, 14015-050, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CJR5CV+39",
+        "plus_code_short": "CV+39 Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d90c7b973ce747c0599a151f56062e35c0f00102f901f4e34d1200000000c00203",
+        "bbox": {
+          "lon1": -47.8065866,
+          "lat1": -21.1798342,
+          "lon2": -47.8064866,
+          "lat2": -21.1797342
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Américo Brasiliense, 968 | Centro, Ribeirão Preto - SP",
+      "parsed": {
+        "housenumber": "968 |",
+        "street": "r. américo brasiliense",
+        "suburb": "centro",
+        "city": "ribeirão preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  }
+}

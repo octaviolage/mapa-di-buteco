@@ -1,0 +1,1400 @@
+{
+  "Rua Rodolfo Chermont, 1493 - Marambaia, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Rodolfo Chermont",
+        "other_names": {
+          "alt_name": "Praça Santuário de Nazaré",
+          "name": "Rua Rodolfo Chermont",
+          "name:pt": "Rua Rodolfo Chermont"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66035-090",
+        "district": "Belém",
+        "suburb": "Nazaré",
+        "street": "Rua Rodolfo Chermont",
+        "iso3166_2": "BR-PA",
+        "lon": -48.4820713,
+        "lat": -1.4529685,
+        "state_code": "PA",
+        "housenumber": "1493",
+        "result_type": "building",
+        "formatted": "Rua Rodolfo Chermont 1493, Nazaré, Belém - PA, 66035-090, Brazil",
+        "address_line1": "Rua Rodolfo Chermont 1493",
+        "address_line2": "Nazaré, Belém - PA, 66035-090, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHGGW9+R5",
+        "plus_code_short": "GGW9+R5, 66035-090 Belém, Brazil",
+        "rank": {
+          "importance": 0.053399382772564244,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518ceb2983b43d48c0590de4d9e55b3ff7bff00102f90104303e2c00000000c0020392031452756120526f646f6c666f20436865726d6f6e74",
+        "bbox": {
+          "lon1": -48.4828014,
+          "lat1": -1.4529967,
+          "lon2": -48.4813423,
+          "lat2": -1.4529204
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Rodolfo Chermont, 1493 - Marambaia, Belém - PA",
+      "parsed": {
+        "housenumber": "1493",
+        "street": "rua rodolfo chermont",
+        "suburb": "marambaia",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Marquês de Herval, 1405 | Pedreira, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66085-314",
+        "district": "Sacramenta",
+        "suburb": "Pedreira",
+        "street": "Avenida Marquês de Herval",
+        "housenumber": "1405",
+        "iso3166_2": "BR-PA",
+        "lon": -48.4689117,
+        "lat": -1.4285628,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Avenida Marquês de Herval 1405, Pedreira, Belém - PA, 66085-314, Brazil",
+        "address_line1": "Avenida Marquês de Herval 1405",
+        "address_line2": "Pedreira, Belém - PA, 66085-314, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHHGCJ+HC",
+        "plus_code_short": "HGCJ+HC, 66085-314 Belém, Brazil",
+        "rank": {
+          "importance": 6.604943923089978e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511b1b704c053c48c059d883a4aa64dbf6bff00103f901c1a3168001000000c00203",
+        "bbox": {
+          "lon1": -48.4689617,
+          "lat1": -1.4286128,
+          "lon2": -48.4688617,
+          "lat2": -1.4285128
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Marquês de Herval, 1405 | Pedreira, Belém - PA",
+      "parsed": {
+        "housenumber": "1405 |",
+        "street": "av. marquês de herval",
+        "suburb": "pedreira",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Triunvirato, 303 | Cidade Velha, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66020-635",
+        "district": "Belém",
+        "suburb": "Cidade Velha",
+        "street": "Rua Triunvirato",
+        "housenumber": "303",
+        "iso3166_2": "BR-PA",
+        "lon": -48.500718783541515,
+        "lat": -1.4629002624652594,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Rua Triunvirato 303, Cidade Velha, Belém - PA, 66020-635, Brazil",
+        "address_line1": "Rua Triunvirato 303",
+        "address_line2": "Cidade Velha, Belém - PA, 66020-635, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHGFPX+RP",
+        "plus_code_short": "PX+RP, 66020-635 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e0e6978d174048c059d791091b0a68f7bff00102f901bbe8772700000000c00203",
+        "bbox": {
+          "lon1": -48.5007688,
+          "lat1": -1.4629503,
+          "lon2": -48.5006688,
+          "lat2": -1.4628503
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Triunvirato, 303 | Cidade Velha, Belém - PA",
+      "parsed": {
+        "housenumber": "303 |",
+        "street": "rua triunvirato",
+        "suburb": "cidade velha",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Marquês de Herval, 1364 | Pedreira, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66085-314",
+        "district": "Sacramenta",
+        "suburb": "Pedreira",
+        "street": "Avenida Marquês de Herval",
+        "housenumber": "1364",
+        "iso3166_2": "BR-PA",
+        "lon": -48.468421461866164,
+        "lat": -1.4286146667558226,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Avenida Marquês de Herval 1364, Pedreira, Belém - PA, 66085-314, Brazil",
+        "address_line1": "Avenida Marquês de Herval 1364",
+        "address_line2": "Pedreira, Belém - PA, 66085-314, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHHGCJ+HJ",
+        "plus_code_short": "HGCJ+HJ, 66085-314 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d7ba053cf53b48c059ccd5840d9bdbf6bff00102f9011283f92800000000c00203",
+        "bbox": {
+          "lon1": -48.4684715,
+          "lat1": -1.4286647,
+          "lon2": -48.4683715,
+          "lat2": -1.4285647
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Marquês de Herval, 1364 | Pedreira, Belém - PA",
+      "parsed": {
+        "housenumber": "1364 |",
+        "street": "avenida marquês de herval",
+        "suburb": "pedreira",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Bernal do Couto, 579 | Umarizal, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66055-080",
+        "district": "Belém",
+        "suburb": "Umarizal",
+        "street": "Rua Bernal do Couto",
+        "housenumber": "579",
+        "iso3166_2": "BR-PA",
+        "lon": -48.485163011314874,
+        "lat": -1.4412901852700104,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Rua Bernal do Couto 579, Umarizal, Belém - PA, 66055-080, Brazil",
+        "address_line1": "Rua Bernal do Couto 579",
+        "address_line2": "Umarizal, Belém - PA, 66055-080, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHHG57+FW",
+        "plus_code_short": "HG57+FW, 66055-080 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c36951d2193e48c059d47c1c4c860ff7bff00102f901a8cd572900000000c00203",
+        "bbox": {
+          "lon1": -48.485213,
+          "lat1": -1.4413402,
+          "lon2": -48.485113,
+          "lat2": -1.4412402
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Bernal do Couto, 579 | Umarizal, Belém - PA",
+      "parsed": {
+        "housenumber": "579 |",
+        "street": "r. bernal do couto",
+        "suburb": "umarizal",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Duque de Caxias, 987 | Marco, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66093-027",
+        "district": "Belém",
+        "suburb": "Marco",
+        "street": "Avenida Duque de Caxias",
+        "housenumber": "987",
+        "iso3166_2": "BR-PA",
+        "lon": -48.4636183,
+        "lat": -1.4321009,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Avenida Duque de Caxias 987, Marco, Belém - PA, 66093-027, Brazil",
+        "address_line1": "Avenida Duque de Caxias 987",
+        "address_line2": "Marco, Belém - PA, 66093-027, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHHG9P+5H",
+        "plus_code_short": "HG9P+5H, 66093-027 Belém, Brazil",
+        "rank": {
+          "importance": 6.604943923089978e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51df292ed8573b48c059982721a2e2e9f6bff00103f901444d618101000000c00203",
+        "bbox": {
+          "lon1": -48.4636683,
+          "lat1": -1.4321509,
+          "lon2": -48.4635683,
+          "lat2": -1.4320509
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Duque de Caxias, 987 | Marco, Belém - PA",
+      "parsed": {
+        "housenumber": "987 |",
+        "street": "av. duque de caxias",
+        "suburb": "marco",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Veiga Cabral, 439 | Cidade Velha, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Veiga Cabral",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66023-725",
+        "district": "Belém",
+        "suburb": "Cidade Velha",
+        "street": "Rua Veiga Cabral",
+        "iso3166_2": "BR-PA",
+        "lon": -48.5000684,
+        "lat": -1.4645389,
+        "state_code": "PA",
+        "result_type": "street",
+        "formatted": "Rua Veiga Cabral, Cidade Velha, Belém - PA, 66023-725, Brazil",
+        "address_line1": "Rua Veiga Cabral",
+        "address_line2": "Cidade Velha, Belém - PA, 66023-725, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHGFPX+5X",
+        "plus_code_short": "PX+5X, 66023-725 Belém, Brazil",
+        "rank": {
+          "importance": 0.053399382772564244,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ace1c73d024048c0595c847357c06ef7bff00102f901954c6a0200000000c002049203105275612056656967612043616272616c",
+        "bbox": {
+          "lon1": -48.502354,
+          "lat1": -1.4662986,
+          "lon2": -48.4977829,
+          "lat2": -1.4627791
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Veiga Cabral, 439 | Cidade Velha, Belém - PA",
+      "parsed": {
+        "housenumber": "439 |",
+        "street": "r. veiga cabral",
+        "suburb": "cidade velha",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Santarém, 670 | Marambaia, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66620-120",
+        "district": "Entroncamento",
+        "suburb": "Marambaia",
+        "street": "Avenida Santarém",
+        "housenumber": "670",
+        "iso3166_2": "BR-PA",
+        "lon": -48.4577348627907,
+        "lat": -1.395495841860465,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Avenida Santarém 670, Marambaia, Belém - PA, 66620-120, Brazil",
+        "address_line1": "Avenida Santarém 670",
+        "address_line2": "Marambaia, Belém - PA, 66620-120, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHJG3R+RW",
+        "plus_code_short": "JG3R+RW, 66620-120 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516af6540e973a48c0593beaa772f353f6bff00102f90138a9032800000000c00203",
+        "bbox": {
+          "lon1": -48.4577849,
+          "lat1": -1.3955458,
+          "lon2": -48.4576849,
+          "lat2": -1.3954458
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Santarém, 670 | Marambaia, Belém - PA",
+      "parsed": {
+        "housenumber": "670 |",
+        "street": "avenida santarém",
+        "suburb": "marambaia",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Trav. Cristóvão Colombo, 1439 | Cruzeiro (Icoaraci), Belém - PA": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "town": "Outeiro",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66843-400",
+        "district": "Outeiro",
+        "suburb": "Água Boa",
+        "street": "Travessa Cristovão Colombo",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "PA",
+        "lon": -48.4586316,
+        "lat": -1.2561701,
+        "housenumber": "1439",
+        "result_type": "building",
+        "formatted": "Travessa Cristovão Colombo 1439, Água Boa, Belém - PA, 66843-400, Brazil",
+        "address_line1": "Travessa Cristovão Colombo 1439",
+        "address_line2": "Água Boa, Belém - PA, 66843-400, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHPGVR+GG",
+        "plus_code_short": "PGVR+GG, 66843-400 Belém, Brazil",
+        "iso3166_2": "BR-PA",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c174b570b43a48c059a7689bd14519f4bff00102f90106fb664100000000c00203",
+        "bbox": {
+          "lon1": -48.4589381,
+          "lat1": -1.2564993,
+          "lon2": -48.4583252,
+          "lat2": -1.2558409
+        }
+      }
+    ],
+    "query": {
+      "text": "Trav. Cristóvão Colombo, 1439 | Cruzeiro (Icoaraci), Belém - PA",
+      "parsed": {
+        "housenumber": "1439",
+        "street": "trav. cristóvão colombo",
+        "district": "icoaraci",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Travessa Nove de Janeiro, 2233 | Cremação, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Travessa 9 de Janeiro",
+        "other_names": {
+          "alt_name": "Travessa Nove de Janeiro"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66065-030",
+        "district": "Guamá",
+        "suburb": "Cremação",
+        "street": "Travessa 9 de Janeiro",
+        "iso3166_2": "BR-PA",
+        "lon": -48.4751119,
+        "lat": -1.4655131,
+        "state_code": "PA",
+        "result_type": "street",
+        "formatted": "Travessa 9 de Janeiro, Cremação, Belém - PA, 66065-030, Brazil",
+        "address_line1": "Travessa 9 de Janeiro",
+        "address_line2": "Cremação, Belém - PA, 66065-030, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHGGMF+QX",
+        "plus_code_short": "GGMF+QX, 66065-030 Belém, Brazil",
+        "rank": {
+          "importance": 0.053399382772564244,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5160387c77d03c48c059d4c045ddbd72f7bff00102f90132ae8a1400000000c0020492031554726176657373612039206465204a616e6569726f",
+        "bbox": {
+          "lon1": -48.4751682,
+          "lat1": -1.4670314,
+          "lon2": -48.4750455,
+          "lat2": -1.4639939
+        }
+      }
+    ],
+    "query": {
+      "text": "Travessa Nove de Janeiro, 2233 | Cremação, Belém - PA",
+      "parsed": {
+        "housenumber": "2233 |",
+        "street": "travessa nove de janeiro",
+        "suburb": "cremação",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "WE 9B, 231 | Coqueiro, Ananindeua - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Ananindeua",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "67030-170",
+        "district": "Ananindeua",
+        "suburb": "Coqueiro",
+        "iso3166_2": "BR-PA",
+        "lon": -48.3579653,
+        "lat": -1.3381511,
+        "state_code": "PA",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Coqueiro, Ananindeua, PA, Brazil",
+        "address_line1": "Coqueiro",
+        "address_line2": "Ananindeua, PA, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHMJ6R+PR",
+        "plus_code_short": "MJ6R+PR Ananindeua, Região Geográfica Intermediária de Belém, Brazil",
+        "rank": {
+          "importance": 0.1467205668726634,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51294d94ced12d48c059ebb3b9201169f5bff00103f90179c193b702000000c00205",
+        "bbox": {
+          "lon1": -48.3779653,
+          "lat1": -1.3581511,
+          "lon2": -48.3379653,
+          "lat2": -1.3181511
+        }
+      }
+    ],
+    "query": {
+      "text": "WE 9B, 231 | Coqueiro, Ananindeua - PA",
+      "parsed": {
+        "unit": "we 9b",
+        "housenumber": "231",
+        "street": "|",
+        "suburb": "coqueiro",
+        "city": "ananindeua",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Cmte. Brás de Aguiar, 492 | Nazaré, Belém - PA": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "492",
+        "street": "Avenida Comandante Bras De Aguiar",
+        "country": "Brazil",
+        "county": "Para",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "66035-405",
+        "state": "North",
+        "district": "Belém",
+        "city": "Belem",
+        "county_code": "PA",
+        "lon": -48.487436,
+        "lat": -1.454685,
+        "result_type": "building",
+        "formatted": "Avenida Comandante Bras De Aguiar 492, Belém, Belem - North, 66035-405, Brazil",
+        "address_line1": "Avenida Comandante Bras De Aguiar 492",
+        "address_line2": "Belém, Belem - North, 66035-405, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHGGW7+42",
+        "rank": {
+          "confidence": 0.81,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "confidence_building_level": 0.81,
+          "match_type": "full_match"
+        },
+        "place_id": "515072874d643e48c0594ab54fc76346f7bfc00203e203466f70656e6164647265737365733a616464726573733a62722f70612f7374617465776964652d6164647265737365732d73746174653a34323734333537356532373031633433"
+      }
+    ],
+    "query": {
+      "text": "Av. Cmte. Brás de Aguiar, 492 | Nazaré, Belém - PA",
+      "parsed": {
+        "housenumber": "492 |",
+        "street": "av. cmte. brás de aguiar",
+        "suburb": "nazaré",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Travessa WE 16, 172 -Cidade Nova, Ananindeua - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Travessa WE 16",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Ananindeua",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "67630-000",
+        "district": "Ananindeua",
+        "neighbourhood": "Cidade Nova II",
+        "suburb": "Vila Tóquio",
+        "street": "Travessa WE 16",
+        "iso3166_2": "BR-PA",
+        "lon": -48.407574,
+        "lat": -1.368226,
+        "state_code": "PA",
+        "housenumber": "172",
+        "result_type": "building",
+        "formatted": "Travessa WE 16 172, Vila Tóquio, Cidade Nova II, Ananindeua - PA, 67630-000, Brazil",
+        "address_line1": "Travessa WE 16 172",
+        "address_line2": "Vila Tóquio, Cidade Nova II, Ananindeua - PA, 67630-000, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHJHJR+PX",
+        "plus_code_short": "JHJR+PX Ananindeua, Região Geográfica Intermediária de Belém, Brazil",
+        "rank": {
+          "importance": 0.053387233539330094,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51965984622b3448c059209738f240e4f5bfc0020392030e5472617665737361205745203136e203266f70656e6164647265737365733a616464726573733a64396365633565666133373764353731",
+        "bbox": {
+          "lon1": -48.4075827,
+          "lat1": -1.3682604,
+          "lon2": -48.4058407,
+          "lat2": -1.3682288
+        }
+      }
+    ],
+    "query": {
+      "text": "Travessa WE 16, 172 -Cidade Nova, Ananindeua - PA",
+      "parsed": {
+        "housenumber": "172",
+        "street": "travessa we 16",
+        "suburb": "cidade nova",
+        "city": "ananindeua",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Travessa WE-51, 221 | Coqueiro, Ananindeua - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Ananindeua",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "67030-170",
+        "district": "Ananindeua",
+        "suburb": "Coqueiro",
+        "iso3166_2": "BR-PA",
+        "lon": -48.3579653,
+        "lat": -1.3381511,
+        "state_code": "PA",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Coqueiro, Ananindeua, PA, Brazil",
+        "address_line1": "Coqueiro",
+        "address_line2": "Ananindeua, PA, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHMJ6R+PR",
+        "plus_code_short": "MJ6R+PR Ananindeua, Região Geográfica Intermediária de Belém, Brazil",
+        "rank": {
+          "importance": 0.1467205668726634,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51294d94ced12d48c059ebb3b9201169f5bff00103f90179c193b702000000c00205",
+        "bbox": {
+          "lon1": -48.3779653,
+          "lat1": -1.3581511,
+          "lon2": -48.3379653,
+          "lat2": -1.3181511
+        }
+      }
+    ],
+    "query": {
+      "text": "Travessa WE-51, 221 | Coqueiro, Ananindeua - PA",
+      "parsed": {
+        "housenumber": "221",
+        "street": "|",
+        "suburb": "coqueiro",
+        "city": "ananindeua",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Diogo Móia, 947 | Umarizal, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66055-170",
+        "district": "Belém",
+        "suburb": "Umarizal",
+        "street": "Rua Diogo Móia",
+        "housenumber": "947",
+        "iso3166_2": "BR-PA",
+        "lon": -48.480763605118675,
+        "lat": -1.4421511837554242,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Rua Diogo Móia 947, Umarizal, Belém - PA, 66055-170, Brazil",
+        "address_line1": "Rua Diogo Móia 947",
+        "address_line2": "Umarizal, Belém - PA, 66055-170, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHHG59+4M",
+        "plus_code_short": "HG59+4M, 66055-170 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bf8b6ca9893d48c05930e0a11e0d13f7bff00102f901b2cd572900000000c00203",
+        "bbox": {
+          "lon1": -48.4808136,
+          "lat1": -1.4422012,
+          "lon2": -48.4807136,
+          "lat2": -1.4421012
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Diogo Móia, 947 | Umarizal, Belém - PA",
+      "parsed": {
+        "housenumber": "947 |",
+        "street": "r. diogo móia",
+        "suburb": "umarizal",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Almirante Tamandaré, 123  | Cidade Velha, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66020-000",
+        "district": "Belém",
+        "suburb": "Cidade Velha",
+        "street": "Avenida Almirante Tamandaré",
+        "housenumber": "123",
+        "iso3166_2": "BR-PA",
+        "lon": -48.5041549,
+        "lat": -1.4615437,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Avenida Almirante Tamandaré 123, Cidade Velha, Belém - PA, 66020-000, Brazil",
+        "address_line1": "Avenida Almirante Tamandaré 123",
+        "address_line2": "Cidade Velha, Belém - PA, 66020-000, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHGFQW+98",
+        "plus_code_short": "QW+98, 66020-000 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5120cfd325884048c05920cc92a57b62f7bff00102f901dc8e7c2700000000c00203",
+        "bbox": {
+          "lon1": -48.5042049,
+          "lat1": -1.4615937,
+          "lon2": -48.5041049,
+          "lat2": -1.4614937
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Almirante Tamandaré, 123  | Cidade Velha, Belém - PA",
+      "parsed": {
+        "housenumber": "123 |",
+        "street": "av. almirante tamandaré",
+        "suburb": "cidade velha",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Marquês de Herval, 954 | Pedreira, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66085-313",
+        "district": "Sacramenta",
+        "suburb": "Pedreira",
+        "street": "Avenida Marquês de Herval",
+        "housenumber": "954",
+        "iso3166_2": "BR-PA",
+        "lon": -48.47058916361896,
+        "lat": -1.4318547089275513,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Avenida Marquês de Herval 954, Pedreira, Belém - PA, 66085-313, Brazil",
+        "address_line1": "Avenida Marquês de Herval 954",
+        "address_line2": "Pedreira, Belém - PA, 66085-313, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHHG9H+7Q",
+        "plus_code_short": "HG9H+7Q, 66085-313 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5137cc05443c3c48c0599a7ab77be0e8f6bff00102f9011483f92800000000c00203",
+        "bbox": {
+          "lon1": -48.4706392,
+          "lat1": -1.4319047,
+          "lon2": -48.4705392,
+          "lat2": -1.4318047
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Marquês de Herval, 954 | Pedreira, Belém - PA",
+      "parsed": {
+        "housenumber": "954 |",
+        "street": "avenida marquês de herval",
+        "suburb": "pedreira",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Tv. Bom Jardim, 67 | Cidade Velha, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66020-090",
+        "district": "Belém",
+        "suburb": "Cidade Velha",
+        "street": "Travessa Bom Jardim",
+        "housenumber": "67",
+        "iso3166_2": "BR-PA",
+        "lon": -48.50121035881078,
+        "lat": -1.461186852489073,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Travessa Bom Jardim 67, Cidade Velha, Belém - PA, 66020-090, Brazil",
+        "address_line1": "Travessa Bom Jardim 67",
+        "address_line2": "Cidade Velha, Belém - PA, 66020-090, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHGFQX+GG",
+        "plus_code_short": "QX+GG, 66020-090 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511ec139a9274048c05969920c770561f7bff00102f901ca63a52700000000c00203",
+        "bbox": {
+          "lon1": -48.5012604,
+          "lat1": -1.4612369,
+          "lon2": -48.5011604,
+          "lat2": -1.4611369
+        }
+      }
+    ],
+    "query": {
+      "text": "Tv. Bom Jardim, 67 | Cidade Velha, Belém - PA",
+      "parsed": {
+        "housenumber": "67 |",
+        "street": "tv. bom jardim",
+        "suburb": "cidade velha",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua do Arsenal, 289 | Cidade Velha, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66023-110",
+        "district": "Guamá",
+        "suburb": "Cidade Velha",
+        "street": "Rua do Arsenal",
+        "housenumber": "289",
+        "iso3166_2": "BR-PA",
+        "lon": -48.5023454,
+        "lat": -1.4659703,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Rua do Arsenal 289, Cidade Velha, Belém - PA, 66023-110, Brazil",
+        "address_line1": "Rua do Arsenal 289",
+        "address_line2": "Cidade Velha, Belém - PA, 66023-110, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHGFMX+J3",
+        "plus_code_short": "MX+J3, 66023-110 Belém, Brazil",
+        "rank": {
+          "importance": 6.604943923089978e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e525a4da4c4048c0595684f6459d74f7bff00103f9014d80117401000000c00203",
+        "bbox": {
+          "lon1": -48.5023954,
+          "lat1": -1.4660203,
+          "lon2": -48.5022954,
+          "lat2": -1.4659203
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua do Arsenal, 289 | Cidade Velha, Belém - PA",
+      "parsed": {
+        "housenumber": "289 |",
+        "street": "rua do arsenal",
+        "suburb": "cidade velha",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Marquês de Herval, 1201 | Pedreira, Belém - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Belém",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "66085-314",
+        "district": "Sacramenta",
+        "suburb": "Pedreira",
+        "street": "Avenida Marquês de Herval",
+        "housenumber": "1201",
+        "iso3166_2": "BR-PA",
+        "lon": -48.469950889685755,
+        "lat": -1.4300966341072299,
+        "state_code": "PA",
+        "result_type": "building",
+        "formatted": "Avenida Marquês de Herval 1201, Pedreira, Belém - PA, 66085-314, Brazil",
+        "address_line1": "Avenida Marquês de Herval 1201",
+        "address_line2": "Pedreira, Belém - PA, 66085-314, Brazil",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHHG9J+X2",
+        "plus_code_short": "HG9J+X2, 66085-314 Belém, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5195f6ca59273c48c05981c31902ade1f6bff00102f9011383f92800000000c00203",
+        "bbox": {
+          "lon1": -48.4700009,
+          "lat1": -1.4301466,
+          "lon2": -48.4699009,
+          "lat2": -1.4300466
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Marquês de Herval, 1201 | Pedreira, Belém - PA",
+      "parsed": {
+        "housenumber": "1201 |",
+        "street": "avenida marquês de herval",
+        "suburb": "pedreira",
+        "city": "belém",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Tv. WE Vinte e Cinco, 161 | Coqueiro, Ananindeua - PA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Pará",
+        "county": "Região Geográfica Intermediária de Belém",
+        "city": "Ananindeua",
+        "municipality": "Região Geográfica Imediata de Belém",
+        "postcode": "67030-170",
+        "district": "Ananindeua",
+        "suburb": "Coqueiro",
+        "iso3166_2": "BR-PA",
+        "lon": -48.3579653,
+        "lat": -1.3381511,
+        "state_code": "PA",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Coqueiro, Ananindeua, PA, Brazil",
+        "address_line1": "Coqueiro",
+        "address_line2": "Ananindeua, PA, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Belem",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "68CHMJ6R+PR",
+        "plus_code_short": "MJ6R+PR Ananindeua, Região Geográfica Intermediária de Belém, Brazil",
+        "rank": {
+          "importance": 0.1467205668726634,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51294d94ced12d48c059ebb3b9201169f5bff00103f90179c193b702000000c00205",
+        "bbox": {
+          "lon1": -48.3779653,
+          "lat1": -1.3581511,
+          "lon2": -48.3379653,
+          "lat2": -1.3181511
+        }
+      }
+    ],
+    "query": {
+      "text": "Tv. WE Vinte e Cinco, 161 | Coqueiro, Ananindeua - PA",
+      "parsed": {
+        "housenumber": "161",
+        "street": "|",
+        "suburb": "coqueiro",
+        "city": "ananindeua",
+        "state": "pa",
+        "expected_type": "building"
+      }
+    }
+  }
+}

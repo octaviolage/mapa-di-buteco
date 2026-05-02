@@ -1,0 +1,1596 @@
+{
+  "R. Desembargador Lima Castro, 66 | Fonseca, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Desembargador Lima Castro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Norte",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24120-250",
+        "suburb": "Fonseca",
+        "street": "Rua Desembargador Lima Castro",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.0869171,
+        "lat": -22.8872249,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Desembargador Lima Castro, Fonseca, Niterói - RJ, 24120-250, Brazil",
+        "address_line1": "Rua Desembargador Lima Castro",
+        "address_line2": "Fonseca, Niterói - RJ, 24120-250, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4W77+46",
+        "plus_code_short": "4W77+46 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5149fb7a19208b45c05966b2c92b21e336c0f00102f9018613f20e00000000c0020492031d52756120446573656d6261726761646f72204c696d612043617374726f",
+        "bbox": {
+          "lon1": -43.0884507,
+          "lat1": -22.888161,
+          "lon2": -43.0862659,
+          "lat2": -22.8855117
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Desembargador Lima Castro, 66 | Fonseca, Niterói - RJ",
+      "parsed": {
+        "housenumber": "66 |",
+        "street": "r. desembargador lima castro",
+        "suburb": "fonseca",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Cruzeiro, 317 | Ilha da Conceição, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Cruzeiro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Norte",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24050-350",
+        "suburb": "Ilha da Conceição",
+        "street": "Rua Cruzeiro",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1147864,
+        "lat": -22.8703057,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Cruzeiro, Ilha da Conceição, Niterói - RJ, 24050-350, Brazil",
+        "address_line1": "Rua Cruzeiro",
+        "address_line2": "Ilha da Conceição, Niterói - RJ, 24050-350, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4VHP+V3",
+        "plus_code_short": "HP+V3 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5146031d52b18e45c059bb05b75accde36c0f00102f901f6f2b00f00000000c0020492030c527561204372757a6569726f",
+        "bbox": {
+          "lon1": -43.1150848,
+          "lat1": -22.8707963,
+          "lon2": -43.1147357,
+          "lat2": -22.8696749
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Cruzeiro, 317 | Ilha da Conceição, Niterói - RJ",
+      "parsed": {
+        "housenumber": "317 |",
+        "street": "rua cruzeiro",
+        "suburb": "ilha da conceição",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Praia de Itaipu, 24 | Itaipu, Niterói - RJ": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "24",
+        "street": "Praia Itaipu",
+        "country": "Brazil",
+        "county": "Rio De Janeiro",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "24340-330",
+        "state": "Southeast",
+        "city": "Niteroi",
+        "county_code": "RJ",
+        "lon": -43.045427,
+        "lat": -22.972979,
+        "result_type": "building",
+        "formatted": "Praia Itaipu 24, Niteroi - Southeast, 24340-330, Brazil",
+        "address_line1": "Praia Itaipu 24",
+        "address_line2": "Niteroi - Southeast, 24340-330, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R2XG3+RR",
+        "rank": {
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "confidence_building_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "517dad4b8dd08545c059ddb1d82615f936c0c00203e203466f70656e6164647265737365733a616464726573733a62722f726a2f7374617465776964652d6164647265737365732d73746174653a35633931613663623061353834343562"
+      }
+    ],
+    "query": {
+      "text": "Praia de Itaipu, 24 | Itaipu, Niterói - RJ",
+      "parsed": {
+        "housenumber": "24 | itaipu",
+        "street": "praia de itaipu",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Visconde de Morais, 270 | Ingá, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Visconde de Morais",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24220-480",
+        "suburb": "Ingá",
+        "quarter": "Morro do Palácio",
+        "street": "Rua Visconde de Morais",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1254622,
+        "lat": -22.9013907,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Visconde de Morais, Ingá, Niterói - RJ, 24220-480, Brazil",
+        "address_line1": "Rua Visconde de Morais",
+        "address_line2": "Ingá, Niterói - RJ, 24220-480, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3VXF+CR",
+        "plus_code_short": "3VXF+CR Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "512ef136250f9045c059266b798ac1e636c0f00102f901bf6f320700000000c0020492031652756120566973636f6e6465206465204d6f72616973",
+        "bbox": {
+          "lon1": -43.1261599,
+          "lat1": -22.9034489,
+          "lon2": -43.1254403,
+          "lat2": -22.8995093
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Visconde de Morais, 270 | Ingá, Niterói - RJ",
+      "parsed": {
+        "housenumber": "270 |",
+        "street": "r. visconde de morais",
+        "suburb": "ingá",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Visconde de Itaboraí, 196 | Centro, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24030-092",
+        "suburb": "Centro",
+        "street": "Rua Visconde de Itaboraí",
+        "housenumber": "196",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1223499,
+        "lat": -22.8860735,
+        "state_code": "RJ",
+        "result_type": "building",
+        "formatted": "Rua Visconde de Itaboraí 196, Centro, Niterói - RJ, 24030-092, Brazil",
+        "address_line1": "Rua Visconde de Itaboraí 196",
+        "address_line2": "Centro, Niterói - RJ, 24030-092, Brazil",
+        "category": "building.residential",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4V7H+H3",
+        "plus_code_short": "4V7H+H3 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 8.152666514071897e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519e955929a98f45c0592d5a80b6d5e236c0f00102f90155b2192800000000c00203",
+        "bbox": {
+          "lon1": -43.122467,
+          "lat1": -22.886277,
+          "lon2": -43.1222335,
+          "lat2": -22.88587
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Visconde de Itaboraí, 196 | Centro, Niterói - RJ",
+      "parsed": {
+        "housenumber": "196 |",
+        "street": "r. visconde de itaboraí",
+        "suburb": "centro",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Vereador Duque Estrada, 50 | Santa Rosa, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Vereador Duque Estrada",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24240-660",
+        "suburb": "Santa Rosa",
+        "street": "Rua Vereador Duque Estrada",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.0985232,
+        "lat": -22.8970069,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Vereador Duque Estrada, Santa Rosa, Niterói - RJ, 24240-660, Brazil",
+        "address_line1": "Rua Vereador Duque Estrada",
+        "address_line2": "Santa Rosa, Niterói - RJ, 24240-660, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4W32+5H",
+        "plus_code_short": "32+5H Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51daf280689c8c45c0594ec9833ea2e536c0f00102f9010976b30100000000c0020492031a527561205665726561646f722044757175652045737472616461",
+        "bbox": {
+          "lon1": -43.1008418,
+          "lat1": -22.8977644,
+          "lon2": -43.0964405,
+          "lat2": -22.8966834
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Vereador Duque Estrada, 50 | Santa Rosa, Niterói - RJ",
+      "parsed": {
+        "housenumber": "50 |",
+        "street": "r. vereador duque estrada",
+        "suburb": "santa rosa",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Visconde do Uruguai, 183 | Centro, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "suburb": "Centro",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1208462,
+        "lat": -22.8888011,
+        "state_code": "RJ",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Centro, Niterói, RJ, Brazil",
+        "address_line1": "Centro",
+        "address_line2": "Niterói, RJ, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4V6H+FM",
+        "plus_code_short": "4V6H+FM Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.31074813956852465,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51466c66e3778f45c0591926097888e336c0f00101f901cbd27e0000000000c00208",
+        "bbox": {
+          "lon1": -43.1314771,
+          "lat1": -22.8992198,
+          "lon2": -43.1113714,
+          "lat2": -22.881933
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Visconde do Uruguai, 183 | Centro, Niterói - RJ",
+      "parsed": {
+        "housenumber": "183 |",
+        "street": "r. visconde do uruguai",
+        "suburb": "centro",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Estrada Caetano Monteiro, 1994 - Loja 106 | Badu, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Estrada Caetano Monteiro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Pendotiba",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24322-420",
+        "suburb": "Vila Progresso",
+        "street": "Estrada Caetano Monteiro",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.040287,
+        "lat": -22.898318,
+        "state_code": "RJ",
+        "housenumber": "1994",
+        "result_type": "building",
+        "formatted": "Estrada Caetano Monteiro 1994, Vila Progresso, Niterói - RJ, 24322-420, Brazil",
+        "address_line1": "Estrada Caetano Monteiro 1994",
+        "address_line2": "Vila Progresso, Niterói - RJ, 24322-420, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4X25+MV",
+        "plus_code_short": "4X25+MV Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.0533963752193484,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511bbad91f288545c0597b681f2bf8e536c0c00203920318457374726164612043616574616e6f204d6f6e746569726fe203266f70656e6164647265737365733a616464726573733a30393531636161346564376166616366",
+        "bbox": {
+          "lon1": -43.040356,
+          "lat1": -22.8983437,
+          "lon2": -43.0402836,
+          "lat2": -22.8982277
+        }
+      }
+    ],
+    "query": {
+      "text": "Estrada Caetano Monteiro, 1994 - Loja 106 | Badu, Niterói - RJ",
+      "parsed": {
+        "housenumber": "1994",
+        "street": "estrada caetano monteiro",
+        "suburb": "badu",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Praia de Itaipu, 23 - Loja | Itaipu, Niterói - RJ": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "23",
+        "street": "Praia Itaipu",
+        "country": "Brazil",
+        "county": "Rio De Janeiro",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "24340-330",
+        "state": "Southeast",
+        "city": "Niteroi",
+        "county_code": "RJ",
+        "lon": -43.045376,
+        "lat": -22.972838,
+        "result_type": "building",
+        "formatted": "Praia Itaipu 23, Niteroi - Southeast, 24340-330, Brazil",
+        "address_line1": "Praia Itaipu 23",
+        "address_line2": "Niteroi - Southeast, 24340-330, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R2XG3+VR",
+        "rank": {
+          "confidence": 0.81,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "confidence_building_level": 0.9,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51fb027ae1ce8545c059594e42e90bf936c0c00203e203466f70656e6164647265737365733a616464726573733a62722f726a2f7374617465776964652d6164647265737365732d73746174653a33326439316562376438323465626666"
+      }
+    ],
+    "query": {
+      "text": "Praia de Itaipu, 23 - Loja | Itaipu, Niterói - RJ",
+      "parsed": {
+        "house": "loja | itaipu",
+        "housenumber": "23",
+        "street": "praia de itaipu",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Joaquim Távora, 101 | Icaraí, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Joaquim Távora",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24230-540",
+        "suburb": "Icaraí",
+        "street": "Rua Joaquim Távora",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1067705,
+        "lat": -22.911758,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Joaquim Távora, Icaraí, Niterói - RJ, 24230-540, Brazil",
+        "address_line1": "Rua Joaquim Távora",
+        "address_line2": "Icaraí, Niterói - RJ, 24230-540, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3VQV+77",
+        "plus_code_short": "3VQV+77 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51bbd6dea7aa8d45c059cadde7f868e936c0f00102f9019cfbc00100000000c00204920313527561204a6f617175696d2054c3a1766f7261",
+        "bbox": {
+          "lon1": -43.109198,
+          "lat1": -22.912487,
+          "lon2": -43.1042592,
+          "lat2": -22.9110462
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Joaquim Távora, 101 | Icaraí, Niterói - RJ",
+      "parsed": {
+        "housenumber": "101 |",
+        "street": "rua joaquim távora",
+        "suburb": "icaraí",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Praia de Itaipu, 16 - Vila dos Pescadores | Itaipu, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "old_name": "Vila Real da Praia Grande",
+        "other_names": {
+          "old_name": "Vila Real da Praia Grande"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1147,
+        "lat": -22.8884,
+        "state_code": "RJ",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Niterói, RJ, Brazil",
+        "address_line1": "Niterói",
+        "address_line2": "RJ, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4V6P+J4",
+        "plus_code_short": "6P+J4 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.5730246527179408,
+          "confidence": 0.6,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f46c567dae8e45c05933c4b12e6ee336c0f00101f901f5e2210000000000c00208",
+        "bbox": {
+          "lon1": -43.1391,
+          "lat1": -22.9896943,
+          "lon2": -42.9430764,
+          "lat2": -22.8537916
+        }
+      }
+    ],
+    "query": {
+      "text": "Praia de Itaipu, 16 - Vila dos Pescadores | Itaipu, Niterói - RJ"
+    }
+  },
+  "Praia de Itaipu, 22 - Travessa Tereza | Itaipu, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "old_name": "Vila Real da Praia Grande",
+        "other_names": {
+          "old_name": "Vila Real da Praia Grande"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1147,
+        "lat": -22.8884,
+        "state_code": "RJ",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Niterói, RJ, Brazil",
+        "address_line1": "Niterói",
+        "address_line2": "RJ, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4V6P+J4",
+        "plus_code_short": "6P+J4 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.5730246527179408,
+          "confidence": 0.6785714285714286,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f46c567dae8e45c05933c4b12e6ee336c0f00101f901f5e2210000000000c00208",
+        "bbox": {
+          "lon1": -43.1391,
+          "lat1": -22.9896943,
+          "lon2": -42.9430764,
+          "lat2": -22.8537916
+        }
+      }
+    ],
+    "query": {
+      "text": "Praia de Itaipu, 22 - Travessa Tereza | Itaipu, Niterói - RJ"
+    }
+  },
+  "Pça. Doutor Azevedo Cruz, 2  | Ponta D’Areia, Niterói - RJ": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "2",
+        "street": "Travessa 2",
+        "country": "Brazil",
+        "county": "Rio De Janeiro",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "24230-480",
+        "state": "Southeast",
+        "city": "Niteroi",
+        "county_code": "RJ",
+        "lon": -43.091336,
+        "lat": -22.908154,
+        "result_type": "building",
+        "formatted": "Travessa 2 2, Niteroi - Southeast, 24230-480, Brazil",
+        "address_line1": "Travessa 2 2",
+        "address_line2": "Niteroi - Southeast, 24230-480, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3WR5+PF",
+        "rank": {
+          "confidence": 0.19448099999999996,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.19448099999999996,
+          "confidence_building_level": 0.19448099999999996,
+          "match_type": "full_match"
+        },
+        "place_id": "514679e6e5b08b45c05949bbd1c77ce836c0c00203e203466f70656e6164647265737365733a616464726573733a62722f726a2f7374617465776964652d6164647265737365732d73746174653a30333961613736383833653931633561"
+      }
+    ],
+    "query": {
+      "text": "Pça. Doutor Azevedo Cruz, 2  | Ponta D’Areia, Niterói - RJ",
+      "parsed": {
+        "housenumber": "2 |",
+        "street": "pça. doutor azevedo cruz",
+        "suburb": "ponta d'areia",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Almirante Tamandaré, 360 | Piratininga, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Almirante Tamandaré",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Oceânica",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24346-030",
+        "suburb": "Piratininga",
+        "street": "Avenida Almirante Tamandaré",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.0754737,
+        "lat": -22.9556636,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Avenida Almirante Tamandaré, Piratininga, Niterói - RJ, 24346-030, Brazil",
+        "address_line1": "Avenida Almirante Tamandaré",
+        "address_line2": "Piratininga, Niterói - RJ, 24346-030, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R2WVF+PR",
+        "plus_code_short": "2WVF+PR Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51a49a481fa98945c05946faa35ea6f436c0f00102f901456a481e00000000c0020492031c4176656e69646120416c6d6972616e74652054616d616e646172c3a9",
+        "bbox": {
+          "lon1": -43.0772009,
+          "lat1": -22.9559859,
+          "lon2": -43.0737459,
+          "lat2": -22.9553325
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Almirante Tamandaré, 360 | Piratininga, Niterói - RJ",
+      "parsed": {
+        "housenumber": "360 |",
+        "street": "av. almirante tamandaré",
+        "suburb": "piratininga",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Milton da Rocha Soares, 2  | Piratininga, Niterói - RJ": {
+    "results": [
+      {
+        "country_code": "br",
+        "country": "Brazil",
+        "county": "Rio De Janeiro",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Southeast",
+        "city": "Niterói",
+        "county_code": "RJ",
+        "lon": -43.08333,
+        "lat": -22.95,
+        "result_type": "suburb",
+        "suburb": "Piratininga",
+        "formatted": "Piratininga, Niterói, Southeast, Brazil",
+        "address_line1": "Piratininga",
+        "address_line2": "Niterói, Southeast, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R2WX8+XM",
+        "plus_code_short": "2WX8+XM Niterói, Rio De Janeiro, Brazil",
+        "rank": {
+          "confidence": 0.5740740740740741,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "514963b48eaa8a45c0593333333333f336c0c00205e2031f77686f736f6e66697273743a6c6f63616c6974793a31313236303538373637",
+        "bbox": {
+          "lon1": -43.10333,
+          "lat1": -22.97,
+          "lon2": -43.06333,
+          "lat2": -22.93
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Milton da Rocha Soares, 2  | Piratininga, Niterói - RJ"
+    }
+  },
+  "R. Presidente João Pessoa, 307  | Icaraí, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Presidente João Pessoa",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24220-370",
+        "suburb": "Icaraí",
+        "quarter": "Jardim Icaraí",
+        "street": "Rua Presidente João Pessoa",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1017475,
+        "lat": -22.9037943,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Presidente João Pessoa, Icaraí, Niterói - RJ, 24220-370, Brazil",
+        "address_line1": "Rua Presidente João Pessoa",
+        "address_line2": "Icaraí, Niterói - RJ, 24220-370, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3VWX+F8",
+        "plus_code_short": "3VWX+F8 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519279e40f068d45c059accf30105fe736c0f00102f901f758600700000000c0020492031b52756120507265736964656e7465204a6fc3a36f20506573736f61",
+        "bbox": {
+          "lon1": -43.1043596,
+          "lat1": -22.9068373,
+          "lon2": -43.0991698,
+          "lat2": -22.9007816
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Presidente João Pessoa, 307  | Icaraí, Niterói - RJ",
+      "parsed": {
+        "housenumber": "307 |",
+        "street": "r. presidente joão pessoa",
+        "suburb": "icaraí",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rui Barbosa, 403 | São Francisco, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Rui Barbosa",
+        "other_names": {
+          "alt_name": "Estrada da Cachoeira"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24360-200",
+        "suburb": "São Francisco",
+        "street": "Avenida Rui Barbosa",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.0860858,
+        "lat": -22.917782,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Avenida Rui Barbosa, São Francisco, Niterói - RJ, 24360-200, Brazil",
+        "address_line1": "Avenida Rui Barbosa",
+        "address_line2": "São Francisco, Niterói - RJ, 24360-200, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3WJ7+VH",
+        "plus_code_short": "3WJ7+VH Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5133d307dc048b45c05983dbdac2f3ea36c0f00102f9018509e90a00000000c002049203134176656e6964612052756920426172626f7361",
+        "bbox": {
+          "lon1": -43.087524,
+          "lat1": -22.9192185,
+          "lon2": -43.0846541,
+          "lat2": -22.916339
+        }
+      }
+    ],
+    "query": {
+      "text": "Rui Barbosa, 403 | São Francisco, Niterói - RJ",
+      "parsed": {
+        "housenumber": "403 |",
+        "street": "rui barbosa",
+        "suburb": "são francisco",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Presidente Backer, 9 - Loja 004 | Icaraí, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24220-045",
+        "suburb": "Icaraí",
+        "street": "Rua Presidente Backer",
+        "housenumber": "9",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1131777,
+        "lat": -22.9061356,
+        "state_code": "RJ",
+        "result_type": "building",
+        "formatted": "Rua Presidente Backer 9, Icaraí, Niterói - RJ, 24220-045, Brazil",
+        "address_line1": "Rua Presidente Backer 9",
+        "address_line2": "Icaraí, Niterói - RJ, 24220-045, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3VVP+GP",
+        "plus_code_short": "3VVP+GP Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 8.152666514071897e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5179115c9b7c8e45c059c8bdaf80f8e736c0f00103f901ff4074e001000000c00203",
+        "bbox": {
+          "lon1": -43.1132277,
+          "lat1": -22.9061856,
+          "lon2": -43.1131277,
+          "lat2": -22.9060856
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Presidente Backer, 9 - Loja 004 | Icaraí, Niterói - RJ",
+      "parsed": {
+        "housenumber": "9",
+        "street": "r. presidente backer",
+        "suburb": "icaraí",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Estrada Francisco da Cruz Nunes, 11077  | Itaipu, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "old_name": "Vila Real da Praia Grande",
+        "other_names": {
+          "old_name": "Vila Real da Praia Grande"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1147,
+        "lat": -22.8884,
+        "state_code": "RJ",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Niterói, RJ, Brazil",
+        "address_line1": "Niterói",
+        "address_line2": "RJ, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4V6P+J4",
+        "plus_code_short": "6P+J4 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.5730246527179408,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51f46c567dae8e45c05933c4b12e6ee336c0f00101f901f5e2210000000000c00208",
+        "bbox": {
+          "lon1": -43.1391,
+          "lat1": -22.9896943,
+          "lon2": -42.9430764,
+          "lat2": -22.8537916
+        }
+      }
+    ],
+    "query": {
+      "text": "Estrada Francisco da Cruz Nunes, 11077  | Itaipu, Niterói - RJ",
+      "parsed": {
+        "housenumber": "11077",
+        "street": "| itaipu",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Visconde de Sepetiba, 66  | Centro, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Visconde de Sepetiba",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24020-042",
+        "suburb": "Centro",
+        "street": "Rua Visconde de Sepetiba",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1191084,
+        "lat": -22.8897362,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Visconde de Sepetiba, Centro, Niterói - RJ, 24020-042, Brazil",
+        "address_line1": "Rua Visconde de Sepetiba",
+        "address_line2": "Centro, Niterói - RJ, 24020-042, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4V6J+49",
+        "plus_code_short": "4V6J+49 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e656adf13e8f45c0593c1169c0c5e336c0f00102f901e6eeff0000000000c0020492031852756120566973636f6e6465206465205365706574696261",
+        "bbox": {
+          "lon1": -43.1199831,
+          "lat1": -22.8943053,
+          "lon2": -43.1181696,
+          "lat2": -22.8851534
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Visconde de Sepetiba, 66  | Centro, Niterói - RJ",
+      "parsed": {
+        "housenumber": "66 |",
+        "street": "r. visconde de sepetiba",
+        "suburb": "centro",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Comendador Queiroz, 91 | Icaraí, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Comendador Queiroz",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24230-320",
+        "suburb": "Icaraí",
+        "street": "Rua Comendador Queiroz",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1082213,
+        "lat": -22.9109112,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Comendador Queiroz, Icaraí, Niterói - RJ, 24230-320, Brazil",
+        "address_line1": "Rua Comendador Queiroz",
+        "address_line2": "Icaraí, Niterói - RJ, 24230-320, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3VQR+JP",
+        "plus_code_short": "3VQR+JP Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51841d1032da8d45c059648ff57931e936c0f00102f90161d34d0700000000c0020492031652756120436f6d656e6461646f722051756569726f7a",
+        "bbox": {
+          "lon1": -43.1091841,
+          "lat1": -22.9115251,
+          "lon2": -43.1073232,
+          "lat2": -22.9101276
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Comendador Queiroz, 91 | Icaraí, Niterói - RJ",
+      "parsed": {
+        "housenumber": "91 |",
+        "street": "rua comendador queiroz",
+        "suburb": "icaraí",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Geraldo Martins, 131  | Santa Rosa, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Geraldo Martins",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24220-381",
+        "suburb": "Icaraí",
+        "quarter": "Jardim Icaraí",
+        "street": "Rua Geraldo Martins",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1026141,
+        "lat": -22.9009808,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Geraldo Martins, Icaraí, Niterói - RJ, 24220-381, Brazil",
+        "address_line1": "Rua Geraldo Martins",
+        "address_line2": "Icaraí, Niterói - RJ, 24220-381, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3VXW+JX",
+        "plus_code_short": "3VXW+JX Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e2cd7575228d45c059ec527eada6e636c0f00102f9012b59600700000000c0020492031352756120476572616c646f204d617274696e73",
+        "bbox": {
+          "lon1": -43.1034518,
+          "lat1": -22.9019539,
+          "lon2": -43.1017559,
+          "lat2": -22.8999889
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Geraldo Martins, 131  | Santa Rosa, Niterói - RJ",
+      "parsed": {
+        "housenumber": "131 |",
+        "street": "rua geraldo martins",
+        "suburb": "santa rosa",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Carlos Ermelindo Marins, 501 | Jurujuba, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Carlos Ermelindo Marins",
+        "old_name": "Avenida Bento Maria da Costa",
+        "other_names": {
+          "alt_name": "Estrada Gaspar Dutra",
+          "old_name": "Avenida Bento Maria da Costa"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24360-030",
+        "suburb": "Jurujuba",
+        "street": "Avenida Carlos Ermelindo Marins",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1157939,
+        "lat": -22.9316583,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Avenida Carlos Ermelindo Marins, Jurujuba, Niterói - RJ, 24360-030, Brazil",
+        "address_line1": "Avenida Carlos Ermelindo Marins",
+        "address_line2": "Jurujuba, Niterói - RJ, 24360-030, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R3V9M+8M",
+        "plus_code_short": "3V9M+8M Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c4c9a255d28e45c059058c892881ee36c0f00102f901dbe8e80a00000000c0020492031f4176656e696461204361726c6f732045726d656c696e646f204d6172696e73",
+        "bbox": {
+          "lon1": -43.1196119,
+          "lat1": -22.9355191,
+          "lon2": -43.1103428,
+          "lat2": -22.9263724
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Carlos Ermelindo Marins, 501 | Jurujuba, Niterói - RJ",
+      "parsed": {
+        "housenumber": "501 |",
+        "street": "av. carlos ermelindo marins",
+        "suburb": "jurujuba",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Airton Dantas, 4  | Ponta D’Areia, Niterói - RJ": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "4",
+        "street": "Rua 4",
+        "country": "Brazil",
+        "county": "Rio De Janeiro",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "24130-470",
+        "state": "Southeast",
+        "city": "Niteroi",
+        "county_code": "RJ",
+        "lon": -43.081541,
+        "lat": -22.868364,
+        "result_type": "building",
+        "formatted": "Rua 4 4, Niteroi - Southeast, 24130-470, Brazil",
+        "address_line1": "Rua 4 4",
+        "address_line2": "Niteroi - Southeast, 24130-470, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4WJ9+M9",
+        "rank": {
+          "confidence": 0.3969,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.3969,
+          "confidence_building_level": 0.3969,
+          "match_type": "full_match"
+        },
+        "place_id": "513e247cef6f8a45c0591406651a4dde36c0c00203e203466f70656e6164647265737365733a616464726573733a62722f726a2f7374617465776964652d6164647265737365732d73746174653a38343265353431663035373334333962"
+      }
+    ],
+    "query": {
+      "text": "Rua Airton Dantas, 4  | Ponta D’Areia, Niterói - RJ",
+      "parsed": {
+        "housenumber": "4 |",
+        "street": "rua airton dantas",
+        "suburb": "ponta d'areia",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Visconde de Sepetiba, 77 | Centro, Niterói - RJ": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Visconde de Sepetiba",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Rio de Janeiro",
+        "county": "Região Metropolitana do Rio de Janeiro",
+        "state_district": "Região Geográfica Intermediária do Rio de Janeiro",
+        "city": "Niterói",
+        "town": "Região Praias da Baía",
+        "municipality": "Região Geográfica Imediata do Rio de Janeiro",
+        "postcode": "24020-042",
+        "suburb": "Centro",
+        "street": "Rua Visconde de Sepetiba",
+        "iso3166_2": "BR-RJ",
+        "lon": -43.1191084,
+        "lat": -22.8897362,
+        "state_code": "RJ",
+        "result_type": "street",
+        "formatted": "Rua Visconde de Sepetiba, Centro, Niterói - RJ, 24020-042, Brazil",
+        "address_line1": "Rua Visconde de Sepetiba",
+        "address_line2": "Centro, Niterói - RJ, 24020-042, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589R4V6J+49",
+        "plus_code_short": "4V6J+49 Niterói, Região Metropolitana do Rio de Janeiro, Brazil",
+        "rank": {
+          "importance": 0.05341485999847406,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e656adf13e8f45c0593c1169c0c5e336c0f00102f901e6eeff0000000000c0020492031852756120566973636f6e6465206465205365706574696261",
+        "bbox": {
+          "lon1": -43.1199831,
+          "lat1": -22.8943053,
+          "lon2": -43.1181696,
+          "lat2": -22.8851534
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Visconde de Sepetiba, 77 | Centro, Niterói - RJ",
+      "parsed": {
+        "housenumber": "77 |",
+        "street": "rua visconde de sepetiba",
+        "suburb": "centro",
+        "city": "niterói",
+        "state": "rj",
+        "expected_type": "building"
+      }
+    }
+  }
+}

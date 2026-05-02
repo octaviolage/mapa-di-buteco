@@ -1,0 +1,1464 @@
+{
+  "Rua Joaquim Modesto, 357 | Centro, Araguari - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "357",
+        "street": "Rua Joaquim Modesto",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "38440-144",
+        "state": "Southeast",
+        "district": "Araguari",
+        "city": "Araguari",
+        "county_code": "MG",
+        "lon": -48.196846,
+        "lat": -18.651034,
+        "result_type": "building",
+        "formatted": "Rua Joaquim Modesto 357, Araguari - Southeast, 38440-144, Brazil",
+        "address_line1": "Rua Joaquim Modesto 357",
+        "address_line2": "Araguari - Southeast, 38440-144, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH8RX3+H7",
+        "plus_code_short": "X3+H7 Araguari, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51992cee3f321948c05985950a2aaaa632c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a37343362313838363864306135646261"
+      }
+    ],
+    "query": {
+      "text": "Rua Joaquim Modesto, 357 | Centro, Araguari - MG",
+      "parsed": {
+        "housenumber": "357 |",
+        "street": "rua joaquim modesto",
+        "suburb": "centro",
+        "city": "araguari",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Miguel Assad Debs, 1560 | Araguari - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Miguel Assad Debs",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Araguari",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38444-900",
+        "district": "Bairro Independência",
+        "suburb": "Santa Terezinha",
+        "street": "Avenida Miguel Assad Debs",
+        "iso3166_2": "BR-MG",
+        "lon": -48.1973527,
+        "lat": -18.633591,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Miguel Assad Debs, Santa Terezinha, Araguari - MG, 38444-900, Brazil",
+        "address_line1": "Avenida Miguel Assad Debs",
+        "address_line2": "Santa Terezinha, Araguari - MG, 38444-900, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH9R83+H3",
+        "plus_code_short": "83+H3 Araguari, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.053396138704509,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517f2370da421948c059390a100533a232c0f00102f9010c406b0b00000000c002049203194176656e696461204d696775656c2041737361642044656273",
+        "bbox": {
+          "lon1": -48.2003131,
+          "lat1": -18.633671,
+          "lon2": -48.1943943,
+          "lat2": -18.6335871
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Miguel Assad Debs, 1560 | Araguari - MG",
+      "parsed": {
+        "housenumber": "1560 |",
+        "street": "avenida miguel assad debs",
+        "city": "araguari",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua do Dólar, 410 | Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua do Dólar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38410-202",
+        "district": "Setor Sul",
+        "suburb": "São Jorge",
+        "street": "Rua do Dólar",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2295247,
+        "lat": -18.9516,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua do Dólar, São Jorge, Uberlândia - MG, 38410-202, Brazil",
+        "address_line1": "Rua do Dólar",
+        "address_line2": "São Jorge, Uberlândia - MG, 38410-202, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH2QXC+95",
+        "plus_code_short": "2QXC+95 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e60fbc10611d48c059a4dfbe0e9cf332c0f00102f901ec6bd01100000000c0020492030d52756120646f2044c3b36c6172",
+        "bbox": {
+          "lon1": -48.2322213,
+          "lat1": -18.9546349,
+          "lon2": -48.2268101,
+          "lat2": -18.9485494
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua do Dólar, 410 | Uberlândia - MG",
+      "parsed": {
+        "housenumber": "410 |",
+        "street": "rua do dólar",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. João Pinheiro, 263 | Centro, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida João Pinheiro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38400-706",
+        "district": "Setor Central",
+        "suburb": "Nossa Senhora Aparecida",
+        "street": "Avenida João Pinheiro",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2728941,
+        "lat": -18.9093632,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida João Pinheiro, Nossa Senhora Aparecida, Uberlândia - MG, 38400-706, Brazil",
+        "address_line1": "Avenida João Pinheiro",
+        "address_line2": "Nossa Senhora Aparecida, Uberlândia - MG, 38400-706, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PRG+7R",
+        "plus_code_short": "RG+7R Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51bc62a131ee2248c059982fd406cce832c0f00102f9017826930f00000000c002049203164176656e696461204a6fc3a36f2050696e686569726f",
+        "bbox": {
+          "lon1": -48.2754227,
+          "lat1": -18.9127307,
+          "lon2": -48.2703971,
+          "lat2": -18.905972
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. João Pinheiro, 263 | Centro, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "263 |",
+        "street": "av. joão pinheiro",
+        "suburb": "centro",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Costa Pereira, 159 | Bom Jesus, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Costa Pereira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38400-336",
+        "district": "Setor Central",
+        "suburb": "Bom Jesus",
+        "street": "Rua Costa Pereira",
+        "iso3166_2": "BR-MG",
+        "lon": -48.275339,
+        "lat": -18.9052588,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Costa Pereira, Bom Jesus, Uberlândia - MG, 38400-336, Brazil",
+        "address_line1": "Rua Costa Pereira",
+        "address_line2": "Bom Jesus, Uberlândia - MG, 38400-336, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PVF+VV",
+        "plus_code_short": "VF+VV Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "511c28f04e3e2348c0598c6a6c0abfe732c0f00102f901e9e7d30100000000c0020492031152756120436f7374612050657265697261",
+        "bbox": {
+          "lon1": -48.2756773,
+          "lat1": -18.9063449,
+          "lon2": -48.2749531,
+          "lat2": -18.9041569
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Costa Pereira, 159 | Bom Jesus, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "159 |",
+        "street": "rua costa pereira",
+        "suburb": "bom jesus",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Rafael Rinaldi, 1595 | Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Rafael Rinaldi",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38400-450",
+        "district": "Setor Central",
+        "suburb": "Osvaldo Rezende",
+        "street": "Rua Rafael Rinaldi",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2897935,
+        "lat": -18.9136604,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Rafael Rinaldi, Osvaldo Rezende, Uberlândia - MG, 38400-450, Brazil",
+        "address_line1": "Rua Rafael Rinaldi",
+        "address_line2": "Osvaldo Rezende, Uberlândia - MG, 38400-450, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PP6+G3",
+        "plus_code_short": "P6+G3 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f48b12f4172548c05979a6e1a5e5e932c0f00102f9017218d40100000000c002049203125275612052616661656c2052696e616c6469",
+        "bbox": {
+          "lon1": -48.2921166,
+          "lat1": -18.9209545,
+          "lon2": -48.2874517,
+          "lat2": -18.9063604
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Rafael Rinaldi, 1595 | Uberlândia - MG",
+      "parsed": {
+        "housenumber": "1595 |",
+        "street": "rua rafael rinaldi",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Tomé de Souza, 1338 | Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Tomé de Souza",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38411-076",
+        "district": "Setor Sul",
+        "suburb": "Tubalina",
+        "street": "Rua Tomé de Souza",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2973316,
+        "lat": -18.9371567,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Tomé de Souza, Tubalina, Uberlândia - MG, 38411-076, Brazil",
+        "address_line1": "Rua Tomé de Souza",
+        "address_line2": "Tubalina, Uberlândia - MG, 38411-076, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3P73+43",
+        "plus_code_short": "3P73+43 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519f083df60e2648c0592fba6180e9ef32c0f00102f90101899f0700000000c0020492031252756120546f6dc3a920646520536f757a61",
+        "bbox": {
+          "lon1": -48.2977843,
+          "lat1": -18.9391154,
+          "lon2": -48.296917,
+          "lat2": -18.9352161
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Tomé de Souza, 1338 | Uberlândia - MG",
+      "parsed": {
+        "housenumber": "1338 |",
+        "street": "rua tomé de souza",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Engenheiro Diniz, 1924 | Martins, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Engenheiro Diniz",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38400-450",
+        "district": "Setor Central",
+        "suburb": "Martins",
+        "street": "Rua Engenheiro Diniz",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2849454,
+        "lat": -18.9110278,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Engenheiro Diniz, Martins, Uberlândia - MG, 38400-450, Brazil",
+        "address_line1": "Rua Engenheiro Diniz",
+        "address_line2": "Martins, Uberlândia - MG, 38400-450, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PQ8+H2",
+        "plus_code_short": "Q8+H2 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51a4124317792448c05930bf2e1e39e932c0f00102f901f0e7d30100000000c0020492031452756120456e67656e686569726f2044696e697a",
+        "bbox": {
+          "lon1": -48.2949271,
+          "lat1": -18.9139486,
+          "lon2": -48.2749846,
+          "lat2": -18.9082327
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Engenheiro Diniz, 1924 | Martins, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "1924 |",
+        "street": "av. engenheiro diniz",
+        "suburb": "martins",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Salvador, 555 | Nossa Sra. Aparecida, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:bg": "Уберландия",
+          "name:ja": "ウベルランジア",
+          "name:ka": "უბერლანდია",
+          "name:kk": "Уберландия",
+          "name:ko": "우베를란지아",
+          "name:la": "Fertilia",
+          "name:lt": "Uberlandija",
+          "name:mk": "Уберландија",
+          "name:ru": "Уберландия",
+          "name:sr": "Уберландија",
+          "name:th": "อูเบร์ลังเดีย",
+          "name:zh": "烏貝蘭迪亞",
+          "int_name": "Uberlandia"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2767837,
+        "lat": -18.9188041,
+        "state_code": "MG",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Uberlândia, MG, Brazil",
+        "address_line1": "Uberlândia",
+        "address_line2": "MG, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PJF+F7",
+        "plus_code_short": "+F7 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.5964063184177585,
+          "confidence": 0.6981132075471699,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516fc8f5a56d2348c05943eed8be36eb32c0f00101f901fbcd040000000000c00208",
+        "bbox": {
+          "lon1": -48.8234391,
+          "lat1": -19.416808,
+          "lon2": -47.9034816,
+          "lat2": -18.5922258
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Salvador, 555 | Nossa Sra. Aparecida, Uberlândia - MG"
+    }
+  },
+  "R. Uruguaiana, 208 | Centro, Araguari - MG": {
+    "results": [],
+    "query": {
+      "text": "R. Uruguaiana, 208 | Centro, Araguari - MG",
+      "parsed": {
+        "housenumber": "208 |",
+        "street": "r. uruguaiana",
+        "suburb": "centro",
+        "city": "araguari",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Amazonas, 920 | Brasil, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Amazonas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38405-320",
+        "suburb": "Umuarama",
+        "street": "Avenida Amazonas",
+        "iso3166_2": "BR-MG",
+        "iso3166_2_sublevel": "BR-MG",
+        "lon": -48.2594034,
+        "lat": -18.8844253,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Amazonas, Umuarama, Uberlândia - MG, 38405-320, Brazil",
+        "address_line1": "Avenida Amazonas",
+        "address_line2": "Umuarama, Uberlândia - MG, 38405-320, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH4P8R+66",
+        "plus_code_short": "4P8R+66 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.040064998092622255,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5150bc6f21342148c05947414bb269e232c0f00102f901b62b981b00000000c002049203104176656e69646120416d617a6f6e6173",
+        "bbox": {
+          "lon1": -48.2601595,
+          "lat1": -18.8854049,
+          "lon2": -48.2586704,
+          "lat2": -18.8834285
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Amazonas, 920 | Brasil, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "920 |",
+        "street": "avenida amazonas",
+        "suburb": "brasil",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Alameda Uberaba, 200 | Santa Mônica, Uberlândia - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "200",
+        "street": "Alameda Uberaba",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "38408-287",
+        "state": "Southeast",
+        "district": "Uberlândia",
+        "city": "Uberlandia",
+        "county_code": "MG",
+        "lon": -48.261395,
+        "lat": -18.923037,
+        "result_type": "building",
+        "formatted": "Alameda Uberaba 200, Uberlândia, Uberlandia - Southeast, 38408-287, Brazil",
+        "address_line1": "Alameda Uberaba 200",
+        "address_line2": "Uberlândia, Uberlandia - Southeast, 38408-287, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PGQ+QC",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51412b3064752148c0597aff1f274cec32c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a36623063373365363233323834633762"
+      }
+    ],
+    "query": {
+      "text": "Alameda Uberaba, 200 | Santa Mônica, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "200 |",
+        "street": "alameda uberaba",
+        "suburb": "santa mônica",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Segismundo Pereira, 783 | Santa Mônica, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38408-170",
+        "suburb": "Santa Mônica",
+        "street": "Avenida Segismundo Pereira",
+        "housenumber": "783",
+        "iso3166_2": "BR-MG",
+        "iso3166_2_sublevel": "BR-MG",
+        "lon": -48.25179669333333,
+        "lat": -18.91747463333333,
+        "state_code": "MG",
+        "result_type": "building",
+        "formatted": "Avenida Segismundo Pereira 783, Santa Mônica, Uberlândia - MG, 38408-170, Brazil",
+        "address_line1": "Avenida Segismundo Pereira 783",
+        "address_line2": "Santa Mônica, Uberlândia - MG, 38408-170, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PMX+27",
+        "plus_code_short": "3PMX+27 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c68dc1df3a2048c0598513199edfea32c0f00102f90169cc821a00000000c00203",
+        "bbox": {
+          "lon1": -48.2518467,
+          "lat1": -18.9175246,
+          "lon2": -48.2517467,
+          "lat2": -18.9174246
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Segismundo Pereira, 783 | Santa Mônica, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "783 |",
+        "street": "av. segismundo pereira",
+        "suburb": "santa mônica",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Seme Simão, 1894 | Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Seme Simão",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38410-420",
+        "district": "Setor Sul",
+        "suburb": "São Jorge",
+        "street": "Avenida Seme Simão",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2363291,
+        "lat": -18.9501228,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Seme Simão, São Jorge, Uberlândia - MG, 38410-420, Brazil",
+        "address_line1": "Avenida Seme Simão",
+        "address_line2": "São Jorge, Uberlândia - MG, 38410-420, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH2QX7+XF",
+        "plus_code_short": "2QX7+XF Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ebcb2d08401e48c059172f713f3bf332c0f00102f901b10ad01100000000c002049203134176656e6964612053656d652053696dc3a36f",
+        "bbox": {
+          "lon1": -48.2415502,
+          "lat1": -18.9519667,
+          "lon2": -48.2311632,
+          "lat2": -18.9481367
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Seme Simão, 1894 | Uberlândia - MG",
+      "parsed": {
+        "housenumber": "1894 |",
+        "street": "avenida seme simão",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Doutor Vicente Salles Guimarães, 525 | Alto Umuarama, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Doutor Vicente Salles Guimarães",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38406-632",
+        "suburb": "Alto Umuarama",
+        "street": "Avenida Doutor Vicente Salles Guimarães",
+        "iso3166_2": "BR-MG",
+        "iso3166_2_sublevel": "BR-MG",
+        "lon": -48.2364135,
+        "lat": -18.8867628,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Doutor Vicente Salles Guimarães, Alto Umuarama, Uberlândia - MG, 38406-632, Brazil",
+        "address_line1": "Avenida Doutor Vicente Salles Guimarães",
+        "address_line2": "Alto Umuarama, Uberlândia - MG, 38406-632, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH4Q77+7C",
+        "plus_code_short": "4Q77+7C Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519c6a2dcc421e48c059344f09e302e332c0f00102f90155317c4700000000c002049203284176656e69646120446f75746f7220566963656e74652053616c6c6573204775696d6172c3a36573",
+        "bbox": {
+          "lon1": -48.2404048,
+          "lat1": -18.8874913,
+          "lon2": -48.2321634,
+          "lat2": -18.8851355
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Doutor Vicente Salles Guimarães, 525 | Alto Umuarama, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "525 |",
+        "street": "av. doutor vicente salles guimarães",
+        "suburb": "alto umuarama",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Segismundo Pereira, 2343 | Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Segismundo Pereira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38407-508",
+        "district": "Reserva Novo Mundo",
+        "suburb": "Novo Mundo",
+        "street": "Avenida Segismundo Pereira",
+        "iso3166_2": "BR-MG",
+        "iso3166_2_sublevel": "BR-MG",
+        "lon": -48.2024055,
+        "lat": -18.9232506,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Segismundo Pereira, Novo Mundo, Uberlândia - MG, 38407-508, Brazil",
+        "address_line1": "Avenida Segismundo Pereira",
+        "address_line2": "Novo Mundo, Uberlândia - MG, 38407-508, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3QGX+M2",
+        "plus_code_short": "3QGX+M2 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e883656ce81948c0592b03bd265aec32c0f00102f901b545182600000000c0020492031a4176656e6964612053656769736d756e646f2050657265697261",
+        "bbox": {
+          "lon1": -48.2039467,
+          "lat1": -18.9241482,
+          "lon2": -48.2009138,
+          "lat2": -18.9224732
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Segismundo Pereira, 2343 | Uberlândia - MG",
+      "parsed": {
+        "housenumber": "2343 |",
+        "street": "av. segismundo pereira",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Duque de Caxias, 1836 – Casa | Vila Saraiva, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:bg": "Уберландия",
+          "name:ja": "ウベルランジア",
+          "name:ka": "უბერლანდია",
+          "name:kk": "Уберландия",
+          "name:ko": "우베를란지아",
+          "name:la": "Fertilia",
+          "name:lt": "Uberlandija",
+          "name:mk": "Уберландија",
+          "name:ru": "Уберландия",
+          "name:sr": "Уберландија",
+          "name:th": "อูเบร์ลังเดีย",
+          "name:zh": "烏貝蘭迪亞",
+          "int_name": "Uberlandia"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2767837,
+        "lat": -18.9188041,
+        "state_code": "MG",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Uberlândia, MG, Brazil",
+        "address_line1": "Uberlândia",
+        "address_line2": "MG, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PJF+F7",
+        "plus_code_short": "+F7 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.5964063184177585,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516fc8f5a56d2348c05943eed8be36eb32c0f00101f901fbcd040000000000c00208",
+        "bbox": {
+          "lon1": -48.8234391,
+          "lat1": -19.416808,
+          "lon2": -47.9034816,
+          "lat2": -18.5922258
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Duque de Caxias, 1836 – Casa | Vila Saraiva, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "1836",
+        "street": "casa | vila saraiva",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Vinte e Nove de Outubro, 430 | Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Vinte e Nove de Outubro",
+        "other_names": {
+          "alt_name": "Rua 29 de Outubro"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38400-710",
+        "district": "Setor Sul",
+        "suburb": "Patrimônio",
+        "street": "Rua Vinte e Nove de Outubro",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2870275,
+        "lat": -18.9340822,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Vinte e Nove de Outubro, Patrimônio, Uberlândia - MG, 38400-710, Brazil",
+        "address_line1": "Rua Vinte e Nove de Outubro",
+        "address_line2": "Patrimônio, Uberlândia - MG, 38400-710, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3P87+95",
+        "plus_code_short": "3P87+95 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51bdc62e51bd2448c05996c6d40220ef32c0f00102f90182299b0700000000c0020492031b5275612056696e74652065204e6f7665206465204f75747562726f",
+        "bbox": {
+          "lon1": -48.290563,
+          "lat1": -18.9341806,
+          "lon2": -48.2834919,
+          "lat2": -18.9339821
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Vinte e Nove de Outubro, 430 | Uberlândia - MG",
+      "parsed": {
+        "housenumber": "430 |",
+        "street": "r. vinte nove de outubro",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Batalhão Mauá, 1958 | Araguari - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Batalhão Mauá",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Araguari",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38442-038",
+        "suburb": "Santa Helena",
+        "street": "Avenida Batalhão Mauá",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2025769,
+        "lat": -18.6627586,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Batalhão Mauá, Santa Helena, Araguari - MG, 38442-038, Brazil",
+        "address_line1": "Avenida Batalhão Mauá",
+        "address_line2": "Santa Helena, Araguari - MG, 38442-038, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH8QPW+VX",
+        "plus_code_short": "8QPW+VX Araguari, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.053396138704509,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516836340aee1948c0598b24308caaa932c0f00102f90103a9581100000000c002049203174176656e69646120426174616c68c3a36f204d6175c3a1",
+        "bbox": {
+          "lon1": -48.2031784,
+          "lat1": -18.6677147,
+          "lon2": -48.1989212,
+          "lat2": -18.6567979
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Batalhão Mauá, 1958 | Araguari - MG",
+      "parsed": {
+        "housenumber": "1958 |",
+        "street": "av. batalhão mauá",
+        "city": "araguari",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. João Pinheiro, 1284 | Aparecida, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida João Pinheiro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38408-288",
+        "district": "Setor Central",
+        "suburb": "Centro",
+        "street": "Avenida João Pinheiro",
+        "iso3166_2": "BR-MG",
+        "lon": -48.274532,
+        "lat": -18.91169,
+        "state_code": "MG",
+        "housenumber": "1284",
+        "result_type": "building",
+        "formatted": "Avenida João Pinheiro 1284, Centro, Uberlândia - MG, 38408-288, Brazil",
+        "address_line1": "Avenida João Pinheiro 1284",
+        "address_line2": "Centro, Uberlândia - MG, 38408-288, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PQG+85",
+        "plus_code_short": "QG+85 Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "514dda54dd232348c0591a170e8464e932c0c002039203164176656e696461204a6fc3a36f2050696e686569726fe203266f70656e6164647265737365733a616464726573733a32363462356234396165386331646463",
+        "bbox": {
+          "lon1": -48.2754917,
+          "lat1": -18.9128254,
+          "lon2": -48.2754227,
+          "lat2": -18.9127307
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. João Pinheiro, 1284 | Aparecida, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "1284",
+        "street": "av. joão pinheiro",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Praça Hélvio Cardoso, 513 | Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Praça Helvio Cardoso",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38408-154",
+        "suburb": "Segismundo Pereira",
+        "street": "Praça Helvio Cardoso",
+        "iso3166_2": "BR-MG",
+        "iso3166_2_sublevel": "BR-MG",
+        "lon": -48.2277697,
+        "lat": -18.917651,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Praça Helvio Cardoso, Segismundo Pereira, Uberlândia - MG, 38408-154, Brazil",
+        "address_line1": "Praça Helvio Cardoso",
+        "address_line2": "Segismundo Pereira, Uberlândia - MG, 38408-154, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3QJC+WV",
+        "plus_code_short": "3QJC+WV Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518742ba8e271d48c05946240a2debea32c0f00102f90190072b0900000000c00204920315507261c3a7612048656c76696f20436172646f736f",
+        "bbox": {
+          "lon1": -48.2284419,
+          "lat1": -18.9178282,
+          "lon2": -48.2270951,
+          "lat2": -18.9174645
+        }
+      }
+    ],
+    "query": {
+      "text": "Praça Hélvio Cardoso, 513 | Uberlândia - MG",
+      "parsed": {
+        "housenumber": "513 |",
+        "street": "praça hélvio cardoso",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida dos Eucaliptos, 849  | Jd. Patrícia, Uberlândia - MG": {
+    "results": [],
+    "query": {
+      "text": "Avenida dos Eucaliptos, 849  | Jd. Patrícia, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "849 |",
+        "street": "avenida dos eucaliptos",
+        "suburb": "jd. patrícia",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Olegário Maciel, 255 | Centro, Uberlândia - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Olegário Maciel",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Uberlândia",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38400-086",
+        "district": "Setor Central",
+        "suburb": "Centro",
+        "street": "Rua Olegário Maciel",
+        "iso3166_2": "BR-MG",
+        "lon": -48.2776179,
+        "lat": -18.9215011,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Olegário Maciel, Centro, Uberlândia - MG, 38400-086, Brazil",
+        "address_line1": "Rua Olegário Maciel",
+        "address_line2": "Centro, Uberlândia - MG, 38400-086, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH3PHC+9X",
+        "plus_code_short": "HC+9X Uberlândia, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.05339833142595556,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5161a4bcfb882348c05960baff7ee7eb32c0f00102f9015aead30100000000c00204920314527561204f6c6567c3a172696f204d616369656c",
+        "bbox": {
+          "lon1": -48.2823995,
+          "lat1": -18.9246423,
+          "lon2": -48.2728,
+          "lat2": -18.9183057
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Olegário Maciel, 255 | Centro, Uberlândia - MG",
+      "parsed": {
+        "housenumber": "255 |",
+        "street": "r. olegário maciel",
+        "suburb": "centro",
+        "city": "uberlândia",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Tertuliano Goulart, 286 | Araguari - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Tertuliano Goulart",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Uberlândia",
+        "city": "Araguari",
+        "municipality": "Região Geográfica Imediata de Uberlândia",
+        "postcode": "38440-254",
+        "suburb": "Centro",
+        "street": "Rua Tertuliano Goulart",
+        "iso3166_2": "BR-MG",
+        "lon": -48.191618,
+        "lat": -18.6547304,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Tertuliano Goulart, Centro, Araguari - MG, 38440-254, Brazil",
+        "address_line1": "Rua Tertuliano Goulart",
+        "address_line2": "Centro, Araguari - MG, 38440-254, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58HH8RW5+49",
+        "plus_code_short": "W5+49 Araguari, Região Geográfica Intermediária de Uberlândia, Brazil",
+        "rank": {
+          "importance": 0.053396138704509,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5197a949f0861848c0596eb257699ca732c0f00102f9013931f31600000000c002049203165275612054657274756c69616e6f20476f756c617274",
+        "bbox": {
+          "lon1": -48.1934485,
+          "lat1": -18.656078,
+          "lon2": -48.1898016,
+          "lat2": -18.6533998
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Tertuliano Goulart, 286 | Araguari - MG",
+      "parsed": {
+        "housenumber": "286 |",
+        "street": "rua tertuliano goulart",
+        "city": "araguari",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  }
+}

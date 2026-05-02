@@ -1,0 +1,1243 @@
+{
+  "R. Albano Schmidt, 1061 | Boa Vista, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Albano Schmidt",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89206-101",
+        "suburb": "Zona Industrial Tupy",
+        "street": "Rua Albano Schmidt",
+        "iso3166_2": "BR-SC",
+        "lon": -48.81518,
+        "lat": -26.293831,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Albano Schmidt, Zona Industrial Tupy, Joinville - SC, 89206-101, Brazil",
+        "address_line1": "Rua Albano Schmidt",
+        "address_line2": "Zona Industrial Tupy, Joinville - SC, 89206-101, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP54M+FW",
+        "plus_code_short": "P54M+FW Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339512397955287,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51382d78d1576848c0590d8d2782384b3ac0f00102f901c983770f00000000c0020492031252756120416c62616e6f205363686d696474",
+        "bbox": {
+          "lon1": -48.8162217,
+          "lat1": -26.2946652,
+          "lon2": -48.814401,
+          "lat2": -26.2927225
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Albano Schmidt, 1061 | Boa Vista, Joinville - SC",
+      "parsed": {
+        "housenumber": "1061 |",
+        "street": "r. albano schmidt",
+        "suburb": "boa vista",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Mário César Machado dos Santos, 358 | Fátima, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Mário César Machado dos Santos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89229-340",
+        "suburb": "Fátima",
+        "street": "Rua Mário César Machado dos Santos",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8146443,
+        "lat": -26.3322153,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Mário César Machado dos Santos, Fátima, Joinville - SC, 89229-340, Brazil",
+        "address_line1": "Rua Mário César Machado dos Santos",
+        "address_line2": "Fátima, Joinville - SC, 89229-340, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM59P+44",
+        "plus_code_short": "M59P+44 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339512397955287,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b82fb143466848c05918bbd80f0c553ac0f00102f901f1e93e0b00000000c00204920324527561204dc3a172696f2043c3a9736172204d61636861646f20646f732053616e746f73",
+        "bbox": {
+          "lon1": -48.8171447,
+          "lat1": -26.3327426,
+          "lon2": -48.8121439,
+          "lat2": -26.3316879
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Mário César Machado dos Santos, 358 | Fátima, Joinville - SC",
+      "parsed": {
+        "housenumber": "358 |",
+        "street": "rua mário césar machado dos santos",
+        "suburb": "fátima",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Alagoas, 303 | Anita Garibaldi, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89203-460",
+        "suburb": "Anita Garibaldi",
+        "street": "Rua Alagoas",
+        "housenumber": "303",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8533534,
+        "lat": -26.316979,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Alagoas 303, Anita Garibaldi, Joinville - SC, 89203-460, Brazil",
+        "address_line1": "Rua Alagoas 303",
+        "address_line2": "Anita Garibaldi, Joinville - SC, 89203-460, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM4MW+6M",
+        "plus_code_short": "MW+6M Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51187728af3a6d48c059cf84268925513ac0f00103f9011655401001000000c00203",
+        "bbox": {
+          "lon1": -48.8534034,
+          "lat1": -26.317029,
+          "lon2": -48.8533034,
+          "lat2": -26.316929
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Alagoas, 303 | Anita Garibaldi, Joinville - SC",
+      "parsed": {
+        "housenumber": "303 |",
+        "street": "r. alagoas",
+        "suburb": "anita garibaldi",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Xanxerê, 667 | Saguaçu, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89221-561",
+        "suburb": "Saguaçu",
+        "street": "Rua Xanxerê",
+        "housenumber": "667",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8400768,
+        "lat": -26.2733998,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Xanxerê 667, Saguaçu, Joinville - SC, 89221-561, Brazil",
+        "address_line1": "Rua Xanxerê 667",
+        "address_line2": "Saguaçu, Joinville - SC, 89221-561, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP5G5+JX",
+        "plus_code_short": "P5G5+JX Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516d10f7a2876b48c059a2bb7f87fd453ac0f00103f901be8ccd0f01000000c00203",
+        "bbox": {
+          "lon1": -48.8401268,
+          "lat1": -26.2734498,
+          "lon2": -48.8400268,
+          "lat2": -26.2733498
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Xanxerê, 667 | Saguaçu, Joinville - SC",
+      "parsed": {
+        "housenumber": "667 |",
+        "street": "rua xanxerê",
+        "suburb": "saguaçu",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dona Francisca, 773 | Saguaçu, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89221-040",
+        "suburb": "Saguaçu",
+        "street": "Rua Dona Francisca",
+        "housenumber": "773",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8419772,
+        "lat": -26.2951063,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Dona Francisca 773, Saguaçu, Joinville - SC, 89221-040, Brazil",
+        "address_line1": "Rua Dona Francisca 773",
+        "address_line2": "Saguaçu, Joinville - SC, 89221-040, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP535+X6",
+        "plus_code_short": "35+X6 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5124fdace8c56b48c059f45723168c4b3ac0f00103f9016295cd0f01000000c00203",
+        "bbox": {
+          "lon1": -48.8420272,
+          "lat1": -26.2951563,
+          "lon2": -48.8419272,
+          "lat2": -26.2950563
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dona Francisca, 773 | Saguaçu, Joinville - SC",
+      "parsed": {
+        "housenumber": "773 |",
+        "street": "r. dona francisca",
+        "suburb": "saguaçu",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Graciosa, 935 | Guanabara, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89207-101",
+        "suburb": "Guanabara",
+        "street": "Rua Graciosa",
+        "housenumber": "935",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8314284,
+        "lat": -26.3196602,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Graciosa 935, Guanabara, Joinville - SC, 89207-101, Brazil",
+        "address_line1": "Rua Graciosa 935",
+        "address_line2": "Guanabara, Joinville - SC, 89207-101, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM5J9+4C",
+        "plus_code_short": "M5J9+4C Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51997bed3e6c6a48c05934d53840d5513ac0f00103f90164ab021401000000c00203",
+        "bbox": {
+          "lon1": -48.8314784,
+          "lat1": -26.3197102,
+          "lon2": -48.8313784,
+          "lat2": -26.3196102
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Graciosa, 935 | Guanabara, Joinville - SC",
+      "parsed": {
+        "housenumber": "935 |",
+        "street": "r. graciosa",
+        "suburb": "guanabara",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Doutor João Colin, 393 | Centro, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89201-299",
+        "suburb": "Centro",
+        "street": "Rua Doutor João Colin",
+        "housenumber": "393",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8480179,
+        "lat": -26.2978086,
+        "result_type": "building",
+        "formatted": "Rua Doutor João Colin 393, Centro, Joinville - SC, 89201-299, Brazil",
+        "address_line1": "Rua Doutor João Colin 393",
+        "address_line2": "Centro, Joinville - SC, 89201-299, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP522+VQ",
+        "plus_code_short": "22+VQ Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511876bdd98b6c48c059b177352f3d4c3ac0f00102f901fcbdd52d00000000c00203",
+        "bbox": {
+          "lon1": -48.8483405,
+          "lat1": -26.297882,
+          "lon2": -48.8477423,
+          "lat2": -26.2976744
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Doutor João Colin, 393 | Centro, Joinville - SC",
+      "parsed": {
+        "housenumber": "393 |",
+        "street": "r. doutor joão colin",
+        "suburb": "centro",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Ricardo Stamm Gomes, 27 - Pça. Hercílio Luz | Bucarein, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mercado Municipal Germano Kurt Freissler",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89201-210",
+        "suburb": "Centro",
+        "street": "Rua Ricardo Stamm Gomes",
+        "housenumber": "27",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8403915,
+        "lat": -26.3054225,
+        "state_code": "SC",
+        "result_type": "amenity",
+        "formatted": "Mercado Municipal Germano Kurt Freissler, Rua Ricardo Stamm Gomes 27, Centro, Joinville - SC, 89201-210, Brazil",
+        "address_line1": "Mercado Municipal Germano Kurt Freissler",
+        "address_line2": "Rua Ricardo Stamm Gomes 27, Centro, Joinville - SC, 89201-210, Brazil",
+        "category": "commercial.marketplace",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM5V5+RR",
+        "plus_code_short": "V5+RR Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "510f2bdcf2916b48c0596af6402b304e3ac0f00102f901174b740600000000c002019203284d65726361646f204d756e69636970616c204765726d616e6f204b757274204672656973736c6572",
+        "bbox": {
+          "lon1": -48.8407174,
+          "lat1": -26.3056991,
+          "lon2": -48.8400625,
+          "lat2": -26.3051572
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Ricardo Stamm Gomes, 27 - Pça. Hercílio Luz | Bucarein, Joinville - SC",
+      "parsed": {
+        "housenumber": "27",
+        "street": "r. ricardo stamm gomes",
+        "suburb": "bucarein",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Tijucas, 386 | Centro, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89204-020",
+        "suburb": "Centro",
+        "street": "Rua Tijucas",
+        "housenumber": "386",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8437787,
+        "lat": -26.296533,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Tijucas 386, Centro, Joinville - SC, 89204-020, Brazil",
+        "address_line1": "Rua Tijucas 386",
+        "address_line2": "Centro, Joinville - SC, 89204-020, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP534+9F",
+        "plus_code_short": "34+9F Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51dcc7c0f0006c48c0594d2f3196e94b3ac0f00103f901be1a0d1001000000c00203",
+        "bbox": {
+          "lon1": -48.8438287,
+          "lat1": -26.296583,
+          "lon2": -48.8437287,
+          "lat2": -26.296483
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Tijucas, 386 | Centro, Joinville - SC",
+      "parsed": {
+        "housenumber": "386 |",
+        "street": "rua tijucas",
+        "suburb": "centro",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Santa Catarina, 2349 | Floresta, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Santa Catarina",
+        "old_name": "Katharinenstrasse",
+        "other_names": {
+          "old_name": "Katharinenstrasse"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89211-307",
+        "suburb": "Floresta",
+        "street": "Rua Santa Catarina",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8473346,
+        "lat": -26.3333845,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Santa Catarina, Floresta, Joinville - SC, 89211-307, Brazil",
+        "address_line1": "Rua Santa Catarina",
+        "address_line2": "Floresta, Joinville - SC, 89211-307, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM583+J3",
+        "plus_code_short": "M583+J3 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339512397955287,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5177e2cd75756c48c0594a7ec4af58553ac0f00102f901a451763200000000c002049203125275612053616e7461204361746172696e61",
+        "bbox": {
+          "lon1": -48.8476143,
+          "lat1": -26.3356893,
+          "lon2": -48.8468343,
+          "lat2": -26.3310925
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Santa Catarina, 2349 | Floresta, Joinville - SC",
+      "parsed": {
+        "housenumber": "2349 |",
+        "street": "r. santa catarina",
+        "suburb": "floresta",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Engenheiro Niemeyer, 25 | Centro, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Engenheiro Niemeyer",
+        "old_name": "Ludwigstrasse",
+        "other_names": {
+          "old_name": "Ludwigstrasse",
+          "name": "Rua Engenheiro Niemeyer",
+          "name:pt": "Rua Engenheiro Niemeyer"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89201-160",
+        "suburb": "Centro",
+        "street": "Rua Engenheiro Niemeyer",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8463113,
+        "lat": -26.3029294,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Engenheiro Niemeyer, Centro, Joinville - SC, 89201-160, Brazil",
+        "address_line1": "Rua Engenheiro Niemeyer",
+        "address_line2": "Centro, Joinville - SC, 89201-160, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM5W3+RF",
+        "plus_code_short": "W3+RF Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339512397955287,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "511ddebded536c48c05935fff9c78c4d3ac0f00102f9019947380f00000000c0020492031752756120456e67656e686569726f204e69656d65796572",
+        "bbox": {
+          "lon1": -48.8470125,
+          "lat1": -26.3030986,
+          "lon2": -48.8454985,
+          "lat2": -26.3029024
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Engenheiro Niemeyer, 25 | Centro, Joinville - SC",
+      "parsed": {
+        "housenumber": "25 |",
+        "street": "r. engenheiro niemeyer",
+        "suburb": "centro",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Pres. Prudente de Moraes, 1097 | Santo Antônio, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "suburb": "Santo Antônio",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8562828,
+        "lat": -26.269216,
+        "state_code": "SC",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Santo Antônio, Joinville, SC, Brazil",
+        "address_line1": "Santo Antônio",
+        "address_line2": "Joinville, SC, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP4JV+8F",
+        "plus_code_short": "P4JV+8F Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.1467284573128862,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "514c10bfac9a6d48c059588ffb56eb443ac0f00101f9010619350000000000c00205",
+        "bbox": {
+          "lon1": -48.8636362,
+          "lat1": -26.2783495,
+          "lon2": -48.8498155,
+          "lat2": -26.2596373
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Pres. Prudente de Moraes, 1097 | Santo Antônio, Joinville - SC",
+      "parsed": {
+        "housenumber": "1097 |",
+        "street": "r. pres. prudente de moraes",
+        "suburb": "santo antônio",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Max Colin, 2535 | América, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Max Colin",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89201-215",
+        "suburb": "América",
+        "street": "Rua Max Colin",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8521299,
+        "lat": -26.294547,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Max Colin, América, Joinville - SC, 89201-215, Brazil",
+        "address_line1": "Rua Max Colin",
+        "address_line2": "América, Joinville - SC, 89201-215, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP44X+54",
+        "plus_code_short": "4X+54 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339512397955287,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51cd38b297126d48c0598a22a46e674b3ac0f00102f901bc86770f00000000c0020492030d527561204d617820436f6c696e",
+        "bbox": {
+          "lon1": -48.8540183,
+          "lat1": -26.2946731,
+          "lon2": -48.8502415,
+          "lat2": -26.2944212
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Max Colin, 2535 | América, Joinville - SC",
+      "parsed": {
+        "housenumber": "2535 |",
+        "street": "rua max colin",
+        "suburb": "américa",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Antônio Augusto do Livramento, 47 | Espinheiros, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89228-800",
+        "suburb": "Espinheiros",
+        "street": "Rua Antônio Augusto do Livramento",
+        "housenumber": "47",
+        "iso3166_2": "BR-SC",
+        "lon": -48.7745994,
+        "lat": -26.2905231,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Antônio Augusto do Livramento 47, Espinheiros, Joinville - SC, 89228-800, Brazil",
+        "address_line1": "Rua Antônio Augusto do Livramento 47",
+        "address_line2": "Espinheiros, Joinville - SC, 89228-800, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP65G+Q5",
+        "plus_code_short": "P65G+Q5 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512840b912266348c059883bcdb85f4a3ac0f00103f9018a22891401000000c00203",
+        "bbox": {
+          "lon1": -48.7746494,
+          "lat1": -26.2905731,
+          "lon2": -48.7745494,
+          "lat2": -26.2904731
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Antônio Augusto do Livramento, 47 | Espinheiros, Joinville - SC",
+      "parsed": {
+        "housenumber": "47 |",
+        "street": "r. antônio augusto do livramento",
+        "suburb": "espinheiros",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua São Juliano, 14 | Anita Garibaldi, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua São Juliano",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89203-301",
+        "suburb": "Anita Garibaldi",
+        "street": "Rua São Juliano",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8609006,
+        "lat": -26.3251052,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua São Juliano, Anita Garibaldi, Joinville - SC, 89203-301, Brazil",
+        "address_line1": "Rua São Juliano",
+        "address_line2": "Anita Garibaldi, Joinville - SC, 89203-301, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM4FQ+XJ",
+        "plus_code_short": "M4FQ+XJ Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339512397955287,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ab0da9fd316e48c05971c229183a533ac0f00102f901d6cd890f00000000c002049203105275612053c3a36f204a756c69616e6f",
+        "bbox": {
+          "lon1": -48.8609608,
+          "lat1": -26.3257733,
+          "lon2": -48.8608404,
+          "lat2": -26.3244371
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua São Juliano, 14 | Anita Garibaldi, Joinville - SC",
+      "parsed": {
+        "housenumber": "14 |",
+        "street": "rua são juliano",
+        "suburb": "anita garibaldi",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Santa Catarina, 1033 | Floresta, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89211-307",
+        "suburb": "Floresta",
+        "street": "Rua Santa Catarina",
+        "housenumber": "1033",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8468237,
+        "lat": -26.3319436,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Santa Catarina 1033, Floresta, Joinville - SC, 89211-307, Brazil",
+        "address_line1": "Rua Santa Catarina 1033",
+        "address_line2": "Floresta, Joinville - SC, 89211-307, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM593+67",
+        "plus_code_short": "M593+67 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51267d10b8646c48c059d31d7a41fa543ac0f00103f90118d6cf1301000000c00203",
+        "bbox": {
+          "lon1": -48.8468737,
+          "lat1": -26.3319936,
+          "lon2": -48.8467737,
+          "lat2": -26.3318936
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Santa Catarina, 1033 | Floresta, Joinville - SC",
+      "parsed": {
+        "housenumber": "1033 |",
+        "street": "rua santa catarina",
+        "suburb": "floresta",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Senador Rodrigo Lobo, 609 | Iririú, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89227-565",
+        "suburb": "Iririú",
+        "street": "Rua Senador Rodrigo Lobo",
+        "housenumber": "609",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8174852,
+        "lat": -26.2663708,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Senador Rodrigo Lobo 609, Iririú, Joinville - SC, 89227-565, Brazil",
+        "address_line1": "Rua Senador Rodrigo Lobo 609",
+        "address_line2": "Iririú, Joinville - SC, 89227-565, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HP5MM+F2",
+        "plus_code_short": "P5MM+F2 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51657be35aa36848c059ff9b72e030443ac0f00103f901c421941301000000c00203",
+        "bbox": {
+          "lon1": -48.8175352,
+          "lat1": -26.2664208,
+          "lon2": -48.8174352,
+          "lat2": -26.2663208
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Senador Rodrigo Lobo, 609 | Iririú, Joinville - SC",
+      "parsed": {
+        "housenumber": "609 |",
+        "street": "rua senador rodrigo lobo",
+        "suburb": "iririú",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Santa Catarina, 908 | Floresta, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Santa Catarina",
+        "old_name": "Katharinenstrasse",
+        "other_names": {
+          "old_name": "Katharinenstrasse"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89211-307",
+        "suburb": "Floresta",
+        "street": "Rua Santa Catarina",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8473346,
+        "lat": -26.3333845,
+        "state_code": "SC",
+        "result_type": "street",
+        "formatted": "Rua Santa Catarina, Floresta, Joinville - SC, 89211-307, Brazil",
+        "address_line1": "Rua Santa Catarina",
+        "address_line2": "Floresta, Joinville - SC, 89211-307, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM583+J3",
+        "plus_code_short": "M583+J3 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 0.05339512397955287,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5177e2cd75756c48c0594a7ec4af58553ac0f00102f901a451763200000000c002049203125275612053616e7461204361746172696e61",
+        "bbox": {
+          "lon1": -48.8476143,
+          "lat1": -26.3356893,
+          "lon2": -48.8468343,
+          "lat2": -26.3310925
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Santa Catarina, 908 | Floresta, Joinville - SC",
+      "parsed": {
+        "housenumber": "908 |",
+        "street": "r. santa catarina",
+        "suburb": "floresta",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Fátima, 545 - | Itaum, Joinville - SC": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Região Geográfica Intermediária de Joinville",
+        "state": "Santa Catarina",
+        "city": "Joinville",
+        "municipality": "Região Geográfica Imediata de Joinville",
+        "postcode": "89230-183",
+        "suburb": "Itaum",
+        "street": "Rua Fátima",
+        "housenumber": "545",
+        "iso3166_2": "BR-SC",
+        "lon": -48.8170414,
+        "lat": -26.3350206,
+        "state_code": "SC",
+        "result_type": "building",
+        "formatted": "Rua Fátima 545, Itaum, Joinville - SC, 89230-183, Brazil",
+        "address_line1": "Rua Fátima 545",
+        "address_line2": "Itaum, Joinville - SC, 89230-183, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "585HM57M+X5",
+        "plus_code_short": "M57M+X5 Joinville, Santa Catarina, Brazil",
+        "rank": {
+          "importance": 6.179064621953181e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51313d06d0946848c0597e7cf8e8c3553ac0f00103f901bd949c1401000000c00203",
+        "bbox": {
+          "lon1": -48.8170914,
+          "lat1": -26.3350706,
+          "lon2": -48.8169914,
+          "lat2": -26.3349706
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Fátima, 545 - | Itaum, Joinville - SC",
+      "parsed": {
+        "housenumber": "545",
+        "street": "rua fátima",
+        "suburb": "itaum",
+        "city": "joinville",
+        "state": "sc",
+        "expected_type": "building"
+      }
+    }
+  }
+}

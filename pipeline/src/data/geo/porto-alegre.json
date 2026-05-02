@@ -1,0 +1,2083 @@
+{
+  "R. Olavo Bilac, 251 | Azenha, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "A Virgem",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "postcode": "90040-310",
+        "suburb": "Cidade Baixa",
+        "street": "Rua Olavo Bilac",
+        "housenumber": "251",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2167985,
+        "lat": -30.0429561,
+        "state_code": "RS",
+        "result_type": "amenity",
+        "formatted": "A Virgem, Rua Olavo Bilac 251, Cidade Baixa, Porto Alegre - RS, 90040-310, Brazil",
+        "address_line1": "A Virgem",
+        "address_line2": "Rua Olavo Bilac 251, Cidade Baixa, Porto Alegre - RS, 90040-310, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ4M+R7",
+        "plus_code_short": "4M+R7 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 7.33218890668653e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5133a9a10dc09b49c059e9a9c42bff0a3ec0f00103f901a860ae1101000000c00201920308412056697267656d",
+        "bbox": {
+          "lon1": -51.2168485,
+          "lat1": -30.0430061,
+          "lon2": -51.2167485,
+          "lat2": -30.0429061
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Olavo Bilac, 251 | Azenha, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "251 |",
+        "street": "r. olavo bilac",
+        "suburb": "azenha",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Gomes de Freitas, 421 | Jardim Itu, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Gomes de Freitas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91380-380",
+        "suburb": "Jardim Itu",
+        "street": "Rua Gomes de Freitas",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1431075,
+        "lat": -30.0118723,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Gomes de Freitas, Jardim Itu, Porto Alegre - RS, 91380-380, Brazil",
+        "address_line1": "Rua Gomes de Freitas",
+        "address_line2": "Jardim Itu, Porto Alegre - RS, 91380-380, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXVQ4+7Q",
+        "plus_code_short": "XVQ4+7Q Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51fa27b858519249c059723a24100a033ec0f00102f90130ca2b1c00000000c0020492031452756120476f6d65732064652046726569746173",
+        "bbox": {
+          "lon1": -51.1432888,
+          "lat1": -30.0137803,
+          "lon2": -51.1429265,
+          "lat2": -30.0099641
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Gomes de Freitas, 421 | Jardim Itu, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "421 |",
+        "street": "r. gomes de freitas",
+        "suburb": "jardim itu",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Coronel Fernando Machado, 1200 | Centro, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lavanderia Spuma",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90020-025",
+        "suburb": "Historic District",
+        "street": "Rua Coronel Fernando Machado",
+        "housenumber": "1200",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2264775,
+        "lat": -30.0347585,
+        "state_code": "RS",
+        "result_type": "amenity",
+        "formatted": "Lavanderia Spuma, Rua Coronel Fernando Machado 1200, Historic District, Porto Alegre - RS, 90020-025, Brazil",
+        "address_line1": "Lavanderia Spuma",
+        "address_line2": "Rua Coronel Fernando Machado 1200, Historic District, Porto Alegre - RS, 90020-025, Brazil",
+        "category": "commercial;service.cleaning.laundry",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ8F+3C",
+        "plus_code_short": "8F+3C Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 7.33218890668653e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51d2e3f736fd9c49c0590dc2dceee5083ec0f00103f9012155512601000000c002019203104c6176616e6465726961205370756d61",
+        "bbox": {
+          "lon1": -51.2265275,
+          "lat1": -30.0348085,
+          "lon2": -51.2264275,
+          "lat2": -30.0347085
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Coronel Fernando Machado, 1200 | Centro, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "1200 |",
+        "street": "r. coronel fernando machado",
+        "suburb": "centro",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Dr. Sezefredo Azambuja Vieira, 2240 Canoas - RS, 92020-020": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Doutor Sezefredo Azambuja Vieira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Canoas",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "92035-800",
+        "district": "Canoas",
+        "neighbourhood": "Planalto Canoense",
+        "suburb": "Olaria",
+        "street": "Avenida Doutor Sezefredo Azambuja Vieira",
+        "iso3166_2": "BR-RS",
+        "lon": -51.119431,
+        "lat": -29.921794,
+        "state_code": "RS",
+        "housenumber": "2240",
+        "result_type": "building",
+        "formatted": "Avenida Doutor Sezefredo Azambuja Vieira 2240, Olaria, Canoas - RS, 92035-800, Brazil",
+        "address_line1": "Avenida Doutor Sezefredo Azambuja Vieira 2240",
+        "address_line2": "Olaria, Canoas - RS, 92035-800, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "582C3VHJ+76",
+        "plus_code_short": "3VHJ+76 Canoas, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.053393123521782215,
+          "confidence": 0.75,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "517590d783498f49c05926a60bb1faeb3dc0f00102f90110f1102200000000c002039203284176656e69646120446f75746f722053657a65667265646f20417a616d62756a6120566965697261",
+        "bbox": {
+          "lon1": -51.1194314,
+          "lat1": -29.9217936,
+          "lon2": -51.1164605,
+          "lat2": -29.9182796
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Dr. Sezefredo Azambuja Vieira, 2240 Canoas - RS, 92020-020",
+      "parsed": {
+        "housenumber": "2240",
+        "street": "av. dr. sezefredo azambuja vieira",
+        "postcode": "92020-020",
+        "city": "canoas",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Assis Brasil, 171 | Santa Maria Gorete, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Assis Brasil",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91010-007",
+        "suburb": "Cristo Redentor",
+        "street": "Avenida Assis Brasil",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1849499,
+        "lat": -30.007814,
+        "state_code": "RS",
+        "housenumber": "171",
+        "result_type": "building",
+        "formatted": "Avenida Assis Brasil 171, Cristo Redentor, Porto Alegre - RS, 91010-007, Brazil",
+        "address_line1": "Avenida Assis Brasil 171",
+        "address_line2": "Cristo Redentor, Porto Alegre - RS, 91010-007, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXRR8+V2",
+        "plus_code_short": "XRR8+V2 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5101f33570ac9749c05971732a1900023ec0f00102f901d52a3e1500000000c002039203144176656e6964612041737369732042726173696c",
+        "bbox": {
+          "lon1": -51.1552137,
+          "lat1": -30.01051,
+          "lon2": -51.1533046,
+          "lat2": -30.0104722
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Assis Brasil, 171 | Santa Maria Gorete, Porto Alegre - RS",
+      "parsed": {
+        "house": "| santa maria gorete",
+        "housenumber": "171",
+        "street": "av. assis brasil",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Doutor Timóteo, 201 | Floresta, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Doutor Timóteo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90540-001",
+        "suburb": "Moinhos de Vento",
+        "street": "Rua Doutor Timóteo",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1999831,
+        "lat": -30.0208999,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Doutor Timóteo, Moinhos de Vento, Porto Alegre - RS, 90540-001, Brazil",
+        "address_line1": "Rua Doutor Timóteo",
+        "address_line2": "Moinhos de Vento, Porto Alegre - RS, 90540-001, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXRH2+J2",
+        "plus_code_short": "XRH2+J2 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "515820d50b999949c0595bfd22b259053ec0f00102f9014236790700000000c0020492031352756120446f75746f722054696dc3b374656f",
+        "bbox": {
+          "lon1": -51.2001972,
+          "lat1": -30.0237052,
+          "lon2": -51.1997527,
+          "lat2": -30.0180932
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Doutor Timóteo, 201 | Floresta, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "201 |",
+        "street": "r. doutor timóteo",
+        "suburb": "floresta",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Wenceslau Escobar, 2997 | Cristal, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Wenceslau Escobar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91900-590",
+        "suburb": "Cristal",
+        "street": "Avenida Wenceslau Escobar",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2483573,
+        "lat": -30.0987086,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Avenida Wenceslau Escobar, Cristal, Porto Alegre - RS, 91900-590, Brazil",
+        "address_line1": "Avenida Wenceslau Escobar",
+        "address_line2": "Cristal, Porto Alegre - RS, 91900-590, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCWQ22+GM",
+        "plus_code_short": "WQ22+GM Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51879c082cca9f49c0597dd580f744193ec0f00102f901acba5c1500000000c002049203194176656e6964612057656e6365736c6175204573636f626172",
+        "bbox": {
+          "lon1": -51.2485948,
+          "lat1": -30.0998201,
+          "lon2": -51.2482837,
+          "lat2": -30.0976126
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Wenceslau Escobar, 2997 | Cristal, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "2997 |",
+        "street": "av. wenceslau escobar",
+        "suburb": "cristal",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Guaíba, 10748 | Ipanema, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90680-000",
+        "suburb": "Ipanema",
+        "street": "Avenida Guaíba",
+        "housenumber": "10748",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2324874,
+        "lat": -30.1355654,
+        "state_code": "RS",
+        "result_type": "building",
+        "formatted": "Avenida Guaíba 10748, Ipanema, Porto Alegre - RS, 90680-000, Brazil",
+        "address_line1": "Avenida Guaíba 10748",
+        "address_line2": "Ipanema, Porto Alegre - RS, 90680-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCVQ79+Q2",
+        "plus_code_short": "VQ79+Q2 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 2.8699931334355954e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b4dda925c29d49c0591b78ff69b4223ec0f00103f901c781048600000000c00203",
+        "bbox": {
+          "lon1": -51.2325374,
+          "lat1": -30.1356154,
+          "lon2": -51.2324374,
+          "lat2": -30.1355154
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Guaíba, 10748 | Ipanema, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "10748 |",
+        "street": "avenida guaíba",
+        "suburb": "ipanema",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Felizardo, 445 | Jardim Botânico, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Felizardo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90690-200",
+        "suburb": "Jardim Botânico",
+        "street": "Rua Felizardo",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1825267,
+        "lat": -30.0514967,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Felizardo, Jardim Botânico, Porto Alegre - RS, 90690-200, Brazil",
+        "address_line1": "Rua Felizardo",
+        "address_line2": "Jardim Botânico, Porto Alegre - RS, 90690-200, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCWRX8+CX",
+        "plus_code_short": "WRX8+CX Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ca92ef085d9749c059185a42e32e0d3ec0f00102f9014aafeb1a00000000c0020492030d5275612046656c697a6172646f",
+        "bbox": {
+          "lon1": -51.1838965,
+          "lat1": -30.051904,
+          "lon2": -51.181154,
+          "lat2": -30.0510795
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Felizardo, 445 | Jardim Botânico, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "445 |",
+        "street": "r. felizardo",
+        "suburb": "jardim botânico",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Marechal Floriano Peixoto, 387 | Centro, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Marechal Floriano Peixoto",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90020-025",
+        "suburb": "Historic District",
+        "street": "Rua Marechal Floriano Peixoto",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2272447,
+        "lat": -30.0348698,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Marechal Floriano Peixoto, Historic District, Porto Alegre - RS, 90020-025, Brazil",
+        "address_line1": "Rua Marechal Floriano Peixoto",
+        "address_line2": "Historic District, Porto Alegre - RS, 90020-025, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ8F+34",
+        "plus_code_short": "8F+34 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "513c58b55a169d49c059399e2a3aed083ec0f00102f9015b17731300000000c0020492031d527561204d6172656368616c20466c6f7269616e6f20506569786f746f",
+        "bbox": {
+          "lon1": -51.2273393,
+          "lat1": -30.0360462,
+          "lon2": -51.2271375,
+          "lat2": -30.0336939
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Marechal Floriano Peixoto, 387 | Centro, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "387 |",
+        "street": "r. marechal floriano peixoto",
+        "suburb": "centro",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Paulo Henrique Ten-Caten, 112 | Santa Rosa de Lima, Porto Alegre - RS": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "postcode": "91170-340",
+        "suburb": "Santa Rosa de Lima",
+        "street": "Rua Doutor Paulo Henrique Ten Caten",
+        "other_names": {
+          "name": "Rua Doutor Paulo Henrique Ten Caten",
+          "name:pt": "Rua Doutor Paulo Henrique Ten Caten",
+          "alt_name": "Rua Paulo Henrique Ten Caten"
+        },
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "RS",
+        "lon": -51.0911375,
+        "lat": -29.9962602,
+        "housenumber": "112",
+        "result_type": "building",
+        "name": "Rua Doutor Paulo Henrique Ten Caten",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "iso3166_2": "BR-RS",
+        "formatted": "Rua Doutor Paulo Henrique Ten Caten 112, Santa Rosa de Lima, Porto Alegre - RS, 91170-340, Brazil",
+        "address_line1": "Rua Doutor Paulo Henrique Ten Caten 112",
+        "address_line2": "Santa Rosa de Lima, Porto Alegre - RS, 91170-340, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "582C2W35+FG",
+        "plus_code_short": "2W35+FG Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.36450000000000005,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "confidence_building_level": 0,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5138f8c264aa8b49c059714e91e80aff3dc0f00102f90177f6bb0100000000c0020392032352756120446f75746f72205061756c6f2048656e72697175652054656e20436174656e",
+        "bbox": {
+          "lon1": -51.0911632,
+          "lat1": -29.9966735,
+          "lon2": -51.0911119,
+          "lat2": -29.9958469
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Paulo Henrique Ten-Caten, 112 | Santa Rosa de Lima, Porto Alegre - RS",
+      "parsed": {
+        "house": "| santa rosa de lima",
+        "housenumber": "112",
+        "street": "r. paulo henrique ten-caten",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Mariante, 855 | Rio Branco, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Mariante",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90430-180",
+        "suburb": "Rio Branco",
+        "street": "Rua Mariante",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2037511,
+        "lat": -30.0327825,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Mariante, Rio Branco, Porto Alegre - RS, 90430-180, Brazil",
+        "address_line1": "Rua Mariante",
+        "address_line2": "Rio Branco, Porto Alegre - RS, 90430-180, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ8W+VF",
+        "plus_code_short": "XQ8W+VF Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5113831b84149a49c0599161156f64083ec0f00102f901d9961a1c00000000c0020492030c527561204d617269616e7465",
+        "bbox": {
+          "lon1": -51.2039913,
+          "lat1": -30.033216,
+          "lon2": -51.2035004,
+          "lat2": -30.032355
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Mariante, 855 | Rio Branco, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "855 |",
+        "street": "r. mariante",
+        "suburb": "rio branco",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Circular, 593 | Vila Jardim, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Circular",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91320-181",
+        "suburb": "Vila Jardim",
+        "street": "Avenida Circular",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1493197,
+        "lat": -30.0282882,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Avenida Circular, Vila Jardim, Porto Alegre - RS, 91320-181, Brazil",
+        "address_line1": "Avenida Circular",
+        "address_line2": "Vila Jardim, Porto Alegre - RS, 91320-181, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXVC2+M7",
+        "plus_code_short": "XVC2+M7 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5103136ee81c9349c059dadc3de53d073ec0f00102f901167bae0100000000c002049203104176656e6964612043697263756c6172",
+        "bbox": {
+          "lon1": -51.1507334,
+          "lat1": -30.0291798,
+          "lon2": -51.1481732,
+          "lat2": -30.0279498
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Circular, 593 | Vila Jardim, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "593 |",
+        "street": "av. circular",
+        "suburb": "vila jardim",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Cipó, 1264 | Passo D'Areia, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Cipó",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91340-110",
+        "suburb": "Jardim Europa",
+        "street": "Rua Cipó",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1633768,
+        "lat": -30.0205163,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Cipó, Jardim Europa, Porto Alegre - RS, 91340-110, Brazil",
+        "address_line1": "Rua Cipó",
+        "address_line2": "Jardim Europa, Porto Alegre - RS, 91340-110, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXRHP+QJ",
+        "plus_code_short": "XRHP+QJ Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516b76ee87e99449c059f188658e40053ec0f00102f901d7aeeb1a00000000c0020492030952756120436970c3b3",
+        "bbox": {
+          "lon1": -51.1639486,
+          "lat1": -30.0205871,
+          "lon2": -51.1628041,
+          "lat2": -30.0204528
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Cipó, 1264 | Passo D'Areia, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "1264 |",
+        "street": "rua cipó",
+        "suburb": "passo d'areia",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Ceará, 823 | São João, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Ceará",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90230-071",
+        "suburb": "São João",
+        "street": "Avenida Ceará",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1936153,
+        "lat": -30.0070023,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Avenida Ceará, São João, Porto Alegre - RS, 90230-071, Brazil",
+        "address_line1": "Avenida Ceará",
+        "address_line2": "São João, Porto Alegre - RS, 90230-071, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXRV4+5H",
+        "plus_code_short": "XRV4+5H Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51abc0da62c89849c0592d7f19e7ca013ec0f00102f901d7897b4f00000000c0020492030e4176656e6964612043656172c3a1",
+        "bbox": {
+          "lon1": -51.1937736,
+          "lat1": -30.0074341,
+          "lon2": -51.193457,
+          "lat2": -30.0065705
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Ceará, 823 | São João, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "823 |",
+        "street": "av. ceará",
+        "suburb": "são joão",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Inácio Vasconcelos, 69 | Boa Vista, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Inácio Vasconcelos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90520-003",
+        "suburb": "Boa Vista",
+        "street": "Avenida Inácio Vasconcelos",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1820588,
+        "lat": -30.0221865,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Avenida Inácio Vasconcelos, Boa Vista, Porto Alegre - RS, 90520-003, Brazil",
+        "address_line1": "Avenida Inácio Vasconcelos",
+        "address_line2": "Boa Vista, Porto Alegre - RS, 90520-003, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXRH9+45",
+        "plus_code_short": "XRH9+45 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5179f9e7b34d9749c059a7e9b303ae053ec0f00102f9018a25ae0100000000c0020492031b4176656e69646120496ec3a163696f20566173636f6e63656c6f73",
+        "bbox": {
+          "lon1": -51.1824675,
+          "lat1": -30.0230238,
+          "lon2": -51.1816538,
+          "lat2": -30.021351
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Inácio Vasconcelos, 69 | Boa Vista, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "69 |",
+        "street": "avenida inácio vasconcelos",
+        "suburb": "boa vista",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Francisco Ferrer, 192 | Rio Branco, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Francisco Ferrer",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90420-140",
+        "suburb": "Rio Branco",
+        "street": "Rua Francisco Ferrer",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2072801,
+        "lat": -30.0351211,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Francisco Ferrer, Rio Branco, Porto Alegre - RS, 90420-140, Brazil",
+        "address_line1": "Rua Francisco Ferrer",
+        "address_line2": "Rio Branco, Porto Alegre - RS, 90420-140, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ7V+X3",
+        "plus_code_short": "XQ7V+X3 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51494e8127889a49c05949e647b2fd083ec0f00102f901012e3e1500000000c00204920314527561204672616e636973636f20466572726572",
+        "bbox": {
+          "lon1": -51.2073059,
+          "lat1": -30.0370434,
+          "lon2": -51.2072639,
+          "lat2": -30.0331989
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Francisco Ferrer, 192 | Rio Branco, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "192 |",
+        "street": "rua francisco ferrer",
+        "suburb": "rio branco",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dr. Mario Totta, 963 | Tristeza, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Floricultura Winge",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91920-130",
+        "suburb": "Tristeza",
+        "street": "Rua Doutor Mário Totta",
+        "housenumber": "963",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2502547,
+        "lat": -30.1137731,
+        "state_code": "RS",
+        "result_type": "amenity",
+        "formatted": "Floricultura Winge, Rua Doutor Mário Totta 963, Tristeza, Porto Alegre - RS, 91920-130, Brazil",
+        "address_line1": "Floricultura Winge",
+        "address_line2": "Rua Doutor Mário Totta 963, Tristeza, Porto Alegre - RS, 91920-130, Brazil",
+        "category": "commercial.garden",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCVPPX+FV",
+        "plus_code_short": "VPPX+FV Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 7.33218890668653e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51cc15945808a049c0591faadf3b201d3ec0f00102f9015c0b870f00000000c00201920312466c6f726963756c747572612057696e6765",
+        "bbox": {
+          "lon1": -51.2517593,
+          "lat1": -30.114676,
+          "lon2": -51.2487502,
+          "lat2": -30.1128061
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dr. Mario Totta, 963 | Tristeza, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "963 |",
+        "street": "r. dr. mario totta",
+        "suburb": "tristeza",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. João Alfredo, 557 | Cidade Baixa, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua João Alfredo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90050-230",
+        "suburb": "Cidade Baixa",
+        "street": "Rua João Alfredo",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2267355,
+        "lat": -30.0396167,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua João Alfredo, Cidade Baixa, Porto Alegre - RS, 90050-230, Brazil",
+        "address_line1": "Rua João Alfredo",
+        "address_line2": "Cidade Baixa, Porto Alegre - RS, 90050-230, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ6F+58",
+        "plus_code_short": "6F+58 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51cdab3aab059d49c0591de0ee51240a3ec0f00102f9015817731300000000c00204920311527561204a6fc3a36f20416c667265646f",
+        "bbox": {
+          "lon1": -51.2274702,
+          "lat1": -30.0402592,
+          "lon2": -51.2259838,
+          "lat2": -30.0389549
+        }
+      }
+    ],
+    "query": {
+      "text": "R. João Alfredo, 557 | Cidade Baixa, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "557 |",
+        "street": "r. joão alfredo",
+        "suburb": "cidade baixa",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Bento Gonçalves, 1979 | Partenon, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Bento Gonçalves",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91520-080",
+        "suburb": "Vila João Pessoa",
+        "street": "Avenida Bento Gonçalves",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1784266,
+        "lat": -30.0632977,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Avenida Bento Gonçalves, Vila João Pessoa, Porto Alegre - RS, 91520-080, Brazil",
+        "address_line1": "Avenida Bento Gonçalves",
+        "address_line2": "Vila João Pessoa, Porto Alegre - RS, 91520-080, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCWRPC+MJ",
+        "plus_code_short": "WRPC+MJ Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5145decdaed69649c0597a692f4734103ec0f00102f901292b3e1500000000c002049203184176656e6964612042656e746f20476f6ec3a7616c766573",
+        "bbox": {
+          "lon1": -51.1792765,
+          "lat1": -30.0640569,
+          "lon2": -51.1775766,
+          "lat2": -30.0625409
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Bento Gonçalves, 1979 | Partenon, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "1979 |",
+        "street": "av. bento gonçalves",
+        "suburb": "partenon",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Pedro Boticário, 560 | Partenon, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Pedro Boticário",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90660-070",
+        "suburb": "Glória",
+        "street": "Rua Pedro Boticário",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1989645,
+        "lat": -30.0744886,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Pedro Boticário, Glória, Porto Alegre - RS, 90660-070, Brazil",
+        "address_line1": "Rua Pedro Boticário",
+        "address_line2": "Glória, Porto Alegre - RS, 90660-070, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCWRG2+6C",
+        "plus_code_short": "WRG2+6C Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51524832ab779949c059c1ec54af11133ec0f00102f9019bafeb1a00000000c0020492031452756120506564726f20426f746963c3a172696f",
+        "bbox": {
+          "lon1": -51.199647,
+          "lat1": -30.0754393,
+          "lon2": -51.1982659,
+          "lat2": -30.0735263
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Pedro Boticário, 560 | Partenon, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "560 |",
+        "street": "r. pedro boticário",
+        "suburb": "partenon",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da República, 409 | Cidade Baixa, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua da República",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90160-070",
+        "suburb": "Cidade Baixa",
+        "street": "Rua da República",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2269883,
+        "lat": -30.041004,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua da República, Cidade Baixa, Porto Alegre - RS, 90160-070, Brazil",
+        "address_line1": "Rua da República",
+        "address_line2": "Cidade Baixa, Porto Alegre - RS, 90160-070, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ5F+H6",
+        "plus_code_short": "5F+H6 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518e89def30d9d49c0595401f73c7f0a3ec0f00102f90192af3f0c00000000c0020492031152756120646120526570c3ba626c696361",
+        "bbox": {
+          "lon1": -51.2279794,
+          "lat1": -30.0415997,
+          "lon2": -51.2259901,
+          "lat2": -30.0403428
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da República, 409 | Cidade Baixa, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "409 |",
+        "street": "rua da república",
+        "suburb": "cidade baixa",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Victor Barreto, 3588 | Centro, Canoas - RS": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "3588",
+        "street": "Avenida Victor Barreto",
+        "country": "Brazil",
+        "county": "Rio Grande Do Sul",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "92010-000",
+        "state": "South",
+        "city": "Canoas",
+        "county_code": "RS",
+        "lon": -51.178794,
+        "lat": -29.928104,
+        "result_type": "building",
+        "formatted": "Avenida Victor Barreto 3588, Canoas - South, 92010-000, Brazil",
+        "address_line1": "Avenida Victor Barreto 3588",
+        "address_line2": "Canoas - South, 92010-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "582C3RCC+QF",
+        "plus_code_short": "CC+QF Canoas, Rio Grande Do Sul, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "514b5cc7b8e29649c0596b49473998ed3dc0c00203e203466f70656e6164647265737365733a616464726573733a62722f72732f7374617465776964652d6164647265737365732d73746174653a31316233656339313531626666336362"
+      }
+    ],
+    "query": {
+      "text": "Av. Victor Barreto, 3588 | Centro, Canoas - RS",
+      "parsed": {
+        "housenumber": "3588 |",
+        "street": "av. victor barreto",
+        "suburb": "centro",
+        "city": "canoas",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Mariante, 587 | Rio Branco, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Mariante",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90430-180",
+        "suburb": "Rio Branco",
+        "street": "Rua Mariante",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2037511,
+        "lat": -30.0327825,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Mariante, Rio Branco, Porto Alegre - RS, 90430-180, Brazil",
+        "address_line1": "Rua Mariante",
+        "address_line2": "Rio Branco, Porto Alegre - RS, 90430-180, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ8W+VF",
+        "plus_code_short": "XQ8W+VF Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5113831b84149a49c0599161156f64083ec0f00102f901d9961a1c00000000c0020492030c527561204d617269616e7465",
+        "bbox": {
+          "lon1": -51.2039913,
+          "lat1": -30.033216,
+          "lon2": -51.2035004,
+          "lat2": -30.032355
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Mariante, 587 | Rio Branco, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "587 |",
+        "street": "r. mariante",
+        "suburb": "rio branco",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua dos Andradas, 777 | Centro Histórico, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua dos Andradas",
+        "old_name": "Rua da Praia",
+        "other_names": {
+          "old_name": "Rua da Praia",
+          "name": "Rua dos Andradas",
+          "name:pt": "Rua dos Andradas"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90020-003",
+        "suburb": "Historic District",
+        "street": "Rua dos Andradas",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2346041,
+        "lat": -30.031583,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua dos Andradas, Historic District, Porto Alegre - RS, 90020-003, Brazil",
+        "address_line1": "Rua dos Andradas",
+        "address_line2": "Historic District, Porto Alegre - RS, 90020-003, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ98+95",
+        "plus_code_short": "98+95 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f680d481079e49c0590d1cd0d215083ec0f00102f90193c46e4c00000000c0020492031052756120646f7320416e647261646173",
+        "bbox": {
+          "lon1": -51.237368,
+          "lat1": -30.0325245,
+          "lon2": -51.2318456,
+          "lat2": -30.0306234
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua dos Andradas, 777 | Centro Histórico, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "777 |",
+        "street": "rua dos andradas",
+        "suburb": "centro histórico",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dra. Maria Augusta Generoso Estrela, 1070 | Rubem Berta, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Doutora Maria Augusta Generoso Estrela",
+        "other_names": {
+          "alt_name": "Rua Doutora Maria Augusta Estrela",
+          "name": "Rua Doutora Maria Augusta Generoso Estrela",
+          "name:pt": "Rua Doutora Maria Augusta Generoso Estrela"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91160-680",
+        "suburb": "Parque Santa Fé",
+        "street": "Rua Doutora Maria Augusta Generoso Estrela",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1047205,
+        "lat": -30.0069266,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Doutora Maria Augusta Generoso Estrela, Parque Santa Fé, Porto Alegre - RS, 91160-680, Brazil",
+        "address_line1": "Rua Doutora Maria Augusta Generoso Estrela",
+        "address_line2": "Parque Santa Fé, Porto Alegre - RS, 91160-680, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXVVW+64",
+        "plus_code_short": "XVVW+64 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51425c397b678d49c059f47810f1c5013ec0f00102f9016222bc0100000000c0020492032a52756120446f75746f7261204d6172696120417567757374612047656e65726f736f2045737472656c61",
+        "bbox": {
+          "lon1": -51.1048294,
+          "lat1": -30.0087377,
+          "lon2": -51.1041822,
+          "lat2": -30.0052799
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dra. Maria Augusta Generoso Estrela, 1070 | Rubem Berta, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "1070 |",
+        "street": "r. dra. maria augusta generoso estrela",
+        "suburb": "rubem berta",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida do Forte, 1220 | Vila Ipiranga, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida do Forte",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91370-380",
+        "suburb": "Cristo Redentor",
+        "street": "Avenida do Forte",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1527389,
+        "lat": -30.0146975,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Avenida do Forte, Cristo Redentor, Porto Alegre - RS, 91370-380, Brazil",
+        "address_line1": "Avenida do Forte",
+        "address_line2": "Cristo Redentor, Porto Alegre - RS, 91370-380, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXRPW+4W",
+        "plus_code_short": "XRPW+4W Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51dc29c2f28c9349c0593dd52137c3033ec0f00102f9016ebfad0f00000000c002049203104176656e69646120646f20466f727465",
+        "bbox": {
+          "lon1": -51.1530258,
+          "lat1": -30.0169197,
+          "lon2": -51.1524423,
+          "lat2": -30.012474
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida do Forte, 1220 | Vila Ipiranga, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "1220 |",
+        "street": "avenida do forte",
+        "suburb": "vila ipiranga",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Rocio, 479 | Vila João Pessoa, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Rócio",
+        "old_name": "Avenida Róscio",
+        "other_names": {
+          "alt_name": "Avenida Rocio",
+          "old_name": "Avenida Róscio"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91510-740",
+        "suburb": "Vila João Pessoa",
+        "street": "Avenida Rócio",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1795241,
+        "lat": -30.0694944,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Avenida Rócio, Vila João Pessoa, Porto Alegre - RS, 91510-740, Brazil",
+        "address_line1": "Avenida Rócio",
+        "address_line2": "Vila João Pessoa, Porto Alegre - RS, 91510-740, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCWRJC+65",
+        "plus_code_short": "WRJC+65 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51032c4da5fa9649c05951418f62ca113ec0f00102f901b22c3e1500000000c0020492030e4176656e6964612052c3b363696f",
+        "bbox": {
+          "lon1": -51.1800637,
+          "lat1": -30.069972,
+          "lon2": -51.1790541,
+          "lat2": -30.0689566
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Rocio, 479 | Vila João Pessoa, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "479 |",
+        "street": "av. rocio",
+        "suburb": "vila joão pessoa",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Economista Nilo Wulff, 902 | Restinga, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Economista Nilo Wulff",
+        "other_names": {
+          "alt_name": "Avenida Economista Nilo Wulf"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91790-000",
+        "district": "Vila Nova Restinga",
+        "suburb": "Restinga",
+        "street": "Avenida Economista Nilo Wulff",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1456264,
+        "lat": -30.150462,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Avenida Economista Nilo Wulff, Restinga, Porto Alegre - RS, 91790-000, Brazil",
+        "address_line1": "Avenida Economista Nilo Wulff",
+        "address_line2": "Restinga, Porto Alegre - RS, 91790-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCRVX3+RP",
+        "plus_code_short": "RVX3+RP Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5194b7c8e2a39249c0596f4a79ad84263ec0f00102f9019bca9e0100000000c0020492031d4176656e6964612045636f6e6f6d69737461204e696c6f2057756c6666",
+        "bbox": {
+          "lon1": -51.1485452,
+          "lat1": -30.1517321,
+          "lon2": -51.1427246,
+          "lat2": -30.1492317
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Economista Nilo Wulff, 902 | Restinga, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "902 |",
+        "street": "av. economista nilo wulff",
+        "suburb": "restinga",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Ângelo Crivellaro, 540 | Jardim do Salso, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Ângelo Crivellaro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "91410-140",
+        "suburb": "Jardim do Salso",
+        "street": "Rua Ângelo Crivellaro",
+        "iso3166_2": "BR-RS",
+        "lon": -51.1701009,
+        "lat": -30.0497968,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Ângelo Crivellaro, Jardim do Salso, Porto Alegre - RS, 91410-140, Brazil",
+        "address_line1": "Rua Ângelo Crivellaro",
+        "address_line2": "Jardim do Salso, Porto Alegre - RS, 91410-140, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXR2H+3X",
+        "plus_code_short": "XR2H+3X Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519542c5ddc59549c0590972ab7bbf0c3ec0f00102f901bf70190d00000000c0020492031652756120c3826e67656c6f2043726976656c6c61726f",
+        "bbox": {
+          "lon1": -51.1721787,
+          "lat1": -30.0503922,
+          "lon2": -51.1680358,
+          "lat2": -30.0491583
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Ângelo Crivellaro, 540 | Jardim do Salso, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "540 |",
+        "street": "r. ângelo crivellaro",
+        "suburb": "jardim do salso",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Luiz Afonso, 247 | Cidade Baixa, Porto Alegre - RS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Luiz Afonso",
+        "other_names": {
+          "alt_name": "Rua Luís Afonso",
+          "name": "Rua Luiz Afonso",
+          "name:pt": "Rua Luiz Afonso"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Rio Grande do Sul",
+        "county": "Metropolitan Region of Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "city": "Porto Alegre",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "postcode": "90050-003",
+        "suburb": "Cidade Baixa",
+        "street": "Rua Luiz Afonso",
+        "iso3166_2": "BR-RS",
+        "lon": -51.2239884,
+        "lat": -30.0408669,
+        "state_code": "RS",
+        "result_type": "street",
+        "formatted": "Rua Luiz Afonso, Cidade Baixa, Porto Alegre - RS, 90050-003, Brazil",
+        "address_line1": "Rua Luiz Afonso",
+        "address_line2": "Cidade Baixa, Porto Alegre - RS, 90050-003, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "48XCXQ5G+MC",
+        "plus_code_short": "5G+MC Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+        "rank": {
+          "importance": 0.05340665522240021,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517957e2a6ab9c49c05929fdce40760a3ec0f00102f90153c45d4c00000000c0020492030f527561204c75697a2041666f6e736f",
+        "bbox": {
+          "lon1": -51.2251038,
+          "lat1": -30.041583,
+          "lon2": -51.222873,
+          "lat2": -30.0401509
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Luiz Afonso, 247 | Cidade Baixa, Porto Alegre - RS",
+      "parsed": {
+        "housenumber": "247 |",
+        "street": "rua luiz afonso",
+        "suburb": "cidade baixa",
+        "city": "porto alegre",
+        "state": "rs",
+        "expected_type": "building"
+      }
+    }
+  }
+}

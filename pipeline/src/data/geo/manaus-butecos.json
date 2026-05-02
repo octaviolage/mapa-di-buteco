@@ -1,0 +1,1235 @@
+{
+  "Rua Abel Botelho, 277 | Flores, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "ماناوس",
+          "name:be": "Манаус",
+          "name:bg": "Манаус",
+          "name:bn": "মানাউশ",
+          "name:ce": "Манаус",
+          "name:el": "Μανάους",
+          "name:eo": "Manaŭso",
+          "name:es": "Manaos",
+          "name:fa": "مانائوس",
+          "name:gn": "Manaos",
+          "name:he": "מנאוס",
+          "name:hy": "Մանաուս",
+          "name:ja": "マナウス",
+          "name:ka": "მანაუსი",
+          "name:kk": "Манаус",
+          "name:ko": "마나우스",
+          "name:lt": "Manausas",
+          "name:lv": "Manausa",
+          "name:mk": "Манауш",
+          "name:mn": "Манаус",
+          "name:mr": "मानौस",
+          "name:os": "Манаус",
+          "name:ru": "Манаус",
+          "name:sr": "Манаус",
+          "name:tg": "Манаус",
+          "name:th": "มาเนาส์",
+          "name:uk": "Манаус",
+          "name:yi": "מאנאוס",
+          "name:zh": "马瑙斯",
+          "alt_name:eo": "Manaŭo",
+          "name:hi": "मनौस",
+          "name:kn": "ಮಾನೌಸ್",
+          "name:ky": "Манаус",
+          "name:my": "မာနာအူစ်မြို့",
+          "name:ta": "மனௌசு",
+          "name:tt": "Манаус",
+          "name:ur": "میناوس"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "postcode": "69000-000",
+        "iso3166_2": "BR-AM",
+        "lon": -59.9825041,
+        "lat": -3.1316333,
+        "state_code": "AM",
+        "result_type": "postcode",
+        "distance": 0,
+        "formatted": "Manaus, AM, Brazil",
+        "address_line1": "Manaus",
+        "address_line2": "AM, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "6882V298+8X",
+        "plus_code_short": "V298+8X Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.6112926602119314,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_postcode"
+        },
+        "place_id": "51ccd7c0b1c2fd4dc059368474c2950d09c0f00101f901cd12050000000000c0020792030c36393030302d3030302b6272",
+        "bbox": {
+          "lon1": -60.801,
+          "lat1": -3.222,
+          "lon2": -59.16,
+          "lat2": -1.924
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Abel Botelho, 277 | Flores, Manaus - AM",
+      "parsed": {
+        "housenumber": "277",
+        "street": "| flores",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Síria, 521 | Cidade Nova, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Síria",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Nova Cidade",
+        "street": "Rua Síria",
+        "iso3166_2": "BR-AM",
+        "lon": -59.9803359,
+        "lat": -3.0126286,
+        "state_code": "AM",
+        "result_type": "street",
+        "formatted": "Rua Síria, Nova Cidade, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua Síria",
+        "address_line2": "Nova Cidade, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "6882X2P9+WV",
+        "plus_code_short": "X2P9+WV Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5120cc92a57bfd4dc05942f4ff05dd1908c0f00102f9014eee751d00000000c0020492030a5275612053c3ad726961",
+        "bbox": {
+          "lon1": -59.981201,
+          "lat1": -3.0126855,
+          "lon2": -59.9794722,
+          "lat2": -3.0126007
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Síria, 521 | Cidade Nova, Manaus - AM",
+      "parsed": {
+        "housenumber": "521 |",
+        "street": "rua síria",
+        "suburb": "cidade nova",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Carlos Lecor, 1015  | Parque 10 de Novembro, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Parque Dez de Novembro",
+        "street": "Rua Carlos Lecor",
+        "housenumber": "1015",
+        "iso3166_2": "BR-AM",
+        "lon": -60.012472,
+        "lat": -3.080949,
+        "state_code": "AM",
+        "result_type": "building",
+        "formatted": "Rua Carlos Lecor 1015, Parque Dez de Novembro, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua Carlos Lecor 1015",
+        "address_line2": "Parque Dez de Novembro, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XWX9Q+J2",
+        "plus_code_short": "WX9Q+J2 Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 6.72304875257041e-05,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51d00eb8ae98014ec059b726dd96c8a508c0f00103f901fc2608be01000000c00203",
+        "bbox": {
+          "lon1": -60.012522,
+          "lat1": -3.080999,
+          "lon2": -60.012422,
+          "lat2": -3.080899
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Carlos Lecor, 1015  | Parque 10 de Novembro, Manaus - AM",
+      "parsed": {
+        "house": "| parque 10 de novembro",
+        "housenumber": "1015",
+        "street": "rua carlos lecor",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Costa Azevedo, 96 | Centro, Manaus - AM.": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Costa Azevedo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Centro",
+        "street": "Rua Costa Azevedo",
+        "iso3166_2": "BR-AM",
+        "lon": -60.0222525,
+        "lat": -3.1321852,
+        "state_code": "AM",
+        "result_type": "street",
+        "formatted": "Rua Costa Azevedo, Centro, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua Costa Azevedo",
+        "address_line2": "Centro, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XVX9H+43",
+        "plus_code_short": "VX9H+43 Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.5,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518be07f2bd9024ec0592b1f381db70e09c0f00102f9013588aa1c00000000c0020492031152756120436f73746120417a657665646f",
+        "bbox": {
+          "lon1": -60.0222643,
+          "lat1": -3.1327887,
+          "lon2": -60.0222407,
+          "lat2": -3.1315818
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Costa Azevedo, 96 | Centro, Manaus - AM.",
+      "parsed": {
+        "housenumber": "96 |",
+        "street": "rua costa azevedo",
+        "suburb": "centro",
+        "city": "manaus",
+        "state": "am.",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Abdon Made , 6 -  MANAUS": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Abdon Made",
+        "other_names": {
+          "alt_name": "Rua Portugal",
+          "name": "Rua Abdon Made",
+          "name:pt": "Rua Abdon Made"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Parque Dez de Novembro",
+        "street": "Rua Abdon Made",
+        "iso3166_2": "BR-AM",
+        "lon": -60.0182686,
+        "lat": -3.0893115,
+        "state_code": "AM",
+        "housenumber": "6",
+        "result_type": "building",
+        "formatted": "Rua Abdon Made 6, Parque Dez de Novembro, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua Abdon Made 6",
+        "address_line2": "Parque Dez de Novembro, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XWX6J+7M",
+        "plus_code_short": "6J+7M Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5198c51fa056024ec059ee409df2e8b608c0f00102f9017862c01100000000c0020392030e527561204162646f6e204d616465",
+        "bbox": {
+          "lon1": -60.0187249,
+          "lat1": -3.0900844,
+          "lon2": -60.017918,
+          "lat2": -3.0887168
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Abdon Made , 6 -  MANAUS",
+      "parsed": {
+        "housenumber": "6",
+        "street": "r. abdon made",
+        "city": "manaus",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Bernardo Ramos, 97 | Centro, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Bernardo Ramos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Centro",
+        "street": "Rua Bernardo Ramos",
+        "iso3166_2": "BR-AM",
+        "lon": -60.0291746,
+        "lat": -3.1339692,
+        "state_code": "AM",
+        "result_type": "street",
+        "formatted": "Rua Bernardo Ramos, Centro, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua Bernardo Ramos",
+        "address_line2": "Centro, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XVX8C+C8",
+        "plus_code_short": "VX8C+C8 Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51db6f48febb034ec059ca5ea5715e1209c0f00102f901dd50f12b00000000c00204920312527561204265726e6172646f2052616d6f73",
+        "bbox": {
+          "lon1": -60.0298708,
+          "lat1": -3.1341536,
+          "lon2": -60.0284784,
+          "lat2": -3.1337849
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Bernardo Ramos, 97 | Centro, Manaus - AM",
+      "parsed": {
+        "housenumber": "97 |",
+        "street": "r. bernardo ramos",
+        "suburb": "centro",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Visc. de Porto Alegre, 385 | Centro, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Visconde de Porto Alegre",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Praça 14",
+        "street": "Avenida Visconde de Porto Alegre",
+        "iso3166_2": "BR-AM",
+        "lon": -60.013092,
+        "lat": -3.1166169,
+        "state_code": "AM",
+        "result_type": "street",
+        "formatted": "Avenida Visconde de Porto Alegre, Praça 14, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Avenida Visconde de Porto Alegre",
+        "address_line2": "Praça 14, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XVXMP+9Q",
+        "plus_code_short": "MP+9Q Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516ceba7ffac014ec05987495dd7d4ee08c0f00102f901c19e900200000000c002049203204176656e69646120566973636f6e646520646520506f72746f20416c65677265",
+        "bbox": {
+          "lon1": -60.0131087,
+          "lat1": -3.1172914,
+          "lon2": -60.0130758,
+          "lat2": -3.1159424
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Visc. de Porto Alegre, 385 | Centro, Manaus - AM",
+      "parsed": {
+        "housenumber": "385 |",
+        "street": "av. visc. de porto alegre",
+        "suburb": "centro",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Professor Ernani Simão, 1242 | Cachoeirinha, Manaus - AM": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "1242",
+        "street": "Rua Trinta",
+        "country": "Brazil",
+        "county": "Amazonas",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "69055-480",
+        "state": "North",
+        "city": "Manaus",
+        "county_code": "AM",
+        "lon": -60.009516,
+        "lat": -3.078582,
+        "result_type": "building",
+        "formatted": "Rua Trinta 1242, Manaus - North, 69055-480, Brazil",
+        "address_line1": "Rua Trinta 1242",
+        "address_line2": "Manaus - North, 69055-480, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XWXCR+H5",
+        "plus_code_short": "WXCR+H5 Manaus, Amazonas, Brazil",
+        "rank": {
+          "confidence": 0.18181818181818182,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.18181818181818182,
+          "confidence_building_level": 0.18181818181818182,
+          "match_type": "full_match"
+        },
+        "place_id": "51f564fed137014ec059266f8099efa008c0c00203e203466f70656e6164647265737365733a616464726573733a62722f616d2f7374617465776964652d6164647265737365732d73746174653a65313464336334313538363964636161"
+      }
+    ],
+    "query": {
+      "text": "Rua Professor Ernani Simão, 1242 | Cachoeirinha, Manaus - AM",
+      "parsed": {
+        "housenumber": "1242 |",
+        "street": "rua professor ernani simão",
+        "suburb": "cachoeirinha",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Penetração, 21 | Nova Cidade, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Hélio Leão",
+        "other_names": {
+          "alt_name": "Avenida Penetracao"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Nova Cidade",
+        "street": "Rua Hélio Leão",
+        "iso3166_2": "BR-AM",
+        "lon": -59.9877287,
+        "lat": -3.0172909,
+        "state_code": "AM",
+        "result_type": "street",
+        "formatted": "Rua Hélio Leão, Nova Cidade, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua Hélio Leão",
+        "address_line2": "Nova Cidade, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "6882X2M6+3W",
+        "plus_code_short": "X2M6+3W Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.2,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5109e9dfe46dfe4dc059b2255069692308c0f00102f9011312ff0900000000c002049203105275612048c3a96c696f204c65c3a36f",
+        "bbox": {
+          "lon1": -59.9901292,
+          "lat1": -3.0177668,
+          "lon2": -59.9853288,
+          "lat2": -3.0168124
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Penetração, 21 | Nova Cidade, Manaus - AM",
+      "parsed": {
+        "housenumber": "21 |",
+        "street": "av. penetração",
+        "suburb": "nova cidade",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Costa Azevedo, 147 | Centro, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Costa Azevedo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Centro",
+        "street": "Rua Costa Azevedo",
+        "iso3166_2": "BR-AM",
+        "lon": -60.0222525,
+        "lat": -3.1321852,
+        "state_code": "AM",
+        "result_type": "street",
+        "formatted": "Rua Costa Azevedo, Centro, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua Costa Azevedo",
+        "address_line2": "Centro, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XVX9H+43",
+        "plus_code_short": "VX9H+43 Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518be07f2bd9024ec0592b1f381db70e09c0f00102f9013588aa1c00000000c0020492031152756120436f73746120417a657665646f",
+        "bbox": {
+          "lon1": -60.0222643,
+          "lat1": -3.1327887,
+          "lon2": -60.0222407,
+          "lat2": -3.1315818
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Costa Azevedo, 147 | Centro, Manaus - AM",
+      "parsed": {
+        "housenumber": "147 |",
+        "street": "rua costa azevedo",
+        "suburb": "centro",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Acesso pela Marina do Davi,  Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "ماناوس",
+          "name:be": "Манаус",
+          "name:bg": "Манаус",
+          "name:bn": "মানাউশ",
+          "name:ce": "Манаус",
+          "name:el": "Μανάους",
+          "name:eo": "Manaŭso",
+          "name:es": "Manaos",
+          "name:fa": "مانائوس",
+          "name:gn": "Manaos",
+          "name:he": "מנאוס",
+          "name:hy": "Մանաուս",
+          "name:ja": "マナウス",
+          "name:ka": "მანაუსი",
+          "name:kk": "Манаус",
+          "name:ko": "마나우스",
+          "name:lt": "Manausas",
+          "name:lv": "Manausa",
+          "name:mk": "Манауш",
+          "name:mn": "Манаус",
+          "name:mr": "मानौस",
+          "name:os": "Манаус",
+          "name:ru": "Манаус",
+          "name:sr": "Манаус",
+          "name:tg": "Манаус",
+          "name:th": "มาเนาส์",
+          "name:uk": "Манаус",
+          "name:yi": "מאנאוס",
+          "name:zh": "马瑙斯",
+          "alt_name:eo": "Manaŭo",
+          "name:hi": "मनौस",
+          "name:kn": "ಮಾನೌಸ್",
+          "name:ky": "Манаус",
+          "name:my": "မာနာအူစ်မြို့",
+          "name:ta": "மனௌசு",
+          "name:tt": "Манаус",
+          "name:ur": "میناوس"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "postcode": "69000-000",
+        "iso3166_2": "BR-AM",
+        "lon": -59.9825041,
+        "lat": -3.1316333,
+        "state_code": "AM",
+        "result_type": "postcode",
+        "distance": 0,
+        "formatted": "Manaus, AM, Brazil",
+        "address_line1": "Manaus",
+        "address_line2": "AM, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "6882V298+8X",
+        "plus_code_short": "V298+8X Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.6112926602119314,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "match_by_postcode"
+        },
+        "place_id": "51ccd7c0b1c2fd4dc059368474c2950d09c0f00101f901cd12050000000000c0020792030c36393030302d3030302b6272",
+        "bbox": {
+          "lon1": -60.801,
+          "lat1": -3.222,
+          "lon2": -59.16,
+          "lat2": -1.924
+        }
+      }
+    ],
+    "query": {
+      "text": "Acesso pela Marina do Davi,  Manaus - AM",
+      "parsed": {
+        "street": "acesso pela marina do davi",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "street"
+      }
+    }
+  },
+  "R. René de Nápolis, 488 | Adrianópolis, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua René de Nápolis",
+        "other_names": {
+          "alt_name": "Rua Quatro;Rua 4",
+          "name": "Rua René de Nápolis",
+          "name:pt": "Rua René de Nápolis"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Adrianópolis",
+        "street": "Rua René de Nápolis",
+        "iso3166_2": "BR-AM",
+        "lon": -60.0074552,
+        "lat": -3.0948725,
+        "state_code": "AM",
+        "result_type": "street",
+        "formatted": "Rua René de Nápolis, Adrianópolis, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua René de Nápolis",
+        "address_line2": "Adrianópolis, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XWX4V+32",
+        "plus_code_short": "WX4V+32 Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b317c04af4004ec0596e5166834cc208c0f00102f901e955a00200000000c002049203155275612052656ec3a9206465204ec3a1706f6c6973",
+        "bbox": {
+          "lon1": -60.0093567,
+          "lat1": -3.0963526,
+          "lon2": -60.0055885,
+          "lat2": -3.0934286
+        }
+      }
+    ],
+    "query": {
+      "text": "R. René de Nápolis, 488 | Adrianópolis, Manaus - AM",
+      "parsed": {
+        "housenumber": "488 |",
+        "street": "r. rené de nápolis",
+        "suburb": "adrianópolis",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Eduardo Ribeiro, 926 - A | Centro, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Eduardo Ribeiro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Centro",
+        "street": "Avenida Eduardo Ribeiro",
+        "iso3166_2": "BR-AM",
+        "lon": -60.023524,
+        "lat": -3.129365,
+        "state_code": "AM",
+        "housenumber": "926",
+        "result_type": "building",
+        "formatted": "Avenida Eduardo Ribeiro 926, Centro, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Avenida Eduardo Ribeiro 926",
+        "address_line2": "Centro, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XVXCG+7H",
+        "plus_code_short": "VXCG+7H Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e7559dd502034ec059f0f96184f00809c0c002039203174176656e696461204564756172646f205269626569726fe203266f70656e6164647265737365733a616464726573733a36636235363634613430633363313638",
+        "bbox": {
+          "lon1": -60.0240812,
+          "lat1": -3.129879,
+          "lon2": -60.0240595,
+          "lat2": -3.1289533
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Eduardo Ribeiro, 926 - A | Centro, Manaus - AM",
+      "parsed": {
+        "housenumber": "926",
+        "street": "av. eduardo ribeiro",
+        "suburb": "centro",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Barão de Jaceguai, 695 | Flores, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "ماناوس",
+          "name:be": "Манаус",
+          "name:bg": "Манаус",
+          "name:bn": "মানাউশ",
+          "name:ce": "Манаус",
+          "name:el": "Μανάους",
+          "name:eo": "Manaŭso",
+          "name:es": "Manaos",
+          "name:fa": "مانائوس",
+          "name:gn": "Manaos",
+          "name:he": "מנאוס",
+          "name:hy": "Մանաուս",
+          "name:ja": "マナウス",
+          "name:ka": "მანაუსი",
+          "name:kk": "Манаус",
+          "name:ko": "마나우스",
+          "name:lt": "Manausas",
+          "name:lv": "Manausa",
+          "name:mk": "Манауш",
+          "name:mn": "Манаус",
+          "name:mr": "मानौस",
+          "name:os": "Манаус",
+          "name:ru": "Манаус",
+          "name:sr": "Манаус",
+          "name:tg": "Манаус",
+          "name:th": "มาเนาส์",
+          "name:uk": "Манаус",
+          "name:yi": "מאנאוס",
+          "name:zh": "马瑙斯",
+          "alt_name:eo": "Manaŭo",
+          "name:hi": "मनौस",
+          "name:kn": "ಮಾನೌಸ್",
+          "name:ky": "Манаус",
+          "name:my": "မာနာအူစ်မြို့",
+          "name:ta": "மனௌசு",
+          "name:tt": "Манаус",
+          "name:ur": "میناوس"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "postcode": "69000-000",
+        "iso3166_2": "BR-AM",
+        "lon": -59.9825041,
+        "lat": -3.1316333,
+        "state_code": "AM",
+        "result_type": "postcode",
+        "distance": 0,
+        "formatted": "Manaus, AM, Brazil",
+        "address_line1": "Manaus",
+        "address_line2": "AM, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "6882V298+8X",
+        "plus_code_short": "V298+8X Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.6112926602119314,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_postcode"
+        },
+        "place_id": "51ccd7c0b1c2fd4dc059368474c2950d09c0f00101f901cd12050000000000c0020792030c36393030302d3030302b6272",
+        "bbox": {
+          "lon1": -60.801,
+          "lat1": -3.222,
+          "lon2": -59.16,
+          "lat2": -1.924
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Barão de Jaceguai, 695 | Flores, Manaus - AM",
+      "parsed": {
+        "housenumber": "695",
+        "street": "| flores",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Margarita, 1984  | Nova Cidade, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Margarita",
+        "other_names": {
+          "alt_name": "Avenida Monsenhor Pinto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69093-149",
+        "district": "Manaus",
+        "suburb": "Nova Cidade",
+        "street": "Avenida Margarita",
+        "iso3166_2": "BR-AM",
+        "lon": -59.9910725,
+        "lat": -2.9996238,
+        "state_code": "AM",
+        "result_type": "street",
+        "formatted": "Avenida Margarita, Nova Cidade, Manaus - AM, 69093-149, Brazil",
+        "address_line1": "Avenida Margarita",
+        "address_line2": "Nova Cidade, Manaus - AM, 69093-149, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "68922225+5H",
+        "plus_code_short": "2225+5H Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5184bbb376dbfe4dc0590c6d4ac33aff07c0f00102f9016b8b023000000000c002049203114176656e696461204d6172676172697461",
+        "bbox": {
+          "lon1": -59.9911304,
+          "lat1": -2.9996264,
+          "lon2": -59.9910146,
+          "lat2": -2.9996212
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Margarita, 1984  | Nova Cidade, Manaus - AM",
+      "parsed": {
+        "housenumber": "1984 |",
+        "street": "av. margarita",
+        "suburb": "nova cidade",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua do Comércio, 115  | Parque 10 de Novembro, Manaus - AM": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua do Comércio",
+        "other_names": {
+          "alt_name": "Rua Goiânia"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "Tarumã",
+        "street": "Rua do Comércio",
+        "iso3166_2": "BR-AM",
+        "lon": -60.0343199,
+        "lat": -3.00039,
+        "state_code": "AM",
+        "housenumber": "115",
+        "result_type": "building",
+        "formatted": "Rua do Comércio 115, Tarumã, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Rua do Comércio 115",
+        "address_line2": "Tarumã, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XXXX8+R7",
+        "plus_code_short": "XXX8+R7 Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "rank": {
+          "importance": 0.053400563820859046,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "510e0d309864044ec059a9f6e978cc0008c0f00102f90101a3b80700000000c0020392031052756120646f20436f6dc3a97263696f",
+        "bbox": {
+          "lon1": -60.0383453,
+          "lat1": -3.0011344,
+          "lon2": -60.0337185,
+          "lat2": -2.9959404
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua do Comércio, 115  | Parque 10 de Novembro, Manaus - AM",
+      "parsed": {
+        "house": "| parque 10 de novembro",
+        "housenumber": "115",
+        "street": "rua do comércio",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. Pe. Agostinho Caballero Martin, 955 | São Raimundo, Manaus - AM": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "North Region",
+        "state": "Amazonas",
+        "county": "Região Geográfica Intermediária de Manaus",
+        "city": "Manaus",
+        "municipality": "Região Geográfica Imediata de Manaus",
+        "postcode": "69000-000",
+        "district": "Manaus",
+        "suburb": "São Raimundo",
+        "street": "Avenida Padre Agostinho Caballero Martins",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "AM",
+        "lon": -60.0439883,
+        "lat": -3.1212281,
+        "result_type": "street",
+        "formatted": "Avenida Padre Agostinho Caballero Martins, São Raimundo, Manaus - AM, 69000-000, Brazil",
+        "address_line1": "Avenida Padre Agostinho Caballero Martins",
+        "address_line2": "São Raimundo, Manaus - AM, 69000-000, Brazil",
+        "timezone": {
+          "name": "America/Manaus",
+          "offset_STD": "-04:00",
+          "offset_STD_seconds": -14400,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400
+        },
+        "plus_code": "678XVXH4+GC",
+        "plus_code_short": "VXH4+GC Manaus, Região Geográfica Intermediária de Manaus, Brazil",
+        "iso3166_2": "BR-AM",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "510df49a68a1054ec05989d9267046f808c0f00102f9015f91940200000000c00204",
+        "bbox": {
+          "lon1": -60.0443649,
+          "lat1": -3.1224268,
+          "lon2": -60.0432242,
+          "lat2": -3.1204088
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Pe. Agostinho Caballero Martin, 955 | São Raimundo, Manaus - AM",
+      "parsed": {
+        "housenumber": "955 |",
+        "street": "av. pe. agostinho caballero martin",
+        "suburb": "são raimundo",
+        "city": "manaus",
+        "state": "am",
+        "expected_type": "building"
+      }
+    }
+  }
+}

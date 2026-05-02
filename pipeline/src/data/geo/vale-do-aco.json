@@ -1,0 +1,859 @@
+{
+  "Av. Governador José de Magalhães Pinto, 1287 | Coronel Fabriciano - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Governador José de Magalhães Pinto",
+        "other_names": {
+          "alt_name": "Avenida Governador José de Magalhaes Pinto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Coronel Fabriciano",
+        "village": "Senador Melo Viana",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35170-193",
+        "district": "Olaria",
+        "suburb": "Senador Melo Viana",
+        "street": "Avenida Governador José de Magalhães Pinto",
+        "iso3166_2": "BR-MG",
+        "lon": -42.6321506,
+        "lat": -19.5017082,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Governador José de Magalhães Pinto, Senador Melo Viana, Coronel Fabriciano - MG, 35170-193, Brazil",
+        "address_line1": "Avenida Governador José de Magalhães Pinto",
+        "address_line2": "Senador Melo Viana, Coronel Fabriciano - MG, 35170-193, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVF9X9+84",
+        "plus_code_short": "F9X9+84 Coronel Fabriciano, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.05339672922865641,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ca92944fea5045c0599122d7f26f8033c0f00102f901bca8852a00000000c0020492032c4176656e69646120476f7665726e61646f72204a6f73c3a9206465204d6167616c68c3a365732050696e746f",
+        "bbox": {
+          "lon1": -42.6330973,
+          "lat1": -19.5058089,
+          "lon2": -42.6312671,
+          "lat2": -19.4976224
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Governador José de Magalhães Pinto, 1287 | Coronel Fabriciano - MG",
+      "parsed": {
+        "housenumber": "1287 |",
+        "street": "av. governador josé de magalhães pinto",
+        "city": "coronel fabriciano",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Teresópolis, 225 | Veneza, Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Teresópolis",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35164-251",
+        "district": "Veneza",
+        "street": "Rua Teresópolis",
+        "iso3166_2": "BR-MG",
+        "lon": -42.531467,
+        "lat": -19.471635,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Teresópolis, Veneza, Ipatinga - MG, 35164-251, Brazil",
+        "address_line1": "Rua Teresópolis",
+        "address_line2": "Veneza, Ipatinga - MG, 35164-251, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGFH9+8C",
+        "plus_code_short": "H9+8C Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519df3531c074445c05922a64412bd7833c0f00102f901f1c26f0a00000000c00204920310527561205465726573c3b3706f6c6973",
+        "bbox": {
+          "lon1": -42.5325624,
+          "lat1": -19.47227,
+          "lon2": -42.5303772,
+          "lat2": -19.4709905
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Teresópolis, 225 | Veneza, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "225 |",
+        "street": "r. teresópolis",
+        "suburb": "veneza",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. José Fabrício Gomes, 213| Bethânia, Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida José Fabrício Gomes",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35164-053",
+        "district": "Bethânia",
+        "street": "Avenida José Fabrício Gomes",
+        "iso3166_2": "BR-MG",
+        "lon": -42.5511399,
+        "lat": -19.4355675,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida José Fabrício Gomes, Bethânia, Ipatinga - MG, 35164-053, Brazil",
+        "address_line1": "Avenida José Fabrício Gomes",
+        "address_line2": "Bethânia, Ipatinga - MG, 35164-053, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVHC7X+QG",
+        "plus_code_short": "HC7X+QG Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51a70293c08b4645c05953b3075a816f33c0f00102f901e6a06d0a00000000c0020492031d4176656e696461204a6f73c3a92046616272c3ad63696f20476f6d6573",
+        "bbox": {
+          "lon1": -42.5533739,
+          "lat1": -19.4367139,
+          "lon2": -42.5489075,
+          "lat2": -19.4344179
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. José Fabrício Gomes, 213| Bethânia, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "213|",
+        "street": "av. josé fabrício gomes",
+        "suburb": "bethânia",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Adriel Abílio Gonçalves, 126 | Veneza, Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Adriel Abílio",
+        "other_names": {
+          "alt_name": "Rua Adriel Abilio Gonçalves"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35164-300",
+        "district": "Veneza",
+        "street": "Rua Adriel Abílio",
+        "iso3166_2": "BR-MG",
+        "lon": -42.5308153,
+        "lat": -19.4640944,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Adriel Abílio, Veneza, Ipatinga - MG, 35164-300, Brazil",
+        "address_line1": "Rua Adriel Abílio",
+        "address_line2": "Veneza, Ipatinga - MG, 35164-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGFP9+9M",
+        "plus_code_short": "P9+9M Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.375,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.75,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b4db78c1f14345c059ba41fee3ce7633c0f00102f901d77a720a00000000c002049203125275612041647269656c204162c3ad6c696f",
+        "bbox": {
+          "lon1": -42.5312318,
+          "lat1": -19.4645997,
+          "lon2": -42.5303988,
+          "lat2": -19.4635891
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Adriel Abílio Gonçalves, 126 | Veneza, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "126 |",
+        "street": "rua adriel abílio gonçalves",
+        "suburb": "veneza",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua dos Bororós, 65 | Jardim Panorama, Ipatinga - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "65",
+        "street": "Rua Bororos",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "35162-034",
+        "state": "Southeast",
+        "district": "Ipatinga",
+        "city": "Ipatinga",
+        "county_code": "MG",
+        "lon": -42.547404,
+        "lat": -19.467838,
+        "result_type": "building",
+        "formatted": "Rua Bororos 65, Ipatinga - Southeast, 35162-034, Brazil",
+        "address_line1": "Rua Bororos 65",
+        "address_line2": "Ipatinga - Southeast, 35162-034, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGFJ3+V2",
+        "plus_code_short": "J3+V2 Ipatinga, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 0.63,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.63,
+          "confidence_building_level": 0.63,
+          "match_type": "full_match"
+        },
+        "place_id": "518cd99255114645c05978d32d3bc47733c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a36653633316466613035343836396438"
+      }
+    ],
+    "query": {
+      "text": "Rua dos Bororós, 65 | Jardim Panorama, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "65 |",
+        "street": "rua dos bororós",
+        "suburb": "jardim panorama",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Paladium, 295 | Bom Retiro, Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Paladium",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35160-238",
+        "district": "Imbaúbas",
+        "street": "Avenida Paladium",
+        "iso3166_2": "BR-MG",
+        "lon": -42.5631367,
+        "lat": -19.511489,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Paladium, Ipatinga - MG, 35160-238, Brazil",
+        "address_line1": "Avenida Paladium",
+        "address_line2": "Ipatinga - MG, 35160-238, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVFCQP+CP",
+        "plus_code_short": "FCQP+CP Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b4d606dd144845c05985436ff1f08233c0f00102f9016594d90a00000000c002049203104176656e6964612050616c616469756d",
+        "bbox": {
+          "lon1": -42.563249,
+          "lat1": -19.5115957,
+          "lon2": -42.5630243,
+          "lat2": -19.5113823
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Paladium, 295 | Bom Retiro, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "295 |",
+        "street": "av. paladium",
+        "suburb": "bom retiro",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Itajaí, 320 |  Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Itajaí",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35164-243",
+        "district": "Caravelas",
+        "street": "Rua Itajaí",
+        "iso3166_2": "BR-MG",
+        "lon": -42.5360218,
+        "lat": -19.4583302,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Itajaí, Ipatinga - MG, 35164-243, Brazil",
+        "address_line1": "Rua Itajaí",
+        "address_line2": "Ipatinga - MG, 35164-243, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGFR7+MH",
+        "plus_code_short": "R7+MH Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b678c25c9c4445c059e6c4c320557533c0f00102f901828ef40a00000000c0020492030b527561204974616a61c3ad",
+        "bbox": {
+          "lon1": -42.5390836,
+          "lat1": -19.4597919,
+          "lon2": -42.531036,
+          "lat2": -19.4537052
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Itajaí, 320 |  Ipatinga - MG",
+      "parsed": {
+        "housenumber": "320 |",
+        "street": "rua itajaí",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Londrina, 280 | Veneza, Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Londrina",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35164-300",
+        "district": "Veneza",
+        "street": "Avenida Londrina",
+        "iso3166_2": "BR-MG",
+        "lon": -42.5246699,
+        "lat": -19.4658627,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Londrina, Veneza, Ipatinga - MG, 35164-300, Brazil",
+        "address_line1": "Avenida Londrina",
+        "address_line2": "Veneza, Ipatinga - MG, 35164-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGFMG+M4",
+        "plus_code_short": "MG+M4 Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5109d91e62284345c0591fed24c7427733c0f00102f901ad636e0a00000000c002049203104176656e696461204c6f6e6472696e61",
+        "bbox": {
+          "lon1": -42.5265192,
+          "lat1": -19.4696439,
+          "lon2": -42.5241427,
+          "lat2": -19.4623399
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Londrina, 280 | Veneza, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "280 |",
+        "street": "av. londrina",
+        "suburb": "veneza",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Pedras Preciosas, 551 | Iguaçu, Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Pedras Preciosas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35162-106",
+        "district": "Iguaçu",
+        "street": "Rua Pedras Preciosas",
+        "iso3166_2": "BR-MG",
+        "lon": -42.545647,
+        "lat": -19.4739525,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Pedras Preciosas, Iguaçu, Ipatinga - MG, 35162-106, Brazil",
+        "address_line1": "Rua Pedras Preciosas",
+        "address_line2": "Iguaçu, Ipatinga - MG, 35162-106, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGFG3+CP",
+        "plus_code_short": "G3+CP Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518c14cac2d74545c059815b77f3547933c0f00102f901924e701c00000000c00204920314527561205065647261732050726563696f736173",
+        "bbox": {
+          "lon1": -42.5473021,
+          "lat1": -19.4751202,
+          "lon2": -42.5440056,
+          "lat2": -19.4728032
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Pedras Preciosas, 551 | Iguaçu, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "551 |",
+        "street": "rua pedras preciosas",
+        "suburb": "iguaçu",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Mário de Andrade, 346 | Cidade Nova, Santana do Paraíso - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "346",
+        "street": "Rua Mario De Andrade",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "35179-000",
+        "state": "Southeast",
+        "district": "Santana Do Paraíso",
+        "city": "Parque Caravelas / Industrial / Jardim Vitória / Cid",
+        "county_code": "MG",
+        "lon": -42.501367,
+        "lat": -19.473567,
+        "result_type": "building",
+        "formatted": "Rua Mario De Andrade 346, Santana Do Paraíso, Parque Caravelas / Industrial / Jardim Vitória / Cid - Southeast, 35179-000, Brazil",
+        "address_line1": "Rua Mario De Andrade 346",
+        "address_line2": "Santana Do Paraíso, Parque Caravelas / Industrial / Jardim Vitória / Cid - Southeast, 35179-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGFGX+HF",
+        "rank": {
+          "confidence": 0.3125,
+          "confidence_city_level": 0.3125,
+          "confidence_street_level": 0.3125,
+          "confidence_building_level": 0.3125,
+          "match_type": "full_match"
+        },
+        "place_id": "5196253acb2c4045c059ff76d9af3b7933c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a33636135313566626265313364383861"
+      }
+    ],
+    "query": {
+      "text": "Rua Mário de Andrade, 346 | Cidade Nova, Santana do Paraíso - MG",
+      "parsed": {
+        "housenumber": "346 |",
+        "street": "rua mário de andrade",
+        "suburb": "cidade nova",
+        "city": "santana do paraíso",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dom Pedro II, 174 | Cidade Nobre, Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Dom Pedro II",
+        "other_names": {
+          "alt_name": "Rua Dom Pedro Segundo",
+          "name": "Rua Dom Pedro II",
+          "name:pt": "Rua Dom Pedro II"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "village": "Barra Alegre",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35162-413",
+        "district": "Cidade Nobre",
+        "street": "Rua Dom Pedro II",
+        "iso3166_2": "BR-MG",
+        "lon": -42.5591845,
+        "lat": -19.4688927,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Dom Pedro II, Cidade Nobre, Ipatinga - MG, 35162-413, Brazil",
+        "address_line1": "Rua Dom Pedro II",
+        "address_line2": "Cidade Nobre, Ipatinga - MG, 35162-413, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGCJR+C8",
+        "plus_code_short": "GCJR+C8 Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "510ef7915b934745c05949d51b5a097833c0f00102f901ff5b6e0a00000000c0020492031052756120446f6d20506564726f204949",
+        "bbox": {
+          "lon1": -42.5600183,
+          "lat1": -19.4690035,
+          "lon2": -42.5583507,
+          "lat2": -19.4687819
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dom Pedro II, 174 | Cidade Nobre, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "174 |",
+        "street": "r. dom pedro ii",
+        "suburb": "cidade nobre",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Felipe dos Santos, 30 - Cidade Nobre, Ipatinga - MG, 35162-369": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Felipe dos Santos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "village": "Barra Alegre",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35162-369",
+        "district": "Cidade Nobre",
+        "street": "Avenida Felipe dos Santos",
+        "iso3166_2": "BR-MG",
+        "lon": -42.561023,
+        "lat": -19.458464,
+        "state_code": "MG",
+        "housenumber": "30",
+        "result_type": "building",
+        "formatted": "Avenida Felipe dos Santos 30, Cidade Nobre, Ipatinga - MG, 35162-369, Brazil",
+        "address_line1": "Avenida Felipe dos Santos 30",
+        "address_line2": "Cidade Nobre, Ipatinga - MG, 35162-369, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGCRQ+JH",
+        "plus_code_short": "GCRQ+JH Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e3a6069acf4745c059b2648ee55d7533c0c002039203194176656e6964612046656c69706520646f732053616e746f73e203266f70656e6164647265737365733a616464726573733a38393431393734363634663033663936",
+        "bbox": {
+          "lon1": -42.5731372,
+          "lat1": -19.4588232,
+          "lon2": -42.5648974,
+          "lat2": -19.4566648
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Felipe dos Santos, 30 - Cidade Nobre, Ipatinga - MG, 35162-369",
+      "parsed": {
+        "housenumber": "30",
+        "street": "av. felipe dos santos",
+        "suburb": "cidade nobre",
+        "postcode": "35162-369",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Dom Pedro II, 185 | Cidade Nobre, Ipatinga - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Dom Pedro II",
+        "other_names": {
+          "alt_name": "Rua Dom Pedro Segundo",
+          "name": "Rua Dom Pedro II",
+          "name:pt": "Rua Dom Pedro II"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Metropolitana do Vale do Aço",
+        "state_district": "Região Geográfica Intermediária de Ipatinga",
+        "city": "Ipatinga",
+        "village": "Barra Alegre",
+        "municipality": "Região Geográfica Imediata de Ipatinga",
+        "postcode": "35162-360",
+        "district": "Cidade Nobre",
+        "street": "Rua Dom Pedro II",
+        "iso3166_2": "BR-MG",
+        "lon": -42.5616771,
+        "lat": -19.4692069,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Dom Pedro II, Cidade Nobre, Ipatinga - MG, 35162-360, Brazil",
+        "address_line1": "Rua Dom Pedro II",
+        "address_line2": "Cidade Nobre, Ipatinga - MG, 35162-360, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58GVGCJQ+88",
+        "plus_code_short": "GCJQ+88 Ipatinga, Região Metropolitana do Vale do Aço, Brazil",
+        "rank": {
+          "importance": 0.053397074082551274,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c0b40309e54745c059bb8e82f11d7833c0f00102f901af17ec1c00000000c0020492031052756120446f6d20506564726f204949",
+        "bbox": {
+          "lon1": -42.5631929,
+          "lat1": -19.4694525,
+          "lon2": -42.5601527,
+          "lat2": -19.4690237
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Dom Pedro II, 185 | Cidade Nobre, Ipatinga - MG",
+      "parsed": {
+        "housenumber": "185 |",
+        "street": "rua dom pedro ii",
+        "suburb": "cidade nobre",
+        "city": "ipatinga",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  }
+}

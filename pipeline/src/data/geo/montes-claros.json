@@ -1,0 +1,1184 @@
+{
+  "Av. Castelar Prates, 382 | Major Prates, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Castelar Prates",
+        "other_names": {
+          "alt_name": "Rua Ze Farrista",
+          "name": "Avenida Castelar Prates",
+          "name:pt": "Avenida Castelar Prates"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39403-222",
+        "suburb": "Major Prates",
+        "street": "Avenida Castelar Prates",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8814891,
+        "lat": -16.7490314,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Castelar Prates, Major Prates, Montes Claros - MG, 39403-222, Brazil",
+        "address_line1": "Avenida Castelar Prates",
+        "address_line2": "Major Prates, Montes Claros - MG, 39403-222, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR7429+9C",
+        "plus_code_short": "7429+9C Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e72384a2d4f045c05956ad9685c0bf30c0f00102f9011722e50f00000000c002049203174176656e6964612043617374656c617220507261746573",
+        "bbox": {
+          "lon1": -43.8843044,
+          "lat1": -16.7508499,
+          "lon2": -43.8786775,
+          "lat2": -16.7472188
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Castelar Prates, 382 | Major Prates, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "382 |",
+        "street": "av. castelar prates",
+        "suburb": "major prates",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Antônio Martins, 50 | Santos Reis, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Antônio Martins",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39400-162",
+        "suburb": "Santos Reis",
+        "street": "Rua Antônio Martins",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8705204,
+        "lat": -16.7012758,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Antônio Martins, Santos Reis, Montes Claros - MG, 39400-162, Brazil",
+        "address_line1": "Rua Antônio Martins",
+        "address_line2": "Santos Reis, Montes Claros - MG, 39400-162, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR74XH+FQ",
+        "plus_code_short": "74XH+FQ Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "511b4064366def45c059eb7992cf86b330c0f00102f90173bf8c0700000000c0020492031452756120416e74c3b46e696f204d617274696e73",
+        "bbox": {
+          "lon1": -43.8709433,
+          "lat1": -16.7022828,
+          "lon2": -43.8701905,
+          "lat2": -16.7002981
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Antônio Martins, 50 | Santos Reis, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "50 |",
+        "street": "r. antônio martins",
+        "suburb": "santos reis",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Padre Eustáquio, 135 | São José, Montes Claros, MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "135",
+        "street": "Rua Padre Eustaquio",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "39400-345",
+        "state": "Southeast",
+        "district": "Montes Claros",
+        "city": "Montes Claros",
+        "county_code": "MG",
+        "lon": -43.855859,
+        "lat": -16.72265,
+        "result_type": "building",
+        "formatted": "Rua Padre Eustaquio 135, Montes Claros - Southeast, 39400-345, Brazil",
+        "address_line1": "Rua Padre Eustaquio 135",
+        "address_line2": "Montes Claros - Southeast, 39400-345, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR74GV+WM",
+        "plus_code_short": "GV+WM Montes Claros, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515f7ea7c98ced45c05954742497ffb830c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a36393961323732633636393035663937"
+      }
+    ],
+    "query": {
+      "text": "Rua Padre Eustáquio, 135 | São José, Montes Claros, MG",
+      "parsed": {
+        "housenumber": "135 |",
+        "street": "rua padre eustáquio",
+        "suburb": "são josé",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Doutor Sidney Chaves, 895 | Edgar Pereira, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Doutor Sidney Chaves",
+        "other_names": {
+          "alt_name": "Avenida Sidney Chaves"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39400-217",
+        "district": "Vila Regina II",
+        "suburb": "Alice Maia",
+        "street": "Avenida Doutor Sidney Chaves",
+        "iso3166_2": "BR-MG",
+        "lon": -43.858267,
+        "lat": -16.709253,
+        "state_code": "MG",
+        "housenumber": "895",
+        "result_type": "building",
+        "formatted": "Avenida Doutor Sidney Chaves 895, Alice Maia, Montes Claros - MG, 39400-217, Brazil",
+        "address_line1": "Avenida Doutor Sidney Chaves 895",
+        "address_line2": "Alice Maia, Montes Claros - MG, 39400-217, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR74RR+7M",
+        "plus_code_short": "74RR+7M Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51361e6cb1dbed45c0590397c79a91b530c0c0020392031c4176656e69646120446f75746f72205369646e657920436861766573e203266f70656e6164647265737365733a616464726573733a31363139306465303331313264623065",
+        "bbox": {
+          "lon1": -43.8606743,
+          "lat1": -16.714852,
+          "lon2": -43.856463,
+          "lat2": -16.6992156
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Doutor Sidney Chaves, 895 | Edgar Pereira, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "895",
+        "street": "av. doutor sidney chaves",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua J, 480 | Acácias, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua J",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39406-152",
+        "suburb": "Acácias",
+        "street": "Rua J",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8192583,
+        "lat": -16.724667,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua J, Acácias, Montes Claros - MG, 39406-152, Brazil",
+        "address_line1": "Rua J",
+        "address_line2": "Acácias, Montes Claros - MG, 39406-152, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR75GJ+47",
+        "plus_code_short": "75GJ+47 Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.55,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "5100bdba74dde845c0598d7dc9c683b930c0f00102f901b5a1a92000000000c00204920305527561204a",
+        "bbox": {
+          "lon1": -43.8194369,
+          "lat1": -16.7255247,
+          "lon2": -43.8190797,
+          "lat2": -16.7238092
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua J, 480 | Acácias, Montes Claros - MG"
+    }
+  },
+  "BR-365, 267 | Major Prates, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "BR-251;BR-365",
+        "ref": "BR-251;BR-365",
+        "other_names": {
+          "ref": "BR-251;BR-365"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39403-856",
+        "street": "BR-251;BR-365",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8962667,
+        "lat": -16.7926377,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "BR-251;BR-365, Montes Claros - MG, 39403-856, Brazil",
+        "address_line1": "BR-251;BR-365",
+        "address_line2": "Montes Claros - MG, 39403-856, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR6443+WF",
+        "plus_code_short": "6443+WF Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51367f02deb8f245c059a013e74deaca30c0f00102f90177c2161a00000000c0020492030d42522d3235313b42522d333635",
+        "bbox": {
+          "lon1": -43.9051394,
+          "lat1": -16.8069778,
+          "lon2": -43.8873598,
+          "lat2": -16.778317
+        }
+      }
+    ],
+    "query": {
+      "text": "BR-365, 267 | Major Prates, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "267 |",
+        "street": "br-365",
+        "suburb": "major prates",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Pedro Mendonça, 93 | Santos Reis, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Pedro Mendonça",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39400-162",
+        "suburb": "Santos Reis",
+        "street": "Avenida Pedro Mendonça",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8707484,
+        "lat": -16.7033088,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Pedro Mendonça, Santos Reis, Montes Claros - MG, 39400-162, Brazil",
+        "address_line1": "Avenida Pedro Mendonça",
+        "address_line2": "Santos Reis, Montes Claros - MG, 39400-162, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR74WH+MP",
+        "plus_code_short": "74WH+MP Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ac85feae74ef45c0592ffda60b0cb430c0f00102f901a5512b1a00000000c002049203174176656e69646120506564726f204d656e646f6ec3a761",
+        "bbox": {
+          "lon1": -43.8712024,
+          "lat1": -16.704393,
+          "lon2": -43.8703006,
+          "lat2": -16.7022222
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Pedro Mendonça, 93 | Santos Reis, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "93 |",
+        "street": "av. pedro mendonça",
+        "suburb": "santos reis",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Luís Ruas, 62 | Santos Reis, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Luís Ruas",
+        "other_names": {
+          "alt_name": "Rua Luiz Ruas"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39400-162",
+        "suburb": "Santos Reis",
+        "street": "Rua Luís Ruas",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8703029,
+        "lat": -16.7006913,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Luís Ruas, Santos Reis, Montes Claros - MG, 39400-162, Brazil",
+        "address_line1": "Rua Luís Ruas",
+        "address_line2": "Santos Reis, Montes Claros - MG, 39400-162, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR74XH+PV",
+        "plus_code_short": "74XH+PV Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51968ede1566ef45c0597b174a8160b330c0f00102f90183bf8c0700000000c0020492030e527561204c75c3ad732052756173",
+        "bbox": {
+          "lon1": -43.8717395,
+          "lat1": -16.7008984,
+          "lon2": -43.8689286,
+          "lat2": -16.7001713
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Luís Ruas, 62 | Santos Reis, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "62 |",
+        "street": "r. luís ruas",
+        "suburb": "santos reis",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Alameda Beija-Flor, 390 | Jardim Primavera, Montes Claros - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "390",
+        "street": "Alameda Beija Flor",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "39404-161",
+        "state": "Southeast",
+        "district": "Montes Claros",
+        "city": "Montes Claros",
+        "county_code": "MG",
+        "lon": -43.809092,
+        "lat": -16.696097,
+        "result_type": "building",
+        "formatted": "Alameda Beija Flor 390, Montes Claros - Southeast, 39404-161, Brazil",
+        "address_line1": "Alameda Beija Flor 390",
+        "address_line2": "Montes Claros - Southeast, 39404-161, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR853R+H9",
+        "plus_code_short": "853R+H9 Montes Claros, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5145ba9f5390e745c059fed7b96933b230c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a39646662356334616335636637653734"
+      }
+    ],
+    "query": {
+      "text": "Alameda Beija-Flor, 390 | Jardim Primavera, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "390 |",
+        "street": "alameda beija-flor",
+        "suburb": "jardim primavera",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Raul Corrêa, 226 | Funcionários, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Raul Corrêa",
+        "other_names": {
+          "alt_name": "Rua Raul Correia"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39401-029",
+        "suburb": "Sagrada Família",
+        "street": "Rua Raul Corrêa",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8778709,
+        "lat": -16.7398359,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Raul Corrêa, Sagrada Família, Montes Claros - MG, 39401-029, Brazil",
+        "address_line1": "Rua Raul Corrêa",
+        "address_line2": "Sagrada Família, Montes Claros - MG, 39401-029, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR746C+3V",
+        "plus_code_short": "746C+3V Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5117ceda125ef045c0591fe8b2e265bd30c0f00102f9016498d01900000000c00204920310527561205261756c20436f7272c3aa61",
+        "bbox": {
+          "lon1": -43.8780255,
+          "lat1": -16.7408588,
+          "lon2": -43.8777089,
+          "lat2": -16.7388142
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Raul Corrêa, 226 | Funcionários, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "226 |",
+        "street": "rua raul corrêa",
+        "suburb": "funcionários",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Campo Belo, 1455 | Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Campo Belo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39400-413",
+        "suburb": "Antônio Pimenta",
+        "street": "Rua Campo Belo",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8528907,
+        "lat": -16.7428327,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Campo Belo, Antônio Pimenta, Montes Claros - MG, 39400-413, Brazil",
+        "address_line1": "Rua Campo Belo",
+        "address_line2": "Antônio Pimenta, Montes Claros - MG, 39400-413, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR744W+VR",
+        "plus_code_short": "4W+VR Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5102c8bf852bed45c0593ee6a8482abe30c0f00102f9011b52ac2000000000c0020492030e5275612043616d706f2042656c6f",
+        "bbox": {
+          "lon1": -43.8540936,
+          "lat1": -16.7443805,
+          "lon2": -43.8516729,
+          "lat2": -16.7412734
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Campo Belo, 1455 | Montes Claros - MG",
+      "parsed": {
+        "housenumber": "1455 |",
+        "street": "rua campo belo",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Santa Maria, 662 | Todos os Santos, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Santa Maria",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39400-149",
+        "suburb": "Todos os Santos",
+        "street": "Rua Santa Maria",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8708557,
+        "lat": -16.7192714,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Santa Maria, Todos os Santos, Montes Claros - MG, 39400-149, Brazil",
+        "address_line1": "Rua Santa Maria",
+        "address_line2": "Todos os Santos, Montes Claros - MG, 39400-149, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR74JH+7M",
+        "plus_code_short": "74JH+7M Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518184173378ef45c059b9f2a32b22b830c0f00102f9019f86c35000000000c0020492030f5275612053616e7461204d61726961",
+        "bbox": {
+          "lon1": -43.8726263,
+          "lat1": -16.7201649,
+          "lon2": -43.8690796,
+          "lat2": -16.7183666
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Santa Maria, 662 | Todos os Santos, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "662 |",
+        "street": "rua santa maria",
+        "suburb": "todos os santos",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Espírito Santo, 246 | Esplanada, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Espírito Santo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39402-746",
+        "suburb": "Esplanada do Aeroporto",
+        "street": "Rua Espírito Santo",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8408428,
+        "lat": -16.7157962,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Espírito Santo, Esplanada do Aeroporto, Montes Claros - MG, 39402-746, Brazil",
+        "address_line1": "Rua Espírito Santo",
+        "address_line2": "Esplanada do Aeroporto, Montes Claros - MG, 39402-746, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR75M5+MM",
+        "plus_code_short": "75M5+MM Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51dd89a3bca0eb45c059e099756b3eb730c0f00102f901d5f6870700000000c0020492031352756120457370c3ad7269746f2053616e746f",
+        "bbox": {
+          "lon1": -43.8408575,
+          "lat1": -16.7175375,
+          "lon2": -43.8407573,
+          "lat2": -16.7140429
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Espírito Santo, 246 | Esplanada, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "246 | esplanada",
+        "street": "r. espírito santo",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. São Judas, 1458 | São Judas Tadeu I, Montes Claros - MG": {
+    "results": [],
+    "query": {
+      "text": "Av. São Judas, 1458 | São Judas Tadeu I, Montes Claros - MG",
+      "parsed": {
+        "house": "1458 | são judas tadeu i",
+        "street": "av. são",
+        "city": "judas",
+        "state": "mg",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Avenida A, 981 | Jardim Primavera, Montes Claros - MG": {
+    "results": [],
+    "query": {
+      "text": "Avenida A, 981 | Jardim Primavera, Montes Claros - MG",
+      "parsed": {
+        "street": "981 jardim",
+        "suburb": "primavera",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "street"
+      }
+    }
+  },
+  "Av. Ampére, 462 | Lourdes, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Ampere",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39401-496",
+        "suburb": "Lourdes",
+        "street": "Avenida Ampere",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8506895,
+        "lat": -16.7244266,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Ampere, Lourdes, Montes Claros - MG, 39401-496, Brazil",
+        "address_line1": "Avenida Ampere",
+        "address_line2": "Lourdes, Montes Claros - MG, 39401-496, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR74GX+6P",
+        "plus_code_short": "GX+6P Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517ac6be64e3ec45c0593c5a8b0574b930c0f00102f901a829e60f00000000c0020492030e4176656e69646120416d70657265",
+        "bbox": {
+          "lon1": -43.8507616,
+          "lat1": -16.7258078,
+          "lon2": -43.8506231,
+          "lat2": -16.7230456
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Ampére, 462 | Lourdes, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "462 | lourdes",
+        "street": "av. ampére",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Júlio Takaki, 221 | São Judas Tadeu, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ru": "Монтис-Кларус"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8687268,
+        "lat": -16.7495727,
+        "state_code": "MG",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Montes Claros, MG, Brazil",
+        "address_line1": "Montes Claros",
+        "address_line2": "MG, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR742J+5G",
+        "plus_code_short": "2J+5G Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.5792014209061629,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "515194957032ef45c059747918ffe3bf30c0f00101f901fccc040000000000c00208",
+        "bbox": {
+          "lon1": -44.2106567,
+          "lat1": -17.145792,
+          "lon2": -43.6665505,
+          "lat2": -16.0845372
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Júlio Takaki, 221 | São Judas Tadeu, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "221",
+        "street": "| são judas tadeu",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Barão do Rio Branco, 253 | Centro, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Barão do Rio Branco",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39400-103",
+        "suburb": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8678665,
+        "lat": -16.7268106,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Barão do Rio Branco, Centro, Montes Claros - MG, 39400-103, Brazil",
+        "address_line1": "Rua Barão do Rio Branco",
+        "address_line2": "Centro, Montes Claros - MG, 39400-103, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR74FJ+7V",
+        "plus_code_short": "FJ+7V Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51a165dd3f16ef45c059da626d4210ba30c0f00102f901f802860700000000c0020492031852756120426172c3a36f20646f2052696f204272616e636f",
+        "bbox": {
+          "lon1": -43.8724006,
+          "lat1": -16.727775,
+          "lon2": -43.8633053,
+          "lat2": -16.725755
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Barão do Rio Branco, 253 | Centro, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "253 |",
+        "street": "r. barão do rio branco",
+        "suburb": "centro",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Nossa Senhora de Fátima, 1232 | Maracanã, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Nossa Senhora de Fátima",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39403-242",
+        "suburb": "Ciro dos Anjos",
+        "street": "Avenida Nossa Senhora de Fátima",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8696329,
+        "lat": -16.7569037,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Nossa Senhora de Fátima, Ciro dos Anjos, Montes Claros - MG, 39403-242, Brazil",
+        "address_line1": "Avenida Nossa Senhora de Fátima",
+        "address_line2": "Ciro dos Anjos, Montes Claros - MG, 39403-242, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR64VJ+64",
+        "plus_code_short": "64VJ+64 Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "514883802150ef45c059adb8dd70c4c130c0f00102f901f450ac2000000000c002049203204176656e696461204e6f7373612053656e686f72612064652046c3a174696d61",
+        "bbox": {
+          "lon1": -43.8727038,
+          "lat1": -16.7586641,
+          "lon2": -43.8665749,
+          "lat2": -16.7551221
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Nossa Senhora de Fátima, 1232 | Maracanã, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "1232 |",
+        "street": "av. nossa senhora de fátima",
+        "suburb": "maracanã",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Genésio Tolentino, 15 | Cidade Nova, Montes Claros - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Genésio Tolentino",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Montes Claros",
+        "city": "Montes Claros",
+        "municipality": "Região Geográfica Imediata de Montes Claros",
+        "postcode": "39400-546",
+        "suburb": "Canelas",
+        "street": "Rua Genésio Tolentino",
+        "iso3166_2": "BR-MG",
+        "lon": -43.8671764,
+        "lat": -16.7403295,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Genésio Tolentino, Canelas, Montes Claros - MG, 39400-546, Brazil",
+        "address_line1": "Rua Genésio Tolentino",
+        "address_line2": "Canelas, Montes Claros - MG, 39400-546, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MR745M+V4",
+        "plus_code_short": "5M+V4 Montes Claros, Região Geográfica Intermediária de Montes Claros, Brazil",
+        "rank": {
+          "importance": 0.05338714961470966,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5177eee2a2ffee45c05998c3ee3b86bd30c0f00102f901a651ac2000000000c002049203165275612047656ec3a973696f20546f6c656e74696e6f",
+        "bbox": {
+          "lon1": -43.8675351,
+          "lat1": -16.740874,
+          "lon2": -43.8667935,
+          "lat2": -16.7398017
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Genésio Tolentino, 15 | Cidade Nova, Montes Claros - MG",
+      "parsed": {
+        "housenumber": "15 |",
+        "street": "r. genésio tolentino",
+        "suburb": "cidade nova",
+        "city": "montes claros",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  }
+}

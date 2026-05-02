@@ -1,0 +1,3880 @@
+{
+  "Rua Eduardo Tozzi, 115 | Jaguariuna, SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Eduardo Tozzi",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Jaguariúna",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13912-104",
+        "district": "Jaguariúna",
+        "suburb": "12 de Setembro 1° Etapa",
+        "street": "Rua Eduardo Tozzi",
+        "iso3166_2": "BR-SP",
+        "lon": -46.9848889,
+        "lat": -22.6872181,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Eduardo Tozzi, 12 de Setembro 1° Etapa, Jaguariúna - SP, 13912-104, Brazil",
+        "address_line1": "Rua Eduardo Tozzi",
+        "address_line2": "12 de Setembro 1° Etapa, Jaguariúna - SP, 13912-104, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589M8278+42",
+        "plus_code_short": "8278+42 Jaguariúna, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.05339237582970928,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c2d8e7d6107e47c05921b88086edaf36c0f00102f901d941590f00000000c00204920311527561204564756172646f20546f7a7a69",
+        "bbox": {
+          "lon1": -46.9867409,
+          "lat1": -22.6909205,
+          "lon2": -46.9829181,
+          "lat2": -22.6835771
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Eduardo Tozzi, 115 | Jaguariuna, SP",
+      "parsed": {
+        "housenumber": "115 |",
+        "street": "rua eduardo tozzi",
+        "city": "jaguariuna",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Conselheiro Martim Francisco, 443 | Jardim Campos Elíseos, Campinas - SP": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13060-854",
+        "district": "Campinas",
+        "suburb": "Jardim Paulicéia",
+        "street": "Rua Conselheiro Martim Francisco",
+        "other_names": {
+          "name": "Rua Conselheiro Martim Francisco",
+          "name:pt": "Rua Conselheiro Martim Francisco",
+          "alt_name": "Rua Conselheiro Martin Francisco"
+        },
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "SP",
+        "lon": -47.102959,
+        "lat": -22.9227295,
+        "housenumber": "443",
+        "result_type": "building",
+        "name": "Rua Conselheiro Martim Francisco",
+        "iso3166_2": "BR-SP",
+        "formatted": "Rua Conselheiro Martim Francisco 443, Jardim Paulicéia, Campinas - SP, 13060-854, Brazil",
+        "address_line1": "Rua Conselheiro Martim Francisco 443",
+        "address_line2": "Jardim Paulicéia, Campinas - SP, 13060-854, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3VGW+WR",
+        "plus_code_short": "3VGW+WR, 13060-854 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5118eab0c22d8d47c059ef8d210038ec36c0f00102f901bdfd710800000000c0020392032052756120436f6e73656c686569726f204d617274696d204672616e636973636f",
+        "bbox": {
+          "lon1": -47.1062292,
+          "lat1": -22.9269401,
+          "lon2": -47.098842,
+          "lat2": -22.919987
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Conselheiro Martim Francisco, 443 | Jardim Campos Elíseos, Campinas - SP",
+      "parsed": {
+        "house": "| jardim campos elíseos",
+        "housenumber": "443",
+        "street": "r. conselheiro martim francisco",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Madalena Barbosa Ferreira, 178 | Vila Lemos, Campinas - SP": {
+    "results": [],
+    "query": {
+      "text": "R. Madalena Barbosa Ferreira, 178 | Vila Lemos, Campinas - SP",
+      "parsed": {
+        "housenumber": "178 |",
+        "street": "r. madalena barbosa ferreira",
+        "suburb": "vila lemos",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Francisco de Paula Oliveira Nazareth, 1193 | Parque Industrial, Campinas - SP": {
+    "results": [],
+    "query": {
+      "text": "Av. Francisco de Paula Oliveira Nazareth, 1193 | Parque Industrial, Campinas - SP",
+      "parsed": {
+        "house": "1193 | parque industrial",
+        "street": "av. francisco de paula oliveira",
+        "city": "nazareth",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Itapecerica da Serra, 1445 | Cidade Jardim, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Itapecerica da Serra, 1445 | Cidade Jardim, Campinas - SP",
+      "parsed": {
+        "housenumber": "1445",
+        "street": "| cidade jardim",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Doutor Armando Sales de Oliveira, 55 | Taquaral, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Doutor Armando Sales de Oliveira, 55 | Taquaral, Campinas - SP",
+      "parsed": {
+        "house": "| taquaral",
+        "housenumber": "55",
+        "street": "av. doutor armando sales de oliveira",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Erasmo Braga, 1067 | Jardim Chapadão, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar do Carioca",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13070-147",
+        "district": "Campinas",
+        "suburb": "Jardim Chapadão",
+        "street": "Rua Erasmo Braga",
+        "housenumber": "1067",
+        "iso3166_2": "BR-SP",
+        "lon": -47.077822,
+        "lat": -22.8942899,
+        "state_code": "SP",
+        "result_type": "amenity",
+        "formatted": "Bar do Carioca, Rua Erasmo Braga 1067, Jardim Chapadão, Campinas - SP, 13070-147, Brazil",
+        "address_line1": "Bar do Carioca",
+        "address_line2": "Rua Erasmo Braga 1067, Jardim Chapadão, Campinas - SP, 13070-147, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4W4C+7V",
+        "plus_code_short": "4W4C+7V, 13070-147 Campinas, Brazil",
+        "rank": {
+          "importance": 6.852597848473361e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5164744012f68947c059a3a4d12ef0e436c0f00103f9017688cb6c00000000c0020192030e42617220646f20436172696f6361",
+        "bbox": {
+          "lon1": -47.077872,
+          "lat1": -22.8943399,
+          "lon2": -47.077772,
+          "lat2": -22.8942399
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Erasmo Braga, 1067 | Jardim Chapadão, Campinas - SP",
+      "parsed": {
+        "housenumber": "1067 |",
+        "street": "r. erasmo braga",
+        "suburb": "jardim chapadão",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Praça Menegon, 93 | Vila São José, Jaguariúna - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Jaguariúna",
+        "iso3166_2": "BR-SP",
+        "lon": -46.985062,
+        "lat": -22.70374,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Jaguariúna, SP, Brazil",
+        "address_line1": "Jaguariúna",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589M72W7+GX",
+        "plus_code_short": "W7+GX Jaguariúna, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.5362088169912365,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "512444f982167e47c05915e3fc4d28b436c0f00101f901ac8b040000000000c00208",
+        "bbox": {
+          "lon1": -47.102407,
+          "lat1": -22.750135,
+          "lon2": -46.9307044,
+          "lat2": -22.6103226
+        }
+      }
+    ],
+    "query": {
+      "text": "Praça Menegon, 93 | Vila São José, Jaguariúna - SP",
+      "parsed": {
+        "housenumber": "93 | vila",
+        "street": "são josé",
+        "city": "jaguariúna",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dr. Delfino Cintra, 539 | Botafogo, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Delfino Cintra",
+        "other_names": {
+          "alt_name": "Rua Doutor Delfino Cintra;Rua Doutor Delphino Cintra"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13023-909",
+        "district": "Campinas",
+        "suburb": "Centro",
+        "quarter": "Vila Itapura",
+        "street": "Rua Delfino Cintra",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0634785,
+        "lat": -22.9006374,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Delfino Cintra, Centro, Campinas - SP, 13023-909, Brazil",
+        "address_line1": "Rua Delfino Cintra",
+        "address_line2": "Centro, Campinas - SP, 13023-909, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WXP+PJ",
+        "plus_code_short": "XP+PJ, 13023-909 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e4bf4010208847c059f28d322c90e636c0f00102f901479bca0800000000c002049203125275612044656c66696e6f2043696e747261",
+        "bbox": {
+          "lon1": -47.0657194,
+          "lat1": -22.9015038,
+          "lon2": -47.0614272,
+          "lat2": -22.9000564
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dr. Delfino Cintra, 539 | Botafogo, Campinas - SP",
+      "parsed": {
+        "housenumber": "539 |",
+        "street": "r. dr. delfino cintra",
+        "suburb": "botafogo",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. José dos Santos, 260 | Jardim Aurélia, Campinas - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "260",
+        "street": "R Jose Nunes Dos Santos",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "08080-600",
+        "state": "Southeast",
+        "district": "Jardim Paulista",
+        "city": "São Paulo",
+        "suburb": "Jardim Helena",
+        "county_code": "SP",
+        "lon": -46.428509,
+        "lat": -23.48324,
+        "result_type": "building",
+        "formatted": "R Jose Nunes Dos Santos 260, Jardim Helena, São Paulo - Southeast, 08080-600, Brazil",
+        "address_line1": "R Jose Nunes Dos Santos 260",
+        "address_line2": "Jardim Helena, São Paulo - Southeast, 08080-600, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588MGH8C+PH",
+        "plus_code_short": "GH8C+PH São Paulo, Sao Paulo, Brazil",
+        "rank": {
+          "confidence": 0.1575,
+          "confidence_city_level": 0.25,
+          "confidence_street_level": 0.1575,
+          "confidence_building_level": 0.1575,
+          "match_type": "full_match"
+        },
+        "place_id": "5155850662d93647c059791edc9db57b37c0c00203e2034e6f70656e6164647265737365733a616464726573733a62722f73702f73616f2d7061756c6f2d636974792d6164647265737365732d47656f53616d70613a62316438353864376533333666653836"
+      }
+    ],
+    "query": {
+      "text": "R. José dos Santos, 260 | Jardim Aurélia, Campinas - SP",
+      "parsed": {
+        "housenumber": "260 |",
+        "street": "r. josé dos santos",
+        "suburb": "jardim aurélia",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Paraná, 216 | São Bernardo, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Paraná",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13030-405",
+        "district": "Campinas",
+        "street": "Rua Paraná",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0751,
+        "lat": -22.922174,
+        "state_code": "SP",
+        "housenumber": "216",
+        "result_type": "building",
+        "formatted": "Rua Paraná 216, Campinas - SP, 13030-405, Brazil",
+        "address_line1": "Rua Paraná 216",
+        "address_line2": "Campinas - SP, 13030-405, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WHF+4X",
+        "plus_code_short": "3WHF+4X, 13030-405 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51fdf675e09c8947c059b438639813ec36c0c0020392030b52756120506172616ec3a1e203266f70656e6164647265737365733a616464726573733a38366263663565373264383031623331",
+        "bbox": {
+          "lon1": -47.0751918,
+          "lat1": -22.9222687,
+          "lon2": -47.0733665,
+          "lat2": -22.9210122
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Paraná, 216 | São Bernardo, Campinas - SP",
+      "parsed": {
+        "house": "| são bernardo",
+        "housenumber": "216",
+        "street": "r. paraná",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Dona Maria Umbelina Couto, 644 | Taquaral, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dona Maria Umbelina Couto, 644 | Taquaral, Campinas - SP",
+      "parsed": {
+        "housenumber": "644",
+        "street": "| taquaral",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Antônio Cezarino, 497 | Centro, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Antônio Cezarino",
+        "other_names": {
+          "alt_name": "Rua Antônio Cesarino"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13025-062",
+        "district": "Campinas",
+        "suburb": "Centro",
+        "street": "Rua Antônio Cezarino",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0534273,
+        "lat": -22.9041442,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Antônio Cezarino, Centro, Campinas - SP, 13025-062, Brazil",
+        "address_line1": "Rua Antônio Cezarino",
+        "address_line2": "Centro, Campinas - SP, 13025-062, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WWW+8J",
+        "plus_code_short": "WW+8J, 13025-062 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51571badb4d68647c0593bde89fe75e736c0f00102f9012372fb1600000000c0020492031552756120416e74c3b46e696f2043657a6172696e6f",
+        "bbox": {
+          "lon1": -47.0540021,
+          "lat1": -22.9050994,
+          "lon2": -47.0528328,
+          "lat2": -22.903177
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Antônio Cezarino, 497 | Centro, Campinas - SP",
+      "parsed": {
+        "housenumber": "497 |",
+        "street": "r. antônio cezarino",
+        "suburb": "centro",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Benjamin Constant, 0 | Mercado Municipal, Campinas - SP": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13013-082",
+        "district": "Campinas",
+        "suburb": "Centro",
+        "street": "Avenida Benjamin Constant",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "SP",
+        "lon": -47.0656058,
+        "lat": -22.9048846,
+        "result_type": "street",
+        "name": "Avenida Benjamin Constant",
+        "iso3166_2": "BR-SP",
+        "formatted": "Avenida Benjamin Constant, Centro, Campinas - SP, 13013-082, Brazil",
+        "address_line1": "Avenida Benjamin Constant",
+        "address_line2": "Centro, Campinas - SP, 13013-082, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WWM+2Q",
+        "plus_code_short": "WM+2Q, 13013-082 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c6b656c5658847c0596fa76384a6e736c0f00102f901628fd33800000000c002049203194176656e6964612042656e6a616d696e20436f6e7374616e74",
+        "bbox": {
+          "lon1": -47.0681691,
+          "lat1": -22.9061063,
+          "lon2": -47.0630224,
+          "lat2": -22.9037058
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Benjamin Constant, 0 | Mercado Municipal, Campinas - SP",
+      "parsed": {
+        "house": "| mercado municipal",
+        "housenumber": "0",
+        "street": "av. benjamin constant",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Avenida Guarani, 341 | Jardim Guarani, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Guarani",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13100-450",
+        "district": "Campinas",
+        "suburb": "Nova Campinas",
+        "street": "Avenida Guarani",
+        "iso3166_2": "BR-SP",
+        "lon": -47.041794,
+        "lat": -22.915337,
+        "state_code": "SP",
+        "housenumber": "341",
+        "result_type": "building",
+        "formatted": "Avenida Guarani 341, Nova Campinas, Campinas - SP, 13100-450, Brazil",
+        "address_line1": "Avenida Guarani 341",
+        "address_line2": "Nova Campinas, Campinas - SP, 13100-450, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3XM5+V7",
+        "plus_code_short": "3XM5+V7, 13100-450 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51a3957b81598547c0599ad18f8653ea36c0c0020392030f4176656e6964612047756172616e69e203266f70656e6164647265737365733a616464726573733a66643139323964336565653035663237",
+        "bbox": {
+          "lon1": -47.0418094,
+          "lat1": -22.9151146,
+          "lon2": -47.0417856,
+          "lat2": -22.9135799
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Guarani, 341 | Jardim Guarani, Campinas - SP",
+      "parsed": {
+        "house": "| jardim guarani",
+        "housenumber": "341",
+        "street": "avenida guarani",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. Barão de Itapura, 3404 | Jardim Campinas, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Barão de Itapura",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13076-015",
+        "district": "Campinas",
+        "suburb": "Taquaral",
+        "street": "Avenida Barão de Itapura",
+        "iso3166_2": "BR-SP",
+        "lon": -47.052689,
+        "lat": -22.877817,
+        "state_code": "SP",
+        "housenumber": "3404",
+        "result_type": "building",
+        "formatted": "Avenida Barão de Itapura 3404, Taquaral, Campinas - SP, 13076-015, Brazil",
+        "address_line1": "Avenida Barão de Itapura 3404",
+        "address_line2": "Taquaral, Campinas - SP, 13076-015, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4WCW+VW",
+        "plus_code_short": "4WCW+VW, 13076-015 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f2ed5d83be8647c05972df6a9db8e036c0c002039203194176656e69646120426172c3a36f2064652049746170757261e203266f70656e6164647265737365733a616464726573733a63356237353438343933663439356631",
+        "bbox": {
+          "lon1": -47.0518839,
+          "lat1": -22.8766986,
+          "lon2": -47.0514826,
+          "lat2": -22.8763664
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Barão de Itapura, 3404 | Jardim Campinas, Campinas - SP",
+      "parsed": {
+        "housenumber": "3404",
+        "street": "av. barão de itapura",
+        "district": "campinas",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Doutor Rafael Sales, 828 | Bonfim, Campinas - SP": {
+    "results": [],
+    "query": {
+      "text": "R. Doutor Rafael Sales, 828 | Bonfim, Campinas - SP",
+      "parsed": {
+        "housenumber": "828 |",
+        "street": "r. doutor rafael sales",
+        "suburb": "bonfim",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dr. Buarque de Macedo, 695 | Jardim Brasil, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dr. Buarque de Macedo, 695 | Jardim Brasil, Campinas - SP",
+      "parsed": {
+        "house": "| jardim brasil",
+        "housenumber": "695",
+        "street": "r. dr. buarque de macedo",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Dr. Gustavo Rodrigues Pereira Dutra, 21 | Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Doutor Gustavo Rodrigues Pereira Dutra",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13092-481",
+        "district": "Campinas",
+        "suburb": "Jardim das Paineiras",
+        "street": "Rua Doutor Gustavo Rodrigues Pereira Dutra",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0380162,
+        "lat": -22.8957273,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Doutor Gustavo Rodrigues Pereira Dutra, Jardim das Paineiras, Campinas - SP, 13092-481, Brazil",
+        "address_line1": "Rua Doutor Gustavo Rodrigues Pereira Dutra",
+        "address_line2": "Jardim das Paineiras, Campinas - SP, 13092-481, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4X36+PQ",
+        "plus_code_short": "4X36+PQ, 13092-481 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51eedbffb6dd8447c05967a263624ee536c0f00102f9018c14701500000000c0020492032a52756120446f75746f72204775737461766f20526f647269677565732050657265697261204475747261",
+        "bbox": {
+          "lon1": -47.0385479,
+          "lat1": -22.8965744,
+          "lon2": -47.0373681,
+          "lat2": -22.8948108
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dr. Gustavo Rodrigues Pereira Dutra, 21 | Campinas - SP",
+      "parsed": {
+        "housenumber": "21 |",
+        "street": "r. dr. gustavo rodrigues pereira dutra",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Eng. Augusto Figueiredo, 2799 | Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Engenheiro Augusto de Figueiredo",
+        "other_names": {
+          "alt_name": "Avenida Engenheiro Augusto Figueiredo"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13101-120",
+        "district": "Campinas",
+        "street": "Rua Engenheiro Augusto de Figueiredo",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0271336,
+        "lat": -22.9358032,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Engenheiro Augusto de Figueiredo, Campinas - SP, 13101-120, Brazil",
+        "address_line1": "Rua Engenheiro Augusto de Figueiredo",
+        "address_line2": "Campinas - SP, 13101-120, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3X7F+M4",
+        "plus_code_short": "3X7F+M4, 13101-120 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.36450000000000005,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b64f221d798347c059fd7d6bcc90ef36c0f00102f9016b6d743400000000c0020492032452756120456e67656e686569726f204175677573746f206465204669677565697265646f",
+        "bbox": {
+          "lon1": -47.0281939,
+          "lat1": -22.9365961,
+          "lon2": -47.0261816,
+          "lat2": -22.9351584
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Eng. Augusto Figueiredo, 2799 | Campinas - SP",
+      "parsed": {
+        "housenumber": "2799 |",
+        "street": "av. eng. augusto figueiredo",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Rodolpho Liner, 10 | Jardim Londres, Campinas - SP": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13060-234",
+        "district": "Campinas",
+        "suburb": "Jardim Paulicéia",
+        "street": "Rua Rodolpho Liner",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "SP",
+        "lon": -47.1117178,
+        "lat": -22.9183403,
+        "housenumber": "10",
+        "result_type": "building",
+        "name": "Rua Rodolpho Liner",
+        "iso3166_2": "BR-SP",
+        "formatted": "Rua Rodolpho Liner 10, Jardim Paulicéia, Campinas - SP, 13060-234, Brazil",
+        "address_line1": "Rua Rodolpho Liner 10",
+        "address_line2": "Jardim Paulicéia, Campinas - SP, 13060-234, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3VJQ+M8",
+        "plus_code_short": "3VJQ+M8, 13060-234 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51c7b0d4c44c8e47c0594d19935918eb36c0f00102f9012ebedf0800000000c0020392031252756120526f646f6c70686f204c696e6572",
+        "bbox": {
+          "lon1": -47.1119648,
+          "lat1": -22.9189608,
+          "lon2": -47.1114892,
+          "lat2": -22.917727
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Rodolpho Liner, 10 | Jardim Londres, Campinas - SP",
+      "parsed": {
+        "house": "| jardim londres",
+        "housenumber": "10",
+        "street": "r. rodolpho liner",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Avenida Palmital, 129 | campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Palmital",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13091-133",
+        "district": "Campinas",
+        "suburb": "Chácara da Barra",
+        "street": "Avenida Palmital",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0361757,
+        "lat": -22.8789685,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida Palmital, Chácara da Barra, Campinas - SP, 13091-133, Brazil",
+        "address_line1": "Avenida Palmital",
+        "address_line2": "Chácara da Barra, Campinas - SP, 13091-133, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4XC7+CG",
+        "plus_code_short": "4XC7+CG, 13091-133 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517834c467a18447c059d4b6611404e136c0f00102f901b907e70500000000c002049203104176656e6964612050616c6d6974616c",
+        "bbox": {
+          "lon1": -47.0366199,
+          "lat1": -22.8793087,
+          "lon2": -47.0359495,
+          "lat2": -22.8784514
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Palmital, 129 | campinas - SP",
+      "parsed": {
+        "housenumber": "129 |",
+        "street": "avenida palmital",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Evaristo da Veiga, 111 | Jardim Santa Genebra, Campinas - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "9",
+        "street": "Jardim Santa Genebra",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "13080-395",
+        "state": "Southeast",
+        "district": "Barão De Geraldo",
+        "city": "Campinas",
+        "county_code": "SP",
+        "lon": -47.089842,
+        "lat": -22.84551,
+        "result_type": "building",
+        "formatted": "Jardim Santa Genebra 9, Campinas - Southeast, 13080-395, Brazil",
+        "address_line1": "Jardim Santa Genebra 9",
+        "address_line2": "Campinas - Southeast, 13080-395, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J5W36+Q3",
+        "plus_code_short": "5W36+Q3, 13080-395 Campinas, Brazil",
+        "rank": {
+          "confidence": 0.375,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.75,
+          "confidence_building_level": 0.044117647058823525,
+          "match_type": "full_match"
+        },
+        "place_id": "5153e751f17f8b47c059e370e65773d836c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a66646636346564653435666236326539"
+      }
+    ],
+    "query": {
+      "text": "R. Evaristo da Veiga, 111 | Jardim Santa Genebra, Campinas - SP",
+      "parsed": {
+        "housenumber": "111",
+        "street": "| jardim santa genebra",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Tancredo Neves, 149 |  Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Tancredo Neves",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13050-171",
+        "district": "Campinas",
+        "suburb": "Jardim das Bandeiras",
+        "street": "Avenida Tancredo Neves",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0972276,
+        "lat": -22.9481927,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida Tancredo Neves, Jardim das Bandeiras, Campinas - SP, 13050-171, Brazil",
+        "address_line1": "Avenida Tancredo Neves",
+        "address_line2": "Jardim das Bandeiras, Campinas - SP, 13050-171, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3W23+P4",
+        "plus_code_short": "3W23+P4, 13050-171 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51602239f4718c47c05952cebcc1bcf236c0f00102f90186fb021300000000c002049203164176656e6964612054616e637265646f204e65766573",
+        "bbox": {
+          "lon1": -47.098454,
+          "lat1": -22.9508332,
+          "lon2": -47.0969296,
+          "lat2": -22.9452628
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Tancredo Neves, 149 |  Campinas - SP",
+      "parsed": {
+        "housenumber": "149 |",
+        "street": "avenida tancredo neves",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Doutor Betim, 594 | Vila Marieta, Campinas - SP": {
+    "results": [],
+    "query": {
+      "text": "R. Doutor Betim, 594 | Vila Marieta, Campinas - SP",
+      "parsed": {
+        "housenumber": "594 |",
+        "street": "r. doutor betim",
+        "suburb": "vila marieta",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Arlindo Catusso, 66 | Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Arlindo Catusso, 66 | Campinas - SP",
+      "parsed": {
+        "housenumber": "66 |",
+        "street": "rua arlindo catusso",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Santa Isabel, 513 | Barão Geraldo, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Botequim de Barão",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13084-012",
+        "district": "Barão Geraldo",
+        "street": "Avenida Santa Isabel",
+        "housenumber": "513",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0829809,
+        "lat": -22.8243317,
+        "state_code": "SP",
+        "result_type": "amenity",
+        "formatted": "Botequim de Barão, Avenida Santa Isabel 513, Barão Geraldo, Campinas - SP, 13084-012, Brazil",
+        "address_line1": "Botequim de Barão",
+        "address_line2": "Avenida Santa Isabel 513, Barão Geraldo, Campinas - SP, 13084-012, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J5WG8+7R",
+        "plus_code_short": "5WG8+7R, 13084-012 Campinas, Brazil",
+        "rank": {
+          "importance": 6.852597848473361e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51a9d83d1e9f8a47c0595b8efc6607d336c0f00103f901953414b502000000c00201920312426f74657175696d20646520426172c3a36f",
+        "bbox": {
+          "lon1": -47.0830309,
+          "lat1": -22.8243817,
+          "lon2": -47.0829309,
+          "lat2": -22.8242817
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Santa Isabel, 513 | Barão Geraldo, Campinas - SP",
+      "parsed": {
+        "housenumber": "513 |",
+        "street": "avenida santa isabel",
+        "district": "barão geraldo",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Doutor Moraes Sales, 929 | Centro, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Doutor Moraes Sales",
+        "other_names": {
+          "alt_name": "Avenida Doutor Moraes Salles"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13013-070",
+        "district": "Campinas",
+        "suburb": "Centro",
+        "street": "Avenida Doutor Moraes Sales",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0600044,
+        "lat": -22.9080043,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida Doutor Moraes Sales, Centro, Campinas - SP, 13013-070, Brazil",
+        "address_line1": "Avenida Doutor Moraes Sales",
+        "address_line2": "Centro, Campinas - SP, 13013-070, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WRQ+QX",
+        "plus_code_short": "RQ+QX, 13013-070 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51dcce6339ae8747c0599c2045f872e836c0f00102f901b1a1590500000000c0020492031b4176656e69646120446f75746f72204d6f726165732053616c6573",
+        "bbox": {
+          "lon1": -47.0615477,
+          "lat1": -22.9085907,
+          "lon2": -47.0584757,
+          "lat2": -22.9073733
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Doutor Moraes Sales, 929 | Centro, Campinas - SP",
+      "parsed": {
+        "housenumber": "929 |",
+        "street": "av. doutor moraes sales",
+        "suburb": "centro",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Barão de Itapura, 2159 | Jardim Guanabara, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Barão de Itapura",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13020-433",
+        "district": "Campinas",
+        "suburb": "Guanabara",
+        "quarter": "Jardim Guanabara",
+        "street": "Avenida Barão de Itapura",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0604426,
+        "lat": -22.8878183,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida Barão de Itapura, Guanabara, Campinas - SP, 13020-433, Brazil",
+        "address_line1": "Avenida Barão de Itapura",
+        "address_line2": "Guanabara, Campinas - SP, 13020-433, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4W6Q+VR",
+        "plus_code_short": "4W6Q+VR, 13020-433 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5182244795bc8747c059524a630f48e336c0f00102f901cce2050900000000c002049203194176656e69646120426172c3a36f2064652049746170757261",
+        "bbox": {
+          "lon1": -47.063015,
+          "lat1": -22.8910951,
+          "lon2": -47.0579046,
+          "lat2": -22.8845138
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Barão de Itapura, 2159 | Jardim Guanabara, Campinas - SP",
+      "parsed": {
+        "housenumber": "2159 |",
+        "street": "av. barão de itapura",
+        "suburb": "jardim guanabara",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Pico do Itatiaia, 98 | Jardim Everest, Hortolândia - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Hortolândia",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13186-051",
+        "district": "Hortolândia",
+        "suburb": "Jardim Villagio Ghiraldelli",
+        "quarter": "Jardim Everest",
+        "iso3166_2": "BR-SP",
+        "lon": -47.2025901,
+        "lat": -22.8785,
+        "state_code": "SP",
+        "result_type": "suburb",
+        "formatted": "Jardim Villagio Ghiraldelli, Jardim Everest, Hortolândia, SP, Brazil",
+        "address_line1": "Jardim Villagio Ghiraldelli",
+        "address_line2": "Jardim Everest, Hortolândia, SP, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4QCW+HX",
+        "plus_code_short": "4QCW+HX Hortolândia, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.1333940421149004,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "5127ffee78ee9947c05937894160e5e036c0f00103f901099a7a3101000000c00205",
+        "bbox": {
+          "lon1": -47.2125901,
+          "lat1": -22.8885,
+          "lon2": -47.1925901,
+          "lat2": -22.8685
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Pico do Itatiaia, 98 | Jardim Everest, Hortolândia - SP",
+      "parsed": {
+        "housenumber": "98 |",
+        "street": "jardim everest",
+        "city": "hortolândia",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Nazaré Paulista, 858 | Chácara da Barra, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Nazaré Paulista",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13092-481",
+        "district": "Campinas",
+        "suburb": "Chácara da Barra",
+        "street": "Rua Nazaré Paulista",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0374258,
+        "lat": -22.8919484,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Nazaré Paulista, Chácara da Barra, Campinas - SP, 13092-481, Brazil",
+        "address_line1": "Rua Nazaré Paulista",
+        "address_line2": "Chácara da Barra, Campinas - SP, 13092-481, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4X57+62",
+        "plus_code_short": "4X57+62, 13092-481 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5169835d5eca8447c05933b8f7ba56e436c0f00102f901ae6bd70800000000c00204920314527561204e617a6172c3a9205061756c69737461",
+        "bbox": {
+          "lon1": -47.0391011,
+          "lat1": -22.893601,
+          "lon2": -47.0368698,
+          "lat2": -22.8917008
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Nazaré Paulista, 858 | Chácara da Barra, Campinas - SP",
+      "parsed": {
+        "housenumber": "858 |",
+        "street": "r. nazaré paulista",
+        "suburb": "chácara da barra",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Doutor Sampaio Ferraz, 496 | Cambuí, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Doutor Sampaio Ferraz",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13025-152",
+        "district": "Campinas",
+        "suburb": "Cambuí",
+        "street": "Rua Doutor Sampaio Ferraz",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0502282,
+        "lat": -22.8919745,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Doutor Sampaio Ferraz, Cambuí, Campinas - SP, 13025-152, Brazil",
+        "address_line1": "Rua Doutor Sampaio Ferraz",
+        "address_line2": "Cambuí, Campinas - SP, 13025-152, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4W5X+6W",
+        "plus_code_short": "5X+6W, 13025-152 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51212baee06d8647c059af5dda7058e436c0f00102f90140a76b0500000000c0020492031952756120446f75746f722053616d7061696f2046657272617a",
+        "bbox": {
+          "lon1": -47.0524411,
+          "lat1": -22.8920417,
+          "lon2": -47.0480181,
+          "lat2": -22.8917709
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Doutor Sampaio Ferraz, 496 | Cambuí, Campinas - SP",
+      "parsed": {
+        "housenumber": "496 |",
+        "street": "r. doutor sampaio ferraz",
+        "suburb": "cambuí",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Francisco Glicério, 511 | Centro, Campinas - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "511",
+        "street": "Avenida Francisco Glicerio",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "13012-000",
+        "state": "Southeast",
+        "district": "Campinas",
+        "city": "Campinas",
+        "county_code": "SP",
+        "lon": -47.057149,
+        "lat": -22.909668,
+        "result_type": "building",
+        "formatted": "Avenida Francisco Glicerio 511, Campinas - Southeast, 13012-000, Brazil",
+        "address_line1": "Avenida Francisco Glicerio 511",
+        "address_line2": "Campinas - Southeast, 13012-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WRV+44",
+        "plus_code_short": "RV+44, 13012-000 Campinas, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e3ff8ea8508747c059bd378600e0e836c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a65333937636135353234353262626638"
+      }
+    ],
+    "query": {
+      "text": "Avenida Francisco Glicério, 511 | Centro, Campinas - SP",
+      "parsed": {
+        "housenumber": "511 |",
+        "street": "avenida francisco glicério",
+        "suburb": "centro",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Doutor Arlindo Joaquim de Lemos, 1033 | Vila Lemos, Campinas - SP": {
+    "results": [],
+    "query": {
+      "text": "Avenida Doutor Arlindo Joaquim de Lemos, 1033 | Vila Lemos, Campinas - SP",
+      "parsed": {
+        "housenumber": "1033 |",
+        "street": "avenida doutor arlindo joaquim de lemos",
+        "suburb": "vila lemos",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Pirajui, 44 | Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Pirajui, 44 | Campinas - SP",
+      "parsed": {
+        "housenumber": "44 |",
+        "street": "rua pirajui",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Doutor Osvaldo Cruz, 808 | Taquaral, Campinas - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "808",
+        "street": "Rua Gara",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "13056-414",
+        "state": "Southeast",
+        "district": "Campinas",
+        "city": "Campinas",
+        "county_code": "SP",
+        "lon": -47.148726,
+        "lat": -22.97635,
+        "result_type": "building",
+        "formatted": "Rua Gara 808, Campinas - Southeast, 13056-414, Brazil",
+        "address_line1": "Rua Gara 808",
+        "address_line2": "Campinas - Southeast, 13056-414, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J2VF2+FG",
+        "plus_code_short": "2VF2+FG, 13056-414 Campinas, Brazil",
+        "rank": {
+          "confidence": 0.3333333333333333,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.3333333333333333,
+          "confidence_building_level": 0.3333333333333333,
+          "match_type": "full_match"
+        },
+        "place_id": "514f081d74099347c0591973d712f2f936c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a38616530316262626630623066626236"
+      }
+    ],
+    "query": {
+      "text": "R. Doutor Osvaldo Cruz, 808 | Taquaral, Campinas - SP",
+      "parsed": {
+        "housenumber": "808",
+        "street": "| taquaral",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. São Bento, 140 | Jardim Nossa Senhora Auxiliadora, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua São Bento",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13075-290",
+        "district": "Campinas",
+        "suburb": "Guanabara",
+        "street": "Rua São Bento",
+        "iso3166_2": "BR-SP",
+        "lon": -47.064368,
+        "lat": -22.882602,
+        "state_code": "SP",
+        "housenumber": "140",
+        "result_type": "building",
+        "formatted": "Rua São Bento 140, Guanabara, Campinas - SP, 13075-290, Brazil",
+        "address_line1": "Rua São Bento 140",
+        "address_line2": "Guanabara, Campinas - SP, 13075-290, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4W8P+X7",
+        "plus_code_short": "4W8P+X7, 13075-290 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "515874eb353d8847c0595a626534f2e136c0c0020392030e5275612053c3a36f2042656e746fe203266f70656e6164647265737365733a616464726573733a32663039626362303132356466313530",
+        "bbox": {
+          "lon1": -47.0644523,
+          "lat1": -22.8834658,
+          "lon2": -47.0644426,
+          "lat2": -22.8828486
+        }
+      }
+    ],
+    "query": {
+      "text": "R. São Bento, 140 | Jardim Nossa Senhora Auxiliadora, Campinas - SP",
+      "parsed": {
+        "house": "| jardim nossa senhora auxiliadora",
+        "housenumber": "140",
+        "street": "r. são bento",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Horácio Leonardi, 12 | Barão Geraldo, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Eskina Bar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13084-105",
+        "district": "Barão Geraldo",
+        "street": "Rua Horácio Leonardi",
+        "housenumber": "12",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0798719,
+        "lat": -22.8279832,
+        "state_code": "SP",
+        "result_type": "amenity",
+        "formatted": "Eskina Bar, Rua Horácio Leonardi 12, Barão Geraldo, Campinas - SP, 13084-105, Brazil",
+        "address_line1": "Eskina Bar",
+        "address_line2": "Rua Horácio Leonardi 12, Barão Geraldo, Campinas - SP, 13084-105, Brazil",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J5WCC+R3",
+        "plus_code_short": "5WCC+R3, 13084-105 Campinas, Brazil",
+        "rank": {
+          "importance": 6.852597848473361e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51482f0f3e398a47c0592ea3fdb4f6d336c0f00103f9015f32569d00000000c0020192030a45736b696e6120426172",
+        "bbox": {
+          "lon1": -47.0799219,
+          "lat1": -22.8280332,
+          "lon2": -47.0798219,
+          "lat2": -22.8279332
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Horácio Leonardi, 12 | Barão Geraldo, Campinas - SP",
+      "parsed": {
+        "housenumber": "12 |",
+        "street": "r. horácio leonardi",
+        "district": "barão geraldo",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. São José dos Campos, 1016 | Jd. Nova Europa, Campinas - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "22",
+        "street": "Avenida Um",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "12214-400",
+        "state": "Southeast",
+        "district": "São José Dos Campos",
+        "city": "Sao Jose dos Campos",
+        "county_code": "SP",
+        "lon": -45.922156,
+        "lat": -23.109578,
+        "result_type": "building",
+        "formatted": "Avenida Um 22, São José Dos Campos, Sao Jose dos Campos - Southeast, 12214-400, Brazil",
+        "address_line1": "Avenida Um 22",
+        "address_line2": "São José Dos Campos, Sao Jose dos Campos - Southeast, 12214-400, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "588PV3RH+54",
+        "rank": {
+          "confidence": 0.5670000000000001,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.63,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51b4e7323509f646c059705cc64d0d1c37c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a65386263613631346535313434376130"
+      }
+    ],
+    "query": {
+      "text": "Av. São José dos Campos, 1016 | Jd. Nova Europa, Campinas - SP",
+      "parsed": {
+        "house": "1016 | jd. nova europa",
+        "street": "av.",
+        "city": "são josé dos campos",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Coronel Alfredo Augusto do Nascimento, 62 | Sousas, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Coronel Alfredo Augusto do Nascimento",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "village": "Sousas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13108-002",
+        "street": "Rua Coronel Alfredo Augusto do Nascimento",
+        "iso3166_2": "BR-SP",
+        "lon": -46.956597,
+        "lat": -22.8785333,
+        "state_code": "SP",
+        "result_type": "amenity",
+        "formatted": "Rua Coronel Alfredo Augusto do Nascimento, Sousas, Campinas - SP, 13108-002, Brazil",
+        "address_line1": "Rua Coronel Alfredo Augusto do Nascimento",
+        "address_line2": "Sousas, Campinas - SP, 13108-002, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589M42CV+H9",
+        "plus_code_short": "42CV+H9, 13108-002 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51d2393fc5717a47c0596cf2ef8ee7e036c0f00102f90129463b1d00000000c0020192032952756120436f726f6e656c20416c667265646f204175677573746f20646f204e617363696d656e746f",
+        "bbox": {
+          "lon1": -46.9567412,
+          "lat1": -22.8785846,
+          "lon2": -46.9564529,
+          "lat2": -22.8784821
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Coronel Alfredo Augusto do Nascimento, 62 | Sousas, Campinas - SP",
+      "parsed": {
+        "housenumber": "62 |",
+        "street": "r. coronel alfredo augusto do nascimento",
+        "district": "sousas",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Francisco Glicério, 325 | Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Francisco Glicério",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13015-310",
+        "district": "Campinas",
+        "suburb": "Centro",
+        "street": "Avenida Francisco Glicério",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0569477,
+        "lat": -22.9102001,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida Francisco Glicério, Centro, Campinas - SP, 13015-310, Brazil",
+        "address_line1": "Avenida Francisco Glicério",
+        "address_line2": "Centro, Campinas - SP, 13015-310, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WQV+W6",
+        "plus_code_short": "QV+W6, 13015-310 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518d8aee0f4a8747c059e150aedf02e936c0f00102f9015321561400000000c0020492031b4176656e696461204672616e636973636f20476c6963c3a972696f",
+        "bbox": {
+          "lon1": -47.0584757,
+          "lat1": -22.9131062,
+          "lon2": -47.0555731,
+          "lat2": -22.9073733
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Francisco Glicério, 325 | Campinas - SP",
+      "parsed": {
+        "housenumber": "325 |",
+        "street": "av. francisco glicério",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Maestro Jaime Lopes Diniz, 175 | Nova Europa, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Maestro Jaime Lopes Diniz, 175 | Nova Europa, Campinas - SP",
+      "parsed": {
+        "housenumber": "175",
+        "street": "| nova europa",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Paulo de Almeida Nogueira, 75 | Taquaral, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Paulo de Almeida Nogueira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13076-008",
+        "district": "Campinas",
+        "suburb": "Taquaral",
+        "street": "Avenida Paulo de Almeida Nogueira",
+        "iso3166_2": "BR-SP",
+        "lon": -47.050361,
+        "lat": -22.880524,
+        "state_code": "SP",
+        "housenumber": "75",
+        "result_type": "building",
+        "formatted": "Avenida Paulo de Almeida Nogueira 75, Taquaral, Campinas - SP, 13076-008, Brazil",
+        "address_line1": "Avenida Paulo de Almeida Nogueira 75",
+        "address_line2": "Taquaral, Campinas - SP, 13076-008, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4W9X+QV",
+        "plus_code_short": "4W9X+QV, 13076-008 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5137ffaf3a728647c059d65757056ae136c0c002039203214176656e696461205061756c6f20646520416c6d65696461204e6f677565697261e203266f70656e6164647265737365733a616464726573733a62613337313364663862643766653735",
+        "bbox": {
+          "lon1": -47.0503323,
+          "lat1": -22.8806994,
+          "lon2": -47.0495024,
+          "lat2": -22.8784586
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Paulo de Almeida Nogueira, 75 | Taquaral, Campinas - SP",
+      "parsed": {
+        "house": "| taquaral",
+        "housenumber": "75",
+        "street": "av. paulo de almeida nogueira",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Carolina Florence, 1339 | Jardim Guanabara, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Carolina Florence",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13075-250",
+        "district": "Campinas",
+        "suburb": "Guanabara",
+        "quarter": "Jardim Guanabara",
+        "street": "Rua Carolina Florence",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0621595,
+        "lat": -22.88516,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Carolina Florence, Guanabara, Campinas - SP, 13075-250, Brazil",
+        "address_line1": "Rua Carolina Florence",
+        "address_line2": "Guanabara, Campinas - SP, 13075-250, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4W7Q+W4",
+        "plus_code_short": "4W7Q+W4, 13075-250 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "515fd1add7f48747c05934ba83d899e236c0f00102f9019315a00900000000c00204920315527561204361726f6c696e6120466c6f72656e6365",
+        "bbox": {
+          "lon1": -47.0647269,
+          "lat1": -22.8868078,
+          "lon2": -47.0596749,
+          "lat2": -22.883648
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Carolina Florence, 1339 | Jardim Guanabara, Campinas - SP",
+      "parsed": {
+        "housenumber": "1339 |",
+        "street": "r. carolina florence",
+        "suburb": "jardim guanabara",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua das Cravinas, 5 | Vila Mimosa, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.6363636363636364,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua das Cravinas, 5 | Vila Mimosa, Campinas - SP"
+    }
+  },
+  "Av. General Carneiro, 300 | Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida General Carneiro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13035-680",
+        "district": "Campinas",
+        "suburb": "Ponte Preta",
+        "street": "Avenida General Carneiro",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0618831,
+        "lat": -22.9149933,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida General Carneiro, Ponte Preta, Campinas - SP, 13035-680, Brazil",
+        "address_line1": "Avenida General Carneiro",
+        "address_line2": "Ponte Preta, Campinas - SP, 13035-680, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WPQ+26",
+        "plus_code_short": "PQ+26, 13035-680 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516a5611c9eb8747c059228f3b003dea36c0f00102f9012082c70200000000c002049203184176656e6964612047656e6572616c204361726e6569726f",
+        "bbox": {
+          "lon1": -47.0638853,
+          "lat1": -22.9155515,
+          "lon2": -47.0598857,
+          "lat2": -22.9144528
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. General Carneiro, 300 | Campinas - SP",
+      "parsed": {
+        "housenumber": "300 |",
+        "street": "av. general carneiro",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Washington Luiz, 725  | Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Washington Luiz",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13041-720",
+        "district": "Campinas",
+        "suburb": "Ponte Preta",
+        "street": "Avenida Washington Luiz",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0569475,
+        "lat": -22.91649,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida Washington Luiz, Ponte Preta, Campinas - SP, 13041-720, Brazil",
+        "address_line1": "Avenida Washington Luiz",
+        "address_line2": "Ponte Preta, Campinas - SP, 13041-720, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WMV+C6",
+        "plus_code_short": "MV+C6, 13041-720 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51630b410e4a8747c0596d1cb1169fea36c0f00102f901a984992e00000000c002049203174176656e6964612057617368696e67746f6e204c75697a",
+        "bbox": {
+          "lon1": -47.057101,
+          "lat1": -22.9167471,
+          "lon2": -47.0569142,
+          "lat2": -22.9162852
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Washington Luiz, 725  | Campinas - SP",
+      "parsed": {
+        "housenumber": "725 |",
+        "street": "av. washington luiz",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Agostinho Pattaro, 211 | Vila Santa Isabel, Campinas - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "211",
+        "street": "Avenida Santa Isabel",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "13084-012",
+        "state": "Southeast",
+        "district": "Barão De Geraldo",
+        "city": "Campinas",
+        "county_code": "SP",
+        "lon": -47.081124,
+        "lat": -22.826482,
+        "result_type": "building",
+        "formatted": "Avenida Santa Isabel 211, Campinas - Southeast, 13084-012, Brazil",
+        "address_line1": "Avenida Santa Isabel 211",
+        "address_line2": "Campinas - Southeast, 13084-012, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J5WF9+CH",
+        "plus_code_short": "5WF9+CH, 13084-012 Campinas, Brazil",
+        "rank": {
+          "confidence": 0.44099999999999995,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.44099999999999995,
+          "confidence_building_level": 0.44099999999999995,
+          "match_type": "full_match"
+        },
+        "place_id": "51da756f45628a47c05990bb085394d336c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a32383937396666376537396131363665"
+      }
+    ],
+    "query": {
+      "text": "R. Agostinho Pattaro, 211 | Vila Santa Isabel, Campinas - SP",
+      "parsed": {
+        "housenumber": "211",
+        "street": "| vila santa isabel",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. São Bartolomeu, 498 | Jardim Santa Terezinha (Nova Veneza), Sumaré - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua São Bartolomeu",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Sumaré",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13180-290",
+        "district": "Nova Veneza",
+        "suburb": "AR3 - Matão",
+        "quarter": "Loteamento Vila San Martin",
+        "street": "Rua São Bartolomeu",
+        "iso3166_2": "BR-SP",
+        "lon": -47.156453,
+        "lat": -22.8337613,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua São Bartolomeu, AR3 - Matão, Nova Veneza, Sumaré - SP, 13180-290, Brazil",
+        "address_line1": "Rua São Bartolomeu",
+        "address_line2": "AR3 - Matão, Nova Veneza, Sumaré - SP, 13180-290, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J5R8V+FC",
+        "plus_code_short": "5R8V+FC Sumaré, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.05339462348363466,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51382ee3a6069447c059a22b6c6171d536c0f00102f9013e04840f00000000c002049203135275612053c3a36f20426172746f6c6f6d6575",
+        "bbox": {
+          "lon1": -47.1572183,
+          "lat1": -22.8366502,
+          "lon2": -47.1556777,
+          "lat2": -22.830878
+        }
+      }
+    ],
+    "query": {
+      "text": "R. São Bartolomeu, 498 | Jardim Santa Terezinha (Nova Veneza), Sumaré - SP",
+      "parsed": {
+        "housenumber": "498 |",
+        "street": "r. são bartolomeu",
+        "suburb": "jardim santa terezinha",
+        "district": "nova veneza",
+        "city": "sumaré",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Piraju, 43 | Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Piraju",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13041-005",
+        "district": "Campinas",
+        "suburb": "Ponte Preta",
+        "street": "Rua Piraju",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0574943,
+        "lat": -22.9240857,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Piraju, Ponte Preta, Campinas - SP, 13041-005, Brazil",
+        "address_line1": "Rua Piraju",
+        "address_line2": "Ponte Preta, Campinas - SP, 13041-005, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WGV+92",
+        "plus_code_short": "3WGV+92, 13041-005 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516c1a25f95b8747c059863364e190ec36c0f00102f9011e55f90700000000c0020492030a52756120506972616a75",
+        "bbox": {
+          "lon1": -47.0581133,
+          "lat1": -22.924455,
+          "lon2": -47.056878,
+          "lat2": -22.9237248
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Piraju, 43 | Campinas - SP",
+      "parsed": {
+        "housenumber": "43 |",
+        "street": "rua piraju",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Adão Focesi, 1062 | Jardim do Lago, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Adão Focesi",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13050-526",
+        "district": "Campinas",
+        "street": "Avenida Adão Focesi",
+        "iso3166_2": "BR-SP",
+        "lon": -47.088163,
+        "lat": -22.934803,
+        "state_code": "SP",
+        "housenumber": "1062",
+        "result_type": "building",
+        "formatted": "Avenida Adão Focesi 1062, Campinas - SP, 13050-526, Brazil",
+        "address_line1": "Avenida Adão Focesi 1062",
+        "address_line2": "Campinas - SP, 13050-526, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3W86+3P",
+        "plus_code_short": "3W86+3P, 13050-526 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51cfdbd8ec488b47c059e333d93f4fef36c0c002039203144176656e696461204164c3a36f20466f63657369e203266f70656e6164647265737365733a616464726573733a39633263303436313130343562353634",
+        "bbox": {
+          "lon1": -47.0889831,
+          "lat1": -22.9354094,
+          "lon2": -47.0887301,
+          "lat2": -22.9352718
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Adão Focesi, 1062 | Jardim do Lago, Campinas - SP",
+      "parsed": {
+        "house": "| jardim do lago",
+        "housenumber": "1062",
+        "street": "av. adão focesi",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Antônio Francisco de Andrade, 271 | Jardim Proença, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Antônio Francisco de Andrade",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13026-200",
+        "district": "Campinas",
+        "suburb": "Ponte Preta",
+        "street": "Rua Antônio Francisco de Andrade",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0455121,
+        "lat": -22.9139715,
+        "state_code": "SP",
+        "housenumber": "271",
+        "result_type": "building",
+        "formatted": "Rua Antônio Francisco de Andrade 271, Ponte Preta, Campinas - SP, 13026-200, Brazil",
+        "address_line1": "Rua Antônio Francisco de Andrade 271",
+        "address_line2": "Ponte Preta, Campinas - SP, 13026-200, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3XP3+CQ",
+        "plus_code_short": "3XP3+CQ, 13026-200 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5141892a57d38547c059dff94509fae936c0f00102f9016b66f70800000000c0020392032152756120416e74c3b46e696f204672616e636973636f20646520416e6472616465",
+        "bbox": {
+          "lon1": -47.0452285,
+          "lat1": -22.915202,
+          "lon2": -47.0445302,
+          "lat2": -22.914537
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Antônio Francisco de Andrade, 271 | Jardim Proença, Campinas - SP",
+      "parsed": {
+        "house": "| jardim proença",
+        "housenumber": "271",
+        "street": "r. antônio francisco de andrade",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Dr. José Ferreira de Camargo, 1221 | Nova Campinas, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Doutor José Ferreira de Camargo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13090-713",
+        "district": "Campinas",
+        "suburb": "Cambuí",
+        "street": "Rua Doutor José Ferreira de Camargo",
+        "iso3166_2": "BR-SP",
+        "lon": -47.045407,
+        "lat": -22.896527,
+        "state_code": "SP",
+        "housenumber": "1221",
+        "result_type": "building",
+        "formatted": "Rua Doutor José Ferreira de Camargo 1221, Cambuí, Campinas - SP, 13090-713, Brazil",
+        "address_line1": "Rua Doutor José Ferreira de Camargo 1221",
+        "address_line2": "Cambuí, Campinas - SP, 13090-713, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4X33+9R",
+        "plus_code_short": "4X33+9R, 13090-713 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51360186e5cf8547c05922fb20cb82e536c0c0020392032452756120446f75746f72204a6f73c3a92046657272656972612064652043616d6172676fe203266f70656e6164647265737365733a616464726573733a63363533333663366337353335346366",
+        "bbox": {
+          "lon1": -47.0455223,
+          "lat1": -22.8915004,
+          "lon2": -47.0453812,
+          "lat2": -22.8914145
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dr. José Ferreira de Camargo, 1221 | Nova Campinas, Campinas - SP",
+      "parsed": {
+        "housenumber": "1221",
+        "street": "r. dr. josé ferreira de camargo",
+        "district": "campinas",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Doutor Osvaldo Cruz, 151 | Taquaral, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Doutor Osvaldo Cruz, 151 | Taquaral, Campinas - SP",
+      "parsed": {
+        "housenumber": "151",
+        "street": "| taquaral",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Santa Bárbara do Rio Pardo, 550 Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Santa Bárbaro do Rio Pardo",
+        "other_names": {
+          "alt_name": "Avenida Santa Bárbara do Rio Pardo"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13036-440",
+        "district": "Campinas",
+        "suburb": "Jardim Nova Europa",
+        "street": "Avenida Santa Bárbaro do Rio Pardo",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0615165,
+        "lat": -22.9435911,
+        "state_code": "SP",
+        "housenumber": "550",
+        "result_type": "building",
+        "formatted": "Avenida Santa Bárbaro do Rio Pardo 550, Jardim Nova Europa, Campinas - SP, 13036-440, Brazil",
+        "address_line1": "Avenida Santa Bárbaro do Rio Pardo 550",
+        "address_line2": "Jardim Nova Europa, Campinas - SP, 13036-440, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3W4Q+H9",
+        "plus_code_short": "3W4Q+H9, 13036-440 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.3857142857142857,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7714285714285714,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510bd5cdc5df8747c059f24bb32f8ff136c0f00102f9012cb77a0800000000c002039203234176656e6964612053616e74612042c3a1726261726f20646f2052696f20506172646f",
+        "bbox": {
+          "lon1": -47.0646251,
+          "lat1": -22.9450999,
+          "lon2": -47.0586584,
+          "lat2": -22.9418468
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Santa Bárbara do Rio Pardo, 550 Campinas - SP",
+      "parsed": {
+        "housenumber": "550",
+        "street": "av. santa bárbara do rio pardo",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Estados Unidos 393 - Jardim Nova Europa": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Estados Unidos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13040-109",
+        "district": "Campinas",
+        "suburb": "Jardim Nova Europa",
+        "street": "Avenida Estados Unidos",
+        "iso3166_2": "BR-SP",
+        "lon": -47.064441,
+        "lat": -22.932708,
+        "state_code": "SP",
+        "housenumber": "393",
+        "result_type": "building",
+        "formatted": "Avenida Estados Unidos 393, Jardim Nova Europa, Campinas - SP, 13040-109, Brazil",
+        "address_line1": "Avenida Estados Unidos 393",
+        "address_line2": "Jardim Nova Europa, Campinas - SP, 13040-109, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3W8P+W6",
+        "plus_code_short": "3W8P+W6, 13040-109 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c2c2499a3f8847c059b3b794f3c5ee36c0c002039203164176656e6964612045737461646f7320556e69646f73e203266f70656e6164647265737365733a616464726573733a36636337343661383230636333353331",
+        "bbox": {
+          "lon1": -47.0663944,
+          "lat1": -22.9364494,
+          "lon2": -47.0639491,
+          "lat2": -22.9319224
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Estados Unidos 393 - Jardim Nova Europa",
+      "parsed": {
+        "housenumber": "393",
+        "street": "avenida estados unidos",
+        "suburb": "jardim nova europa",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Baden Powell, 1035 | Jardim Nova Europa, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Baden Powell",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13036-440",
+        "district": "Campinas",
+        "suburb": "Jardim Nova Europa",
+        "street": "Avenida Baden Powell",
+        "iso3166_2": "BR-SP",
+        "lon": -47.0595783,
+        "lat": -22.9410836,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida Baden Powell, Jardim Nova Europa, Campinas - SP, 13036-440, Brazil",
+        "address_line1": "Avenida Baden Powell",
+        "address_line2": "Jardim Nova Europa, Campinas - SP, 13036-440, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3W5R+H5",
+        "plus_code_short": "3W5R+H5, 13036-440 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5190060143a08747c0594ccdd4daeaf036c0f00102f901db3a6b2000000000c002049203144176656e69646120426164656e20506f77656c6c",
+        "bbox": {
+          "lon1": -47.0662542,
+          "lat1": -22.9452423,
+          "lon2": -47.0528907,
+          "lat2": -22.936905
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Baden Powell, 1035 | Jardim Nova Europa, Campinas - SP",
+      "parsed": {
+        "housenumber": "1035 |",
+        "street": "r. baden powell",
+        "suburb": "jardim nova europa",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Doutor Carlos de Campos, 584 | Vila Industrial, Campinas - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "584",
+        "street": "Avenida Doutor Carlos De Campos",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "13035-610",
+        "state": "Southeast",
+        "district": "Campinas",
+        "city": "Campinas",
+        "county_code": "SP",
+        "lon": -47.082058,
+        "lat": -22.910191,
+        "result_type": "building",
+        "formatted": "Avenida Doutor Carlos De Campos 584, Campinas - Southeast, 13035-610, Brazil",
+        "address_line1": "Avenida Doutor Carlos De Campos 584",
+        "address_line2": "Campinas - Southeast, 13035-610, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WQ9+W5",
+        "plus_code_short": "3WQ9+W5, 13035-610 Campinas, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51063065e0808a47c059111d024702e936c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a63646162626562383534303037336564"
+      }
+    ],
+    "query": {
+      "text": "Av. Doutor Carlos de Campos, 584 | Vila Industrial, Campinas - SP",
+      "parsed": {
+        "housenumber": "584 |",
+        "street": "av. doutor carlos de campos",
+        "suburb": "vila industrial",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Rio Grande do Sul, 496 | Vila Santana, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "كامبيناس",
+          "name:be": "Кампінас",
+          "name:bg": "Кампинас",
+          "name:ce": "Кампинас",
+          "name:el": "Καμπίνας",
+          "name:he": "קמפינאס",
+          "name:ja": "カンピーナス",
+          "name:ka": "კამპინასი",
+          "name:ko": "구아룰류스",
+          "name:la": "Campinae",
+          "name:lt": "Kampinasas",
+          "name:lv": "Kampinasa",
+          "name:mk": "Кампинас",
+          "name:ru": "Кампинас",
+          "name:sr": "Кампинас",
+          "name:uk": "Кампінас",
+          "name:zh": "坎皮纳斯"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "iso3166_2": "BR-SP",
+        "lon": -47.059564,
+        "lat": -22.9056391,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Campinas, SP, Brazil",
+        "address_line1": "Campinas",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J3WVR+P5",
+        "plus_code_short": "VR+P5 Campinas, Região Metropolitana de Campinas, Brazil",
+        "rank": {
+          "importance": 0.628541329434255,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d020ccb9f8747c059977accf6d7e736c0f00101f901f38c040000000000c00208",
+        "bbox": {
+          "lon1": -47.2463023,
+          "lat1": -23.0612161,
+          "lon2": -46.8152838,
+          "lat2": -22.7290463
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Rio Grande do Sul, 496 | Vila Santana, Campinas - SP",
+      "parsed": {
+        "housenumber": "496",
+        "street": "| vila santana",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Doutor Armando Sales de Oliveira, 279 | Taquaral, Campinas - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "279",
+        "street": "Rua Doutor Armando Sales De Oliveira",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "13035-270",
+        "state": "Southeast",
+        "district": "Campinas",
+        "city": "Campinas",
+        "county_code": "SP",
+        "lon": -47.050152,
+        "lat": -22.879269,
+        "result_type": "building",
+        "formatted": "Rua Doutor Armando Sales De Oliveira 279, Campinas - Southeast, 13035-270, Brazil",
+        "address_line1": "Rua Doutor Armando Sales De Oliveira 279",
+        "address_line2": "Campinas - Southeast, 13035-270, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4WCX+7W",
+        "plus_code_short": "4WCX+7W, 13035-270 Campinas, Brazil",
+        "rank": {
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "confidence_building_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "511cea77616b8647c059fa62efc517e136c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a31353338666339376266363639336364"
+      }
+    ],
+    "query": {
+      "text": "Av. Doutor Armando Sales de Oliveira, 279 | Taquaral, Campinas - SP",
+      "parsed": {
+        "housenumber": "279",
+        "street": "av. doutor armando sales de oliveira",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Paulo de Almeida Nogueira, 41 | Taquaral, Campinas - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Paulo de Almeida Nogueira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de Campinas",
+        "state_district": "Região Geográfica Intermediária de Campinas",
+        "city": "Campinas",
+        "municipality": "Região Imediata de Campinas",
+        "postcode": "13076-008",
+        "district": "Campinas",
+        "suburb": "Taquaral",
+        "street": "Avenida Paulo de Almeida Nogueira",
+        "iso3166_2": "BR-SP",
+        "lon": -47.050341,
+        "lat": -22.880656,
+        "state_code": "SP",
+        "housenumber": "41",
+        "result_type": "building",
+        "formatted": "Avenida Paulo de Almeida Nogueira 41, Taquaral, Campinas - SP, 13076-008, Brazil",
+        "address_line1": "Avenida Paulo de Almeida Nogueira 41",
+        "address_line2": "Taquaral, Campinas - SP, 13076-008, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "589J4W9X+PV",
+        "plus_code_short": "4W9X+PV, 13076-008 Campinas, Brazil",
+        "rank": {
+          "importance": 0.053401859311818074,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51f052ea92718647c059b306efab72e136c0c002039203214176656e696461205061756c6f20646520416c6d65696461204e6f677565697261e203266f70656e6164647265737365733a616464726573733a31373166633834633863643134643963",
+        "bbox": {
+          "lon1": -47.0503323,
+          "lat1": -22.8806994,
+          "lon2": -47.0495024,
+          "lat2": -22.8784586
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Paulo de Almeida Nogueira, 41 | Taquaral, Campinas - SP",
+      "parsed": {
+        "house": "| taquaral",
+        "housenumber": "41",
+        "street": "av. paulo de almeida nogueira",
+        "city": "campinas",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

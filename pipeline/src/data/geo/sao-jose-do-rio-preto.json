@@ -1,0 +1,1287 @@
+{
+  "Rua Pedro Amaral, 1141 | São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "short_name": "Rio Preto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3804212,
+        "lat": -20.8125851,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "São José do Rio Preto, SP, Brazil",
+        "address_line1": "São José do Rio Preto",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JP9+XR",
+        "plus_code_short": "P9+XR São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.5842185458053665,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51405a52a4b1b048c05986b7bd9305d034c0f00101f901688d040000000000c00208",
+        "bbox": {
+          "lon1": -49.4638074,
+          "lat1": -20.932,
+          "lon2": -49.256,
+          "lat2": -20.6351046
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Pedro Amaral, 1141 | São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "1141",
+        "street": "|",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Antônio de Godoy, 4151 | São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "short_name": "Rio Preto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3804212,
+        "lat": -20.8125851,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "São José do Rio Preto, SP, Brazil",
+        "address_line1": "São José do Rio Preto",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JP9+XR",
+        "plus_code_short": "P9+XR São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.5842185458053665,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51405a52a4b1b048c05986b7bd9305d034c0f00101f901688d040000000000c00208",
+        "bbox": {
+          "lon1": -49.4638074,
+          "lat1": -20.932,
+          "lon2": -49.256,
+          "lat2": -20.6351046
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Antônio de Godoy, 4151 | São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "4151",
+        "street": "|",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Fiorindo Golghetto, 540 | Bairro Pôr do Sol, Bady Bassitt - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "251",
+        "street": "Rua Wanderlei R Menezes",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "15115-000",
+        "state": "Southeast",
+        "district": "Bady Bassitt",
+        "city": "Bady Bassitt",
+        "county_code": "SP",
+        "lon": -49.461166,
+        "lat": -20.905883,
+        "result_type": "building",
+        "formatted": "Rua Wanderlei R Menezes 251, Bady Bassitt - Southeast, 15115-000, Brazil",
+        "address_line1": "Rua Wanderlei R Menezes 251",
+        "address_line2": "Bady Bassitt - Southeast, 15115-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG3GVQ+JG",
+        "plus_code_short": "3GVQ+JG Bady Bassitt, Sao Paulo, Brazil",
+        "rank": {
+          "confidence": 0.18000000000000002,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.2,
+          "match_type": "match_by_building"
+        },
+        "place_id": "517903cc7c07bb48c0599b00c3f2e7e734c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a66663839653631303465393030393235"
+      }
+    ],
+    "query": {
+      "text": "R. Fiorindo Golghetto, 540 | Bairro Pôr do Sol, Bady Bassitt - SP",
+      "parsed": {
+        "house": "golghetto 540 | bairro pôr do sol",
+        "street": "r. fiorindo",
+        "city": "bady bassitt",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. México, 525 | Jardim América, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida México",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15055-340",
+        "district": "São José do Rio Preto",
+        "suburb": "Jardim Bordon",
+        "street": "Avenida México",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3656538,
+        "lat": -20.7995839,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida México, Jardim Bordon, São José do Rio Preto - SP, 15055-340, Brazil",
+        "address_line1": "Avenida México",
+        "address_line2": "Jardim Bordon, São José do Rio Preto - SP, 15055-340, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG6J2M+5P",
+        "plus_code_short": "6J2M+5P São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "513d5464becdae48c0597be8cc87b1cc34c0f00102f9017999682200000000c0020492030f4176656e696461204dc3a97869636f",
+        "bbox": {
+          "lon1": -49.3660793,
+          "lat1": -20.799983,
+          "lon2": -49.3652284,
+          "lat2": -20.7991849
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. México, 525 | Jardim América, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "525 |",
+        "street": "av. méxico",
+        "suburb": "jardim américa",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Capitão José de Castro, 378 | Vila Anchieta, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Capitão José de Castro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15054-400",
+        "district": "São José do Rio Preto",
+        "suburb": "Vila Anchieta",
+        "street": "Rua Capitão José de Castro",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3728755,
+        "lat": -20.7955335,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Capitão José de Castro, Vila Anchieta, São José do Rio Preto - SP, 15054-400, Brazil",
+        "address_line1": "Rua Capitão José de Castro",
+        "address_line2": "Vila Anchieta, São José do Rio Preto - SP, 15054-400, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG6J3G+QR",
+        "plus_code_short": "6J3G+QR São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5165fd6662baaf48c059575f5d15a8cb34c0f00102f90106098c0800000000c0020492031c527561204361706974c3a36f204a6f73c3a92064652043617374726f",
+        "bbox": {
+          "lon1": -49.3760865,
+          "lat1": -20.7956513,
+          "lon2": -49.3696723,
+          "lat2": -20.7952831
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Capitão José de Castro, 378 | Vila Anchieta, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "378 |",
+        "street": "r. capitão josé de castro",
+        "suburb": "vila anchieta",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Coronel Spínola de Castro, 4228 | Redentora, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "short_name": "Rio Preto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3804212,
+        "lat": -20.8125851,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "São José do Rio Preto, SP, Brazil",
+        "address_line1": "São José do Rio Preto",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JP9+XR",
+        "plus_code_short": "P9+XR São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.5842185458053665,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51405a52a4b1b048c05986b7bd9305d034c0f00101f901688d040000000000c00208",
+        "bbox": {
+          "lon1": -49.4638074,
+          "lat1": -20.932,
+          "lon2": -49.256,
+          "lat2": -20.6351046
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Coronel Spínola de Castro, 4228 | Redentora, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "4228",
+        "street": "| redentora",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Fernando Costa, 2590 | Centro, Mirassol - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "2590",
+        "street": "Avenida Fernando Costa",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "15130-025",
+        "state": "Southeast",
+        "district": "Mirassol",
+        "city": "Mirassol",
+        "county_code": "SP",
+        "lon": -49.513709,
+        "lat": -20.813587,
+        "result_type": "building",
+        "formatted": "Avenida Fernando Costa 2590, Mirassol - Southeast, 15130-025, Brazil",
+        "address_line1": "Avenida Fernando Costa 2590",
+        "address_line2": "Mirassol - Southeast, 15130-025, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5FPP+HG",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5197546d37c1c148c0596473d53c47d034c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a30303266623863336636396561373530"
+      }
+    ],
+    "query": {
+      "text": "Av. Fernando Costa, 2590 | Centro, Mirassol - SP",
+      "parsed": {
+        "housenumber": "2590 |",
+        "street": "av. fernando costa",
+        "suburb": "centro",
+        "city": "mirassol",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Elizabeth, 392 | São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Elizabeth",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15075-130",
+        "district": "São José do Rio Preto",
+        "suburb": "Jardim Nilza Helena",
+        "street": "Rua Elizabeth",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3529928,
+        "lat": -20.8176658,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Elizabeth, Jardim Nilza Helena, São José do Rio Preto - SP, 15075-130, Brazil",
+        "address_line1": "Rua Elizabeth",
+        "address_line2": "Jardim Nilza Helena, São José do Rio Preto - SP, 15075-130, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JJW+WR",
+        "plus_code_short": "5JJW+WR São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.48312818181818196,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "519bdc39de2ead48c059c40ebe8b52d134c0f00102f9014a39570900000000c0020492030d52756120456c697a6162657468",
+        "bbox": {
+          "lon1": -49.3543797,
+          "lat1": -20.8221244,
+          "lon2": -49.350946,
+          "lat2": -20.813068
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Elizabeth, 392 | São José do Rio Preto - SP"
+    }
+  },
+  "R. Coronel Spínola Castro, 4350 | Centro, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Coronel Spínola de Castro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15010-010",
+        "district": "São José do Rio Preto",
+        "suburb": "Centro",
+        "street": "Rua Coronel Spínola de Castro",
+        "iso3166_2": "BR-SP",
+        "lon": -49.379665,
+        "lat": -20.8077933,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Coronel Spínola de Castro, Centro, São José do Rio Preto - SP, 15010-010, Brazil",
+        "address_line1": "Rua Coronel Spínola de Castro",
+        "address_line2": "Centro, São José do Rio Preto - SP, 15010-010, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JRC+V4",
+        "plus_code_short": "RC+V4 São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.405,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ca37dbdc98b048c0598c6dad8acbce34c0f00102f901b588541900000000c0020492031e52756120436f726f6e656c205370c3ad6e6f6c612064652043617374726f",
+        "bbox": {
+          "lon1": -49.3800138,
+          "lat1": -20.8081117,
+          "lon2": -49.3793162,
+          "lat2": -20.807475
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Coronel Spínola Castro, 4350 | Centro, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "4350 |",
+        "street": "r. coronel spínola castro",
+        "suburb": "centro",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Vinte e Cinco de Janeiro, 404 | Vila Anchieta, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "404",
+        "street": "Avenida Vinte E Cinco De Janeiro",
+        "country": "Brazil",
+        "county": "Sao Paulo",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "15050-130",
+        "state": "Southeast",
+        "district": "São José Do Rio Preto",
+        "city": "Sao Jose do Rio Preto",
+        "county_code": "SP",
+        "lon": -49.372076,
+        "lat": -20.796942,
+        "result_type": "building",
+        "formatted": "Avenida Vinte E Cinco De Janeiro 404, São José Do Rio Preto, Sao Jose do Rio Preto - Southeast, 15050-130, Brazil",
+        "address_line1": "Avenida Vinte E Cinco De Janeiro 404",
+        "address_line2": "São José Do Rio Preto, Sao Jose do Rio Preto - Southeast, 15050-130, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG6J3H+65",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5131d0b52fa0af48c05910cf126404cc34c0c00203e203466f70656e6164647265737365733a616464726573733a62722f73702f7374617465776964652d6164647265737365732d73746174653a62613965663230323135633034653935"
+      }
+    ],
+    "query": {
+      "text": "Av. Vinte e Cinco de Janeiro, 404 | Vila Anchieta, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "404 |",
+        "street": "av. vinte cinco de janeiro",
+        "suburb": "vila anchieta",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Abrão Thomé, 602 | Jardim Walkíria, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Abrão Thomé",
+        "other_names": {
+          "alt_name": "Rua Abrao Thome"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15085-360",
+        "district": "São José do Rio Preto",
+        "suburb": "Higienópolis",
+        "street": "Rua Abrão Thomé",
+        "iso3166_2": "BR-SP",
+        "lon": -49.387536,
+        "lat": -20.836551,
+        "state_code": "SP",
+        "housenumber": "602",
+        "result_type": "building",
+        "formatted": "Rua Abrão Thomé 602, Higienópolis, São José do Rio Preto - SP, 15085-360, Brazil",
+        "address_line1": "Rua Abrão Thomé 602",
+        "address_line2": "Higienópolis, São José do Rio Preto - SP, 15085-360, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5J76+9X",
+        "plus_code_short": "5J76+9X São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51e60297c79ab148c059a46fd23428d634c0c0020392031152756120416272c3a36f2054686f6dc3a9e203266f70656e6164647265737365733a616464726573733a61303861333234613762616434663034",
+        "bbox": {
+          "lon1": -49.3893709,
+          "lat1": -20.8412547,
+          "lon2": -49.3832094,
+          "lat2": -20.8348276
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Abrão Thomé, 602 | Jardim Walkíria, São José do Rio Preto - SP",
+      "parsed": {
+        "house": "| jardim walkíria",
+        "housenumber": "602",
+        "street": "r. abrão thomé",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Coronel Spínola Castro, 4496 | Centro, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Coronel Spínola de Castro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15010-010",
+        "district": "São José do Rio Preto",
+        "suburb": "Centro",
+        "street": "Rua Coronel Spínola de Castro",
+        "iso3166_2": "BR-SP",
+        "lon": -49.379665,
+        "lat": -20.8077933,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Coronel Spínola de Castro, Centro, São José do Rio Preto - SP, 15010-010, Brazil",
+        "address_line1": "Rua Coronel Spínola de Castro",
+        "address_line2": "Centro, São José do Rio Preto - SP, 15010-010, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JRC+V4",
+        "plus_code_short": "RC+V4 São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.405,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ca37dbdc98b048c0598c6dad8acbce34c0f00102f901b588541900000000c0020492031e52756120436f726f6e656c205370c3ad6e6f6c612064652043617374726f",
+        "bbox": {
+          "lon1": -49.3800138,
+          "lat1": -20.8081117,
+          "lon2": -49.3793162,
+          "lat2": -20.807475
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Coronel Spínola Castro, 4496 | Centro, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "4496 |",
+        "street": "r. coronel spínola castro",
+        "suburb": "centro",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. São Vicente de Paula, 2871 | Nossa Sra. Aparecida, Mirassol - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "Mirassol",
+        "iso3166_2": "BR-SP",
+        "lon": -49.507449,
+        "lat": -20.8141411,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Mirassol, SP, Brazil",
+        "address_line1": "Mirassol",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5FPV+82",
+        "rank": {
+          "importance": 0.5360812083944212,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51a7b1bd16f4c048c05958d4168d6bd034c0f00101f901d88c040000000000c00208",
+        "bbox": {
+          "lon1": -49.5828867,
+          "lat1": -20.976,
+          "lon2": -49.432,
+          "lat2": -20.6815182
+        }
+      }
+    ],
+    "query": {
+      "text": "R. São Vicente de Paula, 2871 | Nossa Sra. Aparecida, Mirassol - SP",
+      "parsed": {
+        "housenumber": "2871",
+        "street": "| nossa sra. aparecida",
+        "city": "mirassol",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Atlântida, 115 | Vila Ideal, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Atlântida",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15060-330",
+        "district": "São José do Rio Preto",
+        "suburb": "Jardim Primavera",
+        "street": "Rua Atlântida",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3616763,
+        "lat": -20.8008436,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Atlântida, Jardim Primavera, São José do Rio Preto - SP, 15060-330, Brazil",
+        "address_line1": "Rua Atlântida",
+        "address_line2": "Jardim Primavera, São José do Rio Preto - SP, 15060-330, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JXQ+M8",
+        "plus_code_short": "5JXQ+M8 São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51801eb4684bae48c059fe350f1604cd34c0f00102f9014952513500000000c0020492030e5275612041746cc3a26e74696461",
+        "bbox": {
+          "lon1": -49.3637619,
+          "lat1": -20.8011082,
+          "lon2": -49.3595922,
+          "lat2": -20.8005685
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Atlântida, 115 | Vila Ideal, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "115 |",
+        "street": "rua atlântida",
+        "suburb": "vila ideal",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da Imprensa, 1039 | Parque Celeste, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua da Imprensa",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15013-000",
+        "district": "São José do Rio Preto",
+        "suburb": "Vila Diniz",
+        "street": "Rua da Imprensa",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3661295,
+        "lat": -20.8197567,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua da Imprensa, Vila Diniz, São José do Rio Preto - SP, 15013-000, Brazil",
+        "address_line1": "Rua da Imprensa",
+        "address_line2": "Vila Diniz, São José do Rio Preto - SP, 15013-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JJM+3G",
+        "plus_code_short": "JM+3G São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e84cda54ddae48c059482d3993dbd134c0f00102f9012d70da0900000000c0020492030f52756120646120496d7072656e7361",
+        "bbox": {
+          "lon1": -49.3707899,
+          "lat1": -20.8214874,
+          "lon2": -49.3614872,
+          "lat2": -20.8179827
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da Imprensa, 1039 | Parque Celeste, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "1039 |",
+        "street": "rua da imprensa",
+        "suburb": "parque celeste",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Pedro Martins, 90 | Distrito Adail Vetorazzo, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "short_name": "Rio Preto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3804212,
+        "lat": -20.8125851,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "São José do Rio Preto, SP, Brazil",
+        "address_line1": "São José do Rio Preto",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JP9+XR",
+        "plus_code_short": "P9+XR São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.5842185458053665,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51405a52a4b1b048c05986b7bd9305d034c0f00101f901688d040000000000c00208",
+        "bbox": {
+          "lon1": -49.4638074,
+          "lat1": -20.932,
+          "lon2": -49.256,
+          "lat2": -20.6351046
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Pedro Martins, 90 | Distrito Adail Vetorazzo, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "90 |",
+        "street": "distrito adail vetorazzo",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua General Glicério, 4152 | São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "short_name": "Rio Preto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3804212,
+        "lat": -20.8125851,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "São José do Rio Preto, SP, Brazil",
+        "address_line1": "São José do Rio Preto",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JP9+XR",
+        "plus_code_short": "P9+XR São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.5842185458053665,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51405a52a4b1b048c05986b7bd9305d034c0f00101f901688d040000000000c00208",
+        "bbox": {
+          "lon1": -49.4638074,
+          "lat1": -20.932,
+          "lon2": -49.256,
+          "lat2": -20.6351046
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua General Glicério, 4152 | São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "4152",
+        "street": "|",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Benjamin Constant, 3807 | Vila Imperial, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "short_name": "Rio Preto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "iso3166_2": "BR-SP",
+        "lon": -49.3804212,
+        "lat": -20.8125851,
+        "state_code": "SP",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "São José do Rio Preto, SP, Brazil",
+        "address_line1": "São José do Rio Preto",
+        "address_line2": "SP, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG5JP9+XR",
+        "plus_code_short": "P9+XR São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.5842185458053665,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51405a52a4b1b048c05986b7bd9305d034c0f00101f901688d040000000000c00208",
+        "bbox": {
+          "lon1": -49.4638074,
+          "lat1": -20.932,
+          "lon2": -49.256,
+          "lat2": -20.6351046
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Benjamin Constant, 3807 | Vila Imperial, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "3807",
+        "street": "| vila imperial",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rod Padre Mariano de lá Mata 150": {
+    "results": [],
+    "query": {
+      "text": "Rod Padre Mariano de lá Mata 150",
+      "parsed": {
+        "housenumber": "150",
+        "street": "rod padre mariano de lá mata",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Fernando Colombo, 210 | São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Fernando Colombo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15054-622",
+        "district": "São José do Rio Preto",
+        "suburb": "Jardim Leste",
+        "street": "Rua Fernando Colombo",
+        "iso3166_2": "BR-SP",
+        "lon": -49.32402,
+        "lat": -20.7706052,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Rua Fernando Colombo, Jardim Leste, São José do Rio Preto - SP, 15054-622, Brazil",
+        "address_line1": "Rua Fernando Colombo",
+        "address_line2": "Jardim Leste, São José do Rio Preto - SP, 15054-622, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG6MHG+Q9",
+        "plus_code_short": "6MHG+Q9 São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51fd9fc37c79a948c059a620e46146c534c0f00102f9018c0a631f00000000c00204920314527561204665726e616e646f20436f6c6f6d626f",
+        "bbox": {
+          "lon1": -49.3254523,
+          "lat1": -20.7717425,
+          "lon2": -49.3225501,
+          "lat2": -20.7695242
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Fernando Colombo, 210 | São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "210 |",
+        "street": "rua fernando colombo",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Izabel Martins Arroyo, 780 | Jardim Arroyo, São José do Rio Preto - SP": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Isabel Martins Arroyo",
+        "other_names": {
+          "alt_name": "Avenida Izabel Martins Arroyo"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "São Paulo",
+        "county": "Região Metropolitana de São José do Rio Preto",
+        "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+        "city": "São José do Rio Preto",
+        "municipality": "Região Imediata de São José do Rio Preto",
+        "postcode": "15047-141",
+        "district": "São José do Rio Preto",
+        "suburb": "Jardim Maria Lucia",
+        "street": "Avenida Isabel Martins Arroyo",
+        "iso3166_2": "BR-SP",
+        "lon": -49.4037538,
+        "lat": -20.7652995,
+        "state_code": "SP",
+        "result_type": "street",
+        "formatted": "Avenida Isabel Martins Arroyo, Jardim Maria Lucia, São José do Rio Preto - SP, 15047-141, Brazil",
+        "address_line1": "Avenida Isabel Martins Arroyo",
+        "address_line2": "Jardim Maria Lucia, São José do Rio Preto - SP, 15047-141, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58FG6HMW+VF",
+        "plus_code_short": "6HMW+VF São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Brazil",
+        "rank": {
+          "importance": 0.05339768596932933,
+          "confidence": 0.375,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.75,
+          "match_type": "match_by_street"
+        },
+        "place_id": "515f515b34aeb348c059292504abeac334c0f00102f90132380f1400000000c0020492031d4176656e6964612049736162656c204d617274696e73204172726f796f",
+        "bbox": {
+          "lon1": -49.4079592,
+          "lat1": -20.7671942,
+          "lon2": -49.3993555,
+          "lat2": -20.7650405
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Izabel Martins Arroyo, 780 | Jardim Arroyo, São José do Rio Preto - SP",
+      "parsed": {
+        "housenumber": "780 |",
+        "street": "av. izabel martins arroyo",
+        "suburb": "jardim arroyo",
+        "city": "são josé do rio preto",
+        "state": "sp",
+        "expected_type": "building"
+      }
+    }
+  }
+}

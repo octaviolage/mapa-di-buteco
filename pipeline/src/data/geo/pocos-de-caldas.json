@@ -1,0 +1,1326 @@
+{
+  "Av. Hércules Frison, 1433 - Jardim Paraiso, Poços de Caldas - MG, 37713-157": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Hercules Frison",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37706-140",
+        "district": "Jardim Esperança",
+        "suburb": "Região Urbana Homogênea XII",
+        "street": "Avenida Hercules Frison",
+        "iso3166_2": "BR-MG",
+        "lon": -46.559846,
+        "lat": -21.829408,
+        "state_code": "MG",
+        "housenumber": "1433",
+        "result_type": "building",
+        "formatted": "Avenida Hercules Frison 1433, Região Urbana Homogênea XII, Poços de Caldas - MG, 37706-140, Brazil",
+        "address_line1": "Avenida Hercules Frison 1433",
+        "address_line2": "Região Urbana Homogênea XII, Poços de Caldas - MG, 37706-140, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM5CCR+63",
+        "plus_code_short": "5CCR+63 Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f165a208a94747c059700a2b1554d435c0c002039203174176656e6964612048657263756c657320467269736f6ee203266f70656e6164647265737365733a616464726573733a32356361323963383232663962633936",
+        "bbox": {
+          "lon1": -46.559639,
+          "lat1": -21.8293264,
+          "lon2": -46.5594861,
+          "lat2": -21.8291804
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Hércules Frison, 1433 - Jardim Paraiso, Poços de Caldas - MG, 37713-157",
+      "parsed": {
+        "housenumber": "1433",
+        "street": "av. hércules frison",
+        "suburb": "jardim paraiso",
+        "postcode": "37713-157",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Caetés, 64 | Vila Togni, Poços de Caldas - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "64",
+        "street": "Rua Filomena Acconcia Togni",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "37713-306",
+        "state": "Southeast",
+        "district": "Poços De Caldas",
+        "city": "Poços de Caldas",
+        "county_code": "MG",
+        "lon": -46.570309,
+        "lat": -21.833307,
+        "result_type": "building",
+        "formatted": "Rua Filomena Acconcia Togni 64, Poços de Caldas - Southeast, 37713-306, Brazil",
+        "address_line1": "Rua Filomena Acconcia Togni 64",
+        "address_line2": "Poços de Caldas - Southeast, 37713-306, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM5C8H+MV",
+        "plus_code_short": "5C8H+MV Poços de Caldas, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 0.27782999999999997,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.27782999999999997,
+          "confidence_building_level": 0.27782999999999997,
+          "match_type": "full_match"
+        },
+        "place_id": "51a7cea3e2ff4847c0592387889b53d535c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a66313035373436336432653338356136"
+      }
+    ],
+    "query": {
+      "text": "R. Caetés, 64 | Vila Togni, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "64 |",
+        "street": "vila togni",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Aníbal José dos Reis, 89 | Jardim Philadelphia, Poços de Caldas - MG": {
+    "results": [],
+    "query": {
+      "text": "R. Aníbal José dos Reis, 89 | Jardim Philadelphia, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "89 |",
+        "street": "r. aníbal josé dos reis",
+        "suburb": "jardim philadelphia",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Leonor Furlaneto Delgado, 140 | Jardim Philadelphia, Poços de Caldas - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "140",
+        "street": "Avenida Leonor Furlaneto Delgado",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "37710-300",
+        "state": "Southeast",
+        "district": "Poços De Caldas",
+        "city": "Poços de Caldas",
+        "county_code": "MG",
+        "lon": -46.515063,
+        "lat": -21.800676,
+        "result_type": "building",
+        "formatted": "Avenida Leonor Furlaneto Delgado 140, Poços de Caldas - Southeast, 37710-300, Brazil",
+        "address_line1": "Avenida Leonor Furlaneto Delgado 140",
+        "address_line2": "Poços de Caldas - Southeast, 37710-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM5FXM+PX",
+        "plus_code_short": "5FXM+PX Poços de Caldas, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5198309a95ed4147c0592db1321af9cc35c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a64666537653132666564653464363832"
+      }
+    ],
+    "query": {
+      "text": "Av. Leonor Furlaneto Delgado, 140 | Jardim Philadelphia, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "140 |",
+        "street": "av. leonor furlaneto delgado",
+        "suburb": "jardim philadelphia",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Francisco Salles, 36 | Centro, Poços de Caldas - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "36",
+        "street": "Avenida Francisco Salles",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "37701-013",
+        "state": "Southeast",
+        "district": "Poços De Caldas",
+        "city": "Poços de Caldas",
+        "county_code": "MG",
+        "lon": -46.567412,
+        "lat": -21.785786,
+        "result_type": "building",
+        "formatted": "Avenida Francisco Salles 36, Poços de Caldas - Southeast, 37701-013, Brazil",
+        "address_line1": "Avenida Francisco Salles 36",
+        "address_line2": "Poços de Caldas - Southeast, 37701-013, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C7M+M2",
+        "plus_code_short": "7M+M2 Poços de Caldas, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d1add7f4a04847c05998a7734529c935c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a39353133633564313963653932303166"
+      }
+    ],
+    "query": {
+      "text": "Avenida Francisco Salles, 36 | Centro, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "36 |",
+        "street": "avenida francisco salles",
+        "suburb": "centro",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Samuel Frazão, 5 | Jardim Amaryllis, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "iso3166_2": "BR-MG",
+        "lon": -46.5647928,
+        "lat": -21.7900318,
+        "state_code": "MG",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Poços de Caldas, MG, Brazil",
+        "address_line1": "Poços de Caldas",
+        "address_line2": "MG, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C5P+X3",
+        "plus_code_short": "5P+X3 Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.5787083669231092,
+          "confidence": 0.11511479591836736,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51158266214b4847c059cecc27863fca35c0f00101f901b3cf040000000000c00208",
+        "bbox": {
+          "lon1": -46.69,
+          "lat1": -21.9945556,
+          "lon2": -46.3985725,
+          "lat2": -21.6450347
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Samuel Frazão, 5 | Jardim Amaryllis, Poços de Caldas - MG"
+    }
+  },
+  "R. Mato Grosso, 393 | Centro, Poços de Caldas - MG": {
+    "results": [],
+    "query": {
+      "text": "R. Mato Grosso, 393 | Centro, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "393 |",
+        "street": "r. mato grosso",
+        "suburb": "centro",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. João Avelino de Melo, 285 | Conjunto Habitacional, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida João Avelino de Melo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37706-255",
+        "district": "Parque das Nações",
+        "suburb": "Região Urbana Homogênea XIII",
+        "street": "Avenida João Avelino de Melo",
+        "iso3166_2": "BR-MG",
+        "lon": -46.56955,
+        "lat": -21.848949,
+        "state_code": "MG",
+        "housenumber": "285",
+        "result_type": "building",
+        "formatted": "Avenida João Avelino de Melo 285, Região Urbana Homogênea XIII, Poços de Caldas - MG, 37706-255, Brazil",
+        "address_line1": "Avenida João Avelino de Melo 285",
+        "address_line2": "Região Urbana Homogênea XIII, Poços de Caldas - MG, 37706-255, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM5C2J+C5",
+        "plus_code_short": "5C2J+C5 Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e9b7af03e74847c059cff8beb854d935c0c0020392031d4176656e696461204a6fc3a36f204176656c696e6f206465204d656c6fe203266f70656e6164647265737365733a616464726573733a31383432373537623066363234303565",
+        "bbox": {
+          "lon1": -46.5710917,
+          "lat1": -21.8503309,
+          "lon2": -46.5666275,
+          "lat2": -21.8459215
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. João Avelino de Melo, 285 | Conjunto Habitacional, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "285",
+        "street": "av. joão avelino de melo",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Camerino Nogueira da Silva, 15 | Parque Primavera, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Camerino Nogueira da Silva",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37704-110",
+        "suburb": "Região Urbana Homogênea XXI",
+        "street": "Rua Camerino Nogueira da Silva",
+        "iso3166_2": "BR-MG",
+        "lon": -46.535232,
+        "lat": -21.787923,
+        "state_code": "MG",
+        "housenumber": "15",
+        "result_type": "building",
+        "formatted": "Rua Camerino Nogueira da Silva 15, Região Urbana Homogênea XXI, Poços de Caldas - MG, 37704-110, Brazil",
+        "address_line1": "Rua Camerino Nogueira da Silva 15",
+        "address_line2": "Região Urbana Homogênea XXI, Poços de Caldas - MG, 37704-110, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6F67+RW",
+        "plus_code_short": "6F67+RW Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51e7e26f7b824447c05926c45c52b5c935c0c0020392031e5275612043616d6572696e6f204e6f6775656972612064612053696c7661e203266f70656e6164647265737365733a616464726573733a36336130366335323965393264643339",
+        "bbox": {
+          "lon1": -46.5357753,
+          "lat1": -21.7888097,
+          "lon2": -46.5324438,
+          "lat2": -21.7877214
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Camerino Nogueira da Silva, 15 | Parque Primavera, Poços de Caldas - MG",
+      "parsed": {
+        "house": "| parque primavera",
+        "housenumber": "15",
+        "street": "r. camerino nogueira da silva",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Nicarágua, 109 | Jardim Bela Vista, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Nicaraguá",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37701-222",
+        "suburb": "Jardim Bela Vista",
+        "street": "Rua Nicaraguá",
+        "iso3166_2": "BR-MG",
+        "lon": -46.5660738,
+        "lat": -21.7957002,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Nicaraguá, Jardim Bela Vista, Poços de Caldas - MG, 37701-222, Brazil",
+        "address_line1": "Rua Nicaraguá",
+        "address_line2": "Jardim Bela Vista, Poços de Caldas - MG, 37701-222, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C3M+PH",
+        "plus_code_short": "3M+PH Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ac0f351b754847c059b06b2002b3cb35c0f00102f901b32bb00700000000c0020492030e527561204e69636172616775c3a1",
+        "bbox": {
+          "lon1": -46.5667283,
+          "lat1": -21.7959313,
+          "lon2": -46.56545,
+          "lat2": -21.7956989
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Nicarágua, 109 | Jardim Bela Vista, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "109 |",
+        "street": "r. nicarágua",
+        "suburb": "jardim bela vista",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Justina Vieira de Oliveira, 320 | Santa Ângela, Poços de Caldas - MG": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37701-039",
+        "suburb": "Região Urbana Homogênea VIII",
+        "street": "Rua Justina Vieira de Oliveira",
+        "other_names": {
+          "name": "Rua Justina Vieira de Oliveira",
+          "name:pt": "Rua Justina Vieira de Oliveira",
+          "old_name": "Rua Dois"
+        },
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "MG",
+        "lon": -46.5775611,
+        "lat": -21.7988297,
+        "housenumber": "320",
+        "result_type": "building",
+        "name": "Rua Justina Vieira de Oliveira",
+        "old_name": "Rua Dois",
+        "iso3166_2": "BR-MG",
+        "formatted": "Rua Justina Vieira de Oliveira 320, Região Urbana Homogênea VIII, Poços de Caldas - MG, 37701-039, Brazil",
+        "address_line1": "Rua Justina Vieira de Oliveira 320",
+        "address_line2": "Região Urbana Homogênea VIII, Poços de Caldas - MG, 37701-039, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C2C+FX",
+        "plus_code_short": "6C2C+FX Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "match_by_building"
+        },
+        "place_id": "518cf8a985ed4947c059d0926c1a80cc35c0f00102f9019074bb0700000000c0020392031e527561204a757374696e6120566965697261206465204f6c697665697261",
+        "bbox": {
+          "lon1": -46.578058,
+          "lat1": -21.7994994,
+          "lon2": -46.5770642,
+          "lat2": -21.7981601
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Justina Vieira de Oliveira, 320 | Santa Ângela, Poços de Caldas - MG",
+      "parsed": {
+        "house": "| santa ângela",
+        "housenumber": "320",
+        "street": "r. justina vieira de oliveira",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. Jadir Vieira, 30 | Região Urbana Homogênea, Poços de Caldas - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "30",
+        "street": "Avenida Jadir Vieira",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "37713-001",
+        "state": "Southeast",
+        "district": "Poços De Caldas",
+        "city": "Poços de Caldas",
+        "county_code": "MG",
+        "lon": -46.57169,
+        "lat": -21.833258,
+        "result_type": "building",
+        "formatted": "Avenida Jadir Vieira 30, Poços de Caldas - Southeast, 37713-001, Brazil",
+        "address_line1": "Avenida Jadir Vieira 30",
+        "address_line2": "Poços de Caldas - Southeast, 37713-001, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM5C8H+M8",
+        "plus_code_short": "5C8H+M8 Poços de Caldas, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1b94e232d4947c0596021736550d535c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a65386635623866623465646230643337"
+      }
+    ],
+    "query": {
+      "text": "Av. Jadir Vieira, 30 | Região Urbana Homogênea, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "30 |",
+        "street": "av. jadir vieira",
+        "suburb": "região urbana homogênea",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Israel, 200 | Parque das Nações, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Israel",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37706-189",
+        "district": "Parque das Nações",
+        "suburb": "Região Urbana Homogênea XIII",
+        "street": "Rua Israel",
+        "iso3166_2": "BR-MG",
+        "lon": -46.5635864,
+        "lat": -21.8484108,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Israel, Região Urbana Homogênea XIII, Parque das Nações, Poços de Caldas - MG, 37706-189, Brazil",
+        "address_line1": "Rua Israel",
+        "address_line2": "Região Urbana Homogênea XIII, Parque das Nações, Poços de Caldas - MG, 37706-189, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM5C2P+JH",
+        "plus_code_short": "5C2P+JH Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51353c6299234847c059bd923f7331d935c0f00102f9017545bc0700000000c0020492030a5275612049737261656c",
+        "bbox": {
+          "lon1": -46.5639451,
+          "lat1": -21.8507843,
+          "lon2": -46.5632236,
+          "lat2": -21.8460367
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Israel, 200 | Parque das Nações, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "200 |",
+        "street": "r. israel",
+        "suburb": "parque das nações",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da Saudade, 270 | Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua da Saudade",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37701-368",
+        "suburb": "Região Urbana Homogênea VI",
+        "street": "Rua da Saudade",
+        "iso3166_2": "BR-MG",
+        "lon": -46.5811146,
+        "lat": -21.7870984,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua da Saudade, Região Urbana Homogênea VI, Poços de Caldas - MG, 37701-368, Brazil",
+        "address_line1": "Rua da Saudade",
+        "address_line2": "Região Urbana Homogênea VI, Poços de Caldas - MG, 37701-368, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C79+5H",
+        "plus_code_short": "6C79+5H Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51331d95f6614a47c059e3bbde477fc935c0f00102f901bec1b70700000000c0020492030e5275612064612053617564616465",
+        "bbox": {
+          "lon1": -46.5823357,
+          "lat1": -21.7874244,
+          "lon2": -46.5809801,
+          "lat2": -21.7857114
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da Saudade, 270 | Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "270 |",
+        "street": "rua da saudade",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Fanny de Carvalho Prata, 547 | Jardim São Paulo, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Fanny de Carvalho Prata",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37704-074",
+        "suburb": "Jardim São Paulo",
+        "street": "Rua Fanny de Carvalho Prata",
+        "iso3166_2": "BR-MG",
+        "lon": -46.5502778,
+        "lat": -21.7966538,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Fanny de Carvalho Prata, Jardim São Paulo, Poços de Caldas - MG, 37704-074, Brazil",
+        "address_line1": "Rua Fanny de Carvalho Prata",
+        "address_line2": "Jardim São Paulo, Poços de Caldas - MG, 37704-074, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C3X+8V",
+        "plus_code_short": "3X+8V Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51805bc1806f4647c059f03be180f1cb35c0f00102f901def8a82b00000000c0020492031b5275612046616e6e792064652043617276616c686f205072617461",
+        "bbox": {
+          "lon1": -46.5511084,
+          "lat1": -21.7989179,
+          "lon2": -46.549394,
+          "lat2": -21.7943718
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Fanny de Carvalho Prata, 547 | Jardim São Paulo, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "547 |",
+        "street": "r. fanny de carvalho prata",
+        "suburb": "jardim são paulo",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Guaicurus, 532 | Vila Togni, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "iso3166_2": "BR-MG",
+        "lon": -46.5647928,
+        "lat": -21.7900318,
+        "state_code": "MG",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Poços de Caldas, MG, Brazil",
+        "address_line1": "Poços de Caldas",
+        "address_line2": "MG, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C5P+X3",
+        "plus_code_short": "5P+X3 Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.5787083669231092,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51158266214b4847c059cecc27863fca35c0f00101f901b3cf040000000000c00208",
+        "bbox": {
+          "lon1": -46.69,
+          "lat1": -21.9945556,
+          "lon2": -46.3985725,
+          "lat2": -21.6450347
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Guaicurus, 532 | Vila Togni, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "532",
+        "street": "| vila togni",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Magda Pinto Amarante, 132 | Jardim das Hortênsias, Poços de Caldas - MG": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37706-106",
+        "suburb": "Região Urbana Homogênea XX",
+        "street": "Avenida Professora Magda Pinto Amarante",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "MG",
+        "lon": -46.545725,
+        "lat": -21.807734,
+        "housenumber": "132",
+        "result_type": "building",
+        "formatted": "Avenida Professora Magda Pinto Amarante 132, Região Urbana Homogênea XX, Poços de Caldas - MG, 37706-106, Brazil",
+        "address_line1": "Avenida Professora Magda Pinto Amarante 132",
+        "address_line2": "Região Urbana Homogênea XX, Poços de Caldas - MG, 37706-106, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM5FR3+WP",
+        "plus_code_short": "5FR3+WP Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "iso3166_2": "BR-MG",
+        "rank": {
+          "confidence": 0.81,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "confidence_building_level": 0.81,
+          "match_type": "full_match"
+        },
+        "place_id": "5107ce1951da4547c05905dec9a7c7ce35c0c00203e203266f70656e6164647265737365733a616464726573733a37346239356464373434323265336338",
+        "bbox": {
+          "lon1": -46.5510407,
+          "lat1": -21.8144083,
+          "lon2": -46.5445154,
+          "lat2": -21.8107656
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Magda Pinto Amarante, 132 | Jardim das Hortênsias, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "132",
+        "street": "av. magda pinto amarante",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Vereador João de Siqueira Loyola, 423 | Jardim Campos Elísios, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Vereador João de Siqueira Loyola",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37706-019",
+        "suburb": "Estância Poços de Caldas",
+        "street": "Rua Vereador João de Siqueira Loyola",
+        "iso3166_2": "BR-MG",
+        "lon": -46.505463,
+        "lat": -21.800802,
+        "state_code": "MG",
+        "housenumber": "423",
+        "result_type": "building",
+        "formatted": "Rua Vereador João de Siqueira Loyola 423, Estância Poços de Caldas, Poços de Caldas - MG, 37706-019, Brazil",
+        "address_line1": "Rua Vereador João de Siqueira Loyola 423",
+        "address_line2": "Estância Poços de Caldas, Poços de Caldas - MG, 37706-019, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM5FXV+MR",
+        "plus_code_short": "5FXV+MR Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51452bf702b34047c0594792205c01cd35c0c00203920325527561205665726561646f72204a6fc3a36f206465205369717565697261204c6f796f6c61e203266f70656e6164647265737365733a616464726573733a62613336383737363463643161316332",
+        "bbox": {
+          "lon1": -46.5142282,
+          "lat1": -21.8012489,
+          "lon2": -46.5039788,
+          "lat2": -21.798996
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Vereador João de Siqueira Loyola, 423 | Jardim Campos Elísios, Poços de Caldas - MG",
+      "parsed": {
+        "house": "| jardim campos elísios",
+        "housenumber": "423",
+        "street": "r. vereador joão de siqueira loyola",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. José Marcondes da Fonseca, 105 | Santa Maria, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "iso3166_2": "BR-MG",
+        "lon": -46.5647928,
+        "lat": -21.7900318,
+        "state_code": "MG",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Poços de Caldas, MG, Brazil",
+        "address_line1": "Poços de Caldas",
+        "address_line2": "MG, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C5P+X3",
+        "plus_code_short": "5P+X3 Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.5787083669231092,
+          "confidence": 0.7230769230769231,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51158266214b4847c059cecc27863fca35c0f00101f901b3cf040000000000c00208",
+        "bbox": {
+          "lon1": -46.69,
+          "lat1": -21.9945556,
+          "lon2": -46.3985725,
+          "lat2": -21.6450347
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Marcondes da Fonseca, 105 | Santa Maria, Poços de Caldas - MG"
+    }
+  },
+  "Rua Assis Figueiredo, 1945 | Centro, Poços de Caldas - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "1945",
+        "street": "Rua Assis Figueiredo",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "37701-000",
+        "state": "Southeast",
+        "district": "Poços De Caldas",
+        "city": "Poços de Caldas",
+        "county_code": "MG",
+        "lon": -46.567548,
+        "lat": -21.795793,
+        "result_type": "building",
+        "formatted": "Rua Assis Figueiredo 1945, Poços de Caldas - Southeast, 37701-000, Brazil",
+        "address_line1": "Rua Assis Figueiredo 1945",
+        "address_line2": "Poços de Caldas - Southeast, 37701-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C3J+MX",
+        "plus_code_short": "3J+MX Poços de Caldas, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "518274b169a54847c059bf620d17b9cb35c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a65626366333035383835386133376636"
+      }
+    ],
+    "query": {
+      "text": "Rua Assis Figueiredo, 1945 | Centro, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "1945 |",
+        "street": "rua assis figueiredo",
+        "suburb": "centro",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. João Pinheiro, 618 | Centro, Poços de Caldas - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "618",
+        "street": "Avenida Joao Pinheiro",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "37701-386",
+        "state": "Southeast",
+        "district": "Poços De Caldas",
+        "city": "Poços de Caldas",
+        "county_code": "MG",
+        "lon": -46.578542,
+        "lat": -21.785432,
+        "result_type": "building",
+        "formatted": "Avenida Joao Pinheiro 618, Poços de Caldas - Southeast, 37701-386, Brazil",
+        "address_line1": "Avenida Joao Pinheiro 618",
+        "address_line2": "Poços de Caldas - Southeast, 37701-386, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C7C+RH",
+        "plus_code_short": "6C7C+RH Poços de Caldas, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5164ae0caa0d4a47c0595c3b511212c935c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a33643939353865363764626264656634"
+      }
+    ],
+    "query": {
+      "text": "Av. João Pinheiro, 618 | Centro, Poços de Caldas - MG",
+      "parsed": {
+        "housenumber": "618 |",
+        "street": "av. joão pinheiro",
+        "suburb": "centro",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Santo Antônio, 16 | Jardim Cascatinha, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Santo Antônio",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37701-147",
+        "suburb": "Região Urbana Homogênea XV",
+        "street": "Avenida Santo Antônio",
+        "iso3166_2": "BR-MG",
+        "lon": -46.564038,
+        "lat": -21.790813,
+        "state_code": "MG",
+        "housenumber": "16",
+        "result_type": "building",
+        "formatted": "Avenida Santo Antônio 16, Região Urbana Homogênea XV, Poços de Caldas - MG, 37701-147, Brazil",
+        "address_line1": "Avenida Santo Antônio 16",
+        "address_line2": "Região Urbana Homogênea XV, Poços de Caldas - MG, 37701-147, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C5P+M9",
+        "plus_code_short": "5P+M9 Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51c2d9ad65324847c0596c4084b872ca35c0c002039203164176656e6964612053616e746f20416e74c3b46e696fe203266f70656e6164647265737365733a616464726573733a63656331666264613561636466343962",
+        "bbox": {
+          "lon1": -46.5642986,
+          "lat1": -21.7957233,
+          "lon2": -46.5609261,
+          "lat2": -21.7904536
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Santo Antônio, 16 | Jardim Cascatinha, Poços de Caldas - MG",
+      "parsed": {
+        "house": "| jardim cascatinha",
+        "housenumber": "16",
+        "street": "av. santo antônio",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Professora Nicolina Bernardo, 495 | Jardim Santa Augusta, Poços de Caldas - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Professora Nicolina Bernardo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Pouso Alegre",
+        "city": "Poços de Caldas",
+        "municipality": "Região Geográfica Imediata de Poços de Caldas",
+        "postcode": "37701-039",
+        "suburb": "Região Urbana Homogênea VIII",
+        "street": "Rua Professora Nicolina Bernardo",
+        "iso3166_2": "BR-MG",
+        "lon": -46.575874,
+        "lat": -21.794392,
+        "state_code": "MG",
+        "housenumber": "495",
+        "result_type": "building",
+        "formatted": "Rua Professora Nicolina Bernardo 495, Região Urbana Homogênea VIII, Poços de Caldas - MG, 37701-039, Brazil",
+        "address_line1": "Rua Professora Nicolina Bernardo 495",
+        "address_line2": "Região Urbana Homogênea VIII, Poços de Caldas - MG, 37701-039, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CM6C4F+6M",
+        "plus_code_short": "4F+6M Poços de Caldas, Região Geográfica Intermediária de Pouso Alegre, Brazil",
+        "rank": {
+          "importance": 0.053386902418554934,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51f04e3e3db64947c0593b342c465dcb35c0c002039203205275612050726f666573736f7261204e69636f6c696e61204265726e6172646fe203266f70656e6164647265737365733a616464726573733a33386361303664363061653666663031",
+        "bbox": {
+          "lon1": -46.5761168,
+          "lat1": -21.7945847,
+          "lon2": -46.5757112,
+          "lat2": -21.7942414
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Professora Nicolina Bernardo, 495 | Jardim Santa Augusta, Poços de Caldas - MG",
+      "parsed": {
+        "house": "| jardim santa augusta",
+        "housenumber": "495",
+        "street": "r. professora nicolina bernardo",
+        "city": "poços de caldas",
+        "state": "mg",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

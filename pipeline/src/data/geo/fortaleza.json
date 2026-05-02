@@ -1,0 +1,1270 @@
+{
+  "R. General Clarindo de Queiroz | Centro, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua General Clarindo de Queiroz",
+        "other_names": {
+          "alt_name": "Rua Clarindo de Queiroz",
+          "name": "Rua General Clarindo de Queiroz",
+          "name:pt": "Rua General Clarindo de Queiroz"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60035-161",
+        "suburb": "Centre",
+        "street": "Rua General Clarindo de Queiroz",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5368167,
+        "lat": -3.7305628,
+        "state_code": "CE",
+        "result_type": "street",
+        "formatted": "Rua General Clarindo de Queiroz, Centre, Fortaleza - CE, 60035-161, Brazil",
+        "address_line1": "Rua General Clarindo de Queiroz",
+        "address_line2": "Centre, Fortaleza - CE, 60035-161, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837F97+Q7",
+        "plus_code_short": "97+Q7 Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 0.05340152056153197,
+          "confidence": 0.63,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.63,
+          "match_type": "full_match"
+        },
+        "place_id": "512c39dd68b64443c059bd642d4f31d80dc0f00102f90157dffe2900000000c0020492031f5275612047656e6572616c20436c6172696e646f2064652051756569726f7a",
+        "bbox": {
+          "lon1": -38.540108,
+          "lat1": -3.7316373,
+          "lon2": -38.5335362,
+          "lat2": -3.729523
+        }
+      }
+    ],
+    "query": {
+      "text": "R. General Clarindo de Queiroz | Centro, Fortaleza - CE",
+      "parsed": {
+        "street": "r. general clarindo de queiroz |",
+        "suburb": "centro",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "street"
+      }
+    }
+  },
+  "R. Padre Mororó, 1012 | Centro, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar o Camocim",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60010-100",
+        "suburb": "Centre",
+        "street": "Rua Padre Mororó",
+        "housenumber": "1012",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5376141,
+        "lat": -3.7255516,
+        "state_code": "CE",
+        "result_type": "amenity",
+        "formatted": "Bar o Camocim, Rua Padre Mororó 1012, Centre, Fortaleza - CE, 60010-100, Brazil",
+        "address_line1": "Bar o Camocim",
+        "address_line2": "Rua Padre Mororó 1012, Centre, Fortaleza - CE, 60010-100, Brazil",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837FF6+QX",
+        "plus_code_short": "F6+QX Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 6.818722819862695e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "512aaff089d04443c059da7b4cffedcd0dc0f00103f90144a3579401000000c0020192030d426172206f2043616d6f63696d",
+        "bbox": {
+          "lon1": -38.5376641,
+          "lat1": -3.7256016,
+          "lon2": -38.5375641,
+          "lat2": -3.7255016
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Padre Mororó, 1012 | Centro, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "1012 |",
+        "street": "r. padre mororó",
+        "suburb": "centro",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Bento Gonçalves, 703 - Loja 07 | Novo Mondubim, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60763-832",
+        "suburb": "Novo Mondubim",
+        "street": "Rua Bento Gonçalves",
+        "housenumber": "703",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5869959,
+        "lat": -3.8114694,
+        "state_code": "CE",
+        "result_type": "building",
+        "formatted": "Rua Bento Gonçalves 703, Novo Mondubim, Fortaleza - CE, 60763-832, Brazil",
+        "address_line1": "Rua Bento Gonçalves 703",
+        "address_line2": "Novo Mondubim, Fortaleza - CE, 60763-832, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69835CQ7+C6",
+        "plus_code_short": "5CQ7+C6 Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 6.818722819862695e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516bb180ae224b43c05950a335abe37d0ec0f00102f9010340244200000000c00203",
+        "bbox": {
+          "lon1": -38.5871192,
+          "lat1": -3.8115743,
+          "lon2": -38.5868726,
+          "lat2": -3.8113646
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Bento Gonçalves, 703 - Loja 07 | Novo Mondubim, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "703",
+        "street": "rua bento gonçalves",
+        "suburb": "novo mondubim",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Alameda das Begônias, 202 - Casa | Cidade 2000, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60190-140",
+        "suburb": "Cidade 2000",
+        "street": "Alameda das Begônias",
+        "housenumber": "202",
+        "iso3166_2": "BR-CE",
+        "lon": -38.4730289,
+        "lat": -3.7488093,
+        "state_code": "CE",
+        "result_type": "building",
+        "formatted": "Alameda das Begônias 202, Cidade 2000, Fortaleza - CE, 60190-140, Brazil",
+        "address_line1": "Alameda das Begônias 202",
+        "address_line2": "Cidade 2000, Fortaleza - CE, 60190-140, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837G2G+FQ",
+        "plus_code_short": "7G2G+FQ Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 6.818722819862695e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "510cc803368c3c43c0597586f3ba8ffd0dc0f00103f901dfb9843502000000c00203",
+        "bbox": {
+          "lon1": -38.4730789,
+          "lat1": -3.7488593,
+          "lon2": -38.4729789,
+          "lat2": -3.7487593
+        }
+      }
+    ],
+    "query": {
+      "text": "Alameda das Begônias, 202 - Casa | Cidade 2000, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "202",
+        "street": "alameda das begônias",
+        "suburb": "cidade 2000",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Beira Mar, 4436 - Lojas 7/8 | Meireles, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "suburb": "Meireles",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5003721,
+        "lat": -3.7278218,
+        "state_code": "CE",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Meireles, Fortaleza, CE, Brazil",
+        "address_line1": "Meireles",
+        "address_line2": "Fortaleza, CE, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837FCX+VV",
+        "plus_code_short": "7FCX+VV Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 0.1467348538948653,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "5159aa66310c4043c059de86623c94d20dc0f00101f901e842540000000000c00205",
+        "bbox": {
+          "lon1": -38.5138993,
+          "lat1": -3.7359608,
+          "lon2": -38.4885745,
+          "lat2": -3.718679
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Beira Mar, 4436 - Lojas 7/8 | Meireles, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "7/8 |",
+        "street": "lojas",
+        "suburb": "meireles",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Sousa Girão, 133 | José Bonifácio, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60055-370",
+        "suburb": "José Bonifácio",
+        "street": "Rua Sousa Girão",
+        "housenumber": "133",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5250376,
+        "lat": -3.741446,
+        "state_code": "CE",
+        "result_type": "building",
+        "formatted": "Rua Sousa Girão 133, José Bonifácio, Fortaleza - CE, 60055-370, Brazil",
+        "address_line1": "Rua Sousa Girão 133",
+        "address_line2": "José Bonifácio, Fortaleza - CE, 60055-370, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837F5F+CX",
+        "plus_code_short": "7F5F+CX Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 6.818722819862695e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51cd959c6e344343c05908008e3d7bee0dc0f00102f9014f9f024200000000c00203",
+        "bbox": {
+          "lon1": -38.5251244,
+          "lat1": -3.741499,
+          "lon2": -38.5249375,
+          "lat2": -3.7413946
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Sousa Girão, 133 | José Bonifácio, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "133 |",
+        "street": "rua sousa girão",
+        "suburb": "josé bonifácio",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Pescador João Santana, 49 | Mucuripe, Fortaleza - CE": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60181-250",
+        "suburb": "Vicente Pinzón",
+        "street": "Rua Pescador João Santana",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "CE",
+        "lon": -38.4742606,
+        "lat": -3.7268959,
+        "result_type": "street",
+        "formatted": "Rua Pescador João Santana, Vicente Pinzón, Fortaleza - CE, 60181-250, Brazil",
+        "address_line1": "Rua Pescador João Santana",
+        "address_line2": "Vicente Pinzón, Fortaleza - CE, 60181-250, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837GFG+67",
+        "plus_code_short": "7GFG+67 Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "iso3166_2": "BR-CE",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5103644392b43c43c0599bc530ccaed00dc0f00102f901bed6860900000000c00204",
+        "bbox": {
+          "lon1": -38.4748091,
+          "lat1": -3.7269458,
+          "lon2": -38.473767,
+          "lat2": -3.7266327
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Pescador João Santana, 49 | Mucuripe, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "49 | mucuripe",
+        "street": "rua pescador joão santana",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Bélgica, 1050 - A | Maraponga, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Bélgica",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60710-790",
+        "suburb": "Maraponga",
+        "street": "Rua Bélgica",
+        "iso3166_2": "BR-CE",
+        "lon": -38.566207,
+        "lat": -3.790868,
+        "state_code": "CE",
+        "housenumber": "1050",
+        "result_type": "building",
+        "formatted": "Rua Bélgica 1050, Maraponga, Fortaleza - CE, 60710-790, Brazil",
+        "address_line1": "Rua Bélgica 1050",
+        "address_line2": "Maraponga, Fortaleza - CE, 60710-790, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69836C5M+MG",
+        "plus_code_short": "6C5M+MG Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 0.05340152056153197,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5115e29178794843c059999f1b9ab2530ec0c0020392030c5275612042c3a96c67696361e203266f70656e6164647265737365733a616464726573733a30396161313362386665336532396335",
+        "bbox": {
+          "lon1": -38.5666003,
+          "lat1": -3.7919935,
+          "lon2": -38.5654597,
+          "lat2": -3.7882516
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Bélgica, 1050 - A | Maraponga, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "1050",
+        "street": "r. bélgica",
+        "suburb": "maraponga",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua dos Tabajaras, 542 | Praia de Iracema, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60060-510",
+        "suburb": "Praia de Iracema",
+        "street": "Rua dos Tabajaras",
+        "housenumber": "542",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5150068,
+        "lat": -3.7197786,
+        "state_code": "CE",
+        "result_type": "building",
+        "formatted": "Rua dos Tabajaras 542, Praia de Iracema, Fortaleza - CE, 60060-510, Brazil",
+        "address_line1": "Rua dos Tabajaras 542",
+        "address_line2": "Praia de Iracema, Fortaleza - CE, 60060-510, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837FJM+3X",
+        "plus_code_short": "7FJM+3X Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 2.8699931334355954e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51db9b29beeb4143c059a5e25a481bc20dc0f00102f9017daf654000000000c00203",
+        "bbox": {
+          "lon1": -38.515072,
+          "lat1": -3.719921,
+          "lon2": -38.5149417,
+          "lat2": -3.719636
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua dos Tabajaras, 542 | Praia de Iracema, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "542 |",
+        "street": "rua dos tabajaras",
+        "suburb": "praia de iracema",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Recanto Tranquilo, 310 | Itaperi, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60714-350",
+        "suburb": "Itaperi",
+        "street": "Rua Recanto Tranquilo",
+        "housenumber": "310",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5456745,
+        "lat": -3.7916955,
+        "state_code": "CE",
+        "result_type": "building",
+        "formatted": "Rua Recanto Tranquilo 310, Itaperi, Fortaleza - CE, 60714-350, Brazil",
+        "address_line1": "Rua Recanto Tranquilo 310",
+        "address_line2": "Itaperi, Fortaleza - CE, 60714-350, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69836F53+8P",
+        "plus_code_short": "6F53+8P Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 6.818722819862695e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516de179a9d84543c059791f477364550ec0f00102f901fd79744500000000c00203",
+        "bbox": {
+          "lon1": -38.5457701,
+          "lat1": -3.7917485,
+          "lon2": -38.5455789,
+          "lat2": -3.7916422
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Recanto Tranquilo, 310 | Itaperi, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "310 |",
+        "street": "rua recanto tranquilo",
+        "suburb": "itaperi",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Carlos Juaçaba, 0  | Maraponga, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Carlos Juaçaba",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60710-715",
+        "suburb": "Maraponga",
+        "street": "Rua Carlos Juaçaba",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5611182,
+        "lat": -3.789331,
+        "state_code": "CE",
+        "result_type": "street",
+        "formatted": "Rua Carlos Juaçaba, Maraponga, Fortaleza - CE, 60710-715, Brazil",
+        "address_line1": "Rua Carlos Juaçaba",
+        "address_line2": "Maraponga, Fortaleza - CE, 60710-715, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69836C6Q+7H",
+        "plus_code_short": "6C6Q+7H Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 0.05340152056153197,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "515f189fb8d24743c05976c075c58c500ec0f00102f90124986b0900000000c00204920313527561204361726c6f73204a7561c3a7616261",
+        "bbox": {
+          "lon1": -38.5618916,
+          "lat1": -3.7913604,
+          "lon2": -38.5603465,
+          "lat2": -3.7873009
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Carlos Juaçaba, 0  | Maraponga, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "0 |",
+        "street": "rua carlos juaçaba",
+        "suburb": "maraponga",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Isaie Boris, 383 | Montese, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60410-160",
+        "suburb": "Montese",
+        "street": "Rua Isaie Bóris",
+        "housenumber": "383",
+        "iso3166_2": "BR-CE",
+        "lon": -38.548697,
+        "lat": -3.7672938,
+        "state_code": "CE",
+        "result_type": "building",
+        "formatted": "Rua Isaie Bóris 383, Montese, Fortaleza - CE, 60410-160, Brazil",
+        "address_line1": "Rua Isaie Bóris 383",
+        "address_line2": "Montese, Fortaleza - CE, 60410-160, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69836FM2+3G",
+        "plus_code_short": "6FM2+3G Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 6.818722819862695e-05,
+          "confidence": 0.7619047619047619,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e7340bb43b4643c05976638bee6a230ec0f00101f901e48ef00000000000c00203",
+        "bbox": {
+          "lon1": -38.5487776,
+          "lat1": -3.7674133,
+          "lon2": -38.5486156,
+          "lat2": -3.7671769
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Isaie Boris, 383 | Montese, Fortaleza - CE"
+    }
+  },
+  "Rua Monsenhor Agostinho, 823 | Vila Peri, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60730-182",
+        "suburb": "Vila Peri",
+        "street": "Rua Monsenhor Agostinho",
+        "housenumber": "823",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5854568,
+        "lat": -3.7903302,
+        "state_code": "CE",
+        "result_type": "building",
+        "formatted": "Rua Monsenhor Agostinho 823, Vila Peri, Fortaleza - CE, 60730-182, Brazil",
+        "address_line1": "Rua Monsenhor Agostinho 823",
+        "address_line2": "Vila Peri, Fortaleza - CE, 60730-182, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69836C57+VR",
+        "plus_code_short": "6C57+VR Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 6.818722819862695e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51449c983ff04a43c0594154d0a398520ec0f00102f901f0ec394500000000c00203",
+        "bbox": {
+          "lon1": -38.5855457,
+          "lat1": -3.7904329,
+          "lon2": -38.5853525,
+          "lat2": -3.790242
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Monsenhor Agostinho, 823 | Vila Peri, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "823 |",
+        "street": "rua monsenhor agostinho",
+        "suburb": "vila peri",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Monsenhor Tabosa, 1039 | Meireles, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Monsenhor Tabosa",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60165-068",
+        "suburb": "Meireles",
+        "street": "Avenida Monsenhor Tabosa",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5068199,
+        "lat": -3.7243739,
+        "state_code": "CE",
+        "result_type": "street",
+        "formatted": "Avenida Monsenhor Tabosa, Meireles, Fortaleza - CE, 60165-068, Brazil",
+        "address_line1": "Avenida Monsenhor Tabosa",
+        "address_line2": "Meireles, Fortaleza - CE, 60165-068, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837FGV+77",
+        "plus_code_short": "7FGV+77 Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 0.05340152056153197,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5123bb7779df4043c059989b148b84cb0dc0f00102f9011f14023100000000c002049203184176656e696461204d6f6e73656e686f72205461626f7361",
+        "bbox": {
+          "lon1": -38.5091544,
+          "lat1": -3.7245259,
+          "lon2": -38.504486,
+          "lat2": -3.7242332
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Monsenhor Tabosa, 1039 | Meireles, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "1039 |",
+        "street": "av. monsenhor tabosa",
+        "suburb": "meireles",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Deputado Federal Januário Feitosa, 430 - C1 | Sabiaguaba, Fortaleza - CE": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "430",
+        "street": "Avenida Deputado Joaquim De Figueiredo Correia",
+        "country": "Brazil",
+        "county": "Fortaleza",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "60822-360",
+        "state": "Ceara",
+        "state_code": "CE",
+        "district": "Messejana",
+        "city": "Messejana",
+        "lon": -38.494263,
+        "lat": -3.801676,
+        "result_type": "building",
+        "formatted": "Avenida Deputado Joaquim De Figueiredo Correia 430, Messejana - CE, 60822-360, Brazil",
+        "address_line1": "Avenida Deputado Joaquim De Figueiredo Correia 430",
+        "address_line2": "Messejana - CE, 60822-360, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69835GX4+87",
+        "iso3166_2": "BR-CE",
+        "rank": {
+          "confidence": 0.16666666666666666,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.16666666666666666,
+          "confidence_building_level": 0.16666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "51b94f8e02443f43c0599fe74f1bd5690ec0c00203e203466f70656e6164647265737365733a616464726573733a62722f63652f7374617465776964652d6164647265737365732d73746174653a65623962363430316362313932396264"
+      }
+    ],
+    "query": {
+      "text": "Av. Deputado Federal Januário Feitosa, 430 - C1 | Sabiaguaba, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "430",
+        "street": "av. deputado federal januário feitosa",
+        "suburb": "sabiaguaba",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Padre Ambrósio Machado, 357 | Vila União, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Padre Ambrósio Machado",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60410-312",
+        "suburb": "Parreão",
+        "street": "Rua Padre Ambrósio Machado",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5391469,
+        "lat": -3.7610898,
+        "state_code": "CE",
+        "result_type": "street",
+        "formatted": "Rua Padre Ambrósio Machado, Parreão, Fortaleza - CE, 60410-312, Brazil",
+        "address_line1": "Rua Padre Ambrósio Machado",
+        "address_line2": "Parreão, Fortaleza - CE, 60410-312, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69836FQ6+H8",
+        "plus_code_short": "6FQ6+H8 Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 0.05340152056153197,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b19effc3024543c059af8dc23fb6160ec0f00102f901cc6ef00200000000c0020492031b52756120506164726520416d6272c3b373696f204d61636861646f",
+        "bbox": {
+          "lon1": -38.5424221,
+          "lat1": -3.7620834,
+          "lon2": -38.5358647,
+          "lat2": -3.760073
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Padre Ambrósio Machado, 357 | Vila União, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "357 |",
+        "street": "rua padre ambrósio machado",
+        "suburb": "vila união",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Olavo Bilac, 1032 | Álvaro Weyne, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Olavo Bilac",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60870-095",
+        "suburb": "Conjunto Palmeiras",
+        "street": "Rua Olavo Bilac",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5252784,
+        "lat": -3.8393203,
+        "state_code": "CE",
+        "result_type": "street",
+        "formatted": "Rua Olavo Bilac, Conjunto Palmeiras, Fortaleza - CE, 60870-095, Brazil",
+        "address_line1": "Rua Olavo Bilac",
+        "address_line2": "Conjunto Palmeiras, Fortaleza - CE, 60870-095, Brazil",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69835F6F+7V",
+        "plus_code_short": "5F6F+7V Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 0.05340152056153197,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c9a596523c4343c05986f3ba8fedb60ec0f00102f901ca81dd1000000000c0020492030f527561204f6c61766f2042696c6163",
+        "bbox": {
+          "lon1": -38.5257934,
+          "lat1": -3.8399139,
+          "lon2": -38.5247498,
+          "lat2": -3.8387392
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Olavo Bilac, 1032 | Álvaro Weyne, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "1032 |",
+        "street": "r. olavo bilac",
+        "suburb": "álvaro weyne",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Professor Costa Mendes, 266 | Bom Futuro, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "فورتاليزا",
+          "name:be": "Фарталеза",
+          "name:bg": "Форталеза",
+          "name:bn": "ফর্তালিজা",
+          "name:ce": "Форталеза",
+          "name:el": "Φορταλέζα",
+          "name:eo": "Fortalezo",
+          "name:fa": "فرتالیزا",
+          "name:he": "פורטלזה",
+          "name:hy": "Ֆորտալեզա",
+          "name:ja": "フォルタレザ",
+          "name:ka": "ფორტალეზა",
+          "name:kk": "Форталеза",
+          "name:ko": "포르탈레자",
+          "name:la": "Fortalaetia",
+          "name:mk": "Форталеза",
+          "name:mn": "Форталеза",
+          "name:mr": "फोर्तालेझा",
+          "name:os": "Форталезæ",
+          "name:ru": "Форталеза",
+          "name:sr": "Форталеза",
+          "name:tg": "Форталеза",
+          "name:th": "ฟอร์ตาเลซา",
+          "name:uk": "Форталеза",
+          "name:zh": "福塔莱萨",
+          "loc_name": "Fortal",
+          "name:hi": "फोर्टलेज़ा",
+          "name:ky": "Форталеза",
+          "name:ml": "ഫോർട്ടാലേസ",
+          "name:my": "ဖော်တာလီဇာမြို့",
+          "name:si": "ෆොර්ටලීසා",
+          "name:ta": "போர்த்தலேசா",
+          "name:tt": "Форталеза",
+          "name:ur": "فورٹالیزا"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5217989,
+        "lat": -3.7304512,
+        "state_code": "CE",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Fortaleza, CE, Brazil",
+        "address_line1": "Fortaleza",
+        "address_line2": "CE, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69837F9H+R7",
+        "plus_code_short": "7F9H+R7 Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 0.625775535503424,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "515d4b6d4eca4243c05976977accf6d70dc0f00101f901fc9d040000000000c00208",
+        "bbox": {
+          "lon1": -38.6379078,
+          "lat1": -3.8945441,
+          "lon2": -38.4013259,
+          "lat2": -3.6921047
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Professor Costa Mendes, 266 | Bom Futuro, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "266",
+        "street": "| bom futuro",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. General Osório de Paiva, 1612 | Parangaba, Fortaleza - CE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Varandão da Vila",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Ceará",
+        "county": "Região Geográfica Intermediária de Fortaleza",
+        "city": "Fortaleza",
+        "municipality": "Região Geográfica Imediata de Fortaleza",
+        "postcode": "60721-000",
+        "suburb": "Vila Peri",
+        "street": "Avenida General Osório de Paiva",
+        "housenumber": "1612",
+        "iso3166_2": "BR-CE",
+        "lon": -38.5761836,
+        "lat": -3.7815842,
+        "state_code": "CE",
+        "result_type": "amenity",
+        "formatted": "Varandão da Vila, Avenida General Osório de Paiva 1612, Vila Peri, Fortaleza - CE, 60721-000, Brazil",
+        "address_line1": "Varandão da Vila",
+        "address_line2": "Avenida General Osório de Paiva 1612, Vila Peri, Fortaleza - CE, 60721-000, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Fortaleza",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "69836C9F+9G",
+        "plus_code_short": "6C9F+9G Fortaleza, Região Geográfica Intermediária de Fortaleza, Brazil",
+        "rank": {
+          "importance": 6.818722819862695e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51eb3e5b62c04943c05906909037af400ec0f00103f9017afeea0a01000000c00201920311566172616e64c3a36f2064612056696c61",
+        "bbox": {
+          "lon1": -38.5762336,
+          "lat1": -3.7816342,
+          "lon2": -38.5761336,
+          "lat2": -3.7815342
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. General Osório de Paiva, 1612 | Parangaba, Fortaleza - CE",
+      "parsed": {
+        "housenumber": "1612 |",
+        "street": "av. general osório de paiva",
+        "suburb": "parangaba",
+        "city": "fortaleza",
+        "state": "ce",
+        "expected_type": "building"
+      }
+    }
+  }
+}

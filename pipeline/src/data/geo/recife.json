@@ -1,0 +1,3454 @@
+{
+  "Av. Gov. Carlos de Lima Cavalcante, 4035 - Casa | Casa Caiada, Olinda - PE": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "4035",
+        "street": "Avenida Governador Carlos De Lima Cavalcante",
+        "country": "Brazil",
+        "county": "Pernambuco",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "53040-125",
+        "state": "Northeast",
+        "district": "Olinda",
+        "city": "Olinda",
+        "county_code": "PE",
+        "lon": -34.832966,
+        "lat": -7.970457,
+        "result_type": "building",
+        "formatted": "Avenida Governador Carlos De Lima Cavalcante 4035, Olinda - Northeast, 53040-125, Brazil",
+        "address_line1": "Avenida Governador Carlos De Lima Cavalcante 4035",
+        "address_line2": "Olinda - Northeast, 53040-125, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "694725H8+RR",
+        "plus_code_short": "25H8+RR Olinda, Pernambuco, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51085740a19e6a41c05974b2d47abfe11fc0c00203e203466f70656e6164647265737365733a616464726573733a62722f70652f7374617465776964652d6164647265737365732d73746174653a31663436663065353930313036333239"
+      }
+    ],
+    "query": {
+      "text": "Av. Gov. Carlos de Lima Cavalcante, 4035 - Casa | Casa Caiada, Olinda - PE",
+      "parsed": {
+        "housenumber": "4035",
+        "street": "av. gov. carlos de lima cavalcante",
+        "suburb": "casa caiada",
+        "city": "olinda",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Lígia Gomes, 40, Olinda - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Ligia Gomes",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Olinda",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "53370-255",
+        "district": "Olinda",
+        "street": "Rua Ligia Gomes",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8840882,
+        "lat": -7.9790444,
+        "state_code": "PE",
+        "housenumber": "40",
+        "result_type": "building",
+        "formatted": "Rua Ligia Gomes 40, Olinda - PE, 53370-255, Brazil",
+        "address_line1": "Rua Ligia Gomes 40",
+        "address_line2": "Olinda - PE, 53370-255, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "694724C8+99",
+        "plus_code_short": "24C8+99 Olinda, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05339358587014569,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c7e358cd297141c059e9537d9d8aea1fc0f00102f901f693dd1b00000000c0020392030f527561204c6967696120476f6d6573",
+        "bbox": {
+          "lon1": -34.888178,
+          "lat1": -7.9812409,
+          "lon2": -34.8805779,
+          "lat2": -7.9783881
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Lígia Gomes, 40, Olinda - PE",
+      "parsed": {
+        "housenumber": "40",
+        "street": "rua lígia gomes",
+        "city": "olinda",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Nanuque, 37 | Brasília Teimosa, Recife - PE": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "37",
+        "street": "Rua Nanuque",
+        "country": "Brazil",
+        "county": "Pernambuco",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "51010-260",
+        "state": "Northeast",
+        "district": "Recife",
+        "city": "Recife",
+        "county_code": "PE",
+        "lon": -34.88052,
+        "lat": -8.087791,
+        "result_type": "building",
+        "formatted": "Rua Nanuque 37, Recife - Northeast, 51010-260, Brazil",
+        "address_line1": "Rua Nanuque 37",
+        "address_line2": "Recife - Northeast, 51010-260, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W469+VQ",
+        "plus_code_short": "W469+VQ Recife, Pernambuco, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a9bc1de1b47041c0592ac423f1f22c20c0c00203e203466f70656e6164647265737365733a616464726573733a62722f70652f7374617465776964652d6164647265737365732d73746174653a62333065353239343337613164393761"
+      }
+    ],
+    "query": {
+      "text": "R. Nanuque, 37 | Brasília Teimosa, Recife - PE",
+      "parsed": {
+        "housenumber": "37 |",
+        "street": "r. nanuque",
+        "suburb": "brasília teimosa",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Eng. Otávio Arantes, 0  | Imbiribeira, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Engenheiro Otávio Arantes",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51170-420",
+        "district": "Recife",
+        "suburb": "Imbiribeira",
+        "street": "Rua Engenheiro Otávio Arantes",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9089028,
+        "lat": -8.0861376,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Engenheiro Otávio Arantes, Imbiribeira, Recife - PE, 51170-420, Brazil",
+        "address_line1": "Rua Engenheiro Otávio Arantes",
+        "address_line2": "Imbiribeira, Recife - PE, 51170-420, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W37R+GC",
+        "plus_code_short": "W37R+GC Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51159f4ced567441c05970e93d3a1a2c20c0f00102f901d2c0130900000000c0020492031e52756120456e67656e686569726f204f74c3a176696f204172616e746573",
+        "bbox": {
+          "lon1": -34.9092577,
+          "lat1": -8.0877214,
+          "lon2": -34.9085453,
+          "lat2": -8.0845545
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Eng. Otávio Arantes, 0  | Imbiribeira, Recife - PE",
+      "parsed": {
+        "housenumber": "0 |",
+        "street": "r. eng. otávio arantes",
+        "suburb": "imbiribeira",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Albacora, 26 | Brasília Teimosa, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Albacora",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51010-120",
+        "district": "Recife",
+        "suburb": "Brasília Teimosa",
+        "street": "Rua Albacora",
+        "iso3166_2": "BR-PE",
+        "lon": -34.879957,
+        "lat": -8.0856578,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Albacora, Brasília Teimosa, Recife - PE, 51010-120, Brazil",
+        "address_line1": "Rua Albacora",
+        "address_line2": "Brasília Teimosa, Recife - PE, 51010-120, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W47C+P2",
+        "plus_code_short": "W47C+P2 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517171546ea27041c0596c4bd356db2b20c0f00102f90125dca40900000000c0020492030c52756120416c6261636f7261",
+        "bbox": {
+          "lon1": -34.8814147,
+          "lat1": -8.0861033,
+          "lon2": -34.8784586,
+          "lat2": -8.0851744
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Albacora, 26 | Brasília Teimosa, Recife - PE",
+      "parsed": {
+        "housenumber": "26 |",
+        "street": "rua albacora",
+        "suburb": "brasília teimosa",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. São João, 345 | Guadalupe, Olinda - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua São João",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Olinda",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "53240-150",
+        "district": "Olinda",
+        "suburb": "Guadalupe",
+        "street": "Rua São João",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8545738,
+        "lat": -8.0105448,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua São João, Guadalupe, Olinda - PE, 53240-150, Brazil",
+        "address_line1": "Rua São João",
+        "address_line2": "Guadalupe, Olinda - PE, 53240-150, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X4QW+Q5",
+        "plus_code_short": "QW+Q5 Olinda, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05339358587014569,
+          "confidence": 0.5594594594594594,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "515c829dac626d41c0592549c620660520c0f00102f901bb16920800000000c0020492030e5275612053c3a36f204a6fc3a36f",
+        "bbox": {
+          "lon1": -34.8549907,
+          "lat1": -8.0112234,
+          "lon2": -34.8540837,
+          "lat2": -8.009821
+        }
+      }
+    ],
+    "query": {
+      "text": "R. São João, 345 | Guadalupe, Olinda - PE"
+    }
+  },
+  "Rua da Santa Cruz, 0  | Boa Vista, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua da Santa Cruz",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "50060-230",
+        "district": "Recife",
+        "suburb": "Boa Vista",
+        "street": "Rua da Santa Cruz",
+        "iso3166_2": "BR-PE",
+        "lon": -34.888571,
+        "lat": -8.0630292,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua da Santa Cruz, Boa Vista, Recife - PE, 50060-230, Brazil",
+        "address_line1": "Rua da Santa Cruz",
+        "address_line2": "Boa Vista, Recife - PE, 50060-230, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W4P6+QH",
+        "plus_code_short": "P6+QH Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "514696ccb1bc7141c059d762015d452020c0f00102f901a081f92900000000c002049203115275612064612053616e7461204372757a",
+        "bbox": {
+          "lon1": -34.8890437,
+          "lat1": -8.063799,
+          "lon2": -34.8881114,
+          "lat2": -8.0622517
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da Santa Cruz, 0  | Boa Vista, Recife - PE",
+      "parsed": {
+        "housenumber": "0 |",
+        "street": "rua da santa cruz",
+        "suburb": "boa vista",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Parary, 58 | Areias, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Parary",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "50900-040",
+        "district": "Recife",
+        "suburb": "Areias",
+        "street": "Rua Parary",
+        "iso3166_2": "BR-PE",
+        "lon": -34.936607,
+        "lat": -8.0890988,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Parary, Areias, Recife - PE, 50900-040, Brazil",
+        "address_line1": "Rua Parary",
+        "address_line2": "Areias, Recife - PE, 50900-040, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W367+99",
+        "plus_code_short": "W367+99 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51331af9bce27741c059c739a05b9e2d20c0f00102f901ae0c7e0900000000c0020492030a52756120506172617279",
+        "bbox": {
+          "lon1": -34.9366086,
+          "lat1": -8.0892853,
+          "lon2": -34.9366054,
+          "lat2": -8.0889123
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Parary, 58 | Areias, Recife - PE",
+      "parsed": {
+        "housenumber": "58 |",
+        "street": "rua parary",
+        "suburb": "areias",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Padre Lemos, 785 | Casa Amarela, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52070-200",
+        "district": "Recife",
+        "suburb": "Casa Amarela",
+        "street": "Rua Padre Lemos",
+        "housenumber": "785",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9214026,
+        "lat": -8.0214161,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Padre Lemos 785, Casa Amarela, Recife - PE, 52070-200, Brazil",
+        "address_line1": "Rua Padre Lemos 785",
+        "address_line2": "Casa Amarela, Recife - PE, 52070-200, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X3HH+CC",
+        "plus_code_short": "X3HH+CC Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5185b93885f07541c0593a37120df70a20c0f00103f90197e8795601000000c00203",
+        "bbox": {
+          "lon1": -34.9214526,
+          "lat1": -8.0214661,
+          "lon2": -34.9213526,
+          "lat2": -8.0213661
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Padre Lemos, 785 | Casa Amarela, Recife - PE",
+      "parsed": {
+        "housenumber": "785 |",
+        "street": "r. padre lemos",
+        "suburb": "casa amarela",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Bom Pastor, 366 | Iputinga, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "50670-260",
+        "district": "Recife",
+        "suburb": "Iputinga",
+        "street": "Rua do Bom Pastor",
+        "housenumber": "366",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9396973,
+        "lat": -8.0439108,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua do Bom Pastor 366, Iputinga, Recife - PE, 50670-260, Brazil",
+        "address_line1": "Rua do Bom Pastor 366",
+        "address_line2": "Iputinga, Recife - PE, 50670-260, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X346+C4",
+        "plus_code_short": "X346+C4 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "confidence_building_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "51dbd14900487841c059e5e1f3797b1620c0f00103f901d662775701000000c00203",
+        "bbox": {
+          "lon1": -34.9397473,
+          "lat1": -8.0439608,
+          "lon2": -34.9396473,
+          "lat2": -8.0438608
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Bom Pastor, 366 | Iputinga, Recife - PE",
+      "parsed": {
+        "housenumber": "366 |",
+        "street": "rua bom pastor",
+        "suburb": "iputinga",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Pedro Alves, 79 | Encruzilhada, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52041-200",
+        "district": "Recife",
+        "suburb": "Encruzilhada",
+        "street": "Rua Pedro Alves",
+        "housenumber": "79",
+        "iso3166_2": "BR-PE",
+        "lon": -34.892072,
+        "lat": -8.0362434,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Pedro Alves 79, Encruzilhada, Recife - PE, 52041-200, Brazil",
+        "address_line1": "Rua Pedro Alves 79",
+        "address_line2": "Encruzilhada, Recife - PE, 52041-200, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X475+G5",
+        "plus_code_short": "X475+G5 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b2d6506a2f7241c0594664b37e8e1220c0f00103f9016f5e235601000000c00203",
+        "bbox": {
+          "lon1": -34.892122,
+          "lat1": -8.0362934,
+          "lon2": -34.892022,
+          "lat2": -8.0361934
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Pedro Alves, 79 | Encruzilhada, Recife - PE",
+      "parsed": {
+        "housenumber": "79 |",
+        "street": "r. pedro alves",
+        "suburb": "encruzilhada",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Altino, 76 | Casa Amarela, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52061-300",
+        "district": "Recife",
+        "suburb": "Poço da Panela",
+        "street": "Rua Professor Edgar Altino",
+        "housenumber": "76",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9220333,
+        "lat": -8.0368505,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Professor Edgar Altino 76, Poço da Panela, Recife - PE, 52061-300, Brazil",
+        "address_line1": "Rua Professor Edgar Altino 76",
+        "address_line2": "Poço da Panela, Recife - PE, 52061-300, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X37H+75",
+        "plus_code_short": "X37H+75 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 0.7290000000000001,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "confidence_building_level": 0.7290000000000001,
+          "match_type": "full_match"
+        },
+        "place_id": "5157a9ea2f057641c059b8ae9811de1220c0f00103f901c2f7795601000000c00203",
+        "bbox": {
+          "lon1": -34.9220833,
+          "lat1": -8.0369005,
+          "lon2": -34.9219833,
+          "lat2": -8.0368005
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Altino, 76 | Casa Amarela, Recife - PE",
+      "parsed": {
+        "housenumber": "76 |",
+        "street": "r. altino",
+        "suburb": "casa amarela",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Manoel Salvador, 140 - Casa | Barro, Recife - PE": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "140",
+        "street": "Rua Manoel Bandeira",
+        "country": "Brazil",
+        "county": "Pernambuco",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "51345-620",
+        "state": "Northeast",
+        "district": "Recife",
+        "city": "Recife",
+        "county_code": "PE",
+        "lon": -34.958947,
+        "lat": -8.109689,
+        "result_type": "building",
+        "formatted": "Rua Manoel Bandeira 140, Recife - Northeast, 51345-620, Brazil",
+        "address_line1": "Rua Manoel Bandeira 140",
+        "address_line2": "Recife - Northeast, 51345-620, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937V2RR+4C",
+        "plus_code_short": "V2RR+4C Recife, Pernambuco, Brazil",
+        "rank": {
+          "confidence": 0.125,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.125,
+          "confidence_building_level": 0.125,
+          "match_type": "full_match"
+        },
+        "place_id": "5175cc79c6be7a41c0593e761728293820c0c00203e203466f70656e6164647265737365733a616464726573733a62722f70652f7374617465776964652d6164647265737365732d73746174653a35343966653234336438343762366333"
+      }
+    ],
+    "query": {
+      "text": "R. Manoel Salvador, 140 - Casa | Barro, Recife - PE",
+      "parsed": {
+        "housenumber": "140",
+        "street": "r. manoel salvador",
+        "suburb": "barro",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Agrestina, 5318 | Candeias, Jaboatão dos Guararapes - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:bg": "Жабоатао дос Гуарарапис",
+          "name:ja": "ジョボトン・ドス・グアララペス",
+          "name:ka": "ჟაბოატაო",
+          "name:kk": "Жабоатан-дус-Гуарарапис",
+          "name:ko": "자보아탕두스구아라라페스",
+          "name:lt": "Žaboatan dos Guararapesas",
+          "name:ru": "Жабоатан-дус-Гуарарапис",
+          "name:sr": "Жабоатао дос Гварарапес",
+          "int_name": "Jaboatao dos Guararapes",
+          "loc_name": "Jaboatão",
+          "name:az-Cyrl": "Жабоатао дос Гварарапес"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Jaboatão dos Guararapes",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9468716,
+        "lat": -8.1752476,
+        "state_code": "PE",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Jaboatão dos Guararapes, PE, Brazil",
+        "address_line1": "Jaboatão dos Guararapes",
+        "address_line2": "PE, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937R3F3+W7",
+        "plus_code_short": "R3F3+W7 Jaboatão dos Guararapes, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.5059070701022003,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516fc1ad16337941c059ad67ad0dba5920c0f00101f9015da2040000000000c00208",
+        "bbox": {
+          "lon1": -35.097,
+          "lat1": -8.2423628,
+          "lon2": -34.9088591,
+          "lat2": -8.0563618
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Agrestina, 5318 | Candeias, Jaboatão dos Guararapes - PE",
+      "parsed": {
+        "housenumber": "5318",
+        "street": "| candeias",
+        "city": "jaboatão dos guararapes",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Larga do Feitosa, 138 | Encruzilhada, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar do Tonhão",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52030-140",
+        "district": "Recife",
+        "suburb": "Encruzilhada",
+        "street": "Rua Larga do Feitosa",
+        "housenumber": "138",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8860735,
+        "lat": -8.0355126,
+        "state_code": "PE",
+        "result_type": "amenity",
+        "formatted": "Bar do Tonhão, Rua Larga do Feitosa 138, Encruzilhada, Recife - PE, 52030-140, Brazil",
+        "address_line1": "Bar do Tonhão",
+        "address_line2": "Rua Larga do Feitosa 138, Encruzilhada, Recife - PE, 52030-140, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X477+QH",
+        "plus_code_short": "X477+QH Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51172d40db6a7141c0591e311fb52e1220c0f00103f9014b4b235601000000c0020192030e42617220646f20546f6e68c3a36f",
+        "bbox": {
+          "lon1": -34.8861235,
+          "lat1": -8.0355626,
+          "lon2": -34.8860235,
+          "lat2": -8.0354626
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Larga do Feitosa, 138 | Encruzilhada, Recife - PE",
+      "parsed": {
+        "housenumber": "138 |",
+        "street": "rua larga do feitosa",
+        "suburb": "encruzilhada",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da Regeneração, 640 | Arruda, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua da Regeneração",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52120-300",
+        "district": "Recife",
+        "suburb": "Água Fria",
+        "street": "Rua da Regeneração",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8864953,
+        "lat": -8.021423,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua da Regeneração, Água Fria, Recife - PE, 52120-300, Brazil",
+        "address_line1": "Rua da Regeneração",
+        "address_line2": "Água Fria, Recife - PE, 52120-300, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X4H7+CC",
+        "plus_code_short": "X4H7+CC Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5163c790ad787141c059b1c398f4f70a20c0f00102f901393de40700000000c0020492031452756120646120526567656e657261c3a7c3a36f",
+        "bbox": {
+          "lon1": -34.8895253,
+          "lat1": -8.0224319,
+          "lon2": -34.8834097,
+          "lat2": -8.0202575
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da Regeneração, 640 | Arruda, Recife - PE",
+      "parsed": {
+        "housenumber": "640 |",
+        "street": "rua da regeneração",
+        "suburb": "arruda",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Professor Otávio de Freitas, 400 | Encruzilhada, Recife - PE": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "400",
+        "street": "Rua Professor Otavio De Freitas",
+        "country": "Brazil",
+        "county": "Pernambuco",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "52041-120",
+        "state": "Northeast",
+        "district": "Recife",
+        "city": "Recife",
+        "county_code": "PE",
+        "lon": -34.892395,
+        "lat": -8.034314,
+        "result_type": "building",
+        "formatted": "Rua Professor Otavio De Freitas 400, Recife - Northeast, 52041-120, Brazil",
+        "address_line1": "Rua Professor Otavio De Freitas 400",
+        "address_line2": "Recife - Northeast, 52041-120, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X485+72",
+        "plus_code_short": "X485+72 Recife, Pernambuco, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51950ed6ff397241c0590397c79a911120c0c00203e203466f70656e6164647265737365733a616464726573733a62722f70652f7374617465776964652d6164647265737365732d73746174653a33346334663862393538643633623865"
+      }
+    ],
+    "query": {
+      "text": "Rua Professor Otávio de Freitas, 400 | Encruzilhada, Recife - PE",
+      "parsed": {
+        "housenumber": "400 |",
+        "street": "rua professor otávio de freitas",
+        "suburb": "encruzilhada",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Poeta Vinicius de Moraes, 140 | Ouro Preto, Olinda - PE": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "140",
+        "street": "Avenida Poeta Vinicius De Moraes",
+        "country": "Brazil",
+        "county": "Pernambuco",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "52121-400",
+        "state": "Northeast",
+        "district": "Recife",
+        "city": "Recife",
+        "county_code": "PE",
+        "lon": -34.878668,
+        "lat": -8.018867,
+        "result_type": "building",
+        "formatted": "Avenida Poeta Vinicius De Moraes 140, Recife - Northeast, 52121-400, Brazil",
+        "address_line1": "Avenida Poeta Vinicius De Moraes 140",
+        "address_line2": "Recife - Northeast, 52121-400, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X4JC+FG",
+        "plus_code_short": "X4JC+FG Recife, Pernambuco, Brazil",
+        "rank": {
+          "confidence": 0.1111111111111111,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5157056a31787041c05980f277efa80920c0c00203e203466f70656e6164647265737365733a616464726573733a62722f70652f7374617465776964652d6164647265737365732d73746174653a64386634653839626466633431656137"
+      }
+    ],
+    "query": {
+      "text": "Av. Poeta Vinicius de Moraes, 140 | Ouro Preto, Olinda - PE",
+      "parsed": {
+        "housenumber": "140 |",
+        "street": "av. poeta vinicius de moraes",
+        "suburb": "ouro preto",
+        "city": "olinda",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Pianista Isnar Mariano, 12 | Imbiribeira, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51170-330",
+        "district": "Recife",
+        "suburb": "Imbiribeira",
+        "street": "Rua Pianista Isnar Mariano",
+        "housenumber": "12",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9167937,
+        "lat": -8.0957499,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Pianista Isnar Mariano 12, Imbiribeira, Recife - PE, 51170-330, Brazil",
+        "address_line1": "Rua Pianista Isnar Mariano 12",
+        "address_line2": "Imbiribeira, Recife - PE, 51170-330, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W33M+P7",
+        "plus_code_short": "W33M+P7 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e456f77e597541c059c7308221063120c0f00103f9011b1a615701000000c00203",
+        "bbox": {
+          "lon1": -34.9168437,
+          "lat1": -8.0957999,
+          "lon2": -34.9167437,
+          "lat2": -8.0956999
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Pianista Isnar Mariano, 12 | Imbiribeira, Recife - PE",
+      "parsed": {
+        "housenumber": "12 |",
+        "street": "r. pianista isnar mariano",
+        "suburb": "imbiribeira",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. André de Albuquerque, 171 | Barro, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "50780-030",
+        "district": "Recife",
+        "suburb": "Barro",
+        "street": "Rua André de Albuquerque",
+        "housenumber": "171",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9429474,
+        "lat": -8.0946081,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua André de Albuquerque 171, Barro, Recife - PE, 50780-030, Brazil",
+        "address_line1": "Rua André de Albuquerque 171",
+        "address_line2": "Barro, Recife - PE, 50780-030, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W344+5R",
+        "plus_code_short": "W344+5R Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51936c1a80b27841c05997df0e79703020c0f00103f901c172765701000000c00203",
+        "bbox": {
+          "lon1": -34.9429974,
+          "lat1": -8.0946581,
+          "lon2": -34.9428974,
+          "lat2": -8.0945581
+        }
+      }
+    ],
+    "query": {
+      "text": "R. André de Albuquerque, 171 | Barro, Recife - PE",
+      "parsed": {
+        "housenumber": "171 |",
+        "street": "r. andré de albuquerque",
+        "suburb": "barro",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. José Nunes da Cunha, 4853  | Candeias, Jaboatão dos Guararapes - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:bg": "Жабоатао дос Гуарарапис",
+          "name:ja": "ジョボトン・ドス・グアララペス",
+          "name:ka": "ჟაბოატაო",
+          "name:kk": "Жабоатан-дус-Гуарарапис",
+          "name:ko": "자보아탕두스구아라라페스",
+          "name:lt": "Žaboatan dos Guararapesas",
+          "name:ru": "Жабоатан-дус-Гуарарапис",
+          "name:sr": "Жабоатао дос Гварарапес",
+          "int_name": "Jaboatao dos Guararapes",
+          "loc_name": "Jaboatão",
+          "name:az-Cyrl": "Жабоатао дос Гварарапес"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Jaboatão dos Guararapes",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9468716,
+        "lat": -8.1752476,
+        "state_code": "PE",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Jaboatão dos Guararapes, PE, Brazil",
+        "address_line1": "Jaboatão dos Guararapes",
+        "address_line2": "PE, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937R3F3+W7",
+        "plus_code_short": "R3F3+W7 Jaboatão dos Guararapes, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.5059070701022003,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516fc1ad16337941c059ad67ad0dba5920c0f00101f9015da2040000000000c00208",
+        "bbox": {
+          "lon1": -35.097,
+          "lat1": -8.2423628,
+          "lon2": -34.9088591,
+          "lat2": -8.0563618
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Nunes da Cunha, 4853  | Candeias, Jaboatão dos Guararapes - PE",
+      "parsed": {
+        "housenumber": "4853",
+        "street": "| candeias",
+        "city": "jaboatão dos guararapes",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Aurora Diniz Carneiro Leão, 5462 | Candeias, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "ريسيفي",
+          "name:be": "Рэсіфі",
+          "name:bg": "Ресифи",
+          "name:bn": "হেসিফি",
+          "name:ce": "Ресифи",
+          "name:el": "Ρεσίφε",
+          "name:eo": "Recifo",
+          "name:fa": "ریسیف",
+          "name:he": "רסיפה",
+          "name:hy": "Ռեսիֆի",
+          "name:ja": "レシフェ",
+          "name:ka": "რესიფი",
+          "name:kk": "Ресифи",
+          "name:ko": "헤시피",
+          "name:la": "Recifae",
+          "name:lt": "Resifė",
+          "name:lv": "Resifi",
+          "name:mk": "Ресифе",
+          "name:mn": "Ресифи",
+          "name:mr": "रेसिफे",
+          "name:ru": "Ресифи",
+          "name:sr": "Ресифе",
+          "name:tg": "Ресифи",
+          "name:th": "เรซีฟี",
+          "name:uk": "Ресіфі",
+          "name:uz": "Resifi",
+          "name:zh": "累西腓",
+          "name:kn": "ರೆಸಿಫೀ"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8848193,
+        "lat": -8.0584933,
+        "state_code": "PE",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Recife, PE, Brazil",
+        "address_line1": "Recife",
+        "address_line2": "PE, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W4R8+J3",
+        "plus_code_short": "R8+J3 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.6471646326048878,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "514f2f42c2417141c059fb1175d5f21d20c0f00101f901e1a1040000000000c00208",
+        "bbox": {
+          "lon1": -35.0186478,
+          "lat1": -8.1551869,
+          "lon2": -34.8515401,
+          "lat2": -7.928967
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Aurora Diniz Carneiro Leão, 5462 | Candeias, Recife - PE",
+      "parsed": {
+        "housenumber": "5462",
+        "street": "| candeias",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Aníbal Falcão, 9 | Graças, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Aníbal Falcão",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52011-150",
+        "district": "Recife",
+        "suburb": "Graças",
+        "street": "Rua Aníbal Falcão",
+        "iso3166_2": "BR-PE",
+        "lon": -34.902135,
+        "lat": -8.048025,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Aníbal Falcão, Graças, Recife - PE, 52011-150, Brazil",
+        "address_line1": "Rua Aníbal Falcão",
+        "address_line2": "Graças, Recife - PE, 52011-150, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X32X+Q4",
+        "plus_code_short": "X32X+Q4 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51dac9e028797341c059e3c798bb961820c0f00102f9018a89f20700000000c0020492031352756120416ec3ad62616c2046616c63c3a36f",
+        "bbox": {
+          "lon1": -34.9030452,
+          "lat1": -8.0480675,
+          "lon2": -34.9012246,
+          "lat2": -8.0479773
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Aníbal Falcão, 9 | Graças, Recife - PE",
+      "parsed": {
+        "housenumber": "9 |",
+        "street": "r. aníbal falcão",
+        "suburb": "graças",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Amador Araújo, 207 | Barro, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "50900-460",
+        "district": "Recife",
+        "suburb": "Barro",
+        "street": "Rua Amador Araújo",
+        "housenumber": "207",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9436817,
+        "lat": -8.0912616,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Amador Araújo 207, Barro, Recife - PE, 50900-460, Brazil",
+        "address_line1": "Rua Amador Araújo 207",
+        "address_line2": "Barro, Recife - PE, 50900-460, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W354+FG",
+        "plus_code_short": "W354+FG Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b6aadb8fca7841c059e2c226d7b92e20c0f00103f9015788765701000000c00203",
+        "bbox": {
+          "lon1": -34.9437317,
+          "lat1": -8.0913116,
+          "lon2": -34.9436317,
+          "lat2": -8.0912116
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Amador Araújo, 207 | Barro, Recife - PE",
+      "parsed": {
+        "housenumber": "207 |",
+        "street": "rua amador araújo",
+        "suburb": "barro",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Sueli Luna Menelau, 628 | Imbiribeira, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Sueli Luna Menelau",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51170-150",
+        "district": "Recife",
+        "suburb": "Imbiribeira",
+        "street": "Rua Sueli Luna Menelau",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9177671,
+        "lat": -8.0907881,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Sueli Luna Menelau, Imbiribeira, Recife - PE, 51170-150, Brazil",
+        "address_line1": "Rua Sueli Luna Menelau",
+        "address_line2": "Imbiribeira, Recife - PE, 51170-150, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W35J+MV",
+        "plus_code_short": "W35J+MV Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5121ec6f64797541c05961bb20c77b2e20c0f00102f90184c4130900000000c00204920316527561205375656c69204c756e61204d656e656c6175",
+        "bbox": {
+          "lon1": -34.9182494,
+          "lat1": -8.0917281,
+          "lon2": -34.9169292,
+          "lat2": -8.0901481
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Sueli Luna Menelau, 628 | Imbiribeira, Recife - PE",
+      "parsed": {
+        "housenumber": "628 |",
+        "street": "rua sueli luna menelau",
+        "suburb": "imbiribeira",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Odorico Mendes, 188 | Campo Grande, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52031-080",
+        "district": "Recife",
+        "suburb": "Campo Grande",
+        "street": "Rua Odorico Mendes",
+        "housenumber": "188",
+        "iso3166_2": "BR-PE",
+        "lon": -34.881257,
+        "lat": -8.0339429,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Odorico Mendes 188, Campo Grande, Recife - PE, 52031-080, Brazil",
+        "address_line1": "Rua Odorico Mendes 188",
+        "address_line2": "Campo Grande, Recife - PE, 52031-080, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X489+CF",
+        "plus_code_short": "X489+CF Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517f2f8507cd7041c059e0dcbaf6601120c0f00103f9013957235601000000c00203",
+        "bbox": {
+          "lon1": -34.881307,
+          "lat1": -8.0339929,
+          "lon2": -34.881207,
+          "lat2": -8.0338929
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Odorico Mendes, 188 | Campo Grande, Recife - PE",
+      "parsed": {
+        "housenumber": "188 |",
+        "street": "r. odorico mendes",
+        "suburb": "campo grande",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Estrada das Ubaias, 241 | Casa Forte, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52070-013",
+        "district": "Recife",
+        "suburb": "Casa Forte",
+        "street": "Estrada das Ubaias",
+        "housenumber": "241",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9188103,
+        "lat": -8.0305039,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Estrada das Ubaias 241, Casa Forte, Recife - PE, 52070-013, Brazil",
+        "address_line1": "Estrada das Ubaias 241",
+        "address_line2": "Casa Forte, Recife - PE, 52070-013, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X39J+QF",
+        "plus_code_short": "X39J+QF Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512ddd6e939b7541c05908cd09359e0f20c0f00103f901c1007a5601000000c00203",
+        "bbox": {
+          "lon1": -34.9188603,
+          "lat1": -8.0305539,
+          "lon2": -34.9187603,
+          "lat2": -8.0304539
+        }
+      }
+    ],
+    "query": {
+      "text": "Estrada das Ubaias, 241 | Casa Forte, Recife - PE",
+      "parsed": {
+        "housenumber": "241 |",
+        "street": "estrada das ubaias",
+        "suburb": "casa forte",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Doutor Dirceu Velloso Toscano de Brito, 281 | Pina, Recife - PE": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "281",
+        "street": "Avenida Doutor Dirceu Velloso Toscano De Brito",
+        "country": "Brazil",
+        "county": "Pernambuco",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "51110-340",
+        "state": "Northeast",
+        "district": "Recife",
+        "city": "Recife",
+        "county_code": "PE",
+        "lon": -34.895483,
+        "lat": -8.088629,
+        "result_type": "building",
+        "formatted": "Avenida Doutor Dirceu Velloso Toscano De Brito 281, Recife - Northeast, 51110-340, Brazil",
+        "address_line1": "Avenida Doutor Dirceu Velloso Toscano De Brito 281",
+        "address_line2": "Recife - Northeast, 51110-340, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W463+GR",
+        "plus_code_short": "W463+GR Recife, Pernambuco, Brazil",
+        "rank": {
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "confidence_building_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "51de8fdb2f9f7241c05951f4c0c7602d20c0c00203e203466f70656e6164647265737365733a616464726573733a62722f70652f7374617465776964652d6164647265737365732d73746174653a65396639666637353137656562393733"
+      }
+    ],
+    "query": {
+      "text": "R. Doutor Dirceu Velloso Toscano de Brito, 281 | Pina, Recife - PE",
+      "parsed": {
+        "housenumber": "281 |",
+        "street": "r. doutor dirceu velloso toscano de brito",
+        "suburb": "pina",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Aliança, 1083 | Apipucos, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52071-400",
+        "district": "Recife",
+        "suburb": "Apipucos",
+        "street": "Rua Aliança",
+        "housenumber": "1083",
+        "iso3166_2": "BR-PE",
+        "lon": -34.934546,
+        "lat": -8.0211959,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Aliança 1083, Apipucos, Recife - PE, 52071-400, Brazil",
+        "address_line1": "Rua Aliança 1083",
+        "address_line2": "Apipucos, Recife - PE, 52071-400, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X3H8+G5",
+        "plus_code_short": "X3H8+G5 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c64d0d349f7741c0595b9e6230da0a20c0f00103f9010cce765601000000c00203",
+        "bbox": {
+          "lon1": -34.934596,
+          "lat1": -8.0212459,
+          "lon2": -34.934496,
+          "lat2": -8.0211459
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Aliança, 1083 | Apipucos, Recife - PE",
+      "parsed": {
+        "housenumber": "1083 |",
+        "street": "rua aliança",
+        "suburb": "apipucos",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da Santa Cruz, 0 | Boa Vista, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua da Santa Cruz",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "50060-230",
+        "district": "Recife",
+        "suburb": "Boa Vista",
+        "street": "Rua da Santa Cruz",
+        "iso3166_2": "BR-PE",
+        "lon": -34.888571,
+        "lat": -8.0630292,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua da Santa Cruz, Boa Vista, Recife - PE, 50060-230, Brazil",
+        "address_line1": "Rua da Santa Cruz",
+        "address_line2": "Boa Vista, Recife - PE, 50060-230, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W4P6+QH",
+        "plus_code_short": "P6+QH Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "514696ccb1bc7141c059d762015d452020c0f00102f901a081f92900000000c002049203115275612064612053616e7461204372757a",
+        "bbox": {
+          "lon1": -34.8890437,
+          "lat1": -8.063799,
+          "lon2": -34.8881114,
+          "lat2": -8.0622517
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da Santa Cruz, 0 | Boa Vista, Recife - PE",
+      "parsed": {
+        "housenumber": "0 |",
+        "street": "rua da santa cruz",
+        "suburb": "boa vista",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Severina Maria da Conceição, 400 | Bultrins, Olinda - PE": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Olinda",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "53030-260",
+        "district": "Olinda",
+        "suburb": "Monte",
+        "street": "Rua Severina Maria da Conceição",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "PE",
+        "lon": -34.8497212,
+        "lat": -8.0023809,
+        "result_type": "street",
+        "formatted": "Rua Severina Maria da Conceição, Monte, Olinda - PE, 53030-260, Brazil",
+        "address_line1": "Rua Severina Maria da Conceição",
+        "address_line2": "Monte, Olinda - PE, 53030-260, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X5X2+24",
+        "plus_code_short": "X2+24 Olinda, Região Metropolitana do Recife, Brazil",
+        "iso3166_2": "BR-PE",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e35b0eaac36c41c0592545bf11380120c0f00102f901a0e6050800000000c00204",
+        "bbox": {
+          "lon1": -34.8504761,
+          "lat1": -8.0029634,
+          "lon2": -34.848903,
+          "lat2": -8.001889
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Severina Maria da Conceição, 400 | Bultrins, Olinda - PE",
+      "parsed": {
+        "housenumber": "400 | bultrins",
+        "street": "r. severina maria da conceição",
+        "city": "olinda",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Lauro de Souza, 381 | Campo Grande, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52040-370",
+        "district": "Recife",
+        "suburb": "Campo Grande",
+        "street": "Rua Lauro de Souza",
+        "housenumber": "381",
+        "iso3166_2": "BR-PE",
+        "lon": -34.875917,
+        "lat": -8.0252329,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Lauro de Souza 381, Campo Grande, Recife - PE, 52040-370, Brazil",
+        "address_line1": "Rua Lauro de Souza 381",
+        "address_line2": "Campo Grande, Recife - PE, 52040-370, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X4FF+WJ",
+        "plus_code_short": "X4FF+WJ Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5156815a0c1e7041c0590591a053eb0c20c0f00103f901915a235601000000c00203",
+        "bbox": {
+          "lon1": -34.875967,
+          "lat1": -8.0252829,
+          "lon2": -34.875867,
+          "lat2": -8.0251829
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Lauro de Souza, 381 | Campo Grande, Recife - PE",
+      "parsed": {
+        "housenumber": "381 |",
+        "street": "rua lauro de souza",
+        "suburb": "campo grande",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Chã de Alegria, 235 | Bomba do Hemetério, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Chã de Alegria",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52211-130",
+        "district": "Recife",
+        "suburb": "Bomba do Hemetério",
+        "street": "Rua Chã de Alegria",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9050589,
+        "lat": -8.0206442,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Chã de Alegria, Bomba do Hemetério, Recife - PE, 52211-130, Brazil",
+        "address_line1": "Rua Chã de Alegria",
+        "address_line2": "Bomba do Hemetério, Recife - PE, 52211-130, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X3HV+PX",
+        "plus_code_short": "X3HV+PX Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51143a54f8d87341c05944b467e0910a20c0f00102f901471e800800000000c00204920313527561204368c3a320646520416c6567726961",
+        "bbox": {
+          "lon1": -34.9063166,
+          "lat1": -8.0209416,
+          "lon2": -34.9037718,
+          "lat2": -8.0200159
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Chã de Alegria, 235 | Bomba do Hemetério, Recife - PE",
+      "parsed": {
+        "housenumber": "235 |",
+        "street": "rua chã de alegria",
+        "suburb": "bomba do hemetério",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Cruzeiro do Forte, 574 | Boa Viagem, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "hamlet": "Conjunto Habitacional Vila Aeronáutica 2",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51030-620",
+        "district": "Recife",
+        "neighbourhood": "Loteamento dos Terrenos",
+        "suburb": "Boa Viagem",
+        "street": "Rua Cruzeiro do Forte",
+        "housenumber": "574",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9130173,
+        "lat": -8.1371818,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Cruzeiro do Forte 574, Boa Viagem, Recife - PE, 51030-620, Brazil",
+        "address_line1": "Rua Cruzeiro do Forte 574",
+        "address_line2": "Boa Viagem, Recife - PE, 51030-620, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937V37P+4Q",
+        "plus_code_short": "V37P+4Q Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5153173ac0dd7441c0597c3661b13c4620c0f00103f90137a57c5601000000c00203",
+        "bbox": {
+          "lon1": -34.9130673,
+          "lat1": -8.1372318,
+          "lon2": -34.9129673,
+          "lat2": -8.1371318
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Cruzeiro do Forte, 574 | Boa Viagem, Recife - PE",
+      "parsed": {
+        "housenumber": "574 |",
+        "street": "r. cruzeiro do forte",
+        "suburb": "boa viagem",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua do Machado, 85 | Arruda, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua do Machado",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52120-295",
+        "district": "Recife",
+        "suburb": "Água Fria",
+        "street": "Rua do Machado",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8891596,
+        "lat": -8.0214282,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua do Machado, Água Fria, Recife - PE, 52120-295, Brazil",
+        "address_line1": "Rua do Machado",
+        "address_line2": "Água Fria, Recife - PE, 52120-295, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X4H6+C8",
+        "plus_code_short": "X4H6+C8 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51547655fbcf7141c0599f6c14a3f80a20c0f00102f901ee810c0900000000c0020492030e52756120646f204d61636861646f",
+        "bbox": {
+          "lon1": -34.889506,
+          "lat1": -8.0223401,
+          "lon2": -34.8888133,
+          "lat2": -8.0205164
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua do Machado, 85 | Arruda, Recife - PE",
+      "parsed": {
+        "housenumber": "85 |",
+        "street": "rua do machado",
+        "suburb": "arruda",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Tenente Felipe Bandeira de Melo, 97 C | Areias, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Tenente Felipe Bandeira de Melo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "50870-070",
+        "district": "Recife",
+        "neighbourhood": "Vila Cardeal e Silva",
+        "suburb": "Areias",
+        "street": "Avenida Tenente Felipe Bandeira de Melo",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9307997,
+        "lat": -8.0941558,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Avenida Tenente Felipe Bandeira de Melo, Areias, Recife - PE, 50870-070, Brazil",
+        "address_line1": "Avenida Tenente Felipe Bandeira de Melo",
+        "address_line2": "Areias, Recife - PE, 50870-070, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W349+8M",
+        "plus_code_short": "W349+8M Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "513550cf71247741c0591a756330353020c0f00102f901f32ef63200000000c002049203274176656e6964612054656e656e74652046656c6970652042616e6465697261206465204d656c6f",
+        "bbox": {
+          "lon1": -34.9320052,
+          "lat1": -8.0953757,
+          "lon2": -34.9295993,
+          "lat2": -8.0929412
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Tenente Felipe Bandeira de Melo, 97 C | Areias, Recife - PE",
+      "parsed": {
+        "housenumber": "97 c |",
+        "street": "av. tenente felipe bandeira de melo",
+        "suburb": "areias",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Estrada de Belém, 164 | Encruzilhada, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52041-760",
+        "district": "Recife",
+        "suburb": "Encruzilhada",
+        "street": "Estrada de Belém",
+        "housenumber": "164",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8895067,
+        "lat": -8.0364566,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Estrada de Belém 164, Encruzilhada, Recife - PE, 52041-760, Brazil",
+        "address_line1": "Estrada de Belém 164",
+        "address_line2": "Encruzilhada, Recife - PE, 52041-760, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X476+C5",
+        "plus_code_short": "X476+C5 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515409055bdb7141c0595b728170aa1220c0f00103f9019f5e235601000000c00203",
+        "bbox": {
+          "lon1": -34.8895567,
+          "lat1": -8.0365066,
+          "lon2": -34.8894567,
+          "lat2": -8.0364066
+        }
+      }
+    ],
+    "query": {
+      "text": "Estrada de Belém, 164 | Encruzilhada, Recife - PE",
+      "parsed": {
+        "housenumber": "164 |",
+        "street": "estrada de belém",
+        "suburb": "encruzilhada",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. São Fidélis, 9 - UR 02 | Cohab, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua São Fidélis",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51340-560",
+        "district": "Recife",
+        "suburb": "UR-02 - Vila Cohab",
+        "street": "Rua São Fidélis",
+        "iso3166_2": "BR-PE",
+        "lon": -34.954157,
+        "lat": -8.120654,
+        "state_code": "PE",
+        "housenumber": "9",
+        "result_type": "building",
+        "formatted": "Rua São Fidélis 9, UR-02 - Vila Cohab, Recife - PE, 51340-560, Brazil",
+        "address_line1": "Rua São Fidélis 9",
+        "address_line2": "UR-02 - Vila Cohab, Recife - PE, 51340-560, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937V2HW+P8",
+        "plus_code_short": "V2HW+P8 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51ef1f0bd1217a41c0595f43705cc63d20c0c002039203115275612053c3a36f20466964c3a96c6973e203266f70656e6164647265737365733a616464726573733a61653062363435376162616436333062",
+        "bbox": {
+          "lon1": -34.9548429,
+          "lat1": -8.1208389,
+          "lon2": -34.9541325,
+          "lat2": -8.1206311
+        }
+      }
+    ],
+    "query": {
+      "text": "R. São Fidélis, 9 - UR 02 | Cohab, Recife - PE",
+      "parsed": {
+        "housenumber": "9",
+        "street": "r. são fidélis",
+        "suburb": "cohab",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Larga do Feitosa, 143 | Encruzilhada, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52030-140",
+        "district": "Recife",
+        "suburb": "Encruzilhada",
+        "street": "Rua Larga do Feitosa",
+        "housenumber": "143",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8857946,
+        "lat": -8.0355686,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Larga do Feitosa 143, Encruzilhada, Recife - PE, 52030-140, Brazil",
+        "address_line1": "Rua Larga do Feitosa 143",
+        "address_line2": "Encruzilhada, Recife - PE, 52030-140, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X477+QM",
+        "plus_code_short": "X477+QM Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5198fcaab7617141c0596d872b0c361220c0f00103f901464b235601000000c00203",
+        "bbox": {
+          "lon1": -34.8858446,
+          "lat1": -8.0356186,
+          "lon2": -34.8857446,
+          "lat2": -8.0355186
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Larga do Feitosa, 143 | Encruzilhada, Recife - PE",
+      "parsed": {
+        "housenumber": "143 |",
+        "street": "rua larga do feitosa",
+        "suburb": "encruzilhada",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua das Pernambucanas, 30 | Graças, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua das Pernambucanas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52011-010",
+        "district": "Recife",
+        "suburb": "Graças",
+        "street": "Rua das Pernambucanas",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8998066,
+        "lat": -8.0513462,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua das Pernambucanas, Graças, Recife - PE, 52011-010, Brazil",
+        "address_line1": "Rua das Pernambucanas",
+        "address_line2": "Graças, Recife - PE, 52011-010, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W4X2+F3",
+        "plus_code_short": "W4X2+F3 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51cbdcd7dc2c7341c059398c930c4a1a20c0f00102f9018fefeb0700000000c0020492031552756120646173205065726e616d627563616e6173",
+        "bbox": {
+          "lon1": -34.9004998,
+          "lat1": -8.0517464,
+          "lon2": -34.899125,
+          "lat2": -8.0509703
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua das Pernambucanas, 30 | Graças, Recife - PE",
+      "parsed": {
+        "housenumber": "30 |",
+        "street": "rua das pernambucanas",
+        "suburb": "graças",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Coronel Mário Libório, 322 | Campina do Barreto, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Coronel Mário Libório",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52121-000",
+        "district": "Recife",
+        "suburb": "Campina do Barreto",
+        "street": "Rua Coronel Mário Libório",
+        "iso3166_2": "BR-PE",
+        "lon": -34.881595,
+        "lat": -8.0179856,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Coronel Mário Libório, Campina do Barreto, Recife - PE, 52121-000, Brazil",
+        "address_line1": "Rua Coronel Mário Libório",
+        "address_line2": "Campina do Barreto, Recife - PE, 52121-000, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X4J9+R9",
+        "plus_code_short": "X4J9+R9 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5197a8de1ad87041c0590e999768350920c0f00102f901cbe9900e00000000c0020492031b52756120436f726f6e656c204dc3a172696f204c6962c3b372696f",
+        "bbox": {
+          "lon1": -34.8821784,
+          "lat1": -8.0201874,
+          "lon2": -34.8810706,
+          "lat2": -8.0157682
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Coronel Mário Libório, 322 | Campina do Barreto, Recife - PE",
+      "parsed": {
+        "housenumber": "322 |",
+        "street": "rua coronel mário libório",
+        "suburb": "campina do barreto",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Bezerra da Palma, 213 | Aldeia, Camaragibe - PE": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "2080",
+        "street": "Estrada Aldeia",
+        "country": "Brazil",
+        "county": "Pernambuco",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "54759-000",
+        "state": "Northeast",
+        "city": "Camaragibe",
+        "county_code": "PE",
+        "lon": -34.980205,
+        "lat": -7.977576,
+        "result_type": "building",
+        "formatted": "Estrada Aldeia 2080, Camaragibe - Northeast, 54759-000, Brazil",
+        "address_line1": "Estrada Aldeia 2080",
+        "address_line2": "Camaragibe - Northeast, 54759-000, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "694722C9+XW",
+        "rank": {
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.5,
+          "confidence_building_level": 0.0016068559185859668,
+          "match_type": "full_match"
+        },
+        "place_id": "511630815b777d41c059016bd5ae09e91fc0c00203e203466f70656e6164647265737365733a616464726573733a62722f70652f7374617465776964652d6164647265737365732d73746174653a63383030346435383330613261643634"
+      }
+    ],
+    "query": {
+      "text": "R. Bezerra da Palma, 213 | Aldeia, Camaragibe - PE",
+      "parsed": {
+        "housenumber": "213",
+        "street": "| aldeia",
+        "city": "camaragibe",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Leopoldino Silva, 100 | Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Leopoldino Silva",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52060-463",
+        "district": "Recife",
+        "suburb": "Santana",
+        "street": "Rua Leopoldino Silva",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9147115,
+        "lat": -8.0409871,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Leopoldino Silva, Santana, Recife - PE, 52060-463, Brazil",
+        "address_line1": "Rua Leopoldino Silva",
+        "address_line2": "Santana, Recife - PE, 52060-463, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X35P+J4",
+        "plus_code_short": "X35P+J4 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5137e33444157541c059a31ddc42fc1420c0f00102f90128e3ce0b00000000c00204920314527561204c656f706f6c64696e6f2053696c7661",
+        "bbox": {
+          "lon1": -34.9150591,
+          "lat1": -8.0413815,
+          "lon2": -34.9143624,
+          "lat2": -8.040594
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Leopoldino Silva, 100 | Recife - PE",
+      "parsed": {
+        "housenumber": "100 |",
+        "street": "rua leopoldino silva",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Fagundes Varela, 617 | Jardim Atlântico, Olinda - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Fagundes Varela",
+        "other_names": {
+          "alt_name": "Ponte de Jardim Atlântico",
+          "name": "Avenida Fagundes Varela",
+          "name:pt": "Avenida Fagundes Varela"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Olinda",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "53040-000",
+        "district": "Olinda",
+        "suburb": "Casa Caiada",
+        "street": "Avenida Fagundes Varela",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8372955,
+        "lat": -7.9794593,
+        "state_code": "PE",
+        "result_type": "amenity",
+        "formatted": "Avenida Fagundes Varela, Casa Caiada, Olinda - PE, 53040-000, Brazil",
+        "address_line1": "Avenida Fagundes Varela",
+        "address_line2": "Casa Caiada, Olinda - PE, 53040-000, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "694725C7+63",
+        "plus_code_short": "25C7+63 Olinda, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05339358587014569,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5143cbba7f2c6b41c0595e0df560f7ea1fc0f00102f901320eff2d00000000c002019203174176656e69646120466167756e64657320566172656c61",
+        "bbox": {
+          "lon1": -34.8375679,
+          "lat1": -7.9795852,
+          "lon2": -34.8370231,
+          "lat2": -7.9793334
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Fagundes Varela, 617 | Jardim Atlântico, Olinda - PE",
+      "parsed": {
+        "housenumber": "617 |",
+        "street": "avenida fagundes varela",
+        "suburb": "jardim atlântico",
+        "city": "olinda",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Miguel Romã de Abreu e Lima, 59 - Jaboatão dos Guararapes - PE, 54410-200": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "59",
+        "street": "Rua Miguel Roma De Abreu E Lima",
+        "country": "Brazil",
+        "county": "Pernambuco",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "54410-200",
+        "state": "Northeast",
+        "district": "Jaboatão Dos Guararapes",
+        "city": "Jaboatão dos Guararapes",
+        "county_code": "PE",
+        "lon": -34.920831,
+        "lat": -8.174196,
+        "result_type": "building",
+        "formatted": "Rua Miguel Roma De Abreu E Lima 59, Jaboatão dos Guararapes - Northeast, 54410-200, Brazil",
+        "address_line1": "Rua Miguel Roma De Abreu E Lima 59",
+        "address_line2": "Jaboatão dos Guararapes - Northeast, 54410-200, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937R3GH+8M",
+        "plus_code_short": "R3GH+8M Jaboatão dos Guararapes, Pernambuco, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "514d124bcadd7541c0592330d637305920c0c00203e203466f70656e6164647265737365733a616464726573733a62722f70652f7374617465776964652d6164647265737365732d73746174653a36316134366438356239663564663536"
+      }
+    ],
+    "query": {
+      "text": "R. Miguel Romã de Abreu e Lima, 59 - Jaboatão dos Guararapes - PE, 54410-200",
+      "parsed": {
+        "housenumber": "59",
+        "street": "r. miguel romã de abreu lima",
+        "postcode": "54410-200",
+        "city": "jaboatão dos guararapes",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Bulandy, 620  | Várzea, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "50741-310",
+        "district": "Recife",
+        "suburb": "Várzea",
+        "street": "Rua Bulandy",
+        "housenumber": "620",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9578899,
+        "lat": -8.0496218,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Bulandy 620, Várzea, Recife - PE, 50741-310, Brazil",
+        "address_line1": "Rua Bulandy 620",
+        "address_line2": "Várzea, Recife - PE, 50741-310, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X22R+5R",
+        "plus_code_short": "X22R+5R Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5198d5e0229c7a41c0595a565007681920c0f00103f901b44c745701000000c00203",
+        "bbox": {
+          "lon1": -34.9579399,
+          "lat1": -8.0496718,
+          "lon2": -34.9578399,
+          "lat2": -8.0495718
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Bulandy, 620  | Várzea, Recife - PE",
+      "parsed": {
+        "housenumber": "620 |",
+        "street": "rua bulandy",
+        "suburb": "várzea",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Cônego Romeu, 142 | Boa Viagem, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Cônego Romeu",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "hamlet": "Conjunto Habitacional Vila Aeronáutica 2",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51030-340",
+        "district": "Recife",
+        "neighbourhood": "Loteamento dos Terrenos",
+        "suburb": "Boa Viagem",
+        "street": "Rua Cônego Romeu",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9062881,
+        "lat": -8.138268,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Cônego Romeu, Boa Viagem, Recife - PE, 51030-340, Brazil",
+        "address_line1": "Rua Cônego Romeu",
+        "address_line2": "Boa Viagem, Recife - PE, 51030-340, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937V36V+MF",
+        "plus_code_short": "V36V+MF Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5182209b3f017441c059aa2a3410cb4620c0f00102f901e7bd060900000000c002049203115275612043c3b46e65676f20526f6d6575",
+        "bbox": {
+          "lon1": -34.9081867,
+          "lat1": -8.1384511,
+          "lon2": -34.9043907,
+          "lat2": -8.1381094
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Cônego Romeu, 142 | Boa Viagem, Recife - PE",
+      "parsed": {
+        "housenumber": "142 |",
+        "street": "r. cônego romeu",
+        "suburb": "boa viagem",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. José Nunes da Cunha, 4592 | Candeias, Jaboatão dos Guararapes - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:bg": "Жабоатао дос Гуарарапис",
+          "name:ja": "ジョボトン・ドス・グアララペス",
+          "name:ka": "ჟაბოატაო",
+          "name:kk": "Жабоатан-дус-Гуарарапис",
+          "name:ko": "자보아탕두스구아라라페스",
+          "name:lt": "Žaboatan dos Guararapesas",
+          "name:ru": "Жабоатан-дус-Гуарарапис",
+          "name:sr": "Жабоатао дос Гварарапес",
+          "int_name": "Jaboatao dos Guararapes",
+          "loc_name": "Jaboatão",
+          "name:az-Cyrl": "Жабоатао дос Гварарапес"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Jaboatão dos Guararapes",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9468716,
+        "lat": -8.1752476,
+        "state_code": "PE",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Jaboatão dos Guararapes, PE, Brazil",
+        "address_line1": "Jaboatão dos Guararapes",
+        "address_line2": "PE, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937R3F3+W7",
+        "plus_code_short": "R3F3+W7 Jaboatão dos Guararapes, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.5059070701022003,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516fc1ad16337941c059ad67ad0dba5920c0f00101f9015da2040000000000c00208",
+        "bbox": {
+          "lon1": -35.097,
+          "lat1": -8.2423628,
+          "lon2": -34.9088591,
+          "lat2": -8.0563618
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Nunes da Cunha, 4592 | Candeias, Jaboatão dos Guararapes - PE",
+      "parsed": {
+        "housenumber": "4592",
+        "street": "| candeias",
+        "city": "jaboatão dos guararapes",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Hélio Falcão, 577 | Boa Viagem, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51021-070",
+        "district": "Recife",
+        "suburb": "Boa Viagem",
+        "street": "Avenida Hélio Falcão",
+        "housenumber": "577",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9030562,
+        "lat": -8.1254728,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Avenida Hélio Falcão 577, Boa Viagem, Recife - PE, 51021-070, Brazil",
+        "address_line1": "Avenida Hélio Falcão 577",
+        "address_line2": "Boa Viagem, Recife - PE, 51021-070, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937V3FW+RQ",
+        "plus_code_short": "V3FW+RQ Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519bb97658977341c0593a1389f83d4020c0f00103f90182767f5601000000c00203",
+        "bbox": {
+          "lon1": -34.9031062,
+          "lat1": -8.1255228,
+          "lon2": -34.9030062,
+          "lat2": -8.1254228
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Hélio Falcão, 577 | Boa Viagem, Recife - PE",
+      "parsed": {
+        "housenumber": "577 |",
+        "street": "av. hélio falcão",
+        "suburb": "boa viagem",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Carneiro Vilela, 665 | Aflitos, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52050-033",
+        "district": "Recife",
+        "suburb": "Aflitos",
+        "street": "Rua Carneiro Vilela",
+        "housenumber": "665",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8979291,
+        "lat": -8.0381331,
+        "state_code": "PE",
+        "result_type": "building",
+        "formatted": "Rua Carneiro Vilela 665, Aflitos, Recife - PE, 52050-033, Brazil",
+        "address_line1": "Rua Carneiro Vilela 665",
+        "address_line2": "Aflitos, Recife - PE, 52050-033, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X462+PR",
+        "plus_code_short": "X462+PR Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 6.983978027003918e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5138503b57ef7241c0594aca822e861320c0f00103f901c53f765601000000c00203",
+        "bbox": {
+          "lon1": -34.8979791,
+          "lat1": -8.0381831,
+          "lon2": -34.8978791,
+          "lat2": -8.0380831
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Carneiro Vilela, 665 | Aflitos, Recife - PE",
+      "parsed": {
+        "housenumber": "665 |",
+        "street": "r. carneiro vilela",
+        "suburb": "aflitos",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Araguari, 47 | Brasília Teimosa, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Araguari",
+        "other_names": {
+          "alt_name": "Rua Bem Te Vi"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "51010-580",
+        "district": "Recife",
+        "suburb": "Brasília Teimosa",
+        "street": "Rua Araguari",
+        "iso3166_2": "BR-PE",
+        "lon": -34.8809174,
+        "lat": -8.0895745,
+        "result_type": "street",
+        "formatted": "Rua Araguari, Brasília Teimosa, Recife - PE, 51010-580, Brazil",
+        "address_line1": "Rua Araguari",
+        "address_line2": "Brasília Teimosa, Recife - PE, 51010-580, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937W469+5J",
+        "plus_code_short": "W469+5J Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "match_type": "match_by_street"
+        },
+        "place_id": "511abdbfe6c17041c059711c78b5dc2d20c0f00102f901d2ad912600000000c0020492030c527561204172616775617269",
+        "bbox": {
+          "lon1": -34.881194,
+          "lat1": -8.0896257,
+          "lon2": -34.8806408,
+          "lat2": -8.0895234
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Araguari, 47 | Brasília Teimosa, Recife - PE",
+      "parsed": {
+        "housenumber": "47 |",
+        "street": "r. araguari",
+        "suburb": "brasília teimosa",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Treinador Cláudio Coutinho, 104 | Tamarineira, Recife - PE": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Treinador Cláudio Coutinho",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Pernambuco",
+        "county": "Região Metropolitana do Recife",
+        "state_district": "Região Geográfica Intermediária do Recife",
+        "city": "Recife",
+        "municipality": "Região Geográfica Imediata do Recife",
+        "postcode": "52051-140",
+        "district": "Recife",
+        "suburb": "Tamarineira",
+        "street": "Rua Treinador Cláudio Coutinho",
+        "iso3166_2": "BR-PE",
+        "lon": -34.9047927,
+        "lat": -8.0278756,
+        "state_code": "PE",
+        "result_type": "street",
+        "formatted": "Rua Treinador Cláudio Coutinho, Tamarineira, Recife - PE, 52051-140, Brazil",
+        "address_line1": "Rua Treinador Cláudio Coutinho",
+        "address_line2": "Tamarineira, Recife - PE, 52051-140, Brazil",
+        "timezone": {
+          "name": "America/Recife",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "6937X3CW+R3",
+        "plus_code_short": "X3CW+R3 Recife, Região Metropolitana do Recife, Brazil",
+        "rank": {
+          "importance": 0.05340317311360338,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516c14483fd07341c05977b6ecb5450e20c0f00102f9016d2eaa1c00000000c0020492031f52756120547265696e61646f7220436cc3a17564696f20436f7574696e686f",
+        "bbox": {
+          "lon1": -34.9050351,
+          "lat1": -8.0280857,
+          "lon2": -34.9046784,
+          "lat2": -8.0277545
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Treinador Cláudio Coutinho, 104 | Tamarineira, Recife - PE",
+      "parsed": {
+        "housenumber": "104 |",
+        "street": "r. treinador cláudio coutinho",
+        "suburb": "tamarineira",
+        "city": "recife",
+        "state": "pe",
+        "expected_type": "building"
+      }
+    }
+  }
+}

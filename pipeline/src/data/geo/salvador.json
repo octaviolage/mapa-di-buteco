@@ -1,0 +1,4388 @@
+{
+  "R. Direita de Santo Antônio, 16 | Santo Antônio, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Direita de Santo Antônio",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40301-280",
+        "district": "Salvador",
+        "suburb": "Santo Antônio",
+        "quarter": "Vila Quebra Bunda - Chácara Santo Antonio",
+        "street": "Rua Direita de Santo Antônio",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5048152,
+        "lat": -12.964897,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Direita de Santo Antônio, Santo Antônio, Salvador - BA, 40301-280, Brazil",
+        "address_line1": "Rua Direita de Santo Antônio",
+        "address_line2": "Santo Antônio, Salvador - BA, 40301-280, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32FPW+23",
+        "plus_code_short": "PW+23 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "510943d3c89d4043c0595c04c6fa06ee29c0f00102f9016e5de90200000000c0020492031d52756120446972656974612064652053616e746f20416e74c3b46e696f",
+        "bbox": {
+          "lon1": -38.505642,
+          "lat1": -12.9663277,
+          "lon2": -38.5039869,
+          "lat2": -12.9634667
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Direita de Santo Antônio, 16 | Santo Antônio, Salvador - BA",
+      "parsed": {
+        "housenumber": "16 |",
+        "street": "r. direita de santo antônio",
+        "suburb": "santo antônio",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Thomaz Gonzaga, 144 | Pernambués, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Thomaz Gonzaga",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41130-100",
+        "district": "Salvador",
+        "suburb": "Pernambués",
+        "street": "Rua Thomaz Gonzaga",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4628067,
+        "lat": -12.9664637,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Thomaz Gonzaga, Pernambués, Salvador - BA, 41130-100, Brazil",
+        "address_line1": "Rua Thomaz Gonzaga",
+        "address_line2": "Pernambués, Salvador - BA, 41130-100, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32GMP+CV",
+        "plus_code_short": "2GMP+CV Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51526ffc3f3d3b43c059d58a8054d4ee29c0f00102f901c3f4212100000000c002049203125275612054686f6d617a20476f6e7a616761",
+        "bbox": {
+          "lon1": -38.4680423,
+          "lat1": -12.9709428,
+          "lon2": -38.4608791,
+          "lat2": -12.9652417
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Thomaz Gonzaga, 144 | Pernambués, Salvador - BA",
+      "parsed": {
+        "housenumber": "144 | pernambués",
+        "street": "rua thomaz gonzaga",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Iemanjá, 211 | Boca do Rio, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Iemanjá",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41710-755",
+        "district": "Salvador",
+        "suburb": "Boca do Rio",
+        "street": "Avenida Iemanjá",
+        "iso3166_2": "BR-BA",
+        "lon": -38.431613,
+        "lat": -12.9810953,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Avenida Iemanjá, Boca do Rio, Salvador - BA, 41710-755, Brazil",
+        "address_line1": "Avenida Iemanjá",
+        "address_line2": "Boca do Rio, Salvador - BA, 41710-755, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32H99+H9",
+        "plus_code_short": "2H99+H9 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51a4c343183f3743c059c484871f52f629c0f00102f9010999783a00000000c002049203104176656e6964612049656d616e6ac3a1",
+        "bbox": {
+          "lon1": -38.4323497,
+          "lat1": -12.9816762,
+          "lon2": -38.4309067,
+          "lat2": -12.9804779
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Iemanjá, 211 | Boca do Rio, Salvador - BA",
+      "parsed": {
+        "housenumber": "211 |",
+        "street": "avenida iemanjá",
+        "suburb": "boca do rio",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Palame, 9 | Itapuã, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Palame",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41635-150",
+        "district": "Salvador",
+        "suburb": "Itapuã",
+        "street": "Rua Palame",
+        "iso3166_2": "BR-BA",
+        "lon": -38.3685406,
+        "lat": -12.949839,
+        "state_code": "BA",
+        "housenumber": "9",
+        "result_type": "building",
+        "formatted": "Rua Palame 9, Itapuã, Salvador - BA, 41635-150, Brazil",
+        "address_line1": "Rua Palame 9",
+        "address_line2": "Itapuã, Salvador - BA, 41635-150, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33J2J+3H",
+        "plus_code_short": "3J2J+3H Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51c61fa0562c2f43c05942ee224c51e629c0f00102f9016af1662b00000000c0020392030a5275612050616c616d65",
+        "bbox": {
+          "lon1": -38.3685703,
+          "lat1": -12.9500359,
+          "lon2": -38.3684776,
+          "lat2": -12.9499241
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Palame, 9 | Itapuã, Salvador - BA",
+      "parsed": {
+        "house": "| itapuã",
+        "housenumber": "9",
+        "street": "r. palame",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Artur de Azevedo Machado, 65 | STIEP, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Artur de Azevedo Machado",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41770-235",
+        "district": "Salvador",
+        "suburb": "STIEP",
+        "street": "Rua Artur de Azevedo Machado",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4485402,
+        "lat": -12.9852945,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Artur de Azevedo Machado, STIEP, Salvador - BA, 41770-235, Brazil",
+        "address_line1": "Rua Artur de Azevedo Machado",
+        "address_line2": "STIEP, Salvador - BA, 41770-235, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32H72+VH",
+        "plus_code_short": "2H72+VH Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517cf8e8c3693943c0597bdb4c8578f829c0f00102f9019c140d3a00000000c0020492031c52756120417274757220646520417a657665646f204d61636861646f",
+        "bbox": {
+          "lon1": -38.4486508,
+          "lat1": -12.9859708,
+          "lon2": -38.4484591,
+          "lat2": -12.9846205
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Artur de Azevedo Machado, 65 | STIEP, Salvador - BA",
+      "parsed": {
+        "housenumber": "65 |",
+        "street": "rua artur de azevedo machado",
+        "suburb": "stiep",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Rockefeller, 39 | Barris, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Rockefeller, 39 | Barris, Salvador - BA",
+      "parsed": {
+        "housenumber": "39 | barris",
+        "street": "r. rockefeller",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Souza Uzel, 4 | Federação, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Souza Uzel",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40210-908",
+        "district": "Salvador",
+        "suburb": "Federação",
+        "quarter": "Vila Binóculo",
+        "street": "Rua Souza Uzel",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5105153,
+        "lat": -12.9969984,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Souza Uzel, Federação, Salvador - BA, 40210-908, Brazil",
+        "address_line1": "Rua Souza Uzel",
+        "address_line2": "Federação, Salvador - BA, 40210-908, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32F3Q+6Q",
+        "plus_code_short": "2F3Q+6Q Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5769230769230769,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "51c7cdba90584143c0592354049376fe29c0f00102f901b256e90200000000c0020492030e52756120536f757a6120557a656c",
+        "bbox": {
+          "lon1": -38.5114762,
+          "lat1": -12.9976752,
+          "lon2": -38.5096805,
+          "lat2": -12.9961529
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Souza Uzel, 4 | Federação, Salvador - BA"
+    }
+  },
+  "Rua do Alvo, 10 | Saúde, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua do Alvo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40045-140",
+        "district": "Salvador",
+        "suburb": "Saúde",
+        "street": "Rua do Alvo",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5063407,
+        "lat": -12.9710914,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua do Alvo, Saúde, Salvador - BA, 40045-140, Brazil",
+        "address_line1": "Rua do Alvo",
+        "address_line2": "Saúde, Salvador - BA, 40045-140, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32FHV+HF",
+        "plus_code_short": "HV+HF Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "511f91a5c5cf4043c0598dda58e432f129c0f00102f901755de90200000000c0020492030b52756120646f20416c766f",
+        "bbox": {
+          "lon1": -38.5072967,
+          "lat1": -12.9724819,
+          "lon2": -38.5062063,
+          "lat2": -12.9701462
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua do Alvo, 10 | Saúde, Salvador - BA",
+      "parsed": {
+        "housenumber": "10 |",
+        "street": "rua do alvo",
+        "suburb": "saúde",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. José Joaquim Seabra, 151 | Baixa dos Sapateiros, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida José Joaquim Seabra",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40040-240",
+        "district": "Salvador",
+        "suburb": "Centro Histórico",
+        "quarter": "Pelourinho",
+        "street": "Avenida José Joaquim Seabra",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5074761,
+        "lat": -12.9749389,
+        "state_code": "BA",
+        "housenumber": "151",
+        "result_type": "building",
+        "formatted": "Avenida José Joaquim Seabra 151, Centro Histórico, Salvador - BA, 40040-240, Brazil",
+        "address_line1": "Avenida José Joaquim Seabra 151",
+        "address_line2": "Centro Histórico, Salvador - BA, 40040-240, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32FGV+22",
+        "plus_code_short": "GV+22 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.75,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "51358012faf44043c059493206312bf329c0f00102f9017a5de90200000000c0020392031c4176656e696461204a6f73c3a9204a6f617175696d20536561627261",
+        "bbox": {
+          "lon1": -38.5087663,
+          "lat1": -12.9756141,
+          "lon2": -38.5073323,
+          "lat2": -12.9743049
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. José Joaquim Seabra, 151 | Baixa dos Sapateiros, Salvador - BA",
+      "parsed": {
+        "housenumber": "151",
+        "street": "av. josé joaquim seabra",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Andaraí, 723 | Resgate, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Andaraí, 723 | Resgate, Salvador - BA",
+      "parsed": {
+        "housenumber": "723",
+        "street": "| resgate",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Eduardo Dotto, 337 | Paripe, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Eduardo Dotto, 337 | Paripe, Salvador - BA",
+      "parsed": {
+        "housenumber": "337 | paripe",
+        "street": "rua eduardo dotto",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Beco da Sereia, 7  | Saúde, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Beco da Sereia",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40045-060",
+        "district": "Salvador",
+        "suburb": "Saúde",
+        "street": "Beco da Sereia",
+        "housenumber": "7",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5047236,
+        "lat": -12.9737277,
+        "state_code": "BA",
+        "result_type": "amenity",
+        "formatted": "Beco da Sereia 7, Saúde, Salvador - BA, 40045-060, Brazil",
+        "address_line1": "Beco da Sereia 7",
+        "address_line2": "Saúde, Salvador - BA, 40045-060, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32FGW+G4",
+        "plus_code_short": "GW+G4 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 6.816433966578192e-05,
+          "confidence": 0.7054054054054054,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "confidence_building_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "517bc26dc89a4043c059296be56f8cf229c0f00103f90121d2580503000000c0020192030e4265636f20646120536572656961",
+        "bbox": {
+          "lon1": -38.5047736,
+          "lat1": -12.9737777,
+          "lon2": -38.5046736,
+          "lat2": -12.9736777
+        }
+      }
+    ],
+    "query": {
+      "text": "Beco da Sereia, 7  | Saúde, Salvador - BA"
+    }
+  },
+  "Estr. Ilha do Mocambo, 8 | Trobogy, Salvador - BA": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41745-031",
+        "district": "Salvador",
+        "suburb": "Trobogy",
+        "street": "Estrada da Ilha do Mocambo",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "BA",
+        "lon": -38.409388,
+        "lat": -12.932509,
+        "housenumber": "8",
+        "result_type": "building",
+        "formatted": "Estrada da Ilha do Mocambo 8, Trobogy, Salvador - BA, 41745-031, Brazil",
+        "address_line1": "Estrada da Ilha do Mocambo 8",
+        "address_line2": "Trobogy, Salvador - BA, 41745-031, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33H8R+X6",
+        "plus_code_short": "3H8R+X6 Salvador, Região Metropolitana de Salvador, Brazil",
+        "iso3166_2": "BR-BA",
+        "rank": {
+          "confidence": 0.7290000000000001,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "confidence_building_level": 0.81,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51fbaf73d3663443c0598a73d4d171dd29c0c00203e203266f70656e6164647265737365733a616464726573733a36633866636166616561353332343030",
+        "bbox": {
+          "lon1": -38.4098463,
+          "lat1": -12.9335508,
+          "lon2": -38.4084915,
+          "lat2": -12.931251
+        }
+      }
+    ],
+    "query": {
+      "text": "Estr. Ilha do Mocambo, 8 | Trobogy, Salvador - BA",
+      "parsed": {
+        "house": "| trobogy",
+        "housenumber": "8",
+        "street": "estr. ilha do mocambo",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua José Mariz Pinto, 60  | Baixa de Quintas, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Mariz Pinto",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40320-010",
+        "district": "Salvador",
+        "suburb": "Caixa D'Água",
+        "quarter": "Vila Quebra Bunda - Chácara Santo Antonio",
+        "street": "Rua José Mariz Pinto",
+        "iso3166_2": "BR-BA",
+        "lon": -38.497181,
+        "lat": -12.959975,
+        "state_code": "BA",
+        "housenumber": "60",
+        "result_type": "building",
+        "formatted": "Rua José Mariz Pinto 60, Caixa D'Água, Salvador - BA, 40320-010, Brazil",
+        "address_line1": "Rua José Mariz Pinto 60",
+        "address_line2": "Caixa D'Água, Salvador - BA, 40320-010, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32GR3+24",
+        "plus_code_short": "R3+24 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51a69883a0a33f43c05988f4dbd781eb29c0c00203920315527561204a6f73c3a9204d6172697a2050696e746fe203266f70656e6164647265737365733a616464726573733a34336566343137626435616235376335",
+        "bbox": {
+          "lon1": -38.4976098,
+          "lat1": -12.9609628,
+          "lon2": -38.4956656,
+          "lat2": -12.9582191
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua José Mariz Pinto, 60  | Baixa de Quintas, Salvador - BA",
+      "parsed": {
+        "house": "| baixa de quintas",
+        "housenumber": "60",
+        "street": "rua josé mariz pinto",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Haeckel José de Almeida, 177 | Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Haeckel José de Almeida",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "70613-100",
+        "district": "Salvador",
+        "suburb": "Piatã",
+        "street": "Rua Haeckel José de Almeida",
+        "iso3166_2": "BR-BA",
+        "lon": -38.3926337,
+        "lat": -12.9548249,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Haeckel José de Almeida, Piatã, Salvador - BA, 70613-100, Brazil",
+        "address_line1": "Rua Haeckel José de Almeida",
+        "address_line2": "Piatã, Salvador - BA, 70613-100, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32JW4+3W",
+        "plus_code_short": "2JW4+3W Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "515b6732d2413243c0591dd02dcfdee829c0f00102f9014d0fac0800000000c0020492031c52756120486165636b656c204a6f73c3a920646520416c6d65696461",
+        "bbox": {
+          "lon1": -38.3927756,
+          "lat1": -12.9554694,
+          "lon2": -38.3924979,
+          "lat2": -12.954179
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Haeckel José de Almeida, 177 | Salvador - BA",
+      "parsed": {
+        "housenumber": "177 |",
+        "street": "rua haeckel josé de almeida",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Greenfield, 174 | Barra, Salvador - BA": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "174",
+        "street": "Rua Greenfeld",
+        "country": "Brazil",
+        "county": "Bahia",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "40140-250",
+        "state": "Northeast",
+        "district": "Salvador",
+        "city": "Salvador",
+        "county_code": "BA",
+        "lon": -38.528547,
+        "lat": -13.007421,
+        "result_type": "building",
+        "formatted": "Rua Greenfeld 174, Salvador - Northeast, 40140-250, Brazil",
+        "address_line1": "Rua Greenfeld 174",
+        "address_line2": "Salvador - Northeast, 40140-250, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59R3XFVC+2H",
+        "plus_code_short": "XFVC+2H Salvador, Bahia, Brazil",
+        "rank": {
+          "confidence": 0.81,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "confidence_building_level": 0.81,
+          "match_type": "full_match"
+        },
+        "place_id": "5110b3976da74343c059749b70afcc032ac0c00203e203466f70656e6164647265737365733a616464726573733a62722f62612f7374617465776964652d6164647265737365732d73746174653a38323030326164353236353137363432"
+      }
+    ],
+    "query": {
+      "text": "Rua Greenfield, 174 | Barra, Salvador - BA",
+      "parsed": {
+        "housenumber": "174 |",
+        "street": "rua greenfield",
+        "district": "barra",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Vila São Roque, 413 | Campinas de Brotas, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "Vila São Roque, 413 | Campinas de Brotas, Salvador - BA",
+      "parsed": {
+        "housenumber": "413",
+        "street": "| campinas de brotas",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Ladeira do Abaeté, 18 | Itapuã, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ladeira do Abaeté",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41620-240",
+        "district": "Salvador",
+        "suburb": "Itapuã",
+        "street": "Ladeira do Abaeté",
+        "iso3166_2": "BR-BA",
+        "lon": -38.362011,
+        "lat": -12.948871,
+        "state_code": "BA",
+        "housenumber": "18",
+        "result_type": "building",
+        "formatted": "Ladeira do Abaeté 18, Itapuã, Salvador - BA, 41620-240, Brazil",
+        "address_line1": "Ladeira do Abaeté 18",
+        "address_line2": "Itapuã, Salvador - BA, 41620-240, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33J2Q+F5",
+        "plus_code_short": "3J2Q+F5 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "5169e55e60562e43c059e23e726bd2e529c0c002039203124c61646569726120646f204162616574c3a9e203266f70656e6164647265737365733a616464726573733a65623236626137646264656562646564",
+        "bbox": {
+          "lon1": -38.3625238,
+          "lat1": -12.9496039,
+          "lon2": -38.3607549,
+          "lat2": -12.946093
+        }
+      }
+    ],
+    "query": {
+      "text": "Ladeira do Abaeté, 18 | Itapuã, Salvador - BA",
+      "parsed": {
+        "house": "| itapuã",
+        "housenumber": "18",
+        "street": "ladeira do abaeté",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. Oceano Pacífico, 4 | São Marcos, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.5434782608695652,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Oceano Pacífico, 4 | São Marcos, Salvador - BA"
+    }
+  },
+  "Rua do Carmo, 14, Santo Antônio, Salvador": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua do Carmo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40301-408",
+        "district": "Salvador",
+        "suburb": "Santo Antônio",
+        "quarter": "Vila Quebra Bunda - Chácara Santo Antonio",
+        "street": "Rua do Carmo",
+        "iso3166_2": "BR-BA",
+        "lon": -38.507519,
+        "lat": -12.968832,
+        "state_code": "BA",
+        "housenumber": "14",
+        "result_type": "building",
+        "formatted": "Rua do Carmo 14, Santo Antônio, Salvador - BA, 40301-408, Brazil",
+        "address_line1": "Rua do Carmo 14",
+        "address_line2": "Santo Antônio, Salvador - BA, 40301-408, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32FJR+FX",
+        "plus_code_short": "JR+FX Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a08cf161f64043c059f5a276bf0af029c0c0020392030c52756120646f204361726d6fe203266f70656e6164647265737365733a616464726573733a61633636626134636465356532373130",
+        "bbox": {
+          "lon1": -38.5076216,
+          "lat1": -12.9689921,
+          "lon2": -38.5069627,
+          "lat2": -12.9674994
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua do Carmo, 14, Santo Antônio, Salvador",
+      "parsed": {
+        "housenumber": "14",
+        "street": "rua do carmo",
+        "suburb": "santo antônio",
+        "city": "salvador",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Visconde de Mauá, 174 | Dois de Julho, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Visconde de Mauá, 174 | Dois de Julho, Salvador - BA",
+      "parsed": {
+        "housenumber": "174",
+        "street": "| dois de julho",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da Gratidão, 5 | Piatã, Salvador - BA": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41515-203",
+        "district": "Salvador",
+        "suburb": "Bairro da Paz",
+        "street": "Rua da Gratidão",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "BA",
+        "lon": -38.381803,
+        "lat": -12.937877,
+        "result_type": "street",
+        "formatted": "Rua da Gratidão, Bairro da Paz, Salvador - BA, 41515-203, Brazil",
+        "address_line1": "Rua da Gratidão",
+        "address_line2": "Bairro da Paz, Salvador - BA, 41515-203, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33J69+R7",
+        "plus_code_short": "3J69+R7 Salvador, Região Metropolitana de Salvador, Brazil",
+        "iso3166_2": "BR-BA",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e141b3ebde3043c0595857056a31e029c0f00102f9014ccd743a00000000c00204",
+        "bbox": {
+          "lon1": -38.3820463,
+          "lat1": -12.937976,
+          "lon2": -38.3815749,
+          "lat2": -12.9378199
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da Gratidão, 5 | Piatã, Salvador - BA",
+      "parsed": {
+        "housenumber": "5 | piatã",
+        "street": "rua da gratidão",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua das Hortências, 288 | Pituba, Salvador - BA": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40354-135",
+        "district": "Salvador",
+        "suburb": "Fazenda Grande do Retiro",
+        "street": "Rua das Hortências",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "BA",
+        "lon": -38.4781072,
+        "lat": -12.9461092,
+        "result_type": "street",
+        "formatted": "Rua das Hortências, Fazenda Grande do Retiro, Salvador - BA, 40354-135, Brazil",
+        "address_line1": "Rua das Hortências",
+        "address_line2": "Fazenda Grande do Retiro, Salvador - BA, 40354-135, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33G3C+HQ",
+        "plus_code_short": "3G3C+HQ Salvador, Região Metropolitana de Salvador, Brazil",
+        "iso3166_2": "BR-BA",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51b6fde19d323d43c059b3e3d06c68e429c0f00102f901a114521700000000c00204",
+        "bbox": {
+          "lon1": -38.4783362,
+          "lat1": -12.9461902,
+          "lon2": -38.4778783,
+          "lat2": -12.9460283
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua das Hortências, 288 | Pituba, Salvador - BA",
+      "parsed": {
+        "housenumber": "288 |",
+        "street": "rua das hortências",
+        "suburb": "pituba",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Maria Felipa, nº 23 Salvador – BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Maria Felipa",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40240-090",
+        "district": "Salvador",
+        "suburb": "Engenho Velho de Brotas",
+        "quarter": "Vila Baixa do Porco",
+        "street": "Rua Maria Felipa",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5043159,
+        "lat": -12.9870822,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Maria Felipa, Engenho Velho de Brotas, Salvador - BA, 40240-090, Brazil",
+        "address_line1": "Rua Maria Felipa",
+        "address_line2": "Engenho Velho de Brotas, Salvador - BA, 40240-090, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32F7W+57",
+        "plus_code_short": "2F7W+57 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5129ad646c8d4043c0596eed8ed662f929c0f00102f901fcc8783a00000000c00204920310527561204d617269612046656c697061",
+        "bbox": {
+          "lon1": -38.5048164,
+          "lat1": -12.9876939,
+          "lon2": -38.5037348,
+          "lat2": -12.9865372
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Maria Felipa, nº 23 Salvador – BA",
+      "parsed": {
+        "housenumber": "nº 23",
+        "street": "rua maria felipa",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Artêmio Castro Valente, 295 | Canabrava, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Artêmio Castro Valente, 295 | Canabrava, Salvador - BA",
+      "parsed": {
+        "housenumber": "295",
+        "street": "| canabrava",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Góes Calmon, 33 | Saúde, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Góes Calmon",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40045-140",
+        "district": "Salvador",
+        "suburb": "Saúde",
+        "street": "Rua Góes Calmon",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5058799,
+        "lat": -12.9708564,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Góes Calmon, Saúde, Salvador - BA, 40045-140, Brazil",
+        "address_line1": "Rua Góes Calmon",
+        "address_line2": "Saúde, Salvador - BA, 40045-140, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32FHV+MJ",
+        "plus_code_short": "HV+MJ Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51141a2dacc04043c0597f390e1714f129c0f00102f901787d8b1600000000c002049203105275612047c3b365732043616c6d6f6e",
+        "bbox": {
+          "lon1": -38.506484,
+          "lat1": -12.9708708,
+          "lon2": -38.5050906,
+          "lat2": -12.9705844
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Góes Calmon, 33 | Saúde, Salvador - BA",
+      "parsed": {
+        "housenumber": "33 |",
+        "street": "rua góes calmon",
+        "suburb": "saúde",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Antônio Carlos Magalhães, 54 | Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Antônio Carlos Magalhães",
+        "other_names": {
+          "alt_name": "Avenida ACM",
+          "name": "Avenida Antônio Carlos Magalhães",
+          "name:pt": "Avenida Antônio Carlos Magalhães"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41820-470",
+        "district": "Salvador",
+        "suburb": "Itaigara",
+        "street": "Avenida Antônio Carlos Magalhães",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4714558,
+        "lat": -12.9893056,
+        "state_code": "BA",
+        "result_type": "amenity",
+        "formatted": "Avenida Antônio Carlos Magalhães, Itaigara, Salvador - BA, 41820-470, Brazil",
+        "address_line1": "Avenida Antônio Carlos Magalhães",
+        "address_line2": "Itaigara, Salvador - BA, 41820-470, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G6H+7C",
+        "plus_code_short": "2G6H+7C Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "513841e5a9583c43c059d37f7b4386fa29c0f00102f901d5ecc93100000000c002019203224176656e69646120416e74c3b46e696f204361726c6f73204d6167616c68c3a36573",
+        "bbox": {
+          "lon1": -38.4734731,
+          "lat1": -12.9903699,
+          "lon2": -38.4692257,
+          "lat2": -12.9885838
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Antônio Carlos Magalhães, 54 | Salvador - BA",
+      "parsed": {
+        "housenumber": "54 |",
+        "street": "av. antônio carlos magalhães",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Oceânica, 297 | Barra, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Av. Oceânica",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40140-470",
+        "district": "Salvador",
+        "suburb": "Barra",
+        "street": "Av. Oceânica",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5241046,
+        "lat": -13.0098686,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Av. Oceânica, Barra, Salvador - BA, 40140-470, Brazil",
+        "address_line1": "Av. Oceânica",
+        "address_line2": "Barra, Salvador - BA, 40140-470, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59R3XFRG+39",
+        "plus_code_short": "XFRG+39 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.053370834668497714,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5172570adc154343c059be83447f0d052ac0f00102f9015a3eff5600000000c0020492030d41762e204f6365c3a26e696361",
+        "bbox": {
+          "lon1": -38.5243655,
+          "lat1": -13.0100203,
+          "lon2": -38.5238437,
+          "lat2": -13.0097169
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Oceânica, 297 | Barra, Salvador - BA",
+      "parsed": {
+        "housenumber": "297 |",
+        "street": "av. oceânica",
+        "district": "barra",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Mário Covas, 1430 | Trobogy, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Mário Covas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41745-130",
+        "district": "Salvador",
+        "suburb": "São Rafael",
+        "street": "Rua Mário Covas",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4130858,
+        "lat": -12.9343458,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Mário Covas, São Rafael, Salvador - BA, 41745-130, Brazil",
+        "address_line1": "Rua Mário Covas",
+        "address_line2": "São Rafael, Salvador - BA, 41745-130, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33H8P+7Q",
+        "plus_code_short": "3H8P+7Q Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5193b8d8fedf3443c059564f9c9262de29c0f00102f901869a320300000000c00204920310527561204dc3a172696f20436f766173",
+        "bbox": {
+          "lon1": -38.4148389,
+          "lat1": -12.9347044,
+          "lon2": -38.4111857,
+          "lat2": -12.9336875
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Mário Covas, 1430 | Trobogy, Salvador - BA",
+      "parsed": {
+        "house": "trobogy",
+        "housenumber": "1430 |",
+        "street": "rua mário covas",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Ladeira da Fonte, 44 | Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ladeira da Fonte",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40080-036",
+        "district": "Salvador",
+        "suburb": "Garcia",
+        "street": "Ladeira da Fonte",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5182276,
+        "lat": -12.9882666,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Ladeira da Fonte, Garcia, Salvador - BA, 40080-036, Brazil",
+        "address_line1": "Ladeira da Fonte",
+        "address_line2": "Garcia, Salvador - BA, 40080-036, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32F6J+MP",
+        "plus_code_short": "2F6J+MP Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "513af13048554243c0594e756d14fef929c0f00102f901af07970900000000c002049203104c61646569726120646120466f6e7465",
+        "bbox": {
+          "lon1": -38.5200724,
+          "lat1": -12.9884235,
+          "lon2": -38.5164086,
+          "lat2": -12.9882231
+        }
+      }
+    ],
+    "query": {
+      "text": "Ladeira da Fonte, 44 | Salvador - BA",
+      "parsed": {
+        "housenumber": "44 |",
+        "street": "ladeira da fonte",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R.  Castelo Branco,  7 Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Via Castelo Branco",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41330-050",
+        "district": "Salvador",
+        "street": "Via Castelo Branco",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4282088,
+        "lat": -12.9035342,
+        "state_code": "BA",
+        "housenumber": "7",
+        "result_type": "building",
+        "formatted": "Via Castelo Branco 7, Salvador - BA, 41330-050, Brazil",
+        "address_line1": "Via Castelo Branco 7",
+        "address_line2": "Salvador - BA, 41330-050, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33HWC+HP",
+        "plus_code_short": "3HWC+HP Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.75,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "5101eec38bcf3643c05992a2df089cce29c0f00102f9019b32fa1700000000c002039203125669612043617374656c6f204272616e636f",
+        "bbox": {
+          "lon1": -38.4293805,
+          "lat1": -12.9045313,
+          "lon2": -38.4277026,
+          "lat2": -12.9025108
+        }
+      }
+    ],
+    "query": {
+      "text": "R.  Castelo Branco,  7 Salvador - BA",
+      "parsed": {
+        "housenumber": "7",
+        "street": "r. castelo branco",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Osvaldo Cruz, 66 | Rio Vermelho, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41940-000",
+        "district": "Salvador",
+        "suburb": "Rio Vermelho",
+        "street": "Rua Oswaldo Cruz",
+        "housenumber": "66",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4878184,
+        "lat": -13.0130885,
+        "state_code": "BA",
+        "result_type": "building",
+        "formatted": "Rua Oswaldo Cruz 66, Rio Vermelho, Salvador - BA, 41940-000, Brazil",
+        "address_line1": "Rua Oswaldo Cruz 66",
+        "address_line2": "Rio Vermelho, Salvador - BA, 41940-000, Brazil",
+        "category": "building",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59R3XGP6+QV",
+        "plus_code_short": "XGP6+QV Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 6.816433966578192e-05,
+          "confidence": 0.7714285714285714,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7714285714285714,
+          "confidence_building_level": 0.7714285714285714,
+          "match_type": "full_match"
+        },
+        "place_id": "518b3155d5703e43c0594be82e89b3062ac0f00102f901738ad92900000000c00203",
+        "bbox": {
+          "lon1": -38.4879113,
+          "lat1": -13.0131717,
+          "lon2": -38.4877252,
+          "lat2": -13.0129971
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Osvaldo Cruz, 66 | Rio Vermelho, Salvador - BA",
+      "parsed": {
+        "housenumber": "66 |",
+        "street": "r. osvaldo cruz",
+        "suburb": "rio vermelho",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Santa Rita de Cássia, 40  | Graça, Salvador - BA": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40140-630",
+        "district": "Salvador",
+        "suburb": "Graça",
+        "street": "Rua Santa Rita de Cássia",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "BA",
+        "lon": -38.5261013,
+        "lat": -13.0009077,
+        "result_type": "street",
+        "formatted": "Rua Santa Rita de Cássia, Graça, Salvador - BA, 40140-630, Brazil",
+        "address_line1": "Rua Santa Rita de Cássia",
+        "address_line2": "Graça, Salvador - BA, 40140-630, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59R3XFXF+JH",
+        "plus_code_short": "XFXF+JH Salvador, Região Metropolitana de Salvador, Brazil",
+        "iso3166_2": "BR-BA",
+        "rank": {
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5109f19249574343c05911a15bf976002ac0f00102f9011758a50800000000c00204",
+        "bbox": {
+          "lon1": -38.526929,
+          "lat1": -13.0011837,
+          "lon2": -38.5259056,
+          "lat2": -12.9998555
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Santa Rita de Cássia, 40  | Graça, Salvador - BA",
+      "parsed": {
+        "housenumber": "40 | graça",
+        "street": "rua santa rita de cássia",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da Faísca, 12 | Dois de Julho, Salvador - BA": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "12",
+        "street": "2a Travessa Da Rua Dois De Julho",
+        "country": "Brazil",
+        "county": "Bahia",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "40430-030",
+        "state": "Northeast",
+        "district": "Salvador",
+        "city": "Salvador",
+        "county_code": "BA",
+        "lon": -38.500598,
+        "lat": -12.931887,
+        "result_type": "building",
+        "formatted": "2a Travessa Da Rua Dois De Julho 12, Salvador - Northeast, 40430-030, Brazil",
+        "address_line1": "2a Travessa Da Rua Dois De Julho 12",
+        "address_line2": "Salvador - Northeast, 40430-030, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33F9X+6Q",
+        "plus_code_short": "3F9X+6Q Salvador, Bahia, Brazil",
+        "rank": {
+          "confidence": 0.6561000000000001,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.6561000000000001,
+          "confidence_building_level": 0.6561000000000001,
+          "match_type": "full_match"
+        },
+        "place_id": "51b4386398134043c0599622f94a20dd29c0c00203e203466f70656e6164647265737365733a616464726573733a62722f62612f7374617465776964652d6164647265737365732d73746174653a62616630616264356534633464353333"
+      }
+    ],
+    "query": {
+      "text": "Rua da Faísca, 12 | Dois de Julho, Salvador - BA",
+      "parsed": {
+        "housenumber": "12 |",
+        "street": "dois de julho",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "1ª. Travessa Luiz Tarquínio Pontes, 223  | Centro, Lauro de Freitas - BA": {
+    "results": [],
+    "query": {
+      "text": "1ª. Travessa Luiz Tarquínio Pontes, 223  | Centro, Lauro de Freitas - BA",
+      "parsed": {
+        "housenumber": "223 |",
+        "street": "1ª travessa luiz tarquínio pontes",
+        "suburb": "centro",
+        "city": "lauro de freitas",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Almiro Mario de Almeida, 34 | Cabula, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Almiro Mario de Almeida, 34 | Cabula, Salvador - BA",
+      "parsed": {
+        "house": "| cabula",
+        "housenumber": "34",
+        "street": "r. almiro mario de almeida",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. José Mariz Pinto, 18 | Baixa de Quintas, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Mariz Pinto",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40320-010",
+        "district": "Salvador",
+        "suburb": "Caixa D'Água",
+        "quarter": "Vila Quebra Bunda - Chácara Santo Antonio",
+        "street": "Rua José Mariz Pinto",
+        "iso3166_2": "BR-BA",
+        "lon": -38.497515,
+        "lat": -12.960819,
+        "state_code": "BA",
+        "housenumber": "18",
+        "result_type": "building",
+        "formatted": "Rua José Mariz Pinto 18, Caixa D'Água, Salvador - BA, 40320-010, Brazil",
+        "address_line1": "Rua José Mariz Pinto 18",
+        "address_line2": "Caixa D'Água, Salvador - BA, 40320-010, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32GQ2+MX",
+        "plus_code_short": "Q2+MX Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "517d224f92ae3f43c05938c0cc77f0eb29c0c00203920315527561204a6f73c3a9204d6172697a2050696e746fe203266f70656e6164647265737365733a616464726573733a36393330353439336237346631363630",
+        "bbox": {
+          "lon1": -38.4976098,
+          "lat1": -12.9609628,
+          "lon2": -38.4956656,
+          "lat2": -12.9582191
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Mariz Pinto, 18 | Baixa de Quintas, Salvador - BA",
+      "parsed": {
+        "house": "| baixa de quintas",
+        "housenumber": "18",
+        "street": "r. josé mariz pinto",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Território do Rio Branco, 125 | Pituba, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Outbecko",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41830-520",
+        "district": "Salvador",
+        "suburb": "Pituba",
+        "street": "Rua Território do Rio Branco",
+        "housenumber": "125",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4579767,
+        "lat": -13.0002497,
+        "state_code": "BA",
+        "result_type": "amenity",
+        "formatted": "Outbecko, Rua Território do Rio Branco 125, Pituba, Salvador - BA, 41830-520, Brazil",
+        "address_line1": "Outbecko",
+        "address_line2": "Rua Território do Rio Branco 125, Pituba, Salvador - BA, 41830-520, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59R3XGXR+WR",
+        "plus_code_short": "XGXR+WR Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 6.816433966578192e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "513e6a02fb9e3a43c059e9aa8aba20002ac0f00103f901ae179d8601000000c002019203084f75746265636b6f",
+        "bbox": {
+          "lon1": -38.4580267,
+          "lat1": -13.0002997,
+          "lon2": -38.4579267,
+          "lat2": -13.0001997
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Território do Rio Branco, 125 | Pituba, Salvador - BA",
+      "parsed": {
+        "housenumber": "125 |",
+        "street": "r. território do rio branco",
+        "suburb": "pituba",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Silveira Martins, 445 | Cabula, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Silveira Martins",
+        "other_names": {
+          "alt_name": "Rua Antonio Alvares da Silva"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41150-000",
+        "district": "Salvador",
+        "suburb": "Cabula",
+        "street": "Rua Silveira Martins",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4643341,
+        "lat": -12.9563128,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Silveira Martins, Cabula, Salvador - BA, 41150-000, Brazil",
+        "address_line1": "Rua Silveira Martins",
+        "address_line2": "Cabula, Salvador - BA, 41150-000, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32GVP+F7",
+        "plus_code_short": "2GVP+F7 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5174f5be4c6f3b43c0590c7ed1d4a1e929c0f00102f90138b5831000000000c002049203145275612053696c7665697261204d617274696e73",
+        "bbox": {
+          "lon1": -38.4654173,
+          "lat1": -12.9575284,
+          "lon2": -38.4640286,
+          "lat2": -12.9546803
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Silveira Martins, 445 | Cabula, Salvador - BA",
+      "parsed": {
+        "housenumber": "445 |",
+        "street": "r. silveira martins",
+        "suburb": "cabula",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Tamoio, 0 | Plataforma, Salvador - BA": {
+    "results": [
+      {
+        "country_code": "br",
+        "country": "Brazil",
+        "county": "Bahia",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Northeast",
+        "district": "Salvador",
+        "city": "Salvador",
+        "county_code": "BA",
+        "lon": -38.421936,
+        "lat": -12.964413,
+        "result_type": "district",
+        "formatted": "Salvador, Bahia, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "Bahia, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32HPH+66",
+        "plus_code_short": "2HPH+66 Salvador, Bahia, Brazil",
+        "rank": {
+          "confidence": 0.5945945945945945,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a680b4ff013643c059acac6d8ac7ed29c0c00206e2031e77686f736f6e66697273743a6c6f63616c6974793a313031393530343437",
+        "bbox": {
+          "lon1": -38.699264,
+          "lat1": -13.017381,
+          "lon2": -38.304037,
+          "lat2": -12.733562
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Tamoio, 0 | Plataforma, Salvador - BA"
+    }
+  },
+  "Avenida Aliomar Baleeiro, 6078 Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Aliomar Baleeiro",
+        "other_names": {
+          "alt_name": "Estrada Velha do Aeroporto"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41350-275",
+        "district": "Salvador",
+        "street": "Avenida Aliomar Baleeiro",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4028884,
+        "lat": -12.919184,
+        "state_code": "BA",
+        "housenumber": "6078",
+        "result_type": "building",
+        "formatted": "Avenida Aliomar Baleeiro 6078, Salvador - BA, 41350-275, Brazil",
+        "address_line1": "Avenida Aliomar Baleeiro 6078",
+        "address_line2": "Salvador - BA, 41350-275, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33HJW+8R",
+        "plus_code_short": "3HJW+8R Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.75,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "5109f8dad8913343c0594f0306499fd629c0f00102f9019775f90500000000c002039203184176656e69646120416c696f6d61722042616c656569726f",
+        "bbox": {
+          "lon1": -38.395987,
+          "lat1": -12.9185105,
+          "lon2": -38.3945226,
+          "lat2": -12.9176687
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Aliomar Baleeiro, 6078 Salvador - BA",
+      "parsed": {
+        "housenumber": "6078",
+        "street": "avenida aliomar baleeiro",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Al. Campinas de Pirajá, 88 | Campinas de Pirajá, Salvador - BA": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40290-200",
+        "district": "Salvador",
+        "suburb": "Marechal Rondon",
+        "street": "Alameda Campinas de Pirajá",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "BA",
+        "lon": -38.4660127,
+        "lat": -12.9106071,
+        "housenumber": "88",
+        "result_type": "building",
+        "name": "Alameda Campinas de Pirajá",
+        "iso3166_2": "BR-BA",
+        "formatted": "Alameda Campinas de Pirajá 88, Marechal Rondon, Salvador - BA, 40290-200, Brazil",
+        "address_line1": "Alameda Campinas de Pirajá 88",
+        "address_line2": "Marechal Rondon, Salvador - BA, 40290-200, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33GQM+QH",
+        "plus_code_short": "3GQM+QH Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51a502dd4da63b43c059c40204183bd229c0f00102f901c738521700000000c0020392031b416c616d6564612043616d70696e617320646520506972616ac3a1",
+        "bbox": {
+          "lon1": -38.4659642,
+          "lat1": -12.9118522,
+          "lon2": -38.4651314,
+          "lat2": -12.910653
+        }
+      }
+    ],
+    "query": {
+      "text": "Al. Campinas de Pirajá, 88 | Campinas de Pirajá, Salvador - BA",
+      "parsed": {
+        "house": "| campinas de pirajá",
+        "housenumber": "88",
+        "street": "al. campinas de pirajá",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua Álvaro da Franca Rocha, 5 | Cajazeiras IV, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.1686862244897959,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Álvaro da Franca Rocha, 5 | Cajazeiras IV, Salvador - BA"
+    }
+  },
+  "Rua do Meio, 237 -  | Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua do Meio",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41940-430",
+        "district": "Salvador",
+        "suburb": "Rio Vermelho",
+        "street": "Rua do Meio",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4868343,
+        "lat": -13.0130847,
+        "state_code": "BA",
+        "housenumber": "237",
+        "result_type": "building",
+        "formatted": "Rua do Meio 237, Rio Vermelho, Salvador - BA, 41940-430, Brazil",
+        "address_line1": "Rua do Meio 237",
+        "address_line2": "Rio Vermelho, Salvador - BA, 41940-430, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59R3XGP7+Q7",
+        "plus_code_short": "XGP7+Q7 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5118891a96503e43c059ec27ad09b3062ac0f00102f901cf85910700000000c0020392030b52756120646f204d65696f",
+        "bbox": {
+          "lon1": -38.488204,
+          "lat1": -13.013484,
+          "lon2": -38.4854865,
+          "lat2": -13.0129009
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua do Meio, 237 -  | Salvador - BA",
+      "parsed": {
+        "housenumber": "237",
+        "street": "rua do meio",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Aristides Milton, 33 | Itapuã, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Engenheiro Aristides Milton",
+        "other_names": {
+          "alt_name": "Rua Aristides Milton"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41610-011",
+        "district": "Salvador",
+        "suburb": "Itapuã",
+        "street": "Rua Engenheiro Aristides Milton",
+        "iso3166_2": "BR-BA",
+        "lon": -38.3671694,
+        "lat": -12.9503935,
+        "state_code": "BA",
+        "housenumber": "33",
+        "result_type": "building",
+        "formatted": "Rua Engenheiro Aristides Milton 33, Itapuã, Salvador - BA, 41610-011, Brazil",
+        "address_line1": "Rua Engenheiro Aristides Milton 33",
+        "address_line2": "Itapuã, Salvador - BA, 41610-011, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32JXM+R4",
+        "plus_code_short": "2JXM+R4 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.405,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "confidence_building_level": 0,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51c58b2a68ff2e43c05976a911fa99e629c0f00102f901dc92fd3900000000c0020392031f52756120456e67656e686569726f20417269737469646573204d696c746f6e",
+        "bbox": {
+          "lon1": -38.3673397,
+          "lat1": -12.9504241,
+          "lon2": -38.366999,
+          "lat2": -12.950363
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Aristides Milton, 33 | Itapuã, Salvador - BA",
+      "parsed": {
+        "house": "| itapuã",
+        "housenumber": "33",
+        "street": "rua aristides milton",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua das Esperas, 18 | Pituba, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua das Esperas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41810-001",
+        "district": "Salvador",
+        "suburb": "Pituba",
+        "street": "Rua das Esperas",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4558208,
+        "lat": -12.9930158,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua das Esperas, Pituba, Salvador - BA, 41810-001, Brazil",
+        "address_line1": "Rua das Esperas",
+        "address_line2": "Pituba, Salvador - BA, 41810-001, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G4V+QM",
+        "plus_code_short": "2G4V+QM Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51146b0256583a43c05993d222916cfc29c0f00102f9010bc8aa0a00000000c0020492030f527561206461732045737065726173",
+        "bbox": {
+          "lon1": -38.4562828,
+          "lat1": -12.9930253,
+          "lon2": -38.4553589,
+          "lat2": -12.9930063
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua das Esperas, 18 | Pituba, Salvador - BA",
+      "parsed": {
+        "housenumber": "18 |",
+        "street": "rua das esperas",
+        "suburb": "pituba",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Ladeira do Abaeté, 0  | Itapuã, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ladeira do Abaeté",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41620-240",
+        "district": "Salvador",
+        "suburb": "Itapuã",
+        "street": "Ladeira do Abaeté",
+        "iso3166_2": "BR-BA",
+        "lon": -38.361531,
+        "lat": -12.9477451,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Ladeira do Abaeté, Itapuã, Salvador - BA, 41620-240, Brazil",
+        "address_line1": "Ladeira do Abaeté",
+        "address_line2": "Itapuã, Salvador - BA, 41620-240, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33J2Q+W9",
+        "plus_code_short": "3J2Q+W9 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51bebed6a5462e43c05975e382d83ee529c0f00102f901c5167d1700000000c002049203124c61646569726120646f204162616574c3a9",
+        "bbox": {
+          "lon1": -38.3625238,
+          "lat1": -12.9496039,
+          "lon2": -38.3607549,
+          "lat2": -12.946093
+        }
+      }
+    ],
+    "query": {
+      "text": "Ladeira do Abaeté, 0  | Itapuã, Salvador - BA",
+      "parsed": {
+        "house": "| itapuã",
+        "housenumber": "0",
+        "street": "ladeira do abaeté",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Direita de Santo Antônio, 1 - Cruz do Pascoal | Santo Antônio, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "alt_name": "Santo Antônio Além do Carmo"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "district": "Salvador",
+        "suburb": "Santo Antônio",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5036352,
+        "lat": -12.9654964,
+        "state_code": "BA",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Santo Antônio, Salvador, BA, Brazil",
+        "address_line1": "Santo Antônio",
+        "address_line2": "Salvador, BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32FMW+RG",
+        "plus_code_short": "MW+RG Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.33861775862348764,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51a58e441e774043c059bccf4c8b55ee29c0f00101f9015fe0da0000000000c00205",
+        "bbox": {
+          "lon1": -38.5081993,
+          "lat1": -12.9696997,
+          "lon2": -38.5013289,
+          "lat2": -12.960374
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Direita de Santo Antônio, 1 - Cruz do Pascoal | Santo Antônio, Salvador - BA",
+      "parsed": {
+        "street": "santo antônio cruz do pascoal |",
+        "suburb": "santo antônio",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "street"
+      }
+    }
+  },
+  "R. Resende de Jesus, 6 | São Caetano, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.5531914893617021,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Resende de Jesus, 6 | São Caetano, Salvador - BA"
+    }
+  },
+  "Rua Oswaldo Sá Menezes, 8  Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Oswaldo Sá Menezes",
+        "old_name": "Rua C",
+        "other_names": {
+          "old_name": "Rua C"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41339-230",
+        "district": "Salvador",
+        "suburb": "Cajazeiras",
+        "street": "Rua Oswaldo Sá Menezes",
+        "iso3166_2": "BR-BA",
+        "lon": -38.405078,
+        "lat": -12.895282,
+        "state_code": "BA",
+        "housenumber": "8",
+        "result_type": "building",
+        "formatted": "Rua Oswaldo Sá Menezes 8, Cajazeiras, Salvador - BA, 41339-230, Brazil",
+        "address_line1": "Rua Oswaldo Sá Menezes 8",
+        "address_line2": "Cajazeiras, Salvador - BA, 41339-230, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V34H3V+VX",
+        "plus_code_short": "4H3V+VX Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51202a8d98d93343c0591b65fd6662ca29c0c00203920317527561204f7377616c646f2053c3a1204d656e657a6573e203266f70656e6164647265737365733a616464726573733a66303465306536643535346338326366",
+        "bbox": {
+          "lon1": -38.4078276,
+          "lat1": -12.8954756,
+          "lon2": -38.4042428,
+          "lat2": -12.8907658
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Oswaldo Sá Menezes, 8  Salvador - BA",
+      "parsed": {
+        "housenumber": "8",
+        "street": "rua oswaldo sá menezes",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Quintino Bocayuva, 18 | Garcia, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Quintino Bocayuva",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40100-240",
+        "district": "Salvador",
+        "suburb": "Garcia",
+        "street": "Rua Quintino Bocayuva",
+        "iso3166_2": "BR-BA",
+        "lon": -38.508185,
+        "lat": -12.990437,
+        "state_code": "BA",
+        "housenumber": "18",
+        "result_type": "building",
+        "formatted": "Rua Quintino Bocayuva 18, Garcia, Salvador - BA, 40100-240, Brazil",
+        "address_line1": "Rua Quintino Bocayuva 18",
+        "address_line2": "Garcia, Salvador - BA, 40100-240, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32F5R+RP",
+        "plus_code_short": "2F5R+RP Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51aca8c1340c4143c059287ff78e1afb29c0c00203920315527561205175696e74696e6f20426f636179757661e203266f70656e6164647265737365733a616464726573733a66353632623331393665353066373665",
+        "bbox": {
+          "lon1": -38.5085422,
+          "lat1": -12.9907215,
+          "lon2": -38.5070453,
+          "lat2": -12.9894442
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Quintino Bocayuva, 18 | Garcia, Salvador - BA",
+      "parsed": {
+        "house": "| garcia",
+        "housenumber": "18",
+        "street": "rua quintino bocayuva",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Teodósio Rodrigues de Faria, 27 - Bonfim, Salvador - BA, 40415-085": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "district": "Salvador",
+        "suburb": "Bonfim",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5082913,
+        "lat": -12.9256811,
+        "state_code": "BA",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Bonfim, Salvador, Região Metropolitana de Salvador, Brazil",
+        "address_line1": "Bonfim",
+        "address_line2": "Salvador, Região Metropolitana de Salvador, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33FFR+PM",
+        "plus_code_short": "3FFR+PM Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.3479646975901272,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51b12b77b00f4143c059f50c86dff2d929c0f00101f901553ddb0000000000c00205",
+        "bbox": {
+          "lon1": -38.5124767,
+          "lat1": -12.9365245,
+          "lon2": -38.5018984,
+          "lat2": -12.9206438
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Teodósio Rodrigues de Faria, 27 - Bonfim, Salvador - BA, 40415-085",
+      "parsed": {
+        "housenumber": "27",
+        "street": "r. teodósio rodrigues de faria",
+        "suburb": "bonfim",
+        "postcode": "40415-085",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Pedro Gama, 118 | Federação, Salvador - BA": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "570",
+        "street": "Rua Jardim Federacao",
+        "country": "Brazil",
+        "county": "Bahia",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "40231-060",
+        "state": "Northeast",
+        "district": "Salvador",
+        "city": "Salvador",
+        "county_code": "BA",
+        "lon": -38.502099,
+        "lat": -12.994308,
+        "result_type": "building",
+        "formatted": "Rua Jardim Federacao 570, Salvador - Northeast, 40231-060, Brazil",
+        "address_line1": "Rua Jardim Federacao 570",
+        "address_line2": "Salvador - Northeast, 40231-060, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32F4X+75",
+        "plus_code_short": "2F4X+75 Salvador, Bahia, Brazil",
+        "rank": {
+          "confidence": 0.2835,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.567,
+          "confidence_building_level": 0.007526548672566371,
+          "match_type": "full_match"
+        },
+        "place_id": "515a2db0c7444043c059664d2cf015fd29c0c00203e203466f70656e6164647265737365733a616464726573733a62722f62612f7374617465776964652d6164647265737365732d73746174653a38666634633239613337376638313035"
+      }
+    ],
+    "query": {
+      "text": "R. Pedro Gama, 118 | Federação, Salvador - BA",
+      "parsed": {
+        "housenumber": "118",
+        "street": "| federação",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Iemanjá, 92 | Boca do Rio, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Iemanjá",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41750-260",
+        "district": "Salvador",
+        "suburb": "Boca do Rio",
+        "street": "Avenida Iemanjá",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4343016,
+        "lat": -12.9831868,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Avenida Iemanjá, Boca do Rio, Salvador - BA, 41750-260, Brazil",
+        "address_line1": "Avenida Iemanjá",
+        "address_line2": "Boca do Rio, Salvador - BA, 41750-260, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32H88+P7",
+        "plus_code_short": "2H88+P7 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51dc4ce031973743c059c1b79f4264f729c0f00102f90110baa90800000000c002049203104176656e6964612049656d616e6ac3a1",
+        "bbox": {
+          "lon1": -38.436208,
+          "lat1": -12.9847553,
+          "lon2": -38.4323497,
+          "lat2": -12.9816762
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Iemanjá, 92 | Boca do Rio, Salvador - BA",
+      "parsed": {
+        "housenumber": "92 |",
+        "street": "av. iemanjá",
+        "suburb": "boca do rio",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dias D'Ávila, 110 | Barra, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Dias D'Avila",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40140-130",
+        "district": "Salvador",
+        "suburb": "Barra",
+        "street": "Rua Dias D'Avila",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5309073,
+        "lat": -13.0092054,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Dias D'Avila, Barra, Salvador - BA, 40140-130, Brazil",
+        "address_line1": "Rua Dias D'Avila",
+        "address_line2": "Barra, Salvador - BA, 40140-130, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59R3XFR9+8J",
+        "plus_code_short": "XFR9+8J Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.053370834668497714,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51955a39c5f44343c059a9e4f791b6042ac0f00102f901f27edf0200000000c0020492031052756120446961732044274176696c61",
+        "bbox": {
+          "lon1": -38.5309564,
+          "lat1": -13.0095025,
+          "lon2": -38.5308582,
+          "lat2": -13.0089084
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dias D'Ávila, 110 | Barra, Salvador - BA",
+      "parsed": {
+        "housenumber": "110 |",
+        "street": "r. dias d'ávila",
+        "district": "barra",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Numa Pompílio Bittencourt, 395 | Pernambués, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Numa Pompílio Bittencourt",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41098-010",
+        "district": "Salvador",
+        "neighbourhood": "Horto Bela Vista",
+        "suburb": "Pernambués",
+        "street": "Rua Numa Pompílio Bittencourt",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4695897,
+        "lat": -12.9703479,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Numa Pompílio Bittencourt, Pernambués, Salvador - BA, 41098-010, Brazil",
+        "address_line1": "Rua Numa Pompílio Bittencourt",
+        "address_line2": "Pernambués, Salvador - BA, 41098-010, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32GHJ+V5",
+        "plus_code_short": "2GHJ+V5 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51ec04ea831b3c43c0590c7ca070d1f029c0f00102f9010a12480300000000c0020492031e527561204e756d6120506f6d70c3ad6c696f2042697474656e636f757274",
+        "bbox": {
+          "lon1": -38.4742083,
+          "lat1": -12.9734375,
+          "lon2": -38.4683513,
+          "lat2": -12.9651285
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Numa Pompílio Bittencourt, 395 | Pernambués, Salvador - BA",
+      "parsed": {
+        "housenumber": "395 | pernambués",
+        "street": "rua numa pompílio bittencourt",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Praça Gen. Inocêncio Galvão, 13 | Dois de Julho, Salvador - BA": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "13",
+        "street": "Rua Dois De Julho",
+        "country": "Brazil",
+        "county": "Bahia",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "41221-005",
+        "state": "Northeast",
+        "district": "Salvador",
+        "city": "Salvador",
+        "county_code": "BA",
+        "lon": -38.46387,
+        "lat": -12.93308,
+        "result_type": "building",
+        "formatted": "Rua Dois De Julho 13, Salvador - Northeast, 41221-005, Brazil",
+        "address_line1": "Rua Dois De Julho 13",
+        "address_line2": "Salvador - Northeast, 41221-005, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33G8P+QF",
+        "plus_code_short": "3G8P+QF Salvador, Bahia, Brazil",
+        "rank": {
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "confidence_building_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "513acc9717603b43c059761a69a9bcdd29c0c00203e203466f70656e6164647265737365733a616464726573733a62722f62612f7374617465776964652d6164647265737365732d73746174653a65323766303761333934396132393264"
+      }
+    ],
+    "query": {
+      "text": "Praça Gen. Inocêncio Galvão, 13 | Dois de Julho, Salvador - BA",
+      "parsed": {
+        "housenumber": "13 |",
+        "street": "dois de julho",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Desembargador Castelo Branco de Baixo, 1 | Solar do Unhão, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "سالفادور",
+          "name:be": "Сальвадор",
+          "name:bg": "Салвадор",
+          "name:bn": "সালভাদোর",
+          "name:ce": "Салвадор",
+          "name:el": "Σαλβαδόρ",
+          "name:es": "Salvador de Bahía",
+          "name:fa": "سالوادور",
+          "name:he": "סלבדור",
+          "name:hy": "Սալվադոր",
+          "name:ja": "サルヴァドール",
+          "name:ka": "სალვადორი",
+          "name:kk": "Салвадор",
+          "name:ko": "사우바도르",
+          "name:la": "Salvatoris",
+          "name:lt": "Salvadoras",
+          "name:lv": "Salvadora",
+          "name:mk": "Салвадор",
+          "name:mn": "Салвадор",
+          "name:mr": "साल्व्हादोर",
+          "name:os": "Салвадор",
+          "name:ru": "Салвадор",
+          "name:sr": "Салвадор",
+          "name:tg": "Салвадор",
+          "name:th": "ซัลวาดอร์",
+          "name:uk": "Салвадор",
+          "name:zh": "萨尔瓦多",
+          "name:am": "ሳውቫዶር",
+          "name:eo": "Salvadoro",
+          "name:hi": "साल्वाडोर",
+          "name:ky": "Салвадор",
+          "name:my": "ဆာလ်ဗဒေါမြို့",
+          "name:ne": "साल्भादोर",
+          "name:si": "සැල්වදෝර්",
+          "name:ta": "சவ்வாதோர்",
+          "name:tt": "Салвадор",
+          "name:ur": "سلواڈور",
+          "short_name": "SSA"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4812772,
+        "lat": -12.9822499,
+        "state_code": "BA",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Salvador, BA, Brazil",
+        "address_line1": "Salvador",
+        "address_line2": "BA, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G99+4F",
+        "plus_code_short": "2G99+4F Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.6505967667014687,
+          "confidence": 0.19063677841698073,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bd27c57d9a3d43c059a0ff7975e9f629c0f00101f9017a87050000000000c00208",
+        "bbox": {
+          "lon1": -38.6994346,
+          "lat1": -13.0173949,
+          "lon2": -38.3034141,
+          "lat2": -12.7335366
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Desembargador Castelo Branco de Baixo, 1 | Solar do Unhão, Salvador - BA"
+    }
+  },
+  "R. Alexandre de Gusmão, 50 | Rio Vermelho, Salvador - BA": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "50",
+        "street": "Rua Alexandre De Gusmao",
+        "country": "Brazil",
+        "county": "Bahia",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "41950-160",
+        "state": "Northeast",
+        "district": "Salvador",
+        "city": "Salvador",
+        "county_code": "BA",
+        "lon": -38.495057,
+        "lat": -13.009599,
+        "result_type": "building",
+        "formatted": "Rua Alexandre De Gusmao 50, Salvador - Northeast, 41950-160, Brazil",
+        "address_line1": "Rua Alexandre De Gusmao 50",
+        "address_line2": "Salvador - Northeast, 41950-160, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59R3XGR3+5X",
+        "plus_code_short": "XGR3+5X Salvador, Bahia, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f4531c075e3f43c0590b26fe28ea042ac0c00203e203466f70656e6164647265737365733a616464726573733a62722f62612f7374617465776964652d6164647265737365732d73746174653a64353439373631666231383537383738"
+      }
+    ],
+    "query": {
+      "text": "R. Alexandre de Gusmão, 50 | Rio Vermelho, Salvador - BA",
+      "parsed": {
+        "housenumber": "50 |",
+        "street": "r. alexandre de gusmão",
+        "suburb": "rio vermelho",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua das Angélicas, 131 –  | Pituba, Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua das Angélicas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "41810-110",
+        "district": "Salvador",
+        "suburb": "Itaigara",
+        "street": "Rua das Angélicas",
+        "iso3166_2": "BR-BA",
+        "lon": -38.4589956,
+        "lat": -12.992301,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua das Angélicas, Itaigara, Salvador - BA, 41810-110, Brazil",
+        "address_line1": "Rua das Angélicas",
+        "address_line2": "Itaigara, Salvador - BA, 41810-110, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32G5R+3C",
+        "plus_code_short": "2G5R+3C Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "510381295ec03a43c05981936de00efc29c0f00102f901c46efc0200000000c002049203125275612064617320416e67c3a96c69636173",
+        "bbox": {
+          "lon1": -38.4592267,
+          "lat1": -12.9923207,
+          "lon2": -38.4580511,
+          "lat2": -12.9914885
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua das Angélicas, 131 –  | Pituba, Salvador - BA",
+      "parsed": {
+        "housenumber": "131 |",
+        "street": "rua das angélicas",
+        "suburb": "pituba",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Travessa Góes Calmon, 42 | Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Travessa Professor Francisco Góes Calmon",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40391-161",
+        "district": "Salvador",
+        "suburb": "Alagados",
+        "street": "Travessa Professor Francisco Góes Calmon",
+        "iso3166_2": "BR-BA",
+        "lon": -38.480168,
+        "lat": -12.9366291,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Travessa Professor Francisco Góes Calmon, Alagados, Salvador - BA, 40391-161, Brazil",
+        "address_line1": "Travessa Professor Francisco Góes Calmon",
+        "address_line2": "Alagados, Salvador - BA, 40391-161, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V33G79+8W",
+        "plus_code_short": "3G79+8W Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.405,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f94a2025763d43c059bdf671d98ddf29c0f00102f901213b120500000000c0020492032954726176657373612050726f666573736f72204672616e636973636f2047c3b365732043616c6d6f6e",
+        "bbox": {
+          "lon1": -38.48055,
+          "lat1": -12.9369168,
+          "lon2": -38.4797798,
+          "lat2": -12.9363333
+        }
+      }
+    ],
+    "query": {
+      "text": "Travessa Góes Calmon, 42 | Salvador - BA",
+      "parsed": {
+        "housenumber": "42 |",
+        "street": "travessa góes calmon",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Desembargador Castelo Branco, 0  | Salvador - BA": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Desembargador Castelo Branco",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Northeast Region",
+        "state": "Bahia",
+        "county": "Região Metropolitana de Salvador",
+        "state_district": "Região Geográfica Intermediária de Salvador",
+        "city": "Salvador",
+        "municipality": "Região Geográfica Imediata de Salvador",
+        "postcode": "40060-060",
+        "district": "Salvador",
+        "suburb": "Centro",
+        "street": "Rua Desembargador Castelo Branco",
+        "iso3166_2": "BR-BA",
+        "lon": -38.5196358,
+        "lat": -12.9824185,
+        "state_code": "BA",
+        "result_type": "street",
+        "formatted": "Rua Desembargador Castelo Branco, Centro, Salvador - BA, 40060-060, Brazil",
+        "address_line1": "Rua Desembargador Castelo Branco",
+        "address_line2": "Centro, Salvador - BA, 40060-060, Brazil",
+        "timezone": {
+          "name": "America/Bahia",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "59V32F9J+24",
+        "plus_code_short": "9J+24 Salvador, Região Metropolitana de Salvador, Brazil",
+        "rank": {
+          "importance": 0.05340149767299913,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51586a076d834243c05983f8c08efff629c0f00102f901dd776d2e00000000c0020492032052756120446573656d6261726761646f722043617374656c6f204272616e636f",
+        "bbox": {
+          "lon1": -38.5197872,
+          "lat1": -12.9824816,
+          "lon2": -38.5194875,
+          "lat2": -12.9824156
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Desembargador Castelo Branco, 0  | Salvador - BA",
+      "parsed": {
+        "housenumber": "0 |",
+        "street": "r. desembargador castelo branco",
+        "city": "salvador",
+        "state": "ba",
+        "expected_type": "building"
+      }
+    }
+  }
+}

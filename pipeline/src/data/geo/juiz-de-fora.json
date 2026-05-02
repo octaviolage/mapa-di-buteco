@@ -1,0 +1,2611 @@
+{
+  "Av. Dr. Francisco Álvares de Assis, 490 | Retiro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Doutor Francisco Álvares de Assis",
+        "ref": "LMG-874;BR-267",
+        "other_names": {
+          "ref": "LMG-874;BR-267",
+          "alt_name": "Rua Francisco Alvarez de Assis"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36020-510",
+        "district": "Vila Santa Maria",
+        "suburb": "Barão do Retiro",
+        "street": "Avenida Doutor Francisco Álvares de Assis",
+        "iso3166_2": "BR-MG",
+        "lon": -43.2989466,
+        "lat": -21.7819825,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Doutor Francisco Álvares de Assis, Barão do Retiro, Juiz de Fora - MG, 36020-510, Brazil",
+        "address_line1": "Avenida Doutor Francisco Álvares de Assis",
+        "address_line2": "Barão do Retiro, Juiz de Fora - MG, 36020-510, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6P92+6C",
+        "plus_code_short": "6P92+6C Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "510d20d7e143a645c059598b4f0130c835c0f00102f9012dff690100000000c0020492032a4176656e69646120446f75746f72204672616e636973636f20c3816c7661726573206465204173736973",
+        "bbox": {
+          "lon1": -43.3012095,
+          "lat1": -21.7871435,
+          "lon2": -43.2962423,
+          "lat2": -21.7766444
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Dr. Francisco Álvares de Assis, 490 | Retiro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "490 |",
+        "street": "av. dr. francisco álvares de assis",
+        "suburb": "retiro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Luiz Rocha, 2 | Santa Terezinha, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Luiz Rocha",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36046-130",
+        "suburb": "Eldorado",
+        "street": "Rua Luiz Rocha",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3644453,
+        "lat": -21.7322716,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Luiz Rocha, Eldorado, Juiz de Fora - MG, 36046-130, Brazil",
+        "address_line1": "Rua Luiz Rocha",
+        "address_line2": "Eldorado, Juiz de Fora - MG, 36046-130, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR7J9P+36",
+        "plus_code_short": "7J9P+36 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "512857c224a6ae45c05923cacd2676bb35c0f00102f90129d0dc1000000000c0020492030e527561204c75697a20526f636861",
+        "bbox": {
+          "lon1": -43.3667618,
+          "lat1": -21.7367224,
+          "lon2": -43.3610113,
+          "lat2": -21.7274756
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Luiz Rocha, 2 | Santa Terezinha, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "2 |",
+        "street": "r. luiz rocha",
+        "suburb": "santa terezinha",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Fonseca Hermes, 180 | Centro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Fonseca Hermes",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36013-070",
+        "suburb": "Centro",
+        "street": "Rua Fonseca Hermes",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3463655,
+        "lat": -21.7584868,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Fonseca Hermes, Centro, Juiz de Fora - MG, 36013-070, Brazil",
+        "address_line1": "Rua Fonseca Hermes",
+        "address_line2": "Centro, Juiz de Fora - MG, 36013-070, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MR3+JF",
+        "plus_code_short": "R3+JF Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51397b67b455ac45c0599c72e0302cc235c0f00102f901748c000a00000000c0020492031252756120466f6e73656361204865726d6573",
+        "bbox": {
+          "lon1": -43.3474402,
+          "lat1": -21.7587725,
+          "lon2": -43.3452869,
+          "lat2": -21.7582279
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Fonseca Hermes, 180 | Centro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "180 |",
+        "street": "r. fonseca hermes",
+        "suburb": "centro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. José Lourenço, 1262 | São Pedro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Lourenço",
+        "other_names": {
+          "alt_name": "Rua José Lourenço Kelmer",
+          "name": "Rua José Lourenço",
+          "name:pt": "Rua José Lourenço"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36036-231",
+        "suburb": "Adolpho Vireque",
+        "street": "Rua José Lourenço",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3728237,
+        "lat": -21.7695674,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua José Lourenço, Adolpho Vireque, Juiz de Fora - MG, 36036-231, Brazil",
+        "address_line1": "Rua José Lourenço",
+        "address_line2": "Adolpho Vireque, Juiz de Fora - MG, 36036-231, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JJG+5V",
+        "plus_code_short": "6JJG+5V Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "513c56dfafb8af45c05958117f5e02c535c0f00102f9011a28273000000000c00204920313527561204a6f73c3a9204c6f7572656ec3a76f",
+        "bbox": {
+          "lon1": -43.3751979,
+          "lat1": -21.7700357,
+          "lon2": -43.3717531,
+          "lat2": -21.7675197
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Lourenço, 1262 | São Pedro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "1262 |",
+        "street": "r. josé lourenço",
+        "suburb": "são pedro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua João Batista Sampaio, 150 | São Pedro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua João Batista Sampaio",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36038-308",
+        "district": "Itatiaia",
+        "suburb": "São Pedro",
+        "street": "Rua João Batista Sampaio",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3780193,
+        "lat": -21.7754945,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua João Batista Sampaio, São Pedro, Juiz de Fora - MG, 36038-308, Brazil",
+        "address_line1": "Rua João Batista Sampaio",
+        "address_line2": "São Pedro, Juiz de Fora - MG, 36038-308, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JFC+RQ",
+        "plus_code_short": "6JFC+RQ Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51df60b9ef62b045c05956babbce86c635c0f00102f901880d2c0700000000c00204920319527561204a6fc3a36f20426174697374612053616d7061696f",
+        "bbox": {
+          "lon1": -43.3788923,
+          "lat1": -21.7758995,
+          "lon2": -43.3770932,
+          "lat2": -21.7752326
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua João Batista Sampaio, 150 | São Pedro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "150 |",
+        "street": "rua joão batista sampaio",
+        "suburb": "são pedro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Sebastião Garcia, 933 | Juiz de Fora - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "933",
+        "street": "Rua Sebastiao Garcia",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "36090-645",
+        "state": "Southeast",
+        "district": "Juiz De Fora",
+        "city": "Juiz de Fora",
+        "county_code": "MG",
+        "lon": -43.436075,
+        "lat": -21.685403,
+        "result_type": "building",
+        "formatted": "Rua Sebastiao Garcia 933, Juiz de Fora - Southeast, 36090-645, Brazil",
+        "address_line1": "Rua Sebastiao Garcia 933",
+        "address_line2": "Juiz de Fora - Southeast, 36090-645, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR8H77+RH",
+        "plus_code_short": "8H77+RH Juiz de Fora, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5136cd3b4ed1b745c0598e942d9276af35c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a36633235316236306130313530356562"
+      }
+    ],
+    "query": {
+      "text": "R. Sebastião Garcia, 933 | Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "933 |",
+        "street": "r. sebastião garcia",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Pedro Henrique Krambeck, 210 | São Pedro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Pedro Henrique Krambeck",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36036-231",
+        "suburb": "Adolpho Vireque",
+        "street": "Avenida Pedro Henrique Krambeck",
+        "iso3166_2": "BR-MG",
+        "lon": -43.372786,
+        "lat": -21.7698645,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Pedro Henrique Krambeck, Adolpho Vireque, Juiz de Fora - MG, 36036-231, Brazil",
+        "address_line1": "Avenida Pedro Henrique Krambeck",
+        "address_line2": "Adolpho Vireque, Juiz de Fora - MG, 36036-231, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JJG+3V",
+        "plus_code_short": "6JJG+3V Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "510d349f73b7af45c059f5d901d715c535c0f00102f901619bd65400000000c0020492031f4176656e69646120506564726f2048656e7269717565204b72616d6265636b",
+        "bbox": {
+          "lon1": -43.3740405,
+          "lat1": -21.7703342,
+          "lon2": -43.371558,
+          "lat2": -21.769314
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Pedro Henrique Krambeck, 210 | São Pedro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "210 |",
+        "street": "av. pedro henrique krambeck",
+        "suburb": "são pedro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Santo Antônio, 10 | Centro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Santo Antônio",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36015-000",
+        "suburb": "Centro",
+        "street": "Rua Santo Antônio",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3521496,
+        "lat": -21.7575619,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Santo Antônio, Centro, Juiz de Fora - MG, 36015-000, Brazil",
+        "address_line1": "Rua Santo Antônio",
+        "address_line2": "Centro, Juiz de Fora - MG, 36015-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JRX+X4",
+        "plus_code_short": "RX+X4 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5155a6f33c13ad45c0591432a193efc135c0f00102f90194076a0100000000c002049203125275612053616e746f20416e74c3b46e696f",
+        "bbox": {
+          "lon1": -43.3532232,
+          "lat1": -21.7617595,
+          "lon2": -43.351076,
+          "lat2": -21.7533643
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Santo Antônio, 10 | Centro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "10 |",
+        "street": "r. santo antônio",
+        "suburb": "centro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Rafael Zacarias, 500 | Democrata, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Rafael Zacarias",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36035-210",
+        "district": "Democrata",
+        "suburb": "Fábrica",
+        "street": "Rua Rafael Zacarias",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3652109,
+        "lat": -21.7482867,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Rafael Zacarias, Fábrica, Juiz de Fora - MG, 36035-210, Brazil",
+        "address_line1": "Rua Rafael Zacarias",
+        "address_line2": "Fábrica, Juiz de Fora - MG, 36035-210, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR7J2M+MW",
+        "plus_code_short": "7J2M+MW Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5145d2133bbfae45c059228898b78fbf35c0f00102f90174fe3c0700000000c002049203135275612052616661656c205a61636172696173",
+        "bbox": {
+          "lon1": -43.3667332,
+          "lat1": -21.7494152,
+          "lon2": -43.3639671,
+          "lat2": -21.7469385
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Rafael Zacarias, 500 | Democrata, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "500 | democrata",
+        "street": "r. rafael zacarias",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua José Appolônio dos Reis, 312 | Aeroporto, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Appolônio dos Reis",
+        "old_name": "Rua B Um",
+        "other_names": {
+          "alt_name": "Rua José Loures Valle",
+          "old_name": "Rua B Um"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36038-312",
+        "suburb": "Aeroporto",
+        "street": "Rua José Appolônio dos Reis",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3791932,
+        "lat": -21.7836447,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua José Appolônio dos Reis, Aeroporto, Juiz de Fora - MG, 36038-312, Brazil",
+        "address_line1": "Rua José Appolônio dos Reis",
+        "address_line2": "Aeroporto, Juiz de Fora - MG, 36038-312, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6J8C+G8",
+        "plus_code_short": "6J8C+G8 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51cc6e1c6789b045c059092f66f09cc835c0f00102f901b21e7a5500000000c0020492031d527561204a6f73c3a9204170706f6cc3b46e696f20646f732052656973",
+        "bbox": {
+          "lon1": -43.3792457,
+          "lat1": -21.7836505,
+          "lon2": -43.3791407,
+          "lat2": -21.7836389
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua José Appolônio dos Reis, 312 | Aeroporto, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "312 |",
+        "street": "rua josé appolônio dos reis",
+        "suburb": "aeroporto",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Darcy Vargas, 31 | Ipiranga, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Darcy Vargas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36031-000",
+        "district": "Jardim de Alá",
+        "suburb": "Ipiranga",
+        "street": "Avenida Darcy Vargas",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3456038,
+        "lat": -21.7997025,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Darcy Vargas, Ipiranga, Juiz de Fora - MG, 36031-000, Brazil",
+        "address_line1": "Avenida Darcy Vargas",
+        "address_line2": "Ipiranga, Juiz de Fora - MG, 36031-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6M23+4Q",
+        "plus_code_short": "6M23+4Q Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c92fcdbe3cac45c0598907944db9cc35c0f00102f9016fc1841600000000c002049203144176656e69646120446172637920566172676173",
+        "bbox": {
+          "lon1": -43.3477204,
+          "lat1": -21.8017425,
+          "lon2": -43.343285,
+          "lat2": -21.7973208
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Darcy Vargas, 31 | Ipiranga, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "31 |",
+        "street": "av. darcy vargas",
+        "suburb": "ipiranga",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Eugênio Fontainha, 337 | Manoel Honório, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Eugênio Fontainha",
+        "other_names": {
+          "alt_name": "Rua Eugenio Fontainha"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36052-500",
+        "suburb": "Manoel Honório",
+        "street": "Eugênio Fontainha",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3487739,
+        "lat": -21.7413578,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Eugênio Fontainha, Manoel Honório, Juiz de Fora - MG, 36052-500, Brazil",
+        "address_line1": "Eugênio Fontainha",
+        "address_line2": "Manoel Honório, Juiz de Fora - MG, 36052-500, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR7M52+FF",
+        "plus_code_short": "7M52+FF Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516419879fa4ac45c0596fa2f19fc9bd35c0f00102f901235bff1200000000c00204920312457567c3aa6e696f20466f6e7461696e6861",
+        "bbox": {
+          "lon1": -43.3494464,
+          "lat1": -21.7420909,
+          "lon2": -43.3479638,
+          "lat2": -21.7407786
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Eugênio Fontainha, 337 | Manoel Honório, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "337 |",
+        "street": "r. eugênio fontainha",
+        "suburb": "manoel honório",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Olegário Maciel, 1147 | Paineiras, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Olegário Maciel",
+        "other_names": {
+          "alt_name": "Rua Olegário Maciel"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36016-140",
+        "suburb": "Jardim Paineiras",
+        "street": "Avenida Olegário Maciel",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3579541,
+        "lat": -21.7703802,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Olegário Maciel, Jardim Paineiras, Juiz de Fora - MG, 36016-140, Brazil",
+        "address_line1": "Avenida Olegário Maciel",
+        "address_line2": "Jardim Paineiras, Juiz de Fora - MG, 36016-140, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JHR+RR",
+        "plus_code_short": "HR+RR Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "510c7ca070d1ad45c059677c04a337c535c0f00102f901dd7b1a0700000000c002049203184176656e696461204f6c6567c3a172696f204d616369656c",
+        "bbox": {
+          "lon1": -43.3592323,
+          "lat1": -21.7711481,
+          "lon2": -43.3566902,
+          "lat2": -21.769589
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Olegário Maciel, 1147 | Paineiras, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "1147 | paineiras",
+        "street": "av. olegário maciel",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Torreões, 57 | Santa Luzia, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Torreões",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36026-520",
+        "suburb": "Santa Luzia",
+        "street": "Rua Torreões",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3456119,
+        "lat": -21.785447,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Torreões, Santa Luzia, Juiz de Fora - MG, 36026-520, Brazil",
+        "address_line1": "Rua Torreões",
+        "address_line2": "Santa Luzia, Juiz de Fora - MG, 36026-520, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6M73+RQ",
+        "plus_code_short": "6M73+RQ Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e1cdbf023dac45c059c7bdf90d13c935c0f00102f901cd8f250700000000c0020492030d52756120546f727265c3b56573",
+        "bbox": {
+          "lon1": -43.3461631,
+          "lat1": -21.7861167,
+          "lon2": -43.345061,
+          "lat2": -21.7847774
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Torreões, 57 | Santa Luzia, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "57 |",
+        "street": "r. torreões",
+        "suburb": "santa luzia",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. dos Andradas, 183 | Centro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida dos Andradas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36015-010",
+        "suburb": "Morro da Glória",
+        "street": "Avenida dos Andradas",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3544356,
+        "lat": -21.7508152,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida dos Andradas, Morro da Glória, Juiz de Fora - MG, 36015-010, Brazil",
+        "address_line1": "Avenida dos Andradas",
+        "address_line2": "Morro da Glória, Juiz de Fora - MG, 36015-010, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JXW+M6",
+        "plus_code_short": "XW+M6 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e2444f255ead45c059f756c96c35c035c0f00102f90162e73f1100000000c002049203144176656e69646120646f7320416e647261646173",
+        "bbox": {
+          "lon1": -43.3555866,
+          "lat1": -21.7522753,
+          "lon2": -43.3532846,
+          "lat2": -21.7493552
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. dos Andradas, 183 | Centro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "183 |",
+        "street": "av. dos andradas",
+        "suburb": "centro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Profa. Dalva Menezes, 23 | Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Professora Dalva Menezes",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36015-030",
+        "suburb": "Jardim Glória",
+        "street": "Rua Professora Dalva Menezes",
+        "iso3166_2": "BR-MG",
+        "lon": -43.358713,
+        "lat": -21.753579,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Professora Dalva Menezes, Jardim Glória, Juiz de Fora - MG, 36015-030, Brazil",
+        "address_line1": "Rua Professora Dalva Menezes",
+        "address_line2": "Jardim Glória, Juiz de Fora - MG, 36015-030, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JWR+HG",
+        "plus_code_short": "WR+HG Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.2835,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.567,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5135d3bd4eeaad45c059cff3a78deac035c0f00102f90161a5170700000000c0020492031c5275612050726f666573736f72612044616c7661204d656e657a6573",
+        "bbox": {
+          "lon1": -43.3589338,
+          "lat1": -21.7537567,
+          "lon2": -43.3584922,
+          "lat2": -21.7534014
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Profa. Dalva Menezes, 23 | Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "23 |",
+        "street": "r. profa. dalva menezes",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Paracatu, 349 | Santa Terezinha, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Paracatu",
+        "ref": "MG-353",
+        "other_names": {
+          "ref": "MG-353"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36046-040",
+        "suburb": "Quintas da Avenida",
+        "street": "Rua Paracatu",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3577545,
+        "lat": -21.7337927,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Paracatu, Quintas da Avenida, Juiz de Fora - MG, 36046-040, Brazil",
+        "address_line1": "Rua Paracatu",
+        "address_line2": "Quintas da Avenida, Juiz de Fora - MG, 36046-040, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR7J8R+FV",
+        "plus_code_short": "7J8R+FV Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5198bf42e6caad45c059258ba0d6d9bb35c0f00102f9016ace180700000000c0020492030c527561205061726163617475",
+        "bbox": {
+          "lon1": -43.357906,
+          "lat1": -21.7343137,
+          "lon2": -43.3574927,
+          "lat2": -21.7333212
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Paracatu, 349 | Santa Terezinha, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "349 |",
+        "street": "r. paracatu",
+        "suburb": "santa terezinha",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Sebastião Ferreira, 2 | São Pedro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Sebastião Ferreira",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36037-000",
+        "district": "Itatiaia",
+        "suburb": "São Pedro",
+        "street": "Rua Sebastião Ferreira",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3784814,
+        "lat": -21.7718975,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Sebastião Ferreira, São Pedro, Juiz de Fora - MG, 36037-000, Brazil",
+        "address_line1": "Rua Sebastião Ferreira",
+        "address_line2": "São Pedro, Juiz de Fora - MG, 36037-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JHC+6J",
+        "plus_code_short": "6JHC+6J Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517892191472b045c0593a5d16139bc535c0f00102f901500b2c0700000000c002049203175275612053656261737469c3a36f204665727265697261",
+        "bbox": {
+          "lon1": -43.3790077,
+          "lat1": -21.771992,
+          "lon2": -43.3779283,
+          "lat2": -21.7718736
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Sebastião Ferreira, 2 | São Pedro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "2 |",
+        "street": "r. sebastião ferreira",
+        "suburb": "são pedro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Luís de Camões, 74 | São Mateus, Juiz de Fora - MG": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "74",
+        "street": "Rua Luis De Camoes",
+        "country": "Brazil",
+        "county": "Minas Gerais",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "36025-170",
+        "state": "Southeast",
+        "district": "Juiz De Fora",
+        "city": "Juiz de Fora",
+        "county_code": "MG",
+        "lon": -43.350182,
+        "lat": -21.774418,
+        "result_type": "building",
+        "formatted": "Rua Luis De Camoes 74, Juiz de Fora - Southeast, 36025-170, Brazil",
+        "address_line1": "Rua Luis De Camoes 74",
+        "address_line2": "Juiz de Fora - Southeast, 36025-170, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JGX+6W",
+        "plus_code_short": "GX+6W Juiz de Fora, Minas Gerais, Brazil",
+        "rank": {
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51edd286c3d2ac45c059096f0f4240c635c0c00203e203466f70656e6164647265737365733a616464726573733a62722f6d672f7374617465776964652d6164647265737365732d73746174653a61633538333932636136633462626430"
+      }
+    ],
+    "query": {
+      "text": "R. Luís de Camões, 74 | São Mateus, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "74 |",
+        "street": "r. luís de camões",
+        "suburb": "são mateus",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Espírito Santo, 738 | Centro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Espírito Santo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36016-290",
+        "suburb": "Centro",
+        "street": "Rua Espírito Santo",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3520442,
+        "lat": -21.7648912,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Espírito Santo, Centro, Juiz de Fora - MG, 36016-290, Brazil",
+        "address_line1": "Rua Espírito Santo",
+        "address_line2": "Centro, Juiz de Fora - MG, 36016-290, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JPX+25",
+        "plus_code_short": "PX+25 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "518ddfcac80fad45c0598affe0e8cfc335c0f00102f90191076a0100000000c0020492031352756120457370c3ad7269746f2053616e746f",
+        "bbox": {
+          "lon1": -43.3537285,
+          "lat1": -21.7652826,
+          "lon2": -43.3503622,
+          "lat2": -21.7644901
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Espírito Santo, 738 | Centro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "738 |",
+        "street": "r. espírito santo",
+        "suburb": "centro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Carlota Malta, 165 | , Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Carlota Malta",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36016-210",
+        "suburb": "Centro",
+        "street": "Rua Carlota Malta",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3516145,
+        "lat": -21.7643599,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Carlota Malta, Centro, Juiz de Fora - MG, 36016-210, Brazil",
+        "address_line1": "Rua Carlota Malta",
+        "address_line2": "Centro, Juiz de Fora - MG, 36016-210, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JPX+79",
+        "plus_code_short": "PX+79 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51522635b401ad45c059b3df2417adc335c0f00102f901ac39140f00000000c00204920311527561204361726c6f7461204d616c7461",
+        "bbox": {
+          "lon1": -43.3520137,
+          "lat1": -21.7644581,
+          "lon2": -43.3512153,
+          "lat2": -21.7642618
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Carlota Malta, 165 | , Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "165 |",
+        "street": "rua carlota malta",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Cesário Alvim, 241 - Telheiro | São Bernardo, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Cesário Alvim",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36062-250",
+        "suburb": "Cesário Alvim",
+        "street": "Rua Cesário Alvim",
+        "iso3166_2": "BR-MG",
+        "lon": -43.339868,
+        "lat": -21.755541,
+        "state_code": "MG",
+        "housenumber": "241",
+        "result_type": "building",
+        "formatted": "Rua Cesário Alvim 241, Cesário Alvim, Juiz de Fora - MG, 36062-250, Brazil",
+        "address_line1": "Rua Cesário Alvim 241",
+        "address_line2": "Cesário Alvim, Juiz de Fora - MG, 36062-250, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MV6+Q3",
+        "plus_code_short": "V6+Q3 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517d7a6ccb80ab45c05982c98d226bc135c0c0020392031252756120436573c3a172696f20416c76696de203266f70656e6164647265737365733a616464726573733a38646335316563323163646566353465",
+        "bbox": {
+          "lon1": -43.3415777,
+          "lat1": -21.7568661,
+          "lon2": -43.3372561,
+          "lat2": -21.7553918
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Cesário Alvim, 241 - Telheiro | São Bernardo, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "241",
+        "street": "rua cesário alvim",
+        "suburb": "são bernardo",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Diogo Álvares, 488 | Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Diogo Álvares",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36090-180",
+        "district": "Araújo",
+        "suburb": "Benfica",
+        "street": "Rua Diogo Álvares",
+        "iso3166_2": "BR-MG",
+        "lon": -43.4331497,
+        "lat": -21.6913327,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Diogo Álvares, Benfica, Juiz de Fora - MG, 36090-180, Brazil",
+        "address_line1": "Rua Diogo Álvares",
+        "address_line2": "Benfica, Juiz de Fora - MG, 36090-180, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR8H58+FP",
+        "plus_code_short": "8H58+FP Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51d8e2097371b745c059c727092efbb035c0f00102f901c3e91c0a00000000c002049203125275612044696f676f20c3816c7661726573",
+        "bbox": {
+          "lon1": -43.433633,
+          "lat1": -21.6925745,
+          "lon2": -43.4327036,
+          "lat2": -21.6901048
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Diogo Álvares, 488 | Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "488 |",
+        "street": "r. diogo álvares",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Pr. Artur Bernardes, 94 | Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Praça Artur Bernardes",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36047-150",
+        "suburb": "Parque Guarani",
+        "street": "Praça Artur Bernardes",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3551584,
+        "lat": -21.7217506,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Praça Artur Bernardes, Parque Guarani, Juiz de Fora - MG, 36047-150, Brazil",
+        "address_line1": "Praça Artur Bernardes",
+        "address_line2": "Parque Guarani, Juiz de Fora - MG, 36047-150, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR7JHV+7W",
+        "plus_code_short": "7JHV+7W Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51297398d475ad45c0594edeb6a5c4b835c0f00102f901e71c461400000000c00204920316507261c3a761204172747572204265726e6172646573",
+        "bbox": {
+          "lon1": -43.3556201,
+          "lat1": -21.7221633,
+          "lon2": -43.3546914,
+          "lat2": -21.721336
+        }
+      }
+    ],
+    "query": {
+      "text": "Pr. Artur Bernardes, 94 | Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "94 |",
+        "street": "pr. artur bernardes",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dom Viçoso, 190 | Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Dom Viçoso",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36026-500",
+        "suburb": "Alto dos Passos",
+        "street": "Rua Dom Viçoso",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3488829,
+        "lat": -21.7788514,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Dom Viçoso, Alto dos Passos, Juiz de Fora - MG, 36026-500, Brazil",
+        "address_line1": "Rua Dom Viçoso",
+        "address_line2": "Alto dos Passos, Juiz de Fora - MG, 36026-500, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MC2+FC",
+        "plus_code_short": "C2+FC Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "511bd1e231a8ac45c0599e712bce62c735c0f00102f9015d2f1a0700000000c0020492030f52756120446f6d205669c3a76f736f",
+        "bbox": {
+          "lon1": -43.3491666,
+          "lat1": -21.7792888,
+          "lon2": -43.3485872,
+          "lat2": -21.778422
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dom Viçoso, 190 | Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "190 |",
+        "street": "r. dom viçoso",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Eloy Américo Mendes, 195 | Aeroporto, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Eloy Américo Mendes",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36038-370",
+        "suburb": "Aeroporto",
+        "street": "Rua Eloy Américo Mendes",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3801206,
+        "lat": -21.7893275,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Eloy Américo Mendes, Aeroporto, Juiz de Fora - MG, 36038-370, Brazil",
+        "address_line1": "Rua Eloy Américo Mendes",
+        "address_line2": "Aeroporto, Juiz de Fora - MG, 36038-370, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6J69+7X",
+        "plus_code_short": "6J69+7X Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5198c4b4caa7b045c0595c55f65d11ca35c0f00102f901c2f1bd1300000000c0020492031852756120456c6f7920416dc3a97269636f204d656e646573",
+        "bbox": {
+          "lon1": -43.3813676,
+          "lat1": -21.7899922,
+          "lon2": -43.3789496,
+          "lat2": -21.7889987
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Eloy Américo Mendes, 195 | Aeroporto, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "195 |",
+        "street": "r. eloy américo mendes",
+        "suburb": "aeroporto",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Henrique de Novais, 166 | Lourdes, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Henrique de Novais",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36020-200",
+        "suburb": "Nossa Senhora de Lourdes",
+        "street": "Rua Henrique de Novais",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3265014,
+        "lat": -21.7688475,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Henrique de Novais, Nossa Senhora de Lourdes, Juiz de Fora - MG, 36020-200, Brazil",
+        "address_line1": "Rua Henrique de Novais",
+        "address_line2": "Nossa Senhora de Lourdes, Juiz de Fora - MG, 36020-200, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MJF+F9",
+        "plus_code_short": "6MJF+F9 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51928c41cccaa945c059821c9430d3c435c0f00102f901fda1ac0e00000000c002049203165275612048656e7269717565206465204e6f76616973",
+        "bbox": {
+          "lon1": -43.3276206,
+          "lat1": -21.7693478,
+          "lon2": -43.3253813,
+          "lat2": -21.768343
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Henrique de Novais, 166 | Lourdes, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "166 |",
+        "street": "r. henrique de novais",
+        "suburb": "lourdes",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Morais e Castro, 447 | Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Morais e Castro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36025-150",
+        "suburb": "Alto dos Passos",
+        "street": "Rua Morais e Castro",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3486892,
+        "lat": -21.7756099,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Morais e Castro, Alto dos Passos, Juiz de Fora - MG, 36025-150, Brazil",
+        "address_line1": "Rua Morais e Castro",
+        "address_line2": "Alto dos Passos, Juiz de Fora - MG, 36025-150, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MF2+QG",
+        "plus_code_short": "F2+QG Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f53b03d9a1ac45c0592ef4d25e8ec635c0f00102f90173076a0100000000c00204920313527561204d6f7261697320652043617374726f",
+        "bbox": {
+          "lon1": -43.3504738,
+          "lat1": -21.7770861,
+          "lon2": -43.3465456,
+          "lat2": -21.7737574
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Morais e Castro, 447 | Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "447 |",
+        "street": "r. morais castro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Ibitiguaia, 462 | Santa Luzia, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Ibitiguaia",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36026-520",
+        "suburb": "Santa Luzia",
+        "street": "Rua Ibitiguaia",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3464695,
+        "lat": -21.784991,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Ibitiguaia, Santa Luzia, Juiz de Fora - MG, 36026-520, Brazil",
+        "address_line1": "Rua Ibitiguaia",
+        "address_line2": "Santa Luzia, Juiz de Fora - MG, 36026-520, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6M83+2C",
+        "plus_code_short": "6M83+2C Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51dec7d11c59ac45c05983a7902bf5c835c0f00102f901b259b51000000000c0020492030e5275612049626974696775616961",
+        "bbox": {
+          "lon1": -43.3473457,
+          "lat1": -21.7855778,
+          "lon2": -43.3456028,
+          "lat2": -21.7843888
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Ibitiguaia, 462 | Santa Luzia, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "462 |",
+        "street": "r. ibitiguaia",
+        "suburb": "santa luzia",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua da Abolição, 54 | Jardim Glória, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua da Abolição",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36015-030",
+        "suburb": "Jardim Glória",
+        "street": "Rua da Abolição",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3583678,
+        "lat": -21.7528286,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua da Abolição, Jardim Glória, Juiz de Fora - MG, 36015-030, Brazil",
+        "address_line1": "Rua da Abolição",
+        "address_line2": "Jardim Glória, Juiz de Fora - MG, 36015-030, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JWR+VM",
+        "plus_code_short": "WR+VM Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "514178fefedead45c059547e0860b9c035c0f00102f9015da5170700000000c002049203115275612064612041626f6c69c3a7c3a36f",
+        "bbox": {
+          "lon1": -43.3587081,
+          "lat1": -21.7532808,
+          "lon2": -43.3580161,
+          "lat2": -21.7523678
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua da Abolição, 54 | Jardim Glória, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "54 |",
+        "street": "rua da abolição",
+        "suburb": "jardim glória",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Barão do Rio Branco, 280 | Manoel Honório, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Barão do Rio Branco",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36052-600",
+        "suburb": "Manoel Honório",
+        "street": "Avenida Barão do Rio Branco",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3547084,
+        "lat": -21.742086,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Barão do Rio Branco, Manoel Honório, Juiz de Fora - MG, 36052-600, Brazil",
+        "address_line1": "Avenida Barão do Rio Branco",
+        "address_line2": "Manoel Honório, Juiz de Fora - MG, 36052-600, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR7J5W+54",
+        "plus_code_short": "7J5W+54 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e9ceb81567ad45c059c8d11c59f9bd35c0f00102f90109503d1200000000c0020492031c4176656e69646120426172c3a36f20646f2052696f204272616e636f",
+        "bbox": {
+          "lon1": -43.3550602,
+          "lat1": -21.7432822,
+          "lon2": -43.3544046,
+          "lat2": -21.7409025
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Barão do Rio Branco, 280 | Manoel Honório, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "280 |",
+        "street": "av. barão do rio branco",
+        "suburb": "manoel honório",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Tomé de Souza, 92 | Benfica, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Tomé de Souza",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36090-320",
+        "suburb": "Benfica",
+        "street": "Rua Tomé de Souza",
+        "iso3166_2": "BR-MG",
+        "lon": -43.4346675,
+        "lat": -21.6904282,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Tomé de Souza, Benfica, Juiz de Fora - MG, 36090-320, Brazil",
+        "address_line1": "Rua Tomé de Souza",
+        "address_line2": "Benfica, Juiz de Fora - MG, 36090-320, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR8H58+R4",
+        "plus_code_short": "8H58+R4 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "512a91442fa3b745c059743c0be7bfb035c0f00102f9016cc5c00f00000000c0020492031252756120546f6dc3a920646520536f757a61",
+        "bbox": {
+          "lon1": -43.4350332,
+          "lat1": -21.6905873,
+          "lon2": -43.4342811,
+          "lat2": -21.690313
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Tomé de Souza, 92 | Benfica, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "92 |",
+        "street": "r. tomé de souza",
+        "suburb": "benfica",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. José Nunes Leal, 45 | Santa Luzia, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Nunes Leal",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36026-520",
+        "suburb": "Santa Luzia",
+        "street": "Rua José Nunes Leal",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3431743,
+        "lat": -21.7887557,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua José Nunes Leal, Santa Luzia, Juiz de Fora - MG, 36026-520, Brazil",
+        "address_line1": "Rua José Nunes Leal",
+        "address_line2": "Santa Luzia, Juiz de Fora - MG, 36026-520, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6M64+FP",
+        "plus_code_short": "6M64+FP Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51f2a9ad22edab45c0599908c0e4ebc935c0f00102f901fe61cb0200000000c00204920314527561204a6f73c3a9204e756e6573204c65616c",
+        "bbox": {
+          "lon1": -43.3438359,
+          "lat1": -21.7892902,
+          "lon2": -43.3425336,
+          "lat2": -21.7881955
+        }
+      }
+    ],
+    "query": {
+      "text": "R. José Nunes Leal, 45 | Santa Luzia, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "45 |",
+        "street": "r. josé nunes leal",
+        "suburb": "santa luzia",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Barão de Santa Helena, 165 | Granbery, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Barão de Santa Helena",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36010-532",
+        "suburb": "Granbery",
+        "street": "Rua Barão de Santa Helena",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3443811,
+        "lat": -21.7655165,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Barão de Santa Helena, Granbery, Juiz de Fora - MG, 36010-532, Brazil",
+        "address_line1": "Rua Barão de Santa Helena",
+        "address_line2": "Granbery, Juiz de Fora - MG, 36010-532, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MM4+Q6",
+        "plus_code_short": "M4+Q6 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5125ee0cae14ac45c059630cace3f8c335c0f00102f9015a67180a00000000c0020492031a52756120426172c3a36f2064652053616e74612048656c656e61",
+        "bbox": {
+          "lon1": -43.344993,
+          "lat1": -21.7677579,
+          "lon2": -43.3437693,
+          "lat2": -21.7632752
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Barão de Santa Helena, 165 | Granbery, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "165 |",
+        "street": "r. barão de santa helena",
+        "suburb": "granbery",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Eugênio do Nascimento, 475 | Aeroporto, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Eugênio do Nascimento",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36038-330",
+        "suburb": "Aeroporto",
+        "street": "Avenida Eugênio do Nascimento",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3825675,
+        "lat": -21.7924256,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Eugênio do Nascimento, Aeroporto, Juiz de Fora - MG, 36038-330, Brazil",
+        "address_line1": "Avenida Eugênio do Nascimento",
+        "address_line2": "Aeroporto, Juiz de Fora - MG, 36038-330, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6J58+2X",
+        "plus_code_short": "6J58+2X Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519981caf8f7b045c05960837467dcca35c0f00102f9010584660100000000c0020492031e4176656e69646120457567c3aa6e696f20646f204e617363696d656e746f",
+        "bbox": {
+          "lon1": -43.3830231,
+          "lat1": -21.794362,
+          "lon2": -43.3798478,
+          "lat2": -21.7890847
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Eugênio do Nascimento, 475 | Aeroporto, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "475 |",
+        "street": "av. eugênio do nascimento",
+        "suburb": "aeroporto",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Oswaldo Gouvea, 941 | Santo Antônio, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "alt_name": "Santo Antônio"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "suburb": "Santo Antônio do Paraibuna",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3127406,
+        "lat": -21.7732458,
+        "state_code": "MG",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Santo Antônio do Paraibuna, Juiz de Fora, MG, Brazil",
+        "address_line1": "Santo Antônio do Paraibuna",
+        "address_line2": "Juiz de Fora, MG, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MGP+PW",
+        "plus_code_short": "6MGP+PW Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.14673224307621877,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51d2904ce207a845c059f5c4ce6ff3c535c0f00101f90137a4540000000000c00205",
+        "bbox": {
+          "lon1": -43.3230206,
+          "lat1": -21.782265,
+          "lon2": -43.3058813,
+          "lat2": -21.7630137
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Oswaldo Gouvea, 941 | Santo Antônio, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "941 |",
+        "street": "r. oswaldo gouvea",
+        "suburb": "santo antônio",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dr. João Pinheiro, 356 | Jardim Glória, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Doutor João Pinheiro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36015-030",
+        "suburb": "Jardim Glória",
+        "street": "Rua Doutor João Pinheiro",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3573353,
+        "lat": -21.7529802,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Doutor João Pinheiro, Jardim Glória, Juiz de Fora - MG, 36015-030, Brazil",
+        "address_line1": "Rua Doutor João Pinheiro",
+        "address_line2": "Jardim Glória, Juiz de Fora - MG, 36015-030, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JWV+R3",
+        "plus_code_short": "WV+R3 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516a9ac129bdad45c0591989754fc3c035c0f00102f901c1c6d10100000000c0020492031952756120446f75746f72204a6fc3a36f2050696e686569726f",
+        "bbox": {
+          "lon1": -43.3606506,
+          "lat1": -21.7546764,
+          "lon2": -43.3542926,
+          "lat2": -21.7529015
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dr. João Pinheiro, 356 | Jardim Glória, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "356 |",
+        "street": "r. dr. joão pinheiro",
+        "suburb": "jardim glória",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Sete de Setembro, 1167 | Centro, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Sete de Setembro",
+        "other_names": {
+          "alt_name": "Avenida 7 de Setembro",
+          "name": "Avenida Sete de Setembro",
+          "name:pt": "Avenida Sete de Setembro"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36062-250",
+        "suburb": "Botanágua",
+        "street": "Avenida Sete de Setembro",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3405628,
+        "lat": -21.7602075,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Avenida Sete de Setembro, Botanágua, Juiz de Fora - MG, 36062-250, Brazil",
+        "address_line1": "Avenida Sete de Setembro",
+        "address_line2": "Botanágua, Juiz de Fora - MG, 36062-250, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MQ5+WQ",
+        "plus_code_short": "Q5+WQ Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51fa1dd48f97ab45c05986ac6ef59cc235c0f00102f9016bd13c1200000000c002049203184176656e696461205365746520646520536574656d62726f",
+        "bbox": {
+          "lon1": -43.3415383,
+          "lat1": -21.7605066,
+          "lon2": -43.338271,
+          "lat2": -21.7583515
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Sete de Setembro, 1167 | Centro, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "1167 |",
+        "street": "av. sete de setembro",
+        "suburb": "centro",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Barão de Santa Helena, 596 | Granbery, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Barão de Santa Helena",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36010-532",
+        "suburb": "Granbery",
+        "street": "Rua Barão de Santa Helena",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3443811,
+        "lat": -21.7655165,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Barão de Santa Helena, Granbery, Juiz de Fora - MG, 36010-532, Brazil",
+        "address_line1": "Rua Barão de Santa Helena",
+        "address_line2": "Granbery, Juiz de Fora - MG, 36010-532, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6MM4+Q6",
+        "plus_code_short": "M4+Q6 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5125ee0cae14ac45c059630cace3f8c335c0f00102f9015a67180a00000000c0020492031a52756120426172c3a36f2064652053616e74612048656c656e61",
+        "bbox": {
+          "lon1": -43.344993,
+          "lat1": -21.7677579,
+          "lon2": -43.3437693,
+          "lat2": -21.7632752
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Barão de Santa Helena, 596 | Granbery, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "596 |",
+        "street": "rua barão de santa helena",
+        "suburb": "granbery",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Tenente Paulo Maria Delage, 292 | Borboleta, Juiz de Fora - MG": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Tenente Paulo Maria Delage",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Southeast Region",
+        "state": "Minas Gerais",
+        "county": "Região Geográfica Intermediária de Juiz de Fora",
+        "city": "Juiz de Fora",
+        "municipality": "Região Geográfica Imediata de Juiz de Fora",
+        "postcode": "36035-770",
+        "suburb": "Serra D'Água",
+        "street": "Rua Tenente Paulo Maria Delage",
+        "iso3166_2": "BR-MG",
+        "lon": -43.3815669,
+        "lat": -21.7542641,
+        "state_code": "MG",
+        "result_type": "street",
+        "formatted": "Rua Tenente Paulo Maria Delage, Serra D'Água, Juiz de Fora - MG, 36035-770, Brazil",
+        "address_line1": "Rua Tenente Paulo Maria Delage",
+        "address_line2": "Serra D'Água, Juiz de Fora - MG, 36035-770, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58CR6JW9+79",
+        "plus_code_short": "6JW9+79 Juiz de Fora, Região Geográfica Intermediária de Juiz de Fora, Brazil",
+        "rank": {
+          "importance": 0.05339890974288545,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51395e262fd7b045c059000cba7317c135c0f00102f901d3ef273000000000c0020492031e5275612054656e656e7465205061756c6f204d617269612044656c616765",
+        "bbox": {
+          "lon1": -43.3828709,
+          "lat1": -21.7548854,
+          "lon2": -43.3803388,
+          "lat2": -21.7539975
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Tenente Paulo Maria Delage, 292 | Borboleta, Juiz de Fora - MG",
+      "parsed": {
+        "housenumber": "292 | borboleta",
+        "street": "rua tenente paulo maria delage",
+        "city": "juiz de fora",
+        "state": "mg",
+        "expected_type": "building"
+      }
+    }
+  }
+}

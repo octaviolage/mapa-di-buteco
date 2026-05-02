@@ -1,0 +1,11 @@
+[project]
+name = "buteco-pipeline"
+version = "0.1.0"
+description = "Get data from Comida di Buteco website, enrich it with geocoding and save it."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "playwright>=1.58.0",
+    "prefect>=3.6.28",
+]

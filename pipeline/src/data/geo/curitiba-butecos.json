@@ -1,0 +1,2648 @@
+{
+  "R. Anita Garibaldi, 4596 | Barreirinha, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Anita Garibaldi",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82700-110",
+        "suburb": "Barreirinha",
+        "street": "Avenida Anita Garibaldi",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2615664,
+        "lat": -25.3712195,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Avenida Anita Garibaldi, Barreirinha, Curitiba - PR, 82700-110, Brazil",
+        "address_line1": "Avenida Anita Garibaldi",
+        "address_line2": "Barreirinha, Curitiba - PR, 82700-110, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GJPHQ+G9",
+        "plus_code_short": "JPHQ+G9 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.05340385519188216,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c1ddfe017ba148c0593123bc3d085f39c0f00102f901d25e590300000000c002049203174176656e69646120416e697461204761726962616c6469",
+        "bbox": {
+          "lon1": -49.2633756,
+          "lat1": -25.3767064,
+          "lon2": -49.2596489,
+          "lat2": -25.3657846
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Anita Garibaldi, 4596 | Barreirinha, Curitiba - PR",
+      "parsed": {
+        "housenumber": "4596 |",
+        "street": "r. anita garibaldi",
+        "suburb": "barreirinha",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Saldanha Marinho, 68 | Centro, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Armazém Califórnia",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80020-110",
+        "district": "Curitiba Historical Centre",
+        "suburb": "Centro",
+        "street": "Rua Saldanha Marinho",
+        "housenumber": "68",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2725571,
+        "lat": -25.4290164,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Armazém Califórnia, Rua Saldanha Marinho 68, Centro, Curitiba Historical Centre, Curitiba - PR, 80020-110, Brazil",
+        "address_line1": "Armazém Califórnia",
+        "address_line2": "Rua Saldanha Marinho 68, Centro, Curitiba Historical Centre, Curitiba - PR, 80020-110, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHPCG+9X",
+        "plus_code_short": "CG+9X Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "517465ab26e3a248c0599972cf04d46d39c0f00103f90113a2ed0601000000c0020192031441726d617ac3a96d2043616c6966c3b3726e6961",
+        "bbox": {
+          "lon1": -49.2726071,
+          "lat1": -25.4290664,
+          "lon2": -49.2725071,
+          "lat2": -25.4289664
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Saldanha Marinho, 68 | Centro, Curitiba - PR",
+      "parsed": {
+        "housenumber": "68 |",
+        "street": "rua saldanha marinho",
+        "suburb": "centro",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Barão de Santo Ângelo, 1507 | Xaxim, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "suburb": "Xaxim",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2678646,
+        "lat": -25.5008748,
+        "state_code": "PR",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Xaxim, Curitiba, PR, Brazil",
+        "address_line1": "Xaxim",
+        "address_line2": "Curitiba, PR, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GFPXJ+MV",
+        "plus_code_short": "FPXJ+MV Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.1467371885252155,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51c960206349a248c059fa63b554398039c0f00101f9014b2a5f0000000000c00205",
+        "bbox": {
+          "lon1": -49.2872317,
+          "lat1": -25.5292998,
+          "lon2": -49.2498029,
+          "lat2": -25.4848496
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Barão de Santo Ângelo, 1507 | Xaxim, Curitiba - PR",
+      "parsed": {
+        "housenumber": "1507",
+        "street": "|",
+        "suburb": "xaxim",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Amintas de Barros, 45 | Centro, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Baba Salim",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80020-270",
+        "suburb": "Centro",
+        "street": "Rua Amintas de Barros",
+        "housenumber": "45",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2653985,
+        "lat": -25.4277415,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Baba Salim, Rua Amintas de Barros 45, Centro, Curitiba - PR, 80020-270, Brazil",
+        "address_line1": "Baba Salim",
+        "address_line2": "Rua Amintas de Barros 45, Centro, Curitiba - PR, 80020-270, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHPCM+WR",
+        "plus_code_short": "CM+WR Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5128f4fa93f8a148c05959a48977806d39c0f00103f901a2eead2a00000000c0020192030a426162612053616c696d",
+        "bbox": {
+          "lon1": -49.2654485,
+          "lat1": -25.4277915,
+          "lon2": -49.2653485,
+          "lat2": -25.4276915
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Amintas de Barros, 45 | Centro, Curitiba - PR",
+      "parsed": {
+        "housenumber": "45 |",
+        "street": "rua amintas de barros",
+        "suburb": "centro",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Niterói, 265 | Cajuru, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar do Cláudio",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82940-090",
+        "suburb": "Cajuru",
+        "street": "Rua Niterói",
+        "housenumber": "265",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2147878,
+        "lat": -25.4630711,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Bar do Cláudio, Rua Niterói 265, Cajuru, Curitiba - PR, 82940-090, Brazil",
+        "address_line1": "Bar do Cláudio",
+        "address_line2": "Rua Niterói 265, Cajuru, Curitiba - PR, 82940-090, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GGQPP+Q3",
+        "plus_code_short": "GQPP+Q3 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51374aa82a7e9b48c0590639ded38b7639c0f00103f90177a030bd02000000c0020192030f42617220646f20436cc3a17564696f",
+        "bbox": {
+          "lon1": -49.2148378,
+          "lat1": -25.4631211,
+          "lon2": -49.2147378,
+          "lat2": -25.4630211
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Niterói, 265 | Cajuru, Curitiba - PR",
+      "parsed": {
+        "housenumber": "265 |",
+        "street": "rua niterói",
+        "suburb": "cajuru",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Prefeito Erasto Gaertner, 1764 | Bacacheri, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar do Edmundo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82515-000",
+        "suburb": "Bacacheri",
+        "street": "Avenida Prefeito Erasto Gaertner",
+        "housenumber": "1764",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2314011,
+        "lat": -25.3959746,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Bar do Edmundo, Avenida Prefeito Erasto Gaertner 1764, Bacacheri, Curitiba - PR, 82515-000, Brazil",
+        "address_line1": "Bar do Edmundo",
+        "address_line2": "Avenida Prefeito Erasto Gaertner 1764, Bacacheri, Curitiba - PR, 82515-000, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GJQ39+JC",
+        "plus_code_short": "JQ39+JC Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5114611e8d9e9d48c059f30b65975e6539c0f00102f9015a3d622900000000c0020192030e42617220646f2045646d756e646f",
+        "bbox": {
+          "lon1": -49.2315201,
+          "lat1": -25.3960955,
+          "lon2": -49.2312819,
+          "lat2": -25.3958565
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Prefeito Erasto Gaertner, 1764 | Bacacheri, Curitiba - PR",
+      "parsed": {
+        "housenumber": "1764 |",
+        "street": "av. prefeito erasto gaertner",
+        "suburb": "bacacheri",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Oliveira Viana, 513 | Hauer, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Oliveira Viana",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81630-050",
+        "suburb": "Hauer",
+        "street": "Rua Oliveira Viana",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2539987,
+        "lat": -25.4847474,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Oliveira Viana, Hauer, Curitiba - PR, 81630-050, Brazil",
+        "address_line1": "Rua Oliveira Viana",
+        "address_line2": "Hauer, Curitiba - PR, 81630-050, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GGP8W+4C",
+        "plus_code_short": "GP8W+4C Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.05340385519188216,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51fedc860783a048c0592fd2d567187c39c0f00102f901bdc11d2700000000c00204920312527561204f6c697665697261205669616e61",
+        "bbox": {
+          "lon1": -49.2544436,
+          "lat1": -25.4856586,
+          "lon2": -49.2535538,
+          "lat2": -25.4838362
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Oliveira Viana, 513 | Hauer, Curitiba - PR",
+      "parsed": {
+        "housenumber": "513 | hauer",
+        "street": "rua oliveira viana",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua José Merhy, 745 | Boa Vista, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pra Começar - Bar do Gildo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82560-440",
+        "suburb": "Boa Vista",
+        "street": "Rua José Merhy",
+        "housenumber": "745",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2444826,
+        "lat": -25.394567,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Pra Começar - Bar do Gildo, Rua José Merhy 745, Boa Vista, Curitiba - PR, 82560-440, Brazil",
+        "address_line1": "Pra Começar - Bar do Gildo",
+        "address_line2": "Rua José Merhy 745, Boa Vista, Curitiba - PR, 82560-440, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GJQ44+56",
+        "plus_code_short": "JQ44+56 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5174b8b1344b9f48c059b114c957026539c0f00103f9011f79d76f01000000c0020192031b50726120436f6d65c3a76172202d2042617220646f2047696c646f",
+        "bbox": {
+          "lon1": -49.2445326,
+          "lat1": -25.394617,
+          "lon2": -49.2444326,
+          "lat2": -25.394517
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua José Merhy, 745 | Boa Vista, Curitiba - PR",
+      "parsed": {
+        "housenumber": "745 |",
+        "street": "rua josé merhy",
+        "suburb": "boa vista",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Professor Dario Velloso, 581 | Vila Izabel, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar do Montejorge",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80320-040",
+        "suburb": "Vila Izabel",
+        "street": "Rua Professor Dario Velloso",
+        "housenumber": "581",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2951001,
+        "lat": -25.4589415,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Bar do Montejorge, Rua Professor Dario Velloso 581, Vila Izabel, Curitiba - PR, 80320-040, Brazil",
+        "address_line1": "Bar do Montejorge",
+        "address_line2": "Rua Professor Dario Velloso 581, Vila Izabel, Curitiba - PR, 80320-040, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GGPR3+CX",
+        "plus_code_short": "GPR3+CX Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51ee450fd7c5a548c059f646ad307d7539c0f00103f90196b5fe6f01000000c0020192031142617220646f204d6f6e74656a6f726765",
+        "bbox": {
+          "lon1": -49.2951501,
+          "lat1": -25.4589915,
+          "lon2": -49.2950501,
+          "lat2": -25.4588915
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Professor Dario Velloso, 581 | Vila Izabel, Curitiba - PR",
+      "parsed": {
+        "housenumber": "581 |",
+        "street": "r. professor dario velloso",
+        "suburb": "vila izabel",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua David Geronasso, 567 | Boa Vista, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar do Morango",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82540-050",
+        "suburb": "Boa Vista",
+        "street": "Rua David Geronasso",
+        "housenumber": "567",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2516914,
+        "lat": -25.3921147,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Bar do Morango, Rua David Geronasso 567, Boa Vista, Curitiba - PR, 82540-050, Brazil",
+        "address_line1": "Bar do Morango",
+        "address_line2": "Rua David Geronasso 567, Boa Vista, Curitiba - PR, 82540-050, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GJP5X+58",
+        "plus_code_short": "JP5X+58 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "519cd77d6c37a048c059e6c704a1616439c0f00103f9018272d76f01000000c0020192030e42617220646f204d6f72616e676f",
+        "bbox": {
+          "lon1": -49.2517414,
+          "lat1": -25.3921647,
+          "lon2": -49.2516414,
+          "lat2": -25.3920647
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua David Geronasso, 567 | Boa Vista, Curitiba - PR",
+      "parsed": {
+        "housenumber": "567 |",
+        "street": "rua david geronasso",
+        "suburb": "boa vista",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Holanda, 1089 | Boa Vista, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar Quintal Maria Flor",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82540-010",
+        "suburb": "Boa Vista",
+        "street": "Rua Holanda",
+        "housenumber": "1089",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2502056,
+        "lat": -25.39619,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Bar Quintal Maria Flor, Rua Holanda 1089, Boa Vista, Curitiba - PR, 82540-010, Brazil",
+        "address_line1": "Bar Quintal Maria Flor",
+        "address_line2": "Rua Holanda 1089, Boa Vista, Curitiba - PR, 82540-010, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GJP3X+GW",
+        "plus_code_short": "JP3X+GW Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5156a3b2bc06a048c059930035b56c6539c0f00103f901fd81d76f01000000c00201920316426172205175696e74616c204d6172696120466c6f72",
+        "bbox": {
+          "lon1": -49.2502556,
+          "lat1": -25.39624,
+          "lon2": -49.2501556,
+          "lat2": -25.39614
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Holanda, 1089 | Boa Vista, Curitiba - PR",
+      "parsed": {
+        "housenumber": "1089 |",
+        "street": "rua holanda",
+        "suburb": "boa vista",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Marechal Hermes, 1024 | Centro Cívico, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Basset",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80504-000",
+        "suburb": "Juvevê",
+        "street": "Rua Marechal Hermes",
+        "housenumber": "1024",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2658042,
+        "lat": -25.4096634,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Basset, Rua Marechal Hermes 1024, Juvevê, Curitiba - PR, 80504-000, Brazil",
+        "address_line1": "Basset",
+        "address_line2": "Rua Marechal Hermes 1024, Juvevê, Curitiba - PR, 80504-000, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHPRM+4M",
+        "plus_code_short": "HPRM+4M Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51d9113ddf05a248c059405e59b3df6839c0f00102f901e594fd4000000000c00201920306426173736574",
+        "bbox": {
+          "lon1": -49.2659539,
+          "lat1": -25.4097288,
+          "lon2": -49.2656556,
+          "lat2": -25.4096019
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Marechal Hermes, 1024 | Centro Cívico, Curitiba - PR",
+      "parsed": {
+        "housenumber": "1024 |",
+        "street": "rua marechal hermes",
+        "suburb": "centro cívico",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Itajubá, 618 | Portão, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bendito Sabor",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81070-000",
+        "suburb": "Portão",
+        "street": "Rua Itajubá",
+        "housenumber": "618",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2987165,
+        "lat": -25.4807543,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Bendito Sabor, Rua Itajubá 618, Portão, Curitiba - PR, 81070-000, Brazil",
+        "address_line1": "Bendito Sabor",
+        "address_line2": "Rua Itajubá 618, Portão, Curitiba - PR, 81070-000, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GGP92+MG",
+        "plus_code_short": "GP92+MG Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5146239f573ca648c05950e9bbb6127b39c0f00103f90117412e9c02000000c0020192030d42656e6469746f205361626f72",
+        "bbox": {
+          "lon1": -49.2987665,
+          "lat1": -25.4808043,
+          "lon2": -49.2986665,
+          "lat2": -25.4807043
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Itajubá, 618 | Portão, Curitiba - PR",
+      "parsed": {
+        "housenumber": "618 |",
+        "street": "rua itajubá",
+        "suburb": "portão",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Jaime Reis, 12 | São Francisco, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Boteco da Ordem",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81450-110",
+        "district": "Curitiba Historical Centre",
+        "suburb": "São Francisco",
+        "street": "Avenida Jaime Reis",
+        "housenumber": "12",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2740282,
+        "lat": -25.4272727,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Boteco da Ordem, Avenida Jaime Reis 12, São Francisco, Curitiba Historical Centre, Curitiba - PR, 81450-110, Brazil",
+        "address_line1": "Boteco da Ordem",
+        "address_line2": "Avenida Jaime Reis 12, São Francisco, Curitiba Historical Centre, Curitiba - PR, 81450-110, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHPFG+39",
+        "plus_code_short": "FG+39 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "514397265b13a348c0593ff960be616d39c0f00103f901a7476dd600000000c0020192030f426f7465636f206461204f7264656d",
+        "bbox": {
+          "lon1": -49.2740782,
+          "lat1": -25.4273227,
+          "lon2": -49.2739782,
+          "lat2": -25.4272227
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Jaime Reis, 12 | São Francisco, Curitiba - PR",
+      "parsed": {
+        "housenumber": "12 |",
+        "street": "avenida jaime reis",
+        "suburb": "são francisco",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Alferes Ângelo Sampaio, 1671 | Batel, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80420-160",
+        "suburb": "Batel",
+        "street": "Rua Alferes Ângelo Sampaio",
+        "housenumber": "1671",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2856038,
+        "lat": -25.439308,
+        "state_code": "PR",
+        "result_type": "building",
+        "formatted": "Rua Alferes Ângelo Sampaio 1671, Batel, Curitiba - PR, 80420-160, Brazil",
+        "address_line1": "Rua Alferes Ângelo Sampaio 1671",
+        "address_line2": "Batel, Curitiba - PR, 80420-160, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHP67+7Q",
+        "plus_code_short": "67+7Q Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51814e52aa8ea448c05905df347d767039c0f00103f901095d007001000000c00203",
+        "bbox": {
+          "lon1": -49.2856538,
+          "lat1": -25.439358,
+          "lon2": -49.2855538,
+          "lat2": -25.439258
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Alferes Ângelo Sampaio, 1671 | Batel, Curitiba - PR",
+      "parsed": {
+        "housenumber": "1671 |",
+        "street": "rua alferes ângelo sampaio",
+        "suburb": "batel",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dr. Alfredo Vieira Barcelos, 285 | Uberaba, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Doutor Alfredo Vieira Barcelos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81570-000",
+        "suburb": "Uberaba",
+        "street": "Rua Doutor Alfredo Vieira Barcelos",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2324305,
+        "lat": -25.4719453,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Doutor Alfredo Vieira Barcelos, Uberaba, Curitiba - PR, 81570-000, Brazil",
+        "address_line1": "Rua Doutor Alfredo Vieira Barcelos",
+        "address_line2": "Uberaba, Curitiba - PR, 81570-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GGQH9+62",
+        "plus_code_short": "GQH9+62 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.05340385519188216,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51e50b5a48c09d48c0593c003d68d17839c0f00102f9015739430700000000c0020492032252756120446f75746f7220416c667265646f205669656972612042617263656c6f73",
+        "bbox": {
+          "lon1": -49.2344445,
+          "lat1": -25.4731603,
+          "lon2": -49.2304166,
+          "lat2": -25.4707302
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dr. Alfredo Vieira Barcelos, 285 | Uberaba, Curitiba - PR",
+      "parsed": {
+        "housenumber": "285 | uberaba",
+        "street": "r. dr. alfredo vieira barcelos",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Manoel Ribas, 7412 | Santa Felicidade, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "suburb": "Santa Felicidade",
+        "iso3166_2": "BR-PR",
+        "lon": -49.3285775,
+        "lat": -25.4026959,
+        "state_code": "PR",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Santa Felicidade, Curitiba, PR, Brazil",
+        "address_line1": "Santa Felicidade",
+        "address_line2": "Curitiba, PR, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHMWC+WH",
+        "plus_code_short": "HMWC+WH Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.2713361062662927,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51c959d8d30eaa48c059b9bb1814176739c0f00101f901cea95c0000000000c00205",
+        "bbox": {
+          "lon1": -49.3469103,
+          "lat1": -25.4224319,
+          "lon2": -49.3114442,
+          "lat2": -25.3685199
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Manoel Ribas, 7412 | Santa Felicidade, Curitiba - PR",
+      "parsed": {
+        "housenumber": "7412",
+        "street": "|",
+        "suburb": "santa felicidade",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Omar Raymundo Picheth, 903 | Xaxim, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81810-150",
+        "suburb": "Casa",
+        "street": "Rua Omar Raymundo Picheth",
+        "housenumber": "903",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2760158,
+        "lat": -25.510816,
+        "state_code": "PR",
+        "result_type": "building",
+        "formatted": "Rua Omar Raymundo Picheth 903, Casa, Curitiba - PR, 81810-150, Brazil",
+        "address_line1": "Rua Omar Raymundo Picheth 903",
+        "address_line2": "Casa, Curitiba - PR, 81810-150, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GFPQF+MH",
+        "plus_code_short": "FPQF+MH Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f316597c54a348c05906465ed6c48239c0f00103f9013826027b01000000c00203",
+        "bbox": {
+          "lon1": -49.2760658,
+          "lat1": -25.510866,
+          "lon2": -49.2759658,
+          "lat2": -25.510766
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Omar Raymundo Picheth, 903 | Xaxim, Curitiba - PR",
+      "parsed": {
+        "housenumber": "903 |",
+        "street": "rua omar raymundo picheth",
+        "suburb": "xaxim",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Manoel Ribas, 7250 | Santa Felicidade, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "suburb": "Santa Felicidade",
+        "iso3166_2": "BR-PR",
+        "lon": -49.3285775,
+        "lat": -25.4026959,
+        "state_code": "PR",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Santa Felicidade, Curitiba, PR, Brazil",
+        "address_line1": "Santa Felicidade",
+        "address_line2": "Curitiba, PR, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHMWC+WH",
+        "plus_code_short": "HMWC+WH Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.2713361062662927,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51c959d8d30eaa48c059b9bb1814176739c0f00101f901cea95c0000000000c00205",
+        "bbox": {
+          "lon1": -49.3469103,
+          "lat1": -25.4224319,
+          "lon2": -49.3114442,
+          "lat2": -25.3685199
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Manoel Ribas, 7250 | Santa Felicidade, Curitiba - PR",
+      "parsed": {
+        "housenumber": "7250",
+        "street": "|",
+        "suburb": "santa felicidade",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Vitório Marenda, 36  | Afonso Pena, São José dos Pinhais - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Brado Bar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "São José dos Pinhais",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "83065-180",
+        "suburb": "Afonso Pena",
+        "street": "Rua Vitório Marenda",
+        "housenumber": "36",
+        "iso3166_2": "BR-PR",
+        "lon": -49.1834831,
+        "lat": -25.5083187,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Brado Bar, Rua Vitório Marenda 36, Afonso Pena, São José dos Pinhais - PR, 83065-180, Brazil",
+        "address_line1": "Brado Bar",
+        "address_line2": "Rua Vitório Marenda 36, Afonso Pena, São José dos Pinhais - PR, 83065-180, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GFRR8+MJ",
+        "plus_code_short": "FRR8+MJ São José dos Pinhais, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 5.8175783932204434e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5131efcc5f7c9748c059fb71a02c218239c0f00103f9018aa030bd02000000c00201920309427261646f20426172",
+        "bbox": {
+          "lon1": -49.1835331,
+          "lat1": -25.5083687,
+          "lon2": -49.1834331,
+          "lat2": -25.5082687
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Vitório Marenda, 36  | Afonso Pena, São José dos Pinhais - PR",
+      "parsed": {
+        "housenumber": "36 |",
+        "street": "rua vitório marenda",
+        "suburb": "afonso pena",
+        "city": "são josé dos pinhais",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Omar Raymundo Picheth, 784 | Xaxim, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mr. Chapeiro Gastrobar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81810-150",
+        "suburb": "Casa",
+        "street": "Rua Omar Raymundo Picheth",
+        "housenumber": "784",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2771221,
+        "lat": -25.5103523,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Mr. Chapeiro Gastrobar, Rua Omar Raymundo Picheth 784, Casa, Curitiba - PR, 81810-150, Brazil",
+        "address_line1": "Mr. Chapeiro Gastrobar",
+        "address_line2": "Rua Omar Raymundo Picheth 784, Casa, Curitiba - PR, 81810-150, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GFPQF+V5",
+        "plus_code_short": "FPQF+V5 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51da3faabc78a348c0593af0c572a68239c0f00103f901d90a027b01000000c002019203164d722e20436861706569726f2047617374726f626172",
+        "bbox": {
+          "lon1": -49.2771721,
+          "lat1": -25.5104023,
+          "lon2": -49.2770721,
+          "lat2": -25.5103023
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Omar Raymundo Picheth, 784 | Xaxim, Curitiba - PR",
+      "parsed": {
+        "housenumber": "784 |",
+        "street": "rua omar raymundo picheth",
+        "suburb": "xaxim",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Marechal Humberto de Alencar Castelo Branco, 655 | Cristo Rei, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cabana Bar & Petiscaria",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82530-020",
+        "suburb": "Tarumã",
+        "street": "Avenida Marechal Humberto de Alencar Castelo Branco",
+        "housenumber": "655",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2378184,
+        "lat": -25.4326813,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Cabana Bar & Petiscaria, Avenida Marechal Humberto de Alencar Castelo Branco 655, Tarumã, Curitiba - PR, 82530-020, Brazil",
+        "address_line1": "Cabana Bar & Petiscaria",
+        "address_line2": "Avenida Marechal Humberto de Alencar Castelo Branco 655, Tarumã, Curitiba - PR, 82530-020, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHQ86+WV",
+        "plus_code_short": "HQ86+WV Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "518b3155d5709e48c0593c17a133c46e39c0f00103f9016597347001000000c00201920317436162616e612042617220262050657469736361726961",
+        "bbox": {
+          "lon1": -49.2378684,
+          "lat1": -25.4327313,
+          "lon2": -49.2377684,
+          "lat2": -25.4326313
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Marechal Humberto de Alencar Castelo Branco, 655 | Cristo Rei, Curitiba - PR",
+      "parsed": {
+        "housenumber": "655 |",
+        "street": "av. marechal humberto de alencar castelo branco",
+        "suburb": "cristo rei",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Roraima, 1369 | Cajuru, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Casa D’Bia",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82930-000",
+        "suburb": "Cajuru",
+        "street": "Rua Roraima",
+        "housenumber": "1369",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2100828,
+        "lat": -25.4529135,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Casa D’Bia, Rua Roraima 1369, Cajuru, Curitiba - PR, 82930-000, Brazil",
+        "address_line1": "Casa D’Bia",
+        "address_line2": "Rua Roraima 1369, Cajuru, Curitiba - PR, 82930-000, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GGQWQ+RX",
+        "plus_code_short": "GQWQ+RX Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51dfb941fee39a48c059ba6a9e23f27339c0f00103f9013d9cc76f01000000c0020192030c436173612044e28099426961",
+        "bbox": {
+          "lon1": -49.2101328,
+          "lat1": -25.4529635,
+          "lon2": -49.2100328,
+          "lat2": -25.4528635
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Roraima, 1369 | Cajuru, Curitiba - PR",
+      "parsed": {
+        "housenumber": "1369 |",
+        "street": "rua roraima",
+        "suburb": "cajuru",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Mateus Leme, 5981 | Abranches, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "suburb": "Abranches",
+        "iso3166_2": "BR-PR",
+        "lon": -49.272054,
+        "lat": -25.3614742,
+        "state_code": "PR",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Abranches, Curitiba, PR, Brazil",
+        "address_line1": "Abranches",
+        "address_line2": "Curitiba, PR, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GJPQH+C5",
+        "plus_code_short": "JPQH+C5 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.1467371885252155,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "517c5f5caad2a248c0590759bb92895c39c0f00101f9018d275f0000000000c00205",
+        "bbox": {
+          "lon1": -49.2813796,
+          "lat1": -25.3877827,
+          "lon2": -49.2665715,
+          "lat2": -25.3450768
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Mateus Leme, 5981 | Abranches, Curitiba - PR",
+      "parsed": {
+        "housenumber": "5981",
+        "street": "|",
+        "suburb": "abranches",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Paula Gomes, 13 | Centro, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Paula Gomes",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80020-180",
+        "suburb": "São Francisco",
+        "street": "Rua Paula Gomes",
+        "iso3166_2": "BR-PR",
+        "lon": -49.270635,
+        "lat": -25.4253989,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Paula Gomes, São Francisco, Curitiba - PR, 80020-180, Brazil",
+        "address_line1": "Rua Paula Gomes",
+        "address_line2": "São Francisco, Curitiba - PR, 80020-180, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHPFH+RP",
+        "plus_code_short": "FH+RP Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.05340385519188216,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "519413ed2aa4a248c0591f413bf1e66c39c0f00102f9014e55310800000000c0020492030f527561205061756c6120476f6d6573",
+        "bbox": {
+          "lon1": -49.27142,
+          "lat1": -25.4255096,
+          "lon2": -49.2698477,
+          "lat2": -25.4252469
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Paula Gomes, 13 | Centro, Curitiba - PR",
+      "parsed": {
+        "housenumber": "13 |",
+        "street": "rua paula gomes",
+        "suburb": "centro",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Vereador Toaldo Túlio, 2275 | Santa Felicidade, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dom Rodrigo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82015-646",
+        "suburb": "São Braz",
+        "street": "Avenida Vereador Toaldo Túlio",
+        "housenumber": "2275",
+        "iso3166_2": "BR-PR",
+        "lon": -49.3490485,
+        "lat": -25.4113426,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Dom Rodrigo, Avenida Vereador Toaldo Túlio 2275, São Braz, Curitiba - PR, 82015-646, Brazil",
+        "address_line1": "Dom Rodrigo",
+        "address_line2": "Avenida Vereador Toaldo Túlio 2275, São Braz, Curitiba - PR, 82015-646, Brazil",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHMQ2+F9",
+        "plus_code_short": "HMQ2+F9 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51e31b0a9fadac48c0599d73a6bf4d6939c0f00102f901033c741a00000000c0020192030b446f6d20526f647269676f",
+        "bbox": {
+          "lon1": -49.3491179,
+          "lat1": -25.4114302,
+          "lon2": -49.3489791,
+          "lat2": -25.4112551
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Vereador Toaldo Túlio, 2275 | Santa Felicidade, Curitiba - PR",
+      "parsed": {
+        "housenumber": "2275",
+        "street": "av. vereador toaldo túlio",
+        "suburb": "santa felicidade",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Theodoro Makiolka, 2009 | Santa Cândida, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gordo & Magro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82640-010",
+        "suburb": "Santa Cândida",
+        "street": "Rua Theodoro Makiolka",
+        "housenumber": "2009",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2401505,
+        "lat": -25.3660778,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Gordo & Magro, Rua Theodoro Makiolka 2009, Santa Cândida, Curitiba - PR, 82640-010, Brazil",
+        "address_line1": "Gordo & Magro",
+        "address_line2": "Rua Theodoro Makiolka 2009, Santa Cândida, Curitiba - PR, 82640-010, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GJQM5+HW",
+        "plus_code_short": "JQM5+HW Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "511ccf6740bd9e48c059a8ca5246b75d39c0f00103f9012cc4f48502000000c0020192030d476f72646f2026204d6167726f",
+        "bbox": {
+          "lon1": -49.2402005,
+          "lat1": -25.3661278,
+          "lon2": -49.2401005,
+          "lat2": -25.3660278
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Theodoro Makiolka, 2009 | Santa Cândida, Curitiba - PR",
+      "parsed": {
+        "housenumber": "2009 |",
+        "street": "rua theodoro makiolka",
+        "suburb": "santa cândida",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Conselheiro Carrão, 348 | Juvevê, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jacobina Bar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80060-272",
+        "suburb": "Juvevê",
+        "street": "Rua Conselheiro Carrão",
+        "housenumber": "348",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2545636,
+        "lat": -25.420892,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Jacobina Bar, Rua Conselheiro Carrão 348, Juvevê, Curitiba - PR, 80060-272, Brazil",
+        "address_line1": "Jacobina Bar",
+        "address_line2": "Rua Conselheiro Carrão 348, Juvevê, Curitiba - PR, 80060-272, Brazil",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHPHW+J5",
+        "plus_code_short": "HPHW+J5 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "514260408a95a048c059e525ff93bf6b39c0f00103f901618a06d900000000c0020192030c4a61636f62696e6120426172",
+        "bbox": {
+          "lon1": -49.2546136,
+          "lat1": -25.420942,
+          "lon2": -49.2545136,
+          "lat2": -25.420842
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Conselheiro Carrão, 348 | Juvevê, Curitiba - PR",
+      "parsed": {
+        "housenumber": "348 |",
+        "street": "r. conselheiro carrão",
+        "suburb": "juvevê",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Pedro Krasinski, 60 | Capão Raso, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "KO Gastropub",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81110-112",
+        "suburb": "Capão Raso",
+        "street": "Rua Pedro Krasinski",
+        "housenumber": "60",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2936342,
+        "lat": -25.4988947,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "KO Gastropub, Rua Pedro Krasinski 60, Capão Raso, Curitiba - PR, 81110-112, Brazil",
+        "address_line1": "KO Gastropub",
+        "address_line2": "Rua Pedro Krasinski 60, Capão Raso, Curitiba - PR, 81110-112, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GGP24+CG",
+        "plus_code_short": "GP24+CG Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "515afe32ce95a548c059d2a52490b77f39c0f00103f901cc46087b01000000c0020192030c4b4f2047617374726f707562",
+        "bbox": {
+          "lon1": -49.2936842,
+          "lat1": -25.4989447,
+          "lon2": -49.2935842,
+          "lat2": -25.4988447
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Pedro Krasinski, 60 | Capão Raso, Curitiba - PR",
+      "parsed": {
+        "housenumber": "60 |",
+        "street": "rua pedro krasinski",
+        "suburb": "capão raso",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Dom Pedro I, 643 | Água Verde, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "O Taberneiro",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80620-130",
+        "suburb": "Água Verde",
+        "street": "Rua Dom Pedro I",
+        "housenumber": "643",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2825507,
+        "lat": -25.4591722,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "O Taberneiro, Rua Dom Pedro I 643, Água Verde, Curitiba - PR, 80620-130, Brazil",
+        "address_line1": "O Taberneiro",
+        "address_line2": "Rua Dom Pedro I 643, Água Verde, Curitiba - PR, 80620-130, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GGPR8+8X",
+        "plus_code_short": "GPR8+8X Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5120fb0f9f2aa448c0597d3b2e4f8c7539c0f00103f901329c8fd600000000c0020192030c4f2054616265726e6569726f",
+        "bbox": {
+          "lon1": -49.2826007,
+          "lat1": -25.4592222,
+          "lon2": -49.2825007,
+          "lat2": -25.4591222
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Dom Pedro I, 643 | Água Verde, Curitiba - PR",
+      "parsed": {
+        "housenumber": "643 |",
+        "street": "rua dom pedro i",
+        "suburb": "água verde",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Moacir Vieira Gomes, 49 | Campo Comprido, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Obrzut",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81270-010",
+        "suburb": "Campo Comprido",
+        "street": "Rua Moacir Vieira Gomes",
+        "housenumber": "49",
+        "iso3166_2": "BR-PR",
+        "lon": -49.3491532,
+        "lat": -25.4477638,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Obrzut, Rua Moacir Vieira Gomes 49, Campo Comprido, Curitiba - PR, 81270-010, Brazil",
+        "address_line1": "Obrzut",
+        "address_line2": "Rua Moacir Vieira Gomes 49, Campo Comprido, Curitiba - PR, 81270-010, Brazil",
+        "category": "catering.pub",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHM22+V8",
+        "plus_code_short": "HM22+V8 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "519aa5530db1ac48c0592b55fda5a07239c0f00103f9012ec4f48502000000c002019203064f62727a7574",
+        "bbox": {
+          "lon1": -49.3492032,
+          "lat1": -25.4478138,
+          "lon2": -49.3491032,
+          "lat2": -25.4477138
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Moacir Vieira Gomes, 49 | Campo Comprido, Curitiba - PR",
+      "parsed": {
+        "housenumber": "49 |",
+        "street": "rua moacir vieira gomes",
+        "suburb": "campo comprido",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Francisco de Paula Guimarães, 369 | Ahu, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Francisco de Paula Guimarães",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80504-000",
+        "suburb": "Ahú",
+        "street": "Rua Francisco de Paula Guimarães",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2644245,
+        "lat": -25.4060914,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua Francisco de Paula Guimarães, Ahú, Curitiba - PR, 80504-000, Brazil",
+        "address_line1": "Rua Francisco de Paula Guimarães",
+        "address_line2": "Ahú, Curitiba - PR, 80504-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHPVP+H6",
+        "plus_code_short": "HPVP+H6 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.05340385519188216,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516de179a9d8a148c059d62f229bf56739c0f00102f901b79db43600000000c00204920321527561204672616e636973636f206465205061756c61204775696d6172c3a36573",
+        "bbox": {
+          "lon1": -49.2670513,
+          "lat1": -25.4066134,
+          "lon2": -49.2618091,
+          "lat2": -25.4056578
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Francisco de Paula Guimarães, 369 | Ahu, Curitiba - PR",
+      "parsed": {
+        "housenumber": "369 |",
+        "street": "r. francisco de paula guimarães",
+        "suburb": "ahu",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Leão Sallum, 1240 | Boa Vista, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Paparico Gastrobar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82540-050",
+        "suburb": "Boa Vista",
+        "street": "Rua Leão Sallum",
+        "housenumber": "1240",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2530229,
+        "lat": -25.3917178,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Paparico Gastrobar, Rua Leão Sallum 1240, Boa Vista, Curitiba - PR, 82540-050, Brazil",
+        "address_line1": "Paparico Gastrobar",
+        "address_line2": "Rua Leão Sallum 1240, Boa Vista, Curitiba - PR, 82540-050, Brazil",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GJP5W+8Q",
+        "plus_code_short": "JP5W+8Q Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51cd51ec0d63a048c059d542249e476439c0f00102f90143c04d3c00000000c00201920312506170617269636f2047617374726f626172",
+        "bbox": {
+          "lon1": -49.2531202,
+          "lat1": -25.3918037,
+          "lon2": -49.2529255,
+          "lat2": -25.3916318
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Leão Sallum, 1240 | Boa Vista, Curitiba - PR",
+      "parsed": {
+        "housenumber": "1240 |",
+        "street": "rua leão sallum",
+        "suburb": "boa vista",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida Manoel Ribas, 5966 | Santa Felicidade, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "suburb": "Santa Felicidade",
+        "iso3166_2": "BR-PR",
+        "lon": -49.3285775,
+        "lat": -25.4026959,
+        "state_code": "PR",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Santa Felicidade, Curitiba, PR, Brazil",
+        "address_line1": "Santa Felicidade",
+        "address_line2": "Curitiba, PR, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHMWC+WH",
+        "plus_code_short": "HMWC+WH Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.2713361062662927,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51c959d8d30eaa48c059b9bb1814176739c0f00101f901cea95c0000000000c00205",
+        "bbox": {
+          "lon1": -49.3469103,
+          "lat1": -25.4224319,
+          "lon2": -49.3114442,
+          "lat2": -25.3685199
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Manoel Ribas, 5966 | Santa Felicidade, Curitiba - PR",
+      "parsed": {
+        "housenumber": "5966",
+        "street": "|",
+        "suburb": "santa felicidade",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Vereador Toaldo Túlio, 1136 | Santa Felicidade, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "82015-646",
+        "suburb": "Santa Felicidade",
+        "street": "Avenida Vereador Toaldo Túlio",
+        "housenumber": "1136",
+        "iso3166_2": "BR-PR",
+        "lon": -49.3389602,
+        "lat": -25.407694,
+        "state_code": "PR",
+        "result_type": "building",
+        "formatted": "Avenida Vereador Toaldo Túlio 1136, Santa Felicidade, Curitiba - PR, 82015-646, Brazil",
+        "address_line1": "Avenida Vereador Toaldo Túlio 1136",
+        "address_line2": "Santa Felicidade, Curitiba - PR, 82015-646, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHMR6+WC",
+        "plus_code_short": "HMR6+WC Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a4d23e0c63ab48c05982c64ca25e6839c0f00103f901de63ce6f01000000c00203",
+        "bbox": {
+          "lon1": -49.3390102,
+          "lat1": -25.407744,
+          "lon2": -49.3389102,
+          "lat2": -25.407644
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Vereador Toaldo Túlio, 1136 | Santa Felicidade, Curitiba - PR",
+      "parsed": {
+        "housenumber": "1136",
+        "street": "av. vereador toaldo túlio",
+        "suburb": "santa felicidade",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua José Marcassa, 392 | Xaxim, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua José Marcassa",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "81830-095",
+        "suburb": "Casa",
+        "street": "Rua José Marcassa",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2718922,
+        "lat": -25.5066824,
+        "state_code": "PR",
+        "result_type": "street",
+        "formatted": "Rua José Marcassa, Casa, Curitiba - PR, 81830-095, Brazil",
+        "address_line1": "Rua José Marcassa",
+        "address_line2": "Casa, Curitiba - PR, 81830-095, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GFPVH+86",
+        "plus_code_short": "FPVH+86 Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.05340385519188216,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51cd84155dcda248c059737511f0b58139c0f00102f901c4fe100500000000c00204920312527561204a6f73c3a9204d61726361737361",
+        "bbox": {
+          "lon1": -49.272283,
+          "lat1": -25.5088097,
+          "lon2": -49.2711997,
+          "lat2": -25.5046147
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua José Marcassa, 392 | Xaxim, Curitiba - PR",
+      "parsed": {
+        "housenumber": "392 |",
+        "street": "rua josé marcassa",
+        "suburb": "xaxim",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Enette Dubard, 175 | Tatuquara, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "suburb": "Tatuquara",
+        "iso3166_2": "BR-PR",
+        "lon": -49.3335459,
+        "lat": -25.5642128,
+        "state_code": "PR",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Tatuquara, Curitiba, PR, Brazil",
+        "address_line1": "Tatuquara",
+        "address_line2": "Curitiba, PR, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GCMP8+8H",
+        "plus_code_short": "CMP8+8H Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.1467371885252155,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51811bcea1b1aa48c0590efc0340709039c0f00101f901a9c9550000000000c00205",
+        "bbox": {
+          "lon1": -49.3462326,
+          "lat1": -25.5832288,
+          "lon2": -49.291414,
+          "lat2": -25.5375718
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Enette Dubard, 175 | Tatuquara, Curitiba - PR",
+      "parsed": {
+        "housenumber": "175",
+        "street": "|",
+        "suburb": "tatuquara",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua André Zanetti, 129 | Vista Alegre, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Schnaps Bar",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "postcode": "80810-900",
+        "suburb": "Vista Alegre",
+        "street": "Rua André Zanetti",
+        "housenumber": "129",
+        "iso3166_2": "BR-PR",
+        "lon": -49.2907766,
+        "lat": -25.413488,
+        "state_code": "PR",
+        "result_type": "amenity",
+        "formatted": "Schnaps Bar, Rua André Zanetti 129, Vista Alegre, Curitiba - PR, 80810-900, Brazil",
+        "address_line1": "Schnaps Bar",
+        "address_line2": "Rua André Zanetti 129, Vista Alegre, Curitiba - PR, 80810-900, Brazil",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHPP5+JM",
+        "plus_code_short": "HPP5+JM Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 7.052185854882151e-05,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5196b8e92a38a548c059d8497d59da6939c0f00103f901bc7a5a7001000000c0020192030b5363686e61707320426172",
+        "bbox": {
+          "lon1": -49.2908266,
+          "lat1": -25.413538,
+          "lon2": -49.2907266,
+          "lat2": -25.413438
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua André Zanetti, 129 | Vista Alegre, Curitiba - PR",
+      "parsed": {
+        "housenumber": "129 |",
+        "street": "rua andré zanetti",
+        "suburb": "vista alegre",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua José Ziliotto, 223 | Centro, São José dos Pinhais - PR": {
+    "results": [],
+    "query": {
+      "text": "Rua José Ziliotto, 223 | Centro, São José dos Pinhais - PR",
+      "parsed": {
+        "housenumber": "223 |",
+        "street": "rua josé ziliotto",
+        "suburb": "centro",
+        "city": "são josé dos pinhais",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Professor Francisco Zardo, 920 | Santa Felicidade, Curitiba - PR": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "South Region",
+        "state": "Paraná",
+        "county": "Região Metropolitana de Curitiba",
+        "state_district": "Região Geográfica Intermediária de Curitiba",
+        "city": "Curitiba",
+        "municipality": "Região Geográfica Imediata de Curitiba",
+        "suburb": "Santa Felicidade",
+        "iso3166_2": "BR-PR",
+        "lon": -49.3285775,
+        "lat": -25.4026959,
+        "state_code": "PR",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Santa Felicidade, Curitiba, PR, Brazil",
+        "address_line1": "Santa Felicidade",
+        "address_line2": "Curitiba, PR, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "586GHMWC+WH",
+        "plus_code_short": "HMWC+WH Curitiba, Região Metropolitana de Curitiba, Brazil",
+        "rank": {
+          "importance": 0.2713361062662927,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51c959d8d30eaa48c059b9bb1814176739c0f00101f901cea95c0000000000c00205",
+        "bbox": {
+          "lon1": -49.3469103,
+          "lat1": -25.4224319,
+          "lon2": -49.3114442,
+          "lat2": -25.3685199
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Professor Francisco Zardo, 920 | Santa Felicidade, Curitiba - PR",
+      "parsed": {
+        "housenumber": "920",
+        "street": "|",
+        "suburb": "santa felicidade",
+        "city": "curitiba",
+        "state": "pr",
+        "expected_type": "building"
+      }
+    }
+  }
+}

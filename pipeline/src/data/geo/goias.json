@@ -1,0 +1,3094 @@
+{
+  "Rua 237, 307 | Setor Coimbra, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua 237",
+        "other_names": {
+          "alt_name": "Rua 277;Rua Duzentos e Trinta e Sete"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74530-020",
+        "suburb": "Setor Coimbra",
+        "street": "Rua 237",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2828868,
+        "lat": -16.6807582,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua 237, Setor Coimbra, Goiânia - GO, 74530-020, Brazil",
+        "address_line1": "Rua 237",
+        "address_line2": "Setor Coimbra, Goiânia - GO, 74530-020, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P98+MR",
+        "plus_code_short": "8P98+MR Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "512c3c79a235a448c059dc7b5d2b46ae30c0f00102f90165a0b30700000000c0020492030752756120323337",
+        "bbox": {
+          "lon1": -49.2845556,
+          "lat1": -16.6826347,
+          "lon2": -49.2811846,
+          "lat2": -16.6788515
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 237, 307 | Setor Coimbra, Goiânia - GO",
+      "parsed": {
+        "housenumber": "307 |",
+        "street": "rua 237",
+        "suburb": "setor coimbra",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida R 11, 240 | Setor Oeste, Goiânia - GO": {
+    "results": [
+      {
+        "country_code": "br",
+        "country": "Brazil",
+        "county": "Goias",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Central-West",
+        "district": "Goiânia",
+        "city": "Goiania",
+        "county_code": "GO",
+        "lon": -49.303598,
+        "lat": -16.674551,
+        "result_type": "district",
+        "formatted": "Goiânia, Goiania, Goias, Brazil",
+        "address_line1": "Goiânia",
+        "address_line2": "Goiania, Goias, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8MGW+5H",
+        "rank": {
+          "confidence": 0.5121951219512195,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c5909c4cdca648c059ee7bd45fafac30c0c00206e2031e77686f736f6e66697273743a6c6f63616c6974793a313031393638323531",
+        "bbox": {
+          "lon1": -49.416193,
+          "lat1": -16.832004,
+          "lon2": -49.166492,
+          "lat2": -16.554018
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida R 11, 240 | Setor Oeste, Goiânia - GO"
+    }
+  },
+  "Rua Horizonte, 160 | Setor Aeroviário, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bar do Dodo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74435-190",
+        "suburb": "Aeroviário",
+        "street": "Rua Horizonte",
+        "housenumber": "160",
+        "iso3166_2": "BR-GO",
+        "lon": -49.307872,
+        "lat": -16.6632238,
+        "state_code": "GO",
+        "result_type": "amenity",
+        "formatted": "Bar do Dodo, Rua Horizonte 160, Aeroviário, Goiânia - GO, 74435-190, Brazil",
+        "address_line1": "Bar do Dodo",
+        "address_line2": "Rua Horizonte 160, Aeroviário, Goiânia - GO, 74435-190, Brazil",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8MPR+PV",
+        "plus_code_short": "8MPR+PV Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 6.660791943231888e-05,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5154ad855968a748c059c9edf208c9a930c0f00103f9017940f25802000000c0020192030b42617220646f20446f646f",
+        "bbox": {
+          "lon1": -49.307922,
+          "lat1": -16.6632738,
+          "lon2": -49.307822,
+          "lat2": -16.6631738
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Horizonte, 160 | Setor Aeroviário, Goiânia - GO",
+      "parsed": {
+        "house": "| setor aeroviário",
+        "housenumber": "160",
+        "street": "rua horizonte",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. C 104, 1644 | Jardim América, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida C-104",
+        "other_names": {
+          "alt_name": "Avenida C Cento e Quatro"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74280-060",
+        "suburb": "Parque Amazonia",
+        "street": "Avenida C-104",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2861788,
+        "lat": -16.7223756,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida C-104, Parque Amazonia, Goiânia - GO, 74280-060, Brazil",
+        "address_line1": "Avenida C-104",
+        "address_line2": "Parque Amazonia, Goiânia - GO, 74280-060, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7PH7+2G",
+        "plus_code_short": "7PH7+2G Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517e67c581a1a448c059aa6d799bedb830c0f00102f901b0bcf52900000000c0020492030d4176656e69646120432d313034",
+        "bbox": {
+          "lon1": -49.2869289,
+          "lat1": -16.7237746,
+          "lon2": -49.2854331,
+          "lat2": -16.7209851
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. C 104, 1644 | Jardim América, Goiânia - GO",
+      "parsed": {
+        "housenumber": "1644 |",
+        "street": "av. 104",
+        "suburb": "jardim américa",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua 21, 133 | Setor Central, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua 21",
+        "other_names": {
+          "alt_name": "Viaduto 21"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74030-060",
+        "suburb": "Setor Central",
+        "street": "Rua 21",
+        "iso3166_2": "BR-GO",
+        "lon": -49.249871,
+        "lat": -16.6751559,
+        "state_code": "GO",
+        "result_type": "amenity",
+        "formatted": "Rua 21, Setor Central, Goiânia - GO, 74030-060, Brazil",
+        "address_line1": "Rua 21",
+        "address_line2": "Setor Central, Goiânia - GO, 74030-060, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8QF2+W3",
+        "plus_code_short": "F2+W3 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51029cdec5fb9f48c05992335e04d7ac30c0f00102f9010be4930900000000c00201920306527561203231",
+        "bbox": {
+          "lon1": -49.2500996,
+          "lat1": -16.6752247,
+          "lon2": -49.2496425,
+          "lat2": -16.6750872
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 21, 133 | Setor Central, Goiânia - GO",
+      "parsed": {
+        "housenumber": "133 |",
+        "street": "rua 21",
+        "suburb": "setor central",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida dos Flamboyants, 427 Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida dos Flamboyants",
+        "other_names": {
+          "alt_name": "Avenida Flamboyants"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74850-330",
+        "suburb": "Chácara do Governador",
+        "street": "Avenida dos Flamboyants",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2285561,
+        "lat": -16.7268745,
+        "state_code": "GO",
+        "housenumber": "427",
+        "result_type": "building",
+        "formatted": "Avenida dos Flamboyants 427, Chácara do Governador, Goiânia - GO, 74850-330, Brazil",
+        "address_line1": "Avenida dos Flamboyants 427",
+        "address_line2": "Chácara do Governador, Goiânia - GO, 74850-330, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7QFC+7H",
+        "plus_code_short": "7QFC+7H Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.75,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "5191668753419d48c059decb7d7214ba30c0f00102f901dfccdf2900000000c002039203174176656e69646120646f7320466c616d626f79616e7473",
+        "bbox": {
+          "lon1": -49.2293855,
+          "lat1": -16.7270183,
+          "lon2": -49.2260424,
+          "lat2": -16.7264814
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida dos Flamboyants, 427 Goiânia - GO",
+      "parsed": {
+        "housenumber": "427",
+        "street": "avenida dos flamboyants",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Barão do Rio Branco, 27 | Jardim Luz, Aparecida de Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Barão do Rio Branco",
+        "other_names": {
+          "alt_name": "Avenida Barão Rio Branco"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Aparecida de Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74915-230",
+        "suburb": "Setor dos Afonsos",
+        "street": "Avenida Barão do Rio Branco",
+        "iso3166_2": "BR-GO",
+        "lon": -49.271268,
+        "lat": -16.7451802,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Barão do Rio Branco, Setor dos Afonsos, Aparecida de Goiânia - GO, 74915-230, Brazil",
+        "address_line1": "Avenida Barão do Rio Branco",
+        "address_line2": "Setor dos Afonsos, Aparecida de Goiânia - GO, 74915-230, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7P3H+WF",
+        "plus_code_short": "7P3H+WF Aparecida de Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.053391518272678684,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c539eae8b8a248c05972a02c21c4be30c0f00102f9018c3e0c1b00000000c0020492031c4176656e69646120426172c3a36f20646f2052696f204272616e636f",
+        "bbox": {
+          "lon1": -49.2728204,
+          "lat1": -16.7460385,
+          "lon2": -49.2697101,
+          "lat2": -16.7443321
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Barão do Rio Branco, 27 | Jardim Luz, Aparecida de Goiânia - GO",
+      "parsed": {
+        "housenumber": "27 |",
+        "street": "av. barão do rio branco",
+        "suburb": "jardim luz",
+        "city": "aparecida de goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Virgílio Joaquim Ferreira, 23 | Parque Flamboyant, Aparecida de Goiânia - GO": {
+    "results": [],
+    "query": {
+      "text": "Av. Virgílio Joaquim Ferreira, 23 | Parque Flamboyant, Aparecida de Goiânia - GO",
+      "parsed": {
+        "housenumber": "23 |",
+        "street": "av. virgílio joaquim ferreira",
+        "suburb": "parque flamboyant",
+        "city": "aparecida de goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Niemeyer, 162 | Jardim Buriti Sereno, Aparecida de Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Niemeyer",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Aparecida de Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74960-054",
+        "suburb": "Bairro Cardoso 2",
+        "street": "Avenida Niemeyer",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3249075,
+        "lat": -16.7795274,
+        "state_code": "GO",
+        "housenumber": "162",
+        "result_type": "building",
+        "formatted": "Avenida Niemeyer 162, Bairro Cardoso 2, Aparecida de Goiânia - GO, 74960-054, Brazil",
+        "address_line1": "Avenida Niemeyer 162",
+        "address_line2": "Bairro Cardoso 2, Aparecida de Goiânia - GO, 74960-054, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG6MCG+52",
+        "plus_code_short": "6MCG+52 Aparecida de Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.053391518272678684,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d15ca79196a948c059fe55911b8fc730c0f00102f9016d0e2a1b00000000c002039203104176656e696461204e69656d65796572",
+        "bbox": {
+          "lon1": -49.325721,
+          "lat1": -16.7810068,
+          "lon2": -49.3240738,
+          "lat2": -16.7780375
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Niemeyer, 162 | Jardim Buriti Sereno, Aparecida de Goiânia - GO",
+      "parsed": {
+        "housenumber": "162",
+        "street": "av. niemeyer",
+        "city": "aparecida de goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua Formosa, 1087 Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Formosa",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74425-535",
+        "suburb": "Esplanada do Anicuns",
+        "street": "Rua Formosa",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3172999,
+        "lat": -16.6791199,
+        "state_code": "GO",
+        "housenumber": "1087",
+        "result_type": "building",
+        "formatted": "Rua Formosa 1087, Esplanada do Anicuns, Goiânia - GO, 74425-535, Brazil",
+        "address_line1": "Rua Formosa 1087",
+        "address_line2": "Esplanada do Anicuns, Goiânia - GO, 74425-535, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8MCM+93",
+        "plus_code_short": "8MCM+93 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.75,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "5115c37a489da848c059139040cddaad30c0f00102f90146522d1100000000c0020392030b52756120466f726d6f7361",
+        "bbox": {
+          "lon1": -49.3177498,
+          "lat1": -16.6802459,
+          "lon2": -49.3161697,
+          "lat2": -16.6762386
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Formosa, 1087 Goiânia - GO",
+      "parsed": {
+        "housenumber": "1087",
+        "street": "rua formosa",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Sexta Avenida, 466 | Setor Leste Universitário, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Sexta",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74645-170",
+        "suburb": "Setor Leste Vila Nova",
+        "street": "Avenida Sexta",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2482239,
+        "lat": -16.663284,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Sexta, Setor Leste Vila Nova, Goiânia - GO, 74645-170, Brazil",
+        "address_line1": "Avenida Sexta",
+        "address_line2": "Setor Leste Vila Nova, Goiânia - GO, 74645-170, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8QP2+MP",
+        "plus_code_short": "8QP2+MP Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.6,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.6,
+          "match_type": "full_match"
+        },
+        "place_id": "51f44afeccc59f48c059c7f5effacca930c0f00102f901e0d66e1600000000c0020492030d4176656e696461205365787461",
+        "bbox": {
+          "lon1": -49.2483194,
+          "lat1": -16.6636065,
+          "lon2": -49.2481283,
+          "lat2": -16.6629614
+        }
+      }
+    ],
+    "query": {
+      "text": "Sexta Avenida, 466 | Setor Leste Universitário, Goiânia - GO",
+      "parsed": {
+        "street": "sexta avenida",
+        "suburb": "universitário",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "street"
+      }
+    }
+  },
+  "Rua 12 | Santos Dumont, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua 12",
+        "other_names": {
+          "alt_name": "Rua Doze"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74460-020",
+        "suburb": "Setor Santos Dumont",
+        "street": "Rua 12",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3465632,
+        "lat": -16.6509382,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua 12, Setor Santos Dumont, Goiânia - GO, 74460-020, Brazil",
+        "address_line1": "Rua 12",
+        "address_line2": "Setor Santos Dumont, Goiânia - GO, 74460-020, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8MX3+J9",
+        "plus_code_short": "8MX3+J9 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1ffd42e5cac48c05994b7c8e2a3a630c0f00102f901ef26b00700000000c00204920306527561203132",
+        "bbox": {
+          "lon1": -49.3469689,
+          "lat1": -16.6545802,
+          "lon2": -49.3461574,
+          "lat2": -16.6472962
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 12 | Santos Dumont, Goiânia - GO",
+      "parsed": {
+        "street": "rua 12 santos dumont",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "street"
+      }
+    }
+  },
+  "Av. T 4, 1370 | Serrinha, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "غويانيا",
+          "name:be": "Гаянія",
+          "name:bg": "Гояния",
+          "name:ce": "Гояни",
+          "name:el": "Γκοϊάνια",
+          "name:es": "Goiania",
+          "name:fa": "گویانیا",
+          "name:he": "גואיאניה",
+          "name:hy": "Գոյանիա",
+          "name:ja": "ゴイアニア",
+          "name:ka": "გოიანია",
+          "name:kk": "Гояния",
+          "name:ko": "고이아니아",
+          "name:lt": "Gojanija",
+          "name:lv": "Gojanija",
+          "name:mk": "Гојанија",
+          "name:mn": "Гояния",
+          "name:mr": "गोयानिया",
+          "name:ru": "Гояния",
+          "name:sh": "Gojanija",
+          "name:sr": "Гојанија",
+          "name:tg": "Гояния",
+          "name:th": "โกยาเนีย",
+          "name:uk": "Гоянія",
+          "name:ur": "گویانیا",
+          "name:uz": "Goyaniya",
+          "name:zh": "戈亚尼亚",
+          "int_name": "Goiania",
+          "name:kk-Arab": "گويانىييا"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2532691,
+        "lat": -16.680882,
+        "state_code": "GO",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Goiânia, GO, Brazil",
+        "address_line1": "Goiânia",
+        "address_line2": "GO, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P9W+JM",
+        "plus_code_short": "9W+JM Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.610489156737459,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "512ecb321f6ba048c059616f62484eae30c0f00101f901d31a050000000000c00208",
+        "bbox": {
+          "lon1": -49.4469524,
+          "lat1": -16.8318764,
+          "lon2": -49.078,
+          "lat2": -16.4542142
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. T 4, 1370 | Serrinha, Goiânia - GO",
+      "parsed": {
+        "housenumber": "1370",
+        "street": "| serrinha",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Araxá, 821 | Jardim Ana Lúcia, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Araxá",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74320-120",
+        "suburb": "Vila Mauá",
+        "street": "Avenida Araxá",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3133162,
+        "lat": -16.6970166,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Araxá, Vila Mauá, Goiânia - GO, 74320-120, Brazil",
+        "address_line1": "Avenida Araxá",
+        "address_line2": "Vila Mauá, Goiânia - GO, 74320-120, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8M3P+5M",
+        "plus_code_short": "8M3P+5M Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "514c27c8be1aa848c059e5c40dae6fb230c0f00102f901ae4be94200000000c0020492030e4176656e6964612041726178c3a1",
+        "bbox": {
+          "lon1": -49.3149123,
+          "lat1": -16.6972785,
+          "lon2": -49.3117218,
+          "lat2": -16.6967348
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Araxá, 821 | Jardim Ana Lúcia, Goiânia - GO",
+      "parsed": {
+        "housenumber": "821 |",
+        "street": "av. araxá",
+        "suburb": "jardim ana lúcia",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. C 181, 38 | Nova Suíça, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua C",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74633-300",
+        "suburb": "Setor Leste Vila Nova",
+        "street": "Rua C",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2371234,
+        "lat": -16.6633033,
+        "state_code": "GO",
+        "housenumber": "181",
+        "result_type": "building",
+        "formatted": "Rua C 181, Setor Leste Vila Nova, Goiânia - GO, 74633-300, Brazil",
+        "address_line1": "Rua C 181",
+        "address_line2": "Setor Leste Vila Nova, Goiânia - GO, 74633-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8QP7+M5",
+        "plus_code_short": "8QP7+M5 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51e40e400f5a9e48c05931d4bc3ecea930c0f00102f901847ae30600000000c002039203055275612043",
+        "bbox": {
+          "lon1": -49.2375609,
+          "lat1": -16.666112,
+          "lon2": -49.2362568,
+          "lat2": -16.6618865
+        }
+      }
+    ],
+    "query": {
+      "text": "R. C 181, 38 | Nova Suíça, Goiânia - GO",
+      "parsed": {
+        "house": "38 | nova suíça",
+        "housenumber": "181",
+        "street": "r. c",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. São Jorge, 29 | Jardim Nova Era, Aparecida de Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua São Jorge",
+        "other_names": {
+          "alt_name": "Avenida São Jorge"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Aparecida de Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74916-190",
+        "suburb": "Cidade Satélite São Luiz",
+        "street": "Rua São Jorge",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2790868,
+        "lat": -16.746282,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua São Jorge, Cidade Satélite São Luiz, Aparecida de Goiânia - GO, 74916-190, Brazil",
+        "address_line1": "Rua São Jorge",
+        "address_line2": "Cidade Satélite São Luiz, Aparecida de Goiânia - GO, 74916-190, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7P3C+F9",
+        "plus_code_short": "7P3C+F9 Aparecida de Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.053391518272678684,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51665fc31db9a348c059ee974f560cbf30c0f00102f901d76bb20700000000c0020492030e5275612053c3a36f204a6f726765",
+        "bbox": {
+          "lon1": -49.2810543,
+          "lat1": -16.7481025,
+          "lon2": -49.2769046,
+          "lat2": -16.7446668
+        }
+      }
+    ],
+    "query": {
+      "text": "R. São Jorge, 29 | Jardim Nova Era, Aparecida de Goiânia - GO",
+      "parsed": {
+        "housenumber": "29 |",
+        "street": "r. são jorge",
+        "suburb": "jardim nova era",
+        "city": "aparecida de goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua C, 34 | Jardim América, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua C-34",
+        "other_names": {
+          "alt_name": "Rua C-Trinta e Quatro"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74265-050",
+        "suburb": "Jardim América",
+        "street": "Rua C-34",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2894021,
+        "lat": -16.7002967,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua C-34, Jardim América, Goiânia - GO, 74265-050, Brazil",
+        "address_line1": "Rua C-34",
+        "address_line2": "Jardim América, Goiânia - GO, 74265-050, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7PX6+V6",
+        "plus_code_short": "7PX6+V6 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516572c5200ba548c05929ffffa446b330c0f00102f9017314b20700000000c0020492030852756120432d3334",
+        "bbox": {
+          "lon1": -49.2897866,
+          "lat1": -16.7017786,
+          "lon2": -49.2887256,
+          "lat2": -16.6989219
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua C, 34 | Jardim América, Goiânia - GO",
+      "parsed": {
+        "housenumber": "34 |",
+        "street": "rua c",
+        "suburb": "jardim américa",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. 258, 19 | Vila Viana, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "غويانيا",
+          "name:be": "Гаянія",
+          "name:bg": "Гояния",
+          "name:ce": "Гояни",
+          "name:el": "Γκοϊάνια",
+          "name:es": "Goiania",
+          "name:fa": "گویانیا",
+          "name:he": "גואיאניה",
+          "name:hy": "Գոյանիա",
+          "name:ja": "ゴイアニア",
+          "name:ka": "გოიანია",
+          "name:kk": "Гояния",
+          "name:ko": "고이아니아",
+          "name:lt": "Gojanija",
+          "name:lv": "Gojanija",
+          "name:mk": "Гојанија",
+          "name:mn": "Гояния",
+          "name:mr": "गोयानिया",
+          "name:ru": "Гояния",
+          "name:sh": "Gojanija",
+          "name:sr": "Гојанија",
+          "name:tg": "Гояния",
+          "name:th": "โกยาเนีย",
+          "name:uk": "Гоянія",
+          "name:ur": "گویانیا",
+          "name:uz": "Goyaniya",
+          "name:zh": "戈亚尼亚",
+          "int_name": "Goiania",
+          "name:kk-Arab": "گويانىييا"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2532691,
+        "lat": -16.680882,
+        "state_code": "GO",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Goiânia, GO, Brazil",
+        "address_line1": "Goiânia",
+        "address_line2": "GO, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P9W+JM",
+        "plus_code_short": "9W+JM Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.610489156737459,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "512ecb321f6ba048c059616f62484eae30c0f00101f901d31a050000000000c00208",
+        "bbox": {
+          "lon1": -49.4469524,
+          "lat1": -16.8318764,
+          "lon2": -49.078,
+          "lat2": -16.4542142
+        }
+      }
+    ],
+    "query": {
+      "text": "R. 258, 19 | Vila Viana, Goiânia - GO",
+      "parsed": {
+        "housenumber": "19 |",
+        "street": "vila viana",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Dona Maria Joana, 171 | Setor Sul, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Dona Maria Joana",
+        "other_names": {
+          "alt_name": "Rua Maria Joana"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74605-020",
+        "suburb": "Setor Sul",
+        "street": "Rua Dona Maria Joana",
+        "iso3166_2": "BR-GO",
+        "lon": -49.250521,
+        "lat": -16.680554,
+        "state_code": "GO",
+        "housenumber": "171",
+        "result_type": "building",
+        "formatted": "Rua Dona Maria Joana 171, Setor Sul, Goiânia - GO, 74605-020, Brazil",
+        "address_line1": "Rua Dona Maria Joana 171",
+        "address_line2": "Setor Sul, Goiânia - GO, 74605-020, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P9X+QQ",
+        "plus_code_short": "9X+QQ Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5109fb761211a048c059782975c938ae30c0c0020392031452756120446f6e61204d61726961204a6f616e61e203266f70656e6164647265737365733a616464726573733a38323437613939643738323031613937",
+        "bbox": {
+          "lon1": -49.250977,
+          "lat1": -16.6828743,
+          "lon2": -49.2494082,
+          "lat2": -16.6800213
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Dona Maria Joana, 171 | Setor Sul, Goiânia - GO",
+      "parsed": {
+        "housenumber": "171",
+        "street": "r. dona maria joana",
+        "suburb": "| setor sul",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. C 208, 319 | Jardim América, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida C-208",
+        "other_names": {
+          "alt_name": "Avenida C 208;Avenida C Duzentos e Oito;Rua C 208;Rua C Duzentos e Oito",
+          "name": "Avenida C-208",
+          "name:pt": "Avenida C-208"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74270-220",
+        "suburb": "Jardim América",
+        "street": "Avenida C-208",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2855393,
+        "lat": -16.7060504,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida C-208, Jardim América, Goiânia - GO, 74270-220, Brazil",
+        "address_line1": "Avenida C-208",
+        "address_line2": "Jardim América, Goiânia - GO, 74270-220, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7PV7+HQ",
+        "plus_code_short": "7PV7+HQ Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51839c418d8ca448c059e55311b8bfb430c0f00102f9017744880900000000c0020492030d4176656e69646120432d323038",
+        "bbox": {
+          "lon1": -49.2859872,
+          "lat1": -16.7082355,
+          "lon2": -49.285117,
+          "lat2": -16.7038716
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. C 208, 319 | Jardim América, Goiânia - GO",
+      "parsed": {
+        "housenumber": "319 |",
+        "street": "av. 208",
+        "suburb": "jardim américa",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Serrinha, 436 | Setor Serrinha, Goiânia - GO": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74835-300",
+        "suburb": "Vila Divino Pai Eterno",
+        "street": "Avenida da Serrinha",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "GO",
+        "lon": -49.267169,
+        "lat": -16.726473,
+        "housenumber": "436",
+        "result_type": "building",
+        "formatted": "Avenida da Serrinha 436, Vila Divino Pai Eterno, Goiânia - GO, 74835-300, Brazil",
+        "address_line1": "Avenida da Serrinha 436",
+        "address_line2": "Vila Divino Pai Eterno, Goiânia - GO, 74835-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7PFM+C4",
+        "plus_code_short": "7PFM+C4 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "iso3166_2": "BR-GO",
+        "rank": {
+          "confidence": 0.6075,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.81,
+          "confidence_building_level": 0.6075,
+          "match_type": "full_match"
+        },
+        "place_id": "51a5c0029832a248c059506d7022fab930c0f00102f901ee97a91b00000000c00203",
+        "bbox": {
+          "lon1": -49.2671935,
+          "lat1": -16.7274442,
+          "lon2": -49.2671691,
+          "lat2": -16.7264732
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Serrinha, 436 | Setor Serrinha, Goiânia - GO",
+      "parsed": {
+        "housenumber": "436",
+        "street": "av. serrinha",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida C, 104 | Jardim América, Goiânia - GO": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "104",
+        "street": "Rua K",
+        "country": "Brazil",
+        "county": "Goias",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "74120-040",
+        "state": "Central-West",
+        "district": "Goiânia",
+        "city": "Goiania",
+        "county_code": "GO",
+        "lon": -49.263047,
+        "lat": -16.690376,
+        "result_type": "building",
+        "formatted": "Rua K 104, Goiânia, Goiania - Central-West, 74120-040, Brazil",
+        "address_line1": "Rua K 104",
+        "address_line2": "Goiânia, Goiania - Central-West, 74120-040, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P5P+RQ",
+        "rank": {
+          "confidence": 0.567,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.567,
+          "match_type": "inner_part"
+        },
+        "place_id": "51cc272b86aba148c0597cf1457bbcb030c0c00203e203466f70656e6164647265737365733a616464726573733a62722f676f2f7374617465776964652d6164647265737365732d73746174653a38623764613261643631353361333563"
+      }
+    ],
+    "query": {
+      "text": "Avenida C, 104 | Jardim América, Goiânia - GO",
+      "parsed": {
+        "street": "104 |",
+        "suburb": "jardim américa",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "street"
+      }
+    }
+  },
+  "R. 229, 128 | Setor Coimbra, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua 229",
+        "other_names": {
+          "alt_name": "Rua Duzentos e Vinte e Nove",
+          "name": "Rua 229",
+          "name:pt": "Rua 229"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74535-970",
+        "suburb": "Setor Oeste",
+        "street": "Rua 229",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2814726,
+        "lat": -16.6789457,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua 229, Setor Oeste, Goiânia - GO, 74535-970, Brazil",
+        "address_line1": "Rua 229",
+        "address_line2": "Setor Oeste, Goiânia - GO, 74535-970, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8PC9+CC",
+        "plus_code_short": "8PC9+CC Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "512cdc4d4b07a448c0598442a962cfad30c0f00102f901b7718d0900000000c0020492030752756120323239",
+        "bbox": {
+          "lon1": -49.2822453,
+          "lat1": -16.6803343,
+          "lon2": -49.2808133,
+          "lat2": -16.6776096
+        }
+      }
+    ],
+    "query": {
+      "text": "R. 229, 128 | Setor Coimbra, Goiânia - GO",
+      "parsed": {
+        "housenumber": "128 |",
+        "street": "r. 229",
+        "suburb": "setor coimbra",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua T 45, 88 | Setor Bueno, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua T",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74555-330",
+        "suburb": "Jardim das Esmeraldas",
+        "street": "Rua T",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2808671,
+        "lat": -16.651697,
+        "state_code": "GO",
+        "housenumber": "45",
+        "result_type": "building",
+        "formatted": "Rua T 45, Jardim das Esmeraldas, Goiânia - GO, 74555-330, Brazil",
+        "address_line1": "Rua T 45",
+        "address_line2": "Jardim das Esmeraldas, Goiânia - GO, 74555-330, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8PX9+8M",
+        "plus_code_short": "8PX9+8M Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.675,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.75,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51dd820074f3a348c059bce6559dd5a630c0f00102f9015b62e40600000000c002039203055275612054",
+        "bbox": {
+          "lon1": -49.2820167,
+          "lat1": -16.6519102,
+          "lon2": -49.2802459,
+          "lat2": -16.6515818
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua T 45, 88 | Setor Bueno, Goiânia - GO",
+      "parsed": {
+        "house": "88 | setor bueno",
+        "housenumber": "45",
+        "street": "rua t",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. C 11, 460 | Setor Sudoeste, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida C-1",
+        "other_names": {
+          "alt_name": "Avenida C Um"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74270-020",
+        "suburb": "Sudoeste",
+        "street": "Avenida C-1",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2896407,
+        "lat": -16.6952315,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida C-1, Sudoeste, Goiânia - GO, 74270-020, Brazil",
+        "address_line1": "Avenida C-1",
+        "address_line2": "Sudoeste, Goiânia - GO, 74270-020, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P36+W4",
+        "plus_code_short": "8P36+W4 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.15793749999999998,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7,
+          "match_type": "full_match"
+        },
+        "place_id": "51970b4bf212a548c05926a60bb1fab130c0f00102f901d4477f3500000000c0020492030b4176656e69646120432d31",
+        "bbox": {
+          "lon1": -49.2896716,
+          "lat1": -16.6953401,
+          "lon2": -49.2896099,
+          "lat2": -16.695123
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. C 11, 460 | Setor Sudoeste, Goiânia - GO"
+    }
+  },
+  "Av. Rio Verde, 0 | Vila Rosa, Goiânia - GO": {
+    "results": [
+      {
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74933-590",
+        "suburb": "Faiçalville",
+        "street": "Avenida Rio Verde",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state_code": "GO",
+        "lon": -49.3212453,
+        "lat": -16.7500483,
+        "result_type": "street",
+        "formatted": "Avenida Rio Verde, Faiçalville, Goiânia - GO, 74933-590, Brazil",
+        "address_line1": "Avenida Rio Verde",
+        "address_line2": "Faiçalville, Goiânia - GO, 74933-590, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG6MXH+XG",
+        "plus_code_short": "6MXH+XG Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "iso3166_2": "BR-GO",
+        "rank": {
+          "confidence": 0.631578947368421,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5132bfe4901ea948c0599feb562a03c030c0f00102f9015826f23600000000c00204",
+        "bbox": {
+          "lon1": -49.3217822,
+          "lat1": -16.7500833,
+          "lon2": -49.3207088,
+          "lat2": -16.7500181
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Rio Verde, 0 | Vila Rosa, Goiânia - GO"
+    }
+  },
+  "Rua 104, 239 | Setor Sul, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua 104",
+        "other_names": {
+          "alt_name": "Rua Cento e Quatro"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74083-300",
+        "suburb": "Setor Sul",
+        "street": "Rua 104",
+        "iso3166_2": "BR-GO",
+        "lon": -49.252099,
+        "lat": -16.686715,
+        "state_code": "GO",
+        "housenumber": "239",
+        "result_type": "building",
+        "formatted": "Rua 104 239, Setor Sul, Goiânia - GO, 74083-300, Brazil",
+        "address_line1": "Rua 104 239",
+        "address_line2": "Setor Sul, Goiânia - GO, 74083-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P7X+85",
+        "plus_code_short": "7X+85 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515a2db0c744a048c05932ace28dccaf30c0c0020392030752756120313034e203266f70656e6164647265737365733a616464726573733a64636534346334373331353137663932",
+        "bbox": {
+          "lon1": -49.2544459,
+          "lat1": -16.6881895,
+          "lon2": -49.250437,
+          "lat2": -16.6863923
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 104, 239 | Setor Sul, Goiânia - GO",
+      "parsed": {
+        "housenumber": "239",
+        "street": "rua 104",
+        "suburb": "| setor sul",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua 74, 329 | Setor Central, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua 74",
+        "other_names": {
+          "alt_name": "Rua Setenta e Quatro"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74063-010",
+        "suburb": "Setor Central",
+        "street": "Rua 74",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2617926,
+        "lat": -16.670002,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua 74, Setor Central, Goiânia - GO, 74063-010, Brazil",
+        "address_line1": "Rua 74",
+        "address_line2": "Setor Central, Goiânia - GO, 74063-010, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8PHQ+X7",
+        "plus_code_short": "HQ+X7 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51dbaa7f6b82a148c0592d41464085ab30c0f00102f9014e7f373700000000c00204920306527561203734",
+        "bbox": {
+          "lon1": -49.2622159,
+          "lat1": -16.6713535,
+          "lon2": -49.2613735,
+          "lat2": -16.6686519
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 74, 329 | Setor Central, Goiânia - GO",
+      "parsed": {
+        "housenumber": "329 |",
+        "street": "rua 74",
+        "suburb": "setor central",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. C-0233, 427 | Jardim América, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida C",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74363-780",
+        "suburb": "Jardim Europa",
+        "street": "Avenida C",
+        "iso3166_2": "BR-GO",
+        "lon": -49.317602,
+        "lat": -16.7171153,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida C, Jardim Europa, Goiânia - GO, 74363-780, Brazil",
+        "address_line1": "Avenida C",
+        "address_line2": "Jardim Europa, Goiânia - GO, 74363-780, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7MMJ+5X",
+        "plus_code_short": "7MMJ+5X Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.315,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.63,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517592ad2ea7a848c05913f648de94b730c0f00102f90179ee833300000000c002049203094176656e6964612043",
+        "bbox": {
+          "lon1": -49.3189783,
+          "lat1": -16.7175842,
+          "lon2": -49.3162212,
+          "lat2": -16.7166333
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. C-0233, 427 | Jardim América, Goiânia - GO",
+      "parsed": {
+        "housenumber": "427 |",
+        "street": "av. c-0233",
+        "suburb": "jardim américa",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua das Orquídeas Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua das Orquídeas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74375-415",
+        "suburb": "Celina Park",
+        "street": "Rua das Orquídeas",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3252295,
+        "lat": -16.7003696,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua das Orquídeas, Celina Park, Goiânia - GO, 74375-415, Brazil",
+        "address_line1": "Rua das Orquídeas",
+        "address_line2": "Celina Park, Goiânia - GO, 74375-415, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7MXF+VW",
+        "plus_code_short": "7MXF+VW Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e318c91ea1a948c059d31c0f6c4bb330c0f00102f901a2d1f13500000000c0020492031252756120646173204f727175c3ad64656173",
+        "bbox": {
+          "lon1": -49.3267915,
+          "lat1": -16.7045646,
+          "lon2": -49.3245841,
+          "lat2": -16.6964446
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua das Orquídeas Goiânia - GO",
+      "parsed": {
+        "street": "rua das orquídeas",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "street"
+      }
+    }
+  },
+  "Rua das Orquídeas | Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua das Orquídeas",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74375-415",
+        "suburb": "Celina Park",
+        "street": "Rua das Orquídeas",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3252295,
+        "lat": -16.7003696,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua das Orquídeas, Celina Park, Goiânia - GO, 74375-415, Brazil",
+        "address_line1": "Rua das Orquídeas",
+        "address_line2": "Celina Park, Goiânia - GO, 74375-415, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7MXF+VW",
+        "plus_code_short": "7MXF+VW Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.75,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "51e318c91ea1a948c059d31c0f6c4bb330c0f00102f901a2d1f13500000000c0020492031252756120646173204f727175c3ad64656173",
+        "bbox": {
+          "lon1": -49.3267915,
+          "lat1": -16.7045646,
+          "lon2": -49.3245841,
+          "lat2": -16.6964446
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua das Orquídeas | Goiânia - GO",
+      "parsed": {
+        "street": "rua das orquídeas |",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "street"
+      }
+    }
+  },
+  "R. Fernando de Noronha, 1 | Setor Urias Magalhães, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "alt_name": "Urias Magalhães"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "suburb": "Setor Urias Magalhães",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2710813,
+        "lat": -16.6404085,
+        "state_code": "GO",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Setor Urias Magalhães, Goiânia, GO, Brazil",
+        "address_line1": "Setor Urias Magalhães",
+        "address_line2": "Goiânia, GO, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG9P5H+RH",
+        "plus_code_short": "9P5H+RH Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.1333999412527657,
+          "confidence": 0.5593220338983051,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515107c3cab2a248c0599694bbcff1a330c0f00101f90183d4680000000000c00205",
+        "bbox": {
+          "lon1": -49.2795626,
+          "lat1": -16.6484569,
+          "lon2": -49.264717,
+          "lat2": -16.632067
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Fernando de Noronha, 1 | Setor Urias Magalhães, Goiânia - GO"
+    }
+  },
+  "Rua Todos os Santos, 71 |Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Todos os Santos",
+        "other_names": {
+          "alt_name": "Rua Todas os Santos"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74375-415",
+        "street": "Rua Todos os Santos",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3497851,
+        "lat": -16.6892667,
+        "state_code": "GO",
+        "housenumber": "71",
+        "result_type": "building",
+        "formatted": "Rua Todos os Santos 71, Goiânia - GO, 74375-415, Brazil",
+        "address_line1": "Rua Todos os Santos 71",
+        "address_line2": "Goiânia - GO, 74375-415, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8M62+73",
+        "plus_code_short": "8M62+73 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.475,
+          "confidence_city_level": 0.95,
+          "confidence_street_level": 0.95,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51659016c2c5ac48c059cbb84ec873b030c0f00102f90120aa7d0900000000c0020392031352756120546f646f73206f732053616e746f73",
+        "bbox": {
+          "lon1": -49.3507457,
+          "lat1": -16.6904208,
+          "lon2": -49.3488155,
+          "lat2": -16.6881195
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua Todos os Santos, 71 |Goiânia - GO",
+      "parsed": {
+        "housenumber": "71",
+        "street": "rua todos os santos",
+        "city": "|goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Barão do Rio Branco, 37 | Jardim Luz, Aparecida de Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Barão do Rio Branco",
+        "other_names": {
+          "alt_name": "Avenida Barão Rio Branco"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Aparecida de Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74915-230",
+        "suburb": "Setor dos Afonsos",
+        "street": "Avenida Barão do Rio Branco",
+        "iso3166_2": "BR-GO",
+        "lon": -49.271268,
+        "lat": -16.7451802,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Barão do Rio Branco, Setor dos Afonsos, Aparecida de Goiânia - GO, 74915-230, Brazil",
+        "address_line1": "Avenida Barão do Rio Branco",
+        "address_line2": "Setor dos Afonsos, Aparecida de Goiânia - GO, 74915-230, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7P3H+WF",
+        "plus_code_short": "7P3H+WF Aparecida de Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.053391518272678684,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c539eae8b8a248c05972a02c21c4be30c0f00102f9018c3e0c1b00000000c0020492031c4176656e69646120426172c3a36f20646f2052696f204272616e636f",
+        "bbox": {
+          "lon1": -49.2728204,
+          "lat1": -16.7460385,
+          "lon2": -49.2697101,
+          "lat2": -16.7443321
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Barão do Rio Branco, 37 | Jardim Luz, Aparecida de Goiânia - GO",
+      "parsed": {
+        "housenumber": "37 |",
+        "street": "av. barão do rio branco",
+        "suburb": "jardim luz",
+        "city": "aparecida de goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. 240, 81 | Setor Leste Universitário, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "غويانيا",
+          "name:be": "Гаянія",
+          "name:bg": "Гояния",
+          "name:ce": "Гояни",
+          "name:el": "Γκοϊάνια",
+          "name:es": "Goiania",
+          "name:fa": "گویانیا",
+          "name:he": "גואיאניה",
+          "name:hy": "Գոյանիա",
+          "name:ja": "ゴイアニア",
+          "name:ka": "გოიანია",
+          "name:kk": "Гояния",
+          "name:ko": "고이아니아",
+          "name:lt": "Gojanija",
+          "name:lv": "Gojanija",
+          "name:mk": "Гојанија",
+          "name:mn": "Гояния",
+          "name:mr": "गोयानिया",
+          "name:ru": "Гояния",
+          "name:sh": "Gojanija",
+          "name:sr": "Гојанија",
+          "name:tg": "Гояния",
+          "name:th": "โกยาเนีย",
+          "name:uk": "Гоянія",
+          "name:ur": "گویانیا",
+          "name:uz": "Goyaniya",
+          "name:zh": "戈亚尼亚",
+          "int_name": "Goiania",
+          "name:kk-Arab": "گويانىييا"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2532691,
+        "lat": -16.680882,
+        "state_code": "GO",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Goiânia, GO, Brazil",
+        "address_line1": "Goiânia",
+        "address_line2": "GO, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P9W+JM",
+        "plus_code_short": "9W+JM Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.610489156737459,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "512ecb321f6ba048c059616f62484eae30c0f00101f901d31a050000000000c00208",
+        "bbox": {
+          "lon1": -49.4469524,
+          "lat1": -16.8318764,
+          "lon2": -49.078,
+          "lat2": -16.4542142
+        }
+      }
+    ],
+    "query": {
+      "text": "R. 240, 81 | Setor Leste Universitário, Goiânia - GO",
+      "parsed": {
+        "house": "81 | setor leste universitário",
+        "housenumber": "240",
+        "street": "r.",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "R. Minas Gerais, 50 | Setor Urias Magalhães, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Minas Gerais",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74565-370",
+        "suburb": "Setor Urias Magalhães",
+        "street": "Rua Minas Gerais",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2699967,
+        "lat": -16.6345318,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua Minas Gerais, Setor Urias Magalhães, Goiânia - GO, 74565-370, Brazil",
+        "address_line1": "Rua Minas Gerais",
+        "address_line2": "Setor Urias Magalhães, Goiânia - GO, 74565-370, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG9P8J+52",
+        "plus_code_short": "9P8J+52 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5193437a408fa248c059a34511ad70a230c0f00102f901d21a820900000000c00204920310527561204d696e617320476572616973",
+        "bbox": {
+          "lon1": -49.2707554,
+          "lat1": -16.6358796,
+          "lon2": -49.2686176,
+          "lat2": -16.6327282
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Minas Gerais, 50 | Setor Urias Magalhães, Goiânia - GO",
+      "parsed": {
+        "housenumber": "50 |",
+        "street": "r. minas gerais",
+        "suburb": "setor urias magalhães",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "R. Monte Castelo, 106 | Jardim Planalto, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua Monte Castelo",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74333-270",
+        "suburb": "Jardim Planalto",
+        "street": "Rua Monte Castelo",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2986412,
+        "lat": -16.7150208,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Rua Monte Castelo, Jardim Planalto, Goiânia - GO, 74333-270, Brazil",
+        "address_line1": "Rua Monte Castelo",
+        "address_line2": "Jardim Planalto, Goiânia - GO, 74333-270, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7PM2+XG",
+        "plus_code_short": "7PM2+XG Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517d9ef5df39a648c059b3f5679a0bb730c0f00102f9011c72910900000000c00204920311527561204d6f6e74652043617374656c6f",
+        "bbox": {
+          "lon1": -49.299019,
+          "lat1": -16.7161593,
+          "lon2": -49.2981572,
+          "lat2": -16.7138386
+        }
+      }
+    ],
+    "query": {
+      "text": "R. Monte Castelo, 106 | Jardim Planalto, Goiânia - GO",
+      "parsed": {
+        "housenumber": "106 |",
+        "street": "r. monte castelo",
+        "suburb": "jardim planalto",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Boulevard Conde dos Arcos, 287 | Setor Goiânia 2, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Boulevard Conde dos Arcos",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74665-510",
+        "suburb": "Setor Goiânia 2",
+        "street": "Avenida Boulevard Conde dos Arcos",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2483024,
+        "lat": -16.628745,
+        "housenumber": "2",
+        "result_type": "building",
+        "formatted": "Avenida Boulevard Conde dos Arcos 2, Setor Goiânia 2, Goiânia - GO, 74665-510, Brazil",
+        "address_line1": "Avenida Boulevard Conde dos Arcos 2",
+        "address_line2": "Setor Goiânia 2, Goiânia - GO, 74665-510, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG9QC2+GM",
+        "plus_code_short": "9QC2+GM Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5158c27f5fc89f48c0590586ac6ef5a030c0f00102f90185dbb10700000000c002039203214176656e69646120426f756c657661726420436f6e646520646f73204172636f73",
+        "bbox": {
+          "lon1": -49.2534714,
+          "lat1": -16.6327566,
+          "lon2": -49.2428716,
+          "lat2": -16.6251418
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Boulevard Conde dos Arcos, 287 | Setor Goiânia 2, Goiânia - GO",
+      "parsed": {
+        "housenumber": "2",
+        "street": "av. boulevard conde dos arcos",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Dom Emanuel, 143 | Cidade Jardim, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Dom Emanuel",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74423-250",
+        "suburb": "Esplanada do Anicuns",
+        "street": "Avenida Dom Emanuel",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3105885,
+        "lat": -16.6773008,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Dom Emanuel, Esplanada do Anicuns, Goiânia - GO, 74423-250, Brazil",
+        "address_line1": "Avenida Dom Emanuel",
+        "address_line2": "Esplanada do Anicuns, Goiânia - GO, 74423-250, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8MFQ+3Q",
+        "plus_code_short": "8MFQ+3Q Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51c1012d5dc1a748c059fd8dd19563ad30c0f00102f90189c08d0900000000c002049203134176656e69646120446f6d20456d616e75656c",
+        "bbox": {
+          "lon1": -49.3122029,
+          "lat1": -16.6778641,
+          "lon2": -49.3090269,
+          "lat2": -16.6766006
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Dom Emanuel, 143 | Cidade Jardim, Goiânia - GO",
+      "parsed": {
+        "housenumber": "143 |",
+        "street": "av. dom emanuel",
+        "suburb": "cidade jardim",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Avenida São João, 166 | Vila Maria José, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ar": "غويانيا",
+          "name:be": "Гаянія",
+          "name:bg": "Гояния",
+          "name:ce": "Гояни",
+          "name:el": "Γκοϊάνια",
+          "name:es": "Goiania",
+          "name:fa": "گویانیا",
+          "name:he": "גואיאניה",
+          "name:hy": "Գոյանիա",
+          "name:ja": "ゴイアニア",
+          "name:ka": "გოიანია",
+          "name:kk": "Гояния",
+          "name:ko": "고이아니아",
+          "name:lt": "Gojanija",
+          "name:lv": "Gojanija",
+          "name:mk": "Гојанија",
+          "name:mn": "Гояния",
+          "name:mr": "गोयानिया",
+          "name:ru": "Гояния",
+          "name:sh": "Gojanija",
+          "name:sr": "Гојанија",
+          "name:tg": "Гояния",
+          "name:th": "โกยาเนีย",
+          "name:uk": "Гоянія",
+          "name:ur": "گویانیا",
+          "name:uz": "Goyaniya",
+          "name:zh": "戈亚尼亚",
+          "int_name": "Goiania",
+          "name:kk-Arab": "گويانىييا"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2532691,
+        "lat": -16.680882,
+        "state_code": "GO",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Goiânia, GO, Brazil",
+        "address_line1": "Goiânia",
+        "address_line2": "GO, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8P9W+JM",
+        "plus_code_short": "9W+JM Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.610489156737459,
+          "confidence": 0.5918367346938775,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512ecb321f6ba048c059616f62484eae30c0f00101f901d31a050000000000c00208",
+        "bbox": {
+          "lon1": -49.4469524,
+          "lat1": -16.8318764,
+          "lon2": -49.078,
+          "lat2": -16.4542142
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida São João, 166 | Vila Maria José, Goiânia - GO"
+    }
+  },
+  "Av. Perimetral, 4340 | Setor Coimbra, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Perimetral",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74510-010",
+        "suburb": "Setor Campinas",
+        "street": "Avenida Perimetral",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2960226,
+        "lat": -16.6673242,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Perimetral, Setor Campinas, Goiânia - GO, 74510-010, Brazil",
+        "address_line1": "Avenida Perimetral",
+        "address_line2": "Setor Campinas, Goiânia - GO, 74510-010, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8PM3+3H",
+        "plus_code_short": "8PM3+3H Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "513ef08c11e4a548c05951d43ec2d5aa30c0f00102f901412aae0700000000c002049203124176656e69646120506572696d657472616c",
+        "bbox": {
+          "lon1": -49.296821,
+          "lat1": -16.670446,
+          "lon2": -49.2951681,
+          "lat2": -16.6642173
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Perimetral, 4340 | Setor Coimbra, Goiânia - GO",
+      "parsed": {
+        "housenumber": "4340 |",
+        "street": "av. perimetral",
+        "suburb": "setor coimbra",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Bela Vista, 16 | Parque Trindade, Aparecida de Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Bela Vista",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Aparecida de Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74920-786",
+        "suburb": "Parque Trindade",
+        "street": "Avenida Bela Vista",
+        "iso3166_2": "BR-GO",
+        "lon": -49.215859,
+        "lat": -16.7428073,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Bela Vista, Parque Trindade, Aparecida de Goiânia - GO, 74920-786, Brazil",
+        "address_line1": "Avenida Bela Vista",
+        "address_line2": "Parque Trindade, Aparecida de Goiânia - GO, 74920-786, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG7Q4M+VM",
+        "plus_code_short": "7Q4M+VM Aparecida de Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "510dc68844a19b48c059e5ba849e28be30c0f00102f901e5c7cb0700000000c002049203124176656e6964612042656c61205669737461",
+        "bbox": {
+          "lon1": -49.2187898,
+          "lat1": -16.744068,
+          "lon2": -49.2120817,
+          "lat2": -16.7401473
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Bela Vista, 16 | Parque Trindade, Aparecida de Goiânia - GO",
+      "parsed": {
+        "housenumber": "16 |",
+        "street": "av. bela vista",
+        "suburb": "parque trindade",
+        "city": "aparecida de goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Goiás Norte, 2 | Residencial Humaitá, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Goiás Norte",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74565-370",
+        "suburb": "Residencial Humaitá",
+        "street": "Avenida Goiás Norte",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2749002,
+        "lat": -16.6238394,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Goiás Norte, Residencial Humaitá, Goiânia - GO, 74565-370, Brazil",
+        "address_line1": "Avenida Goiás Norte",
+        "address_line2": "Residencial Humaitá, Goiânia - GO, 74565-370, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG9PGG+F2",
+        "plus_code_short": "9PGG+F2 Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f95404ee2fa348c059cef45cf0b39f30c0f00102f9010b17aa0900000000c002049203144176656e69646120476f69c3a173204e6f727465",
+        "bbox": {
+          "lon1": -49.2796591,
+          "lat1": -16.6287068,
+          "lon2": -49.2731077,
+          "lat2": -16.6226632
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Goiás Norte, 2 | Residencial Humaitá, Goiânia - GO",
+      "parsed": {
+        "street": "av. goiás norte",
+        "suburb": "residencial humaitá",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "street"
+      }
+    }
+  },
+  "Alameda Vista Alegre, 10 | Jardim Petrópolis, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Alameda Vista Alegre",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74453-090",
+        "suburb": "Ipiranga",
+        "street": "Alameda Vista Alegre",
+        "iso3166_2": "BR-GO",
+        "lon": -49.325984,
+        "lat": -16.6691077,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Alameda Vista Alegre, Ipiranga, Goiânia - GO, 74453-090, Brazil",
+        "address_line1": "Alameda Vista Alegre",
+        "address_line2": "Ipiranga, Goiânia - GO, 74453-090, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8MJF+9J",
+        "plus_code_short": "8MJF+9J Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "517782fdd7b9a948c059750069a44aab30c0f00102f9010a26fb0b00000000c00204920314416c616d65646120566973746120416c65677265",
+        "bbox": {
+          "lon1": -49.3301744,
+          "lat1": -16.6712696,
+          "lon2": -49.3218588,
+          "lat2": -16.6668686
+        }
+      }
+    ],
+    "query": {
+      "text": "Alameda Vista Alegre, 10 | Jardim Petrópolis, Goiânia - GO",
+      "parsed": {
+        "housenumber": "10 |",
+        "street": "alameda vista alegre",
+        "suburb": "jardim petrópolis",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua 20, 1078 | Setor Central, Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "suburb": "Setor Central",
+        "iso3166_2": "BR-GO",
+        "lon": -49.2581783,
+        "lat": -16.6748672,
+        "state_code": "GO",
+        "result_type": "suburb",
+        "distance": 0,
+        "formatted": "Setor Central, Goiânia, GO, Brazil",
+        "address_line1": "Setor Central",
+        "address_line2": "Goiânia, GO, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8PGR+3P",
+        "plus_code_short": "GR+3P Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.146733274586099,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51b8848dfc0ba148c059a224c918c4ac30c0f00101f90184ff370000000000c00205",
+        "bbox": {
+          "lon1": -49.2668817,
+          "lat1": -16.682509,
+          "lon2": -49.2494108,
+          "lat2": -16.6566892
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 20, 1078 | Setor Central, Goiânia - GO",
+      "parsed": {
+        "street": "1078 |",
+        "suburb": "setor central",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "street"
+      }
+    }
+  },
+  "Av. Curussá, 1 | Jardim Helvécia, Aparecida de Goiânia - GO": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Curussá",
+        "other_names": {
+          "alt_name": "Rua Curussu"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Goiás",
+        "county": "Região Geográfica Intermediária de Goiânia",
+        "city": "Aparecida de Goiânia",
+        "municipality": "Região Geográfica Imediata de Goiânia",
+        "postcode": "74933-590",
+        "suburb": "Jardim Helvécia",
+        "street": "Avenida Curussá",
+        "iso3166_2": "BR-GO",
+        "lon": -49.3148793,
+        "lat": -16.7541138,
+        "state_code": "GO",
+        "result_type": "street",
+        "formatted": "Avenida Curussá, Jardim Helvécia, Aparecida de Goiânia - GO, 74933-590, Brazil",
+        "address_line1": "Avenida Curussá",
+        "address_line2": "Jardim Helvécia, Aparecida de Goiânia - GO, 74933-590, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG6MWP+92",
+        "plus_code_short": "6MWP+92 Aparecida de Goiânia, Região Geográfica Intermediária de Goiânia, Brazil",
+        "rank": {
+          "importance": 0.05339994125276566,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51fcd703f74da848c05958761c9a0dc130c0f00102f9018222a00900000000c002049203104176656e69646120437572757373c3a1",
+        "bbox": {
+          "lon1": -49.3174726,
+          "lat1": -16.7543066,
+          "lon2": -49.3122879,
+          "lat2": -16.7539446
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Curussá, 1 | Jardim Helvécia, Aparecida de Goiânia - GO",
+      "parsed": {
+        "housenumber": "1 |",
+        "street": "av. curussá",
+        "suburb": "jardim helvécia",
+        "city": "aparecida de goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Av. Nova York, 1336 | Jardim Novo Mundo, Goiânia - GO": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "1336",
+        "street": "Avenida Cristovao Colombo",
+        "country": "Brazil",
+        "county": "Goias",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "74705-130",
+        "state": "Central-West",
+        "district": "Goiânia",
+        "city": "Goiania",
+        "county_code": "GO",
+        "lon": -49.221612,
+        "lat": -16.675871,
+        "result_type": "building",
+        "formatted": "Avenida Cristovao Colombo 1336, Goiânia, Goiania - Central-West, 74705-130, Brazil",
+        "address_line1": "Avenida Cristovao Colombo 1336",
+        "address_line2": "Goiânia, Goiania - Central-West, 74705-130, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58MG8QFH+M9",
+        "rank": {
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.25,
+          "confidence_building_level": 0.25,
+          "match_type": "full_match"
+        },
+        "place_id": "51593332c85d9c48c0599850c1e105ad30c0c00203e203466f70656e6164647265737365733a616464726573733a62722f676f2f7374617465776964652d6164647265737365732d73746174653a32326335616538333338383134336237"
+      }
+    ],
+    "query": {
+      "text": "Av. Nova York, 1336 | Jardim Novo Mundo, Goiânia - GO",
+      "parsed": {
+        "housenumber": "1336",
+        "street": "av. nova york",
+        "city": "goiânia",
+        "state": "go",
+        "expected_type": "building"
+      }
+    }
+  }
+}

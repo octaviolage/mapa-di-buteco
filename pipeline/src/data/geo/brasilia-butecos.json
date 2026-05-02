@@ -1,0 +1,2650 @@
+{
+  "QR 404 - Samambaia Norte, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ab": "Бразилиа",
+          "name:am": "ብራዚሊያ",
+          "name:ar": "برازيليا",
+          "name:ay": "Brasilia",
+          "name:az": "Brazilia",
+          "name:be": "Бразілія",
+          "name:bg": "Бразилия",
+          "name:bn": "ব্রাসিলিয়া",
+          "name:bo": "པུ་རུ་ཟི་ལི་ཡ།",
+          "name:bs": "Brazilija",
+          "name:ce": "Бразилиа",
+          "name:co": "Brasilia",
+          "name:cv": "Бразилиа",
+          "name:de": "Brasilia",
+          "name:dv": "ބްރަސީލިއާ",
+          "name:el": "Μπραζίλια",
+          "name:eo": "Braziljo",
+          "name:es": "Brasilia",
+          "name:eu": "Brasilia",
+          "name:fa": "برازیلیا",
+          "name:fo": "Brasilia",
+          "name:fr": "Brasilia",
+          "name:gl": "Brasilia",
+          "name:gn": "Brasilia",
+          "name:ha": "Brasilia",
+          "name:he": "בראזיליא",
+          "name:hi": "ब्रासीलिया",
+          "name:hr": "Brazilija",
+          "name:ht": "Brazilia",
+          "name:hu": "Brazíliaváros",
+          "name:hy": "Բրազիլիա",
+          "name:ia": "Brasilia",
+          "name:ie": "Brasilia",
+          "name:ig": "Brasilia",
+          "name:io": "Brasilia",
+          "name:is": "Brasilía",
+          "name:it": "Brasilia",
+          "name:ja": "ブラジリア",
+          "name:jv": "Brasilia",
+          "name:ka": "ბრაზილია",
+          "name:kg": "Brasilia",
+          "name:kk": "Бразилиа",
+          "name:kl": "Brasilia",
+          "name:km": "ប្រាស៊ីលីយ៉ា",
+          "name:kn": "ಬ್ರಾಸಿಲ್ಯಾ",
+          "name:ko": "브라질리아",
+          "name:ky": "Бразилиа",
+          "name:la": "Brasiliopolis",
+          "name:ln": "Brazilia",
+          "name:lo": "ບຣາຊີເລຍ",
+          "name:lt": "Brazilija",
+          "name:lv": "Brazilja",
+          "name:mk": "Бразилија",
+          "name:ml": "ബ്രസീലിയ",
+          "name:mn": "Бразилиа",
+          "name:mr": "ब्राझिलिया",
+          "name:mt": "Brażilja",
+          "name:my": "ဘရာစေးလေးယားမြို့",
+          "name:ne": "ब्रसिलिया",
+          "name:nl": "Brasilia",
+          "name:or": "ବ୍ରାସିଲିଆ",
+          "name:os": "Бразилиа",
+          "name:pa": "ਬ੍ਰਾਜ਼ੀਲੀਆ",
+          "name:ps": "برازیلیا",
+          "name:qu": "Brasilia",
+          "name:rm": "Brasilia",
+          "name:ro": "Brazilia",
+          "name:ru": "Бразилиа",
+          "name:sc": "Brasìlia",
+          "name:sd": "برازيليا",
+          "name:sh": "Brazilija",
+          "name:sk": "Brazília",
+          "name:sl": "Brasilia",
+          "name:so": "Barasiliya",
+          "name:sq": "Brazilia",
+          "name:sr": "Бразилија",
+          "name:sw": "Brasilia",
+          "name:ta": "பிரசிலியா",
+          "name:tg": "Бразилиа",
+          "name:th": "บราซีเลีย",
+          "name:tl": "Brasilia",
+          "name:to": "Palāsilia",
+          "name:tr": "Brezilya",
+          "name:tt": "Бразилиа",
+          "name:ty": "Brasilia",
+          "name:uk": "Бразилія",
+          "name:ur": "براسیلیا",
+          "name:uz": "Brazilia",
+          "name:vi": "Brasilia",
+          "name:yi": "בראזיליא",
+          "name:yo": "Bràsílíà",
+          "name:zh": "巴西利亚",
+          "alt_name": "RA I",
+          "loc_name": "BSB",
+          "name:arz": "برازيليا",
+          "name:ast": "Brasilia",
+          "name:bar": "Brasilia",
+          "name:bpy": "ব্রাসিলিয়া",
+          "name:ckb": "بەڕازیلیا",
+          "name:eml": "Brasilia",
+          "name:ext": "Brasilia",
+          "name:frp": "Brasilia",
+          "name:lez": "Бразилиа",
+          "name:lij": "Braxilia",
+          "name:lmo": "Brasilia",
+          "name:mzn": "برازیلیا",
+          "name:nah": "Brasilia",
+          "name:pms": "Brasilia",
+          "name:pnb": "برازیلیہ",
+          "name:tet": "Brazília",
+          "name:vec": "Braxiłia",
+          "name:wuu": "巴西利亚",
+          "name:yue": "巴西利亞",
+          "reg_name": "Região Administrativa Um",
+          "name:bat-smg": "Brazilėjė",
+          "name:cbk-zam": "Distrito Federal de Brasil",
+          "name:zh-Hans": "巴西利亚",
+          "name:zh-Hant": "巴西利亞",
+          "name:be-tarask": "Бразылія"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70391-900",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8828,
+        "lat": -15.7939869,
+        "state_code": "DF",
+        "result_type": "postcode",
+        "distance": 0,
+        "formatted": "Brasília, DF, Brazil",
+        "address_line1": "Brasília",
+        "address_line2": "DF, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ6448+CV",
+        "plus_code_short": "6448+CV Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.6925659039688494,
+          "confidence": 0.10518626734842952,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5154742497fff047c059a4e7717385962fc0f00103f901ff740f0200000000c0020792030c37303339312d3930302b6272",
+        "bbox": {
+          "lon1": -48.0428,
+          "lat1": -15.9539869,
+          "lon2": -47.7228,
+          "lat2": -15.6339869
+        }
+      }
+    ],
+    "query": {
+      "text": "QR 404 - Samambaia Norte, Brasília - DF"
+    }
+  },
+  "QD C 01, 4 - Lote 11 | Taguatinga Centro, Taguatinga - DF": {
+    "results": [],
+    "query": {
+      "text": "QD C 01, 4 - Lote 11 | Taguatinga Centro, Taguatinga - DF",
+      "parsed": {
+        "house": "lote 11 | taguatinga",
+        "housenumber": "4",
+        "street": "qd 01",
+        "suburb": "centro",
+        "city": "taguatinga",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "CLN 107  Asa Norte, Brasília - DF": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "S/N",
+        "street": "Edf Cln 107 Bloco C",
+        "country": "Brazil",
+        "county": "Federal District",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "70743-530",
+        "state": "Central-West",
+        "city": "Brasilia",
+        "county_code": "DF",
+        "lon": -47.885549,
+        "lat": -15.765501,
+        "result_type": "building",
+        "formatted": "Edf Cln 107 Bloco C S/N, Brasilia - Central-West, 70743-530, Brazil",
+        "address_line1": "Edf Cln 107 Bloco C S/N",
+        "address_line2": "Brasilia - Central-West, 70743-530, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ64M7+QQ",
+        "rank": {
+          "confidence": 0.35720999999999997,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.35720999999999997,
+          "match_type": "inner_part"
+        },
+        "place_id": "51b4006dab59f147c059501c40bfef872fc0c00203e203466f70656e6164647265737365733a616464726573733a62722f64662f7374617465776964652d6164647265737365732d73746174653a33363935363237633634306165386162"
+      }
+    ],
+    "query": {
+      "text": "CLN 107  Asa Norte, Brasília - DF",
+      "parsed": {
+        "street": "cln 107 asa norte",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "street"
+      }
+    }
+  },
+  "SRIA QE 40 Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ab": "Бразилиа",
+          "name:am": "ብራዚሊያ",
+          "name:ar": "برازيليا",
+          "name:ay": "Brasilia",
+          "name:az": "Brazilia",
+          "name:be": "Бразілія",
+          "name:bg": "Бразилия",
+          "name:bn": "ব্রাসিলিয়া",
+          "name:bo": "པུ་རུ་ཟི་ལི་ཡ།",
+          "name:bs": "Brazilija",
+          "name:ce": "Бразилиа",
+          "name:co": "Brasilia",
+          "name:cv": "Бразилиа",
+          "name:de": "Brasilia",
+          "name:dv": "ބްރަސީލިއާ",
+          "name:el": "Μπραζίλια",
+          "name:eo": "Braziljo",
+          "name:es": "Brasilia",
+          "name:eu": "Brasilia",
+          "name:fa": "برازیلیا",
+          "name:fo": "Brasilia",
+          "name:fr": "Brasilia",
+          "name:gl": "Brasilia",
+          "name:gn": "Brasilia",
+          "name:ha": "Brasilia",
+          "name:he": "בראזיליא",
+          "name:hi": "ब्रासीलिया",
+          "name:hr": "Brazilija",
+          "name:ht": "Brazilia",
+          "name:hu": "Brazíliaváros",
+          "name:hy": "Բրազիլիա",
+          "name:ia": "Brasilia",
+          "name:ie": "Brasilia",
+          "name:ig": "Brasilia",
+          "name:io": "Brasilia",
+          "name:is": "Brasilía",
+          "name:it": "Brasilia",
+          "name:ja": "ブラジリア",
+          "name:jv": "Brasilia",
+          "name:ka": "ბრაზილია",
+          "name:kg": "Brasilia",
+          "name:kk": "Бразилиа",
+          "name:kl": "Brasilia",
+          "name:km": "ប្រាស៊ីលីយ៉ា",
+          "name:kn": "ಬ್ರಾಸಿಲ್ಯಾ",
+          "name:ko": "브라질리아",
+          "name:ky": "Бразилиа",
+          "name:la": "Brasiliopolis",
+          "name:ln": "Brazilia",
+          "name:lo": "ບຣາຊີເລຍ",
+          "name:lt": "Brazilija",
+          "name:lv": "Brazilja",
+          "name:mk": "Бразилија",
+          "name:ml": "ബ്രസീലിയ",
+          "name:mn": "Бразилиа",
+          "name:mr": "ब्राझिलिया",
+          "name:mt": "Brażilja",
+          "name:my": "ဘရာစေးလေးယားမြို့",
+          "name:ne": "ब्रसिलिया",
+          "name:nl": "Brasilia",
+          "name:or": "ବ୍ରାସିଲିଆ",
+          "name:os": "Бразилиа",
+          "name:pa": "ਬ੍ਰਾਜ਼ੀਲੀਆ",
+          "name:ps": "برازیلیا",
+          "name:qu": "Brasilia",
+          "name:rm": "Brasilia",
+          "name:ro": "Brazilia",
+          "name:ru": "Бразилиа",
+          "name:sc": "Brasìlia",
+          "name:sd": "برازيليا",
+          "name:sh": "Brazilija",
+          "name:sk": "Brazília",
+          "name:sl": "Brasilia",
+          "name:so": "Barasiliya",
+          "name:sq": "Brazilia",
+          "name:sr": "Бразилија",
+          "name:sw": "Brasilia",
+          "name:ta": "பிரசிலியா",
+          "name:tg": "Бразилиа",
+          "name:th": "บราซีเลีย",
+          "name:tl": "Brasilia",
+          "name:to": "Palāsilia",
+          "name:tr": "Brezilya",
+          "name:tt": "Бразилиа",
+          "name:ty": "Brasilia",
+          "name:uk": "Бразилія",
+          "name:ur": "براسیلیا",
+          "name:uz": "Brazilia",
+          "name:vi": "Brasilia",
+          "name:yi": "בראזיליא",
+          "name:yo": "Bràsílíà",
+          "name:zh": "巴西利亚",
+          "alt_name": "RA I",
+          "loc_name": "BSB",
+          "name:arz": "برازيليا",
+          "name:ast": "Brasilia",
+          "name:bar": "Brasilia",
+          "name:bpy": "ব্রাসিলিয়া",
+          "name:ckb": "بەڕازیلیا",
+          "name:eml": "Brasilia",
+          "name:ext": "Brasilia",
+          "name:frp": "Brasilia",
+          "name:lez": "Бразилиа",
+          "name:lij": "Braxilia",
+          "name:lmo": "Brasilia",
+          "name:mzn": "برازیلیا",
+          "name:nah": "Brasilia",
+          "name:pms": "Brasilia",
+          "name:pnb": "برازیلیہ",
+          "name:tet": "Brazília",
+          "name:vec": "Braxiłia",
+          "name:wuu": "巴西利亚",
+          "name:yue": "巴西利亞",
+          "reg_name": "Região Administrativa Um",
+          "name:bat-smg": "Brazilėjė",
+          "name:cbk-zam": "Distrito Federal de Brasil",
+          "name:zh-Hans": "巴西利亚",
+          "name:zh-Hant": "巴西利亞",
+          "name:be-tarask": "Бразылія"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70391-900",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8828,
+        "lat": -15.7939869,
+        "state_code": "DF",
+        "result_type": "postcode",
+        "distance": 0,
+        "formatted": "Brasília, DF, Brazil",
+        "address_line1": "Brasília",
+        "address_line2": "DF, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ6448+CV",
+        "plus_code_short": "6448+CV Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.6925659039688494,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "match_by_postcode"
+        },
+        "place_id": "5154742497fff047c059a4e7717385962fc0f00103f901ff740f0200000000c0020792030c37303339312d3930302b6272",
+        "bbox": {
+          "lon1": -48.0428,
+          "lat1": -15.9539869,
+          "lon2": -47.7228,
+          "lat2": -15.6339869
+        }
+      }
+    ],
+    "query": {
+      "text": "SRIA QE 40 Brasília - DF",
+      "parsed": {
+        "street": "sria qe 40",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "street"
+      }
+    }
+  },
+  "QSB 08, 40 – Loja 02 | Taguatinga Sul, Taguatinga - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ja": "タグアチンガ",
+          "alt_name": "RA III",
+          "loc_name": "RA 3",
+          "reg_name": "Região Administrativa Três"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Taguatinga",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "iso3166_2": "BR-DF",
+        "lon": -48.0565716,
+        "lat": -15.8335277,
+        "state_code": "DF",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Taguatinga, DF, Brazil",
+        "address_line1": "Taguatinga",
+        "address_line2": "DF, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH5W8V+H9",
+        "rank": {
+          "importance": 0.4422097936253295,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51f2f0f9bc3d0748c059c59e8724c4aa2fc0f00101f9010243330000000000c00208",
+        "bbox": {
+          "lon1": -48.1124359,
+          "lat1": -15.8758871,
+          "lon2": -48.0030019,
+          "lat2": -15.736516
+        }
+      }
+    ],
+    "query": {
+      "text": "QSB 08, 40 – Loja 02 | Taguatinga Sul, Taguatinga - DF",
+      "parsed": {
+        "house": "loja 02 | taguatinga sul",
+        "housenumber": "40",
+        "street": "qsb 08",
+        "city": "taguatinga",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Terceira Avenida - Área Especial, 0 – Mercado do Núcleo Bandeirante, Box 13, 15 e 17 | Núcleo Bandeirante - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "old_name": "Cidade Livre",
+        "other_names": {
+          "alt_name": "RA VIII",
+          "loc_name": "RA 8",
+          "old_name": "Cidade Livre",
+          "reg_name": "Região Administrativa Oito"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Núcleo Bandeirante",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "iso3166_2": "BR-DF",
+        "lon": -47.9679941,
+        "lat": -15.8711851,
+        "state_code": "DF",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Núcleo Bandeirante, DF, Brazil",
+        "address_line1": "Núcleo Bandeirante",
+        "address_line2": "DF, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ42HJ+GR",
+        "rank": {
+          "importance": 0.3649233439058235,
+          "confidence": 0.6923076923076923,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51481c0d3be7fb47c059658632f90bbe2fc0f00101f901f342330000000000c00208",
+        "bbox": {
+          "lon1": -47.980215,
+          "lat1": -15.8836524,
+          "lon2": -47.9545428,
+          "lat2": -15.8482393
+        }
+      }
+    ],
+    "query": {
+      "text": "Terceira Avenida - Área Especial, 0 – Mercado do Núcleo Bandeirante, Box 13, 15 e 17 | Núcleo Bandeirante - DF"
+    }
+  },
+  "Avenida das Castanheiras, 1060 - Edifício Vila Mall | Águas Claras, Taguatinga - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ipiranga",
+        "other_names": {
+          "brand": "Ipiranga"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Águas Claras",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "71909-720",
+        "street": "Avenida das Castanheiras",
+        "housenumber": "1950",
+        "iso3166_2": "BR-DF",
+        "lon": -48.0242956,
+        "lat": -15.8378367,
+        "state_code": "DF",
+        "county_code": "DF",
+        "result_type": "amenity",
+        "formatted": "Ipiranga, Avenida das Castanheiras 1950, Águas Claras - DF, 71909-720, Brazil",
+        "address_line1": "Ipiranga",
+        "address_line2": "Avenida das Castanheiras 1950, Águas Claras - DF, 71909-720, Brazil",
+        "category": "service.vehicle.fuel",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH5X6G+V7",
+        "rank": {
+          "importance": 7.805065995265153e-05,
+          "confidence": 0.13636363636363635,
+          "confidence_city_level": 0.2727272727272727,
+          "confidence_street_level": 0.2727272727272727,
+          "match_type": "full_match"
+        },
+        "place_id": "51e6b7431e1c0348c059f2c693eef8ac2fc0f00103f9015a79645b00000000c0020192030849706972616e6761e203256f70656e7374726565746d61703a616464726573733a6e6f64652f31353333333131333232",
+        "bbox": {
+          "lon1": -48.0243456,
+          "lat1": -15.8378867,
+          "lon2": -48.0242456,
+          "lat2": -15.8377867
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida das Castanheiras, 1060 - Edifício Vila Mall | Águas Claras, Taguatinga - DF",
+      "parsed": {
+        "house": "edifício vila mall | águas claras",
+        "street": "avenida das castanheiras",
+        "postcode": "1060",
+        "city": "taguatinga",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. Alameda Gravatá, 301  | Águas Claras, Taguatinga - DF": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "S/N",
+        "street": "Edf Alameda Gravata Quadra 301 Conjunto 20",
+        "country": "Brazil",
+        "county": "Federal District",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "71901-300",
+        "state": "Central-West",
+        "city": "Taguatinga",
+        "county_code": "DF",
+        "lon": -48.017701,
+        "lat": -15.829992,
+        "result_type": "building",
+        "formatted": "Edf Alameda Gravata Quadra 301 Conjunto 20 S/N, Taguatinga - Central-West, 71901-300, Brazil",
+        "address_line1": "Edf Alameda Gravata Quadra 301 Conjunto 20 S/N",
+        "address_line2": "Taguatinga - Central-West, 71901-300, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH5XCJ+2W",
+        "rank": {
+          "confidence": 0.3720087,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.413343,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51a20dc006440248c0591ee21fb6f4a82fc0c00203e203466f70656e6164647265737365733a616464726573733a62722f64662f7374617465776964652d6164647265737365732d73746174653a65343163396332623937633565613335"
+      }
+    ],
+    "query": {
+      "text": "Av. Alameda Gravatá, 301  | Águas Claras, Taguatinga - DF",
+      "parsed": {
+        "house": "| águas claras",
+        "housenumber": "301",
+        "street": "av. alameda gravatá",
+        "city": "taguatinga",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Segunda Avenida, 4  | Núcleo Bandeirante - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Segunda Avenida",
+        "other_names": {
+          "alt_name": "2nd Avenida"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Núcleo Bandeirante",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "71705-000",
+        "suburb": "Vila Cauhy",
+        "quarter": "Vila Nova Divinéia",
+        "street": "Segunda Avenida",
+        "iso3166_2": "BR-DF",
+        "lon": -47.9758589,
+        "lat": -15.8730418,
+        "state_code": "DF",
+        "result_type": "street",
+        "formatted": "Segunda Avenida, Vila Cauhy, Núcleo Bandeirante - DF, 71705-000, Brazil",
+        "address_line1": "Segunda Avenida",
+        "address_line2": "Vila Cauhy, Núcleo Bandeirante - DF, 71705-000, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ42GF+QM",
+        "rank": {
+          "importance": 0.053411383993285995,
+          "confidence": 0.7534883720930232,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "515981c6f1e8fc47c059fa14b655ffbe2fc0f00102f9016a566c0e00000000c0020492030f536567756e6461204176656e696461",
+        "bbox": {
+          "lon1": -47.9784214,
+          "lat1": -15.8743919,
+          "lon2": -47.9732739,
+          "lat2": -15.8717117
+        }
+      }
+    ],
+    "query": {
+      "text": "Segunda Avenida, 4  | Núcleo Bandeirante - DF"
+    }
+  },
+  "QE 04 - Área Especial C, 0 | GUARÁ I, GUARÁ - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Guará",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "71010-970",
+        "suburb": "Guará I",
+        "iso3166_2": "BR-DF",
+        "lon": -47.9831088,
+        "lat": -15.8186195,
+        "state_code": "DF",
+        "result_type": "suburb",
+        "formatted": "Guará I, Guará, DF, Brazil",
+        "address_line1": "Guará I",
+        "address_line2": "Guará, DF, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ52J8+HQ",
+        "rank": {
+          "importance": 0.1467447173266193,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "5174345882d6fd47c0595abc581822a32fc0f00103f901f48262f402000000c00205",
+        "bbox": {
+          "lon1": -48.0031088,
+          "lat1": -15.8386195,
+          "lon2": -47.9631088,
+          "lat2": -15.7986195
+        }
+      }
+    ],
+    "query": {
+      "text": "QE 04 - Área Especial C, 0 | GUARÁ I, GUARÁ - DF",
+      "parsed": {
+        "street": "0 guará i",
+        "city": "guará",
+        "state": "df",
+        "expected_type": "street"
+      }
+    }
+  },
+  "Quadra 2, Conjunto A-06, 2 – Quiosque | Sobradinho, Sobradinho - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "alt_name": "RA V",
+          "loc_name": "RA 5",
+          "reg_name": "Região Administrativa Cinco"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Sobradinho",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "iso3166_2": "BR-DF",
+        "lon": -47.7848449,
+        "lat": -15.6500533,
+        "state_code": "DF",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Sobradinho, DF, Brazil",
+        "address_line1": "Sobradinho",
+        "address_line2": "DF, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ86X8+X3",
+        "rank": {
+          "importance": 0.3920559394597916,
+          "confidence": 0.16796560064498792,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5159f734cc75e447c059525040c9d34c2fc0f00101f901ff42330000000000c00208",
+        "bbox": {
+          "lon1": -48.0352871,
+          "lat1": -15.7340424,
+          "lon2": -47.6728857,
+          "lat2": -15.5292003
+        }
+      }
+    ],
+    "query": {
+      "text": "Quadra 2, Conjunto A-06, 2 – Quiosque | Sobradinho, Sobradinho - DF"
+    }
+  },
+  "Rua 7, 330 – Lote 14 | Vicente Pires, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua 7 (DFL)",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70803-050",
+        "suburb": "Vila Planalto",
+        "street": "Rua 7 (DFL)",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8542247,
+        "lat": -15.7907893,
+        "state_code": "DF",
+        "housenumber": "330",
+        "result_type": "building",
+        "formatted": "Rua 7 (DFL) 330, Vila Planalto, Brasília - DF, 70803-050, Brazil",
+        "address_line1": "Rua 7 (DFL) 330",
+        "address_line2": "Vila Planalto, Brasília - DF, 70803-050, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ645W+M8",
+        "plus_code_short": "645W+M8 Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.053411383993285995,
+          "confidence": 0.45,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51bcf7263c57ed47c059b00dcb55e2942fc0f00102f9018cde2d0100000000c0020392030b5275612037202844464c29",
+        "bbox": {
+          "lon1": -47.8547817,
+          "lat1": -15.790965,
+          "lon2": -47.8536686,
+          "lat2": -15.7906159
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 7, 330 – Lote 14 | Vicente Pires, Brasília - DF",
+      "parsed": {
+        "house": "lote 14 | vicente pires",
+        "housenumber": "330",
+        "street": "rua 7",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "ST SHTQ EPIA Norte DF 003, 3 – BL. B1  | Setor Habitacional Taquari (Lago Norte), Brasília - DF": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "S/N",
+        "street": "Edf Setor Norte Quadra 3 Bloco B",
+        "country": "Brazil",
+        "county": "Federal District",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "72705-532",
+        "state": "Central-West",
+        "city": "Agrovila do pa Alexandre Gusmão",
+        "county_code": "DF",
+        "lon": -48.19483,
+        "lat": -15.679175,
+        "result_type": "building",
+        "formatted": "Edf Setor Norte Quadra 3 Bloco B S/N, Agrovila do pa Alexandre Gusmão - Central-West, 72705-532, Brazil",
+        "address_line1": "Edf Setor Norte Quadra 3 Bloco B S/N",
+        "address_line2": "Agrovila do pa Alexandre Gusmão - Central-West, 72705-532, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH8RC4+83",
+        "rank": {
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51cd237f30f01848c05988855ad3bc5b2fc0c00203e203466f70656e6164647265737365733a616464726573733a62722f64662f7374617465776964652d6164647265737365732d73746174653a35626236326162363539653134663438"
+      }
+    ],
+    "query": {
+      "text": "ST SHTQ EPIA Norte DF 003, 3 – BL. B1  | Setor Habitacional Taquari (Lago Norte), Brasília - DF",
+      "parsed": {
+        "house": "st shtq",
+        "housenumber": "3 bl. b1 |",
+        "street": "epia norte df 003",
+        "suburb": "setor habitacional taquari",
+        "city": "norte",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "CLN 204 -  | Asa Norte, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Instituto Federal de Brasília (IFB) - Campus Asa Norte",
+        "other_names": {
+          "alt_name": "IFB Asa Norte",
+          "short_name": "IFB",
+          "official_name": "Instituto Federal de Brasília"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70830-450",
+        "district": "SQN 411",
+        "suburb": "Asa Norte",
+        "street": "SGAN - Quadra 611",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8787471,
+        "lat": -15.753801,
+        "state_code": "DF",
+        "result_type": "amenity",
+        "formatted": "Instituto Federal de Brasília (IFB) - Campus Asa Norte, SGAN - Quadra 611, Asa Norte, Brasília - DF, 70830-450, Brazil",
+        "address_line1": "Instituto Federal de Brasília (IFB) - Campus Asa Norte",
+        "address_line2": "SGAN - Quadra 611, Asa Norte, Brasília - DF, 70830-450, Brazil",
+        "category": "education.college",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ64WC+FG",
+        "plus_code_short": "64WC+FG Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 7.805065995265153e-05,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0,
+          "match_type": "inner_part"
+        },
+        "place_id": "5138faf3c87af047c0595a626534f2812fc0f00102f901725f6f0800000000c00201920337496e7374697475746f204665646572616c2064652042726173c3ad6c6961202849464229202d2043616d70757320417361204e6f727465",
+        "bbox": {
+          "lon1": -47.8799513,
+          "lat1": -15.7550228,
+          "lon2": -47.8775428,
+          "lat2": -15.7525654
+        }
+      }
+    ],
+    "query": {
+      "text": "CLN 204 -  | Asa Norte, Brasília - DF",
+      "parsed": {
+        "street": "asa",
+        "suburb": "norte",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "street"
+      }
+    }
+  },
+  "CLN 216,  | Asa Norte, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Instituto Federal de Brasília (IFB) - Campus Asa Norte",
+        "other_names": {
+          "alt_name": "IFB Asa Norte",
+          "short_name": "IFB",
+          "official_name": "Instituto Federal de Brasília"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70830-450",
+        "district": "SQN 411",
+        "suburb": "Asa Norte",
+        "street": "SGAN - Quadra 611",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8787471,
+        "lat": -15.753801,
+        "state_code": "DF",
+        "result_type": "amenity",
+        "formatted": "Instituto Federal de Brasília (IFB) - Campus Asa Norte, SGAN - Quadra 611, Asa Norte, Brasília - DF, 70830-450, Brazil",
+        "address_line1": "Instituto Federal de Brasília (IFB) - Campus Asa Norte",
+        "address_line2": "SGAN - Quadra 611, Asa Norte, Brasília - DF, 70830-450, Brazil",
+        "category": "education.college",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ64WC+FG",
+        "plus_code_short": "64WC+FG Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 7.805065995265153e-05,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0,
+          "match_type": "inner_part"
+        },
+        "place_id": "5138faf3c87af047c0595a626534f2812fc0f00102f901725f6f0800000000c00201920337496e7374697475746f204665646572616c2064652042726173c3ad6c6961202849464229202d2043616d70757320417361204e6f727465",
+        "bbox": {
+          "lon1": -47.8799513,
+          "lat1": -15.7550228,
+          "lon2": -47.8775428,
+          "lat2": -15.7525654
+        }
+      }
+    ],
+    "query": {
+      "text": "CLN 216,  | Asa Norte, Brasília - DF",
+      "parsed": {
+        "street": "asa",
+        "suburb": "norte",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "street"
+      }
+    }
+  },
+  "CLS 313, Bloco B, 37 - Loja | Asa Sul, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bloco B",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70750-762",
+        "suburb": "Asa Norte",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8949884,
+        "lat": -15.7569604,
+        "state_code": "DF",
+        "result_type": "amenity",
+        "formatted": "Bloco B, Asa Norte, Brasília - DF, 70750-762, Brazil",
+        "address_line1": "Bloco B",
+        "address_line2": "Asa Norte, Brasília - DF, 70750-762, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ64V4+62",
+        "plus_code_short": "64V4+62 Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.08007805065995267,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515226dafa8ef247c059f2bb445090832fc0f00102f9011c2e814100000000c00201920307426c6f636f2042",
+        "bbox": {
+          "lon1": -47.8954064,
+          "lat1": -15.7572477,
+          "lon2": -47.8945913,
+          "lat2": -15.7566097
+        }
+      }
+    ],
+    "query": {
+      "text": "CLS 313, Bloco B, 37 - Loja | Asa Sul, Brasília - DF",
+      "parsed": {
+        "house": "loja | asa sul",
+        "housenumber": "37",
+        "street": "bloco b",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "SCRN 714, 715 - Bl. F | Asa Norte, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ab": "Бразилиа",
+          "name:am": "ብራዚሊያ",
+          "name:ar": "برازيليا",
+          "name:ay": "Brasilia",
+          "name:az": "Brazilia",
+          "name:be": "Бразілія",
+          "name:bg": "Бразилия",
+          "name:bn": "ব্রাসিলিয়া",
+          "name:bo": "པུ་རུ་ཟི་ལི་ཡ།",
+          "name:bs": "Brazilija",
+          "name:ce": "Бразилиа",
+          "name:co": "Brasilia",
+          "name:cv": "Бразилиа",
+          "name:de": "Brasilia",
+          "name:dv": "ބްރަސީލިއާ",
+          "name:el": "Μπραζίλια",
+          "name:eo": "Braziljo",
+          "name:es": "Brasilia",
+          "name:eu": "Brasilia",
+          "name:fa": "برازیلیا",
+          "name:fo": "Brasilia",
+          "name:fr": "Brasilia",
+          "name:gl": "Brasilia",
+          "name:gn": "Brasilia",
+          "name:ha": "Brasilia",
+          "name:he": "בראזיליא",
+          "name:hi": "ब्रासीलिया",
+          "name:hr": "Brazilija",
+          "name:ht": "Brazilia",
+          "name:hu": "Brazíliaváros",
+          "name:hy": "Բրազիլիա",
+          "name:ia": "Brasilia",
+          "name:ie": "Brasilia",
+          "name:ig": "Brasilia",
+          "name:io": "Brasilia",
+          "name:is": "Brasilía",
+          "name:it": "Brasilia",
+          "name:ja": "ブラジリア",
+          "name:jv": "Brasilia",
+          "name:ka": "ბრაზილია",
+          "name:kg": "Brasilia",
+          "name:kk": "Бразилиа",
+          "name:kl": "Brasilia",
+          "name:km": "ប្រាស៊ីលីយ៉ា",
+          "name:kn": "ಬ್ರಾಸಿಲ್ಯಾ",
+          "name:ko": "브라질리아",
+          "name:ky": "Бразилиа",
+          "name:la": "Brasiliopolis",
+          "name:ln": "Brazilia",
+          "name:lo": "ບຣາຊີເລຍ",
+          "name:lt": "Brazilija",
+          "name:lv": "Brazilja",
+          "name:mk": "Бразилија",
+          "name:ml": "ബ്രസീലിയ",
+          "name:mn": "Бразилиа",
+          "name:mr": "ब्राझिलिया",
+          "name:mt": "Brażilja",
+          "name:my": "ဘရာစေးလေးယားမြို့",
+          "name:ne": "ब्रसिलिया",
+          "name:nl": "Brasilia",
+          "name:or": "ବ୍ରାସିଲିଆ",
+          "name:os": "Бразилиа",
+          "name:pa": "ਬ੍ਰਾਜ਼ੀਲੀਆ",
+          "name:ps": "برازیلیا",
+          "name:qu": "Brasilia",
+          "name:rm": "Brasilia",
+          "name:ro": "Brazilia",
+          "name:ru": "Бразилиа",
+          "name:sc": "Brasìlia",
+          "name:sd": "برازيليا",
+          "name:sh": "Brazilija",
+          "name:sk": "Brazília",
+          "name:sl": "Brasilia",
+          "name:so": "Barasiliya",
+          "name:sq": "Brazilia",
+          "name:sr": "Бразилија",
+          "name:sw": "Brasilia",
+          "name:ta": "பிரசிலியா",
+          "name:tg": "Бразилиа",
+          "name:th": "บราซีเลีย",
+          "name:tl": "Brasilia",
+          "name:to": "Palāsilia",
+          "name:tr": "Brezilya",
+          "name:tt": "Бразилиа",
+          "name:ty": "Brasilia",
+          "name:uk": "Бразилія",
+          "name:ur": "براسیلیا",
+          "name:uz": "Brazilia",
+          "name:vi": "Brasilia",
+          "name:yi": "בראזיליא",
+          "name:yo": "Bràsílíà",
+          "name:zh": "巴西利亚",
+          "alt_name": "RA I",
+          "loc_name": "BSB",
+          "name:arz": "برازيليا",
+          "name:ast": "Brasilia",
+          "name:bar": "Brasilia",
+          "name:bpy": "ব্রাসিলিয়া",
+          "name:ckb": "بەڕازیلیا",
+          "name:eml": "Brasilia",
+          "name:ext": "Brasilia",
+          "name:frp": "Brasilia",
+          "name:lez": "Бразилиа",
+          "name:lij": "Braxilia",
+          "name:lmo": "Brasilia",
+          "name:mzn": "برازیلیا",
+          "name:nah": "Brasilia",
+          "name:pms": "Brasilia",
+          "name:pnb": "برازیلیہ",
+          "name:tet": "Brazília",
+          "name:vec": "Braxiłia",
+          "name:wuu": "巴西利亚",
+          "name:yue": "巴西利亞",
+          "reg_name": "Região Administrativa Um",
+          "name:bat-smg": "Brazilėjė",
+          "name:cbk-zam": "Distrito Federal de Brasil",
+          "name:zh-Hans": "巴西利亚",
+          "name:zh-Hant": "巴西利亞",
+          "name:be-tarask": "Бразылія"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70391-900",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8828,
+        "lat": -15.7939869,
+        "state_code": "DF",
+        "result_type": "postcode",
+        "distance": 0,
+        "formatted": "Brasília, DF, Brazil",
+        "address_line1": "Brasília",
+        "address_line2": "DF, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ6448+CV",
+        "plus_code_short": "6448+CV Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.6925659039688494,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_postcode"
+        },
+        "place_id": "5154742497fff047c059a4e7717385962fc0f00103f901ff740f0200000000c0020792030c37303339312d3930302b6272",
+        "bbox": {
+          "lon1": -48.0428,
+          "lat1": -15.9539869,
+          "lon2": -47.7228,
+          "lat2": -15.6339869
+        }
+      }
+    ],
+    "query": {
+      "text": "SCRN 714, 715 - Bl. F | Asa Norte, Brasília - DF",
+      "parsed": {
+        "house": "scrn 714 715 bl. f | asa norte",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Avenida Boulevard -  | Águas Claras, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Colégio Olimpo - Águas Claras",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Águas Claras",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "71936-750",
+        "street": "Avenida Boulevard Sul",
+        "iso3166_2": "BR-DF",
+        "lon": -48.0132895,
+        "lat": -15.8362115,
+        "state_code": "DF",
+        "result_type": "amenity",
+        "formatted": "Colégio Olimpo - Águas Claras, Avenida Boulevard Sul, Águas Claras - DF, 71936-750, Brazil",
+        "address_line1": "Colégio Olimpo - Águas Claras",
+        "address_line2": "Avenida Boulevard Sul, Águas Claras - DF, 71936-750, Brazil",
+        "category": "education.school",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH5X7P+GM",
+        "rank": {
+          "importance": 7.805065995265153e-05,
+          "confidence": 0.6561000000000001,
+          "confidence_city_level": 0.9,
+          "confidence_street_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "51aaf06778b30148c0590514eae923ac2fc0f00102f901a46fad2400000000c0020192031f436f6cc3a967696f204f6c696d706f202d20c3816775617320436c61726173",
+        "bbox": {
+          "lon1": -48.0133789,
+          "lat1": -15.8363906,
+          "lon2": -48.0129086,
+          "lat2": -15.8360345
+        }
+      }
+    ],
+    "query": {
+      "text": "Avenida Boulevard -  | Águas Claras, Brasília - DF",
+      "parsed": {
+        "house": "claras",
+        "street": "avenida boulevard",
+        "city": "águas",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "SMPW Trecho 3, 36 – Shopping Bandeirante | Núcleo Bandeirante, Brasília - DF": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "S/N",
+        "street": "Edf Smpw Trecho 3 Bloco B",
+        "country": "Brazil",
+        "county": "Federal District",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "71735-093",
+        "state": "Central-West",
+        "city": "Brasilia",
+        "county_code": "DF",
+        "lon": -47.974093,
+        "lat": -15.869711,
+        "result_type": "building",
+        "formatted": "Edf Smpw Trecho 3 Bloco B S/N, Brasilia - Central-West, 71735-093, Brazil",
+        "address_line1": "Edf Smpw Trecho 3 Bloco B S/N",
+        "address_line2": "Brasilia - Central-West, 71735-093, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ42JG+49",
+        "rank": {
+          "confidence": 0.6561000000000001,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "match_type": "match_by_building"
+        },
+        "place_id": "519b215514affc47c05963f19bc24abd2fc0c00203e203466f70656e6164647265737365733a616464726573733a62722f64662f7374617465776964652d6164647265737365732d73746174653a62653439396664386137386566383737"
+      }
+    ],
+    "query": {
+      "text": "SMPW Trecho 3, 36 – Shopping Bandeirante | Núcleo Bandeirante, Brasília - DF",
+      "parsed": {
+        "house": "shopping bandeirante | núcleo bandeirante",
+        "housenumber": "36",
+        "street": "smpw trecho 3",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "CLN 109 Asa Norte, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70852-520",
+        "district": "CLN 208",
+        "suburb": "Asa Norte",
+        "iso3166_2": "BR-DF",
+        "lon": -47.881168,
+        "lat": -15.763423,
+        "state_code": "DF",
+        "result_type": "suburb",
+        "formatted": "Asa Norte, Brasília, DF, Brazil",
+        "address_line1": "Asa Norte",
+        "address_line2": "Brasília, DF, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ64P9+JG",
+        "plus_code_short": "64P9+JG Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.08007805065995267,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "511024ef1ccaf047c05946072461df862fc0f00103f901871717a000000000c00205",
+        "bbox": {
+          "lon1": -47.891168,
+          "lat1": -15.773423,
+          "lon2": -47.871168,
+          "lat2": -15.753423
+        }
+      }
+    ],
+    "query": {
+      "text": "CLN 109 Asa Norte, Brasília - DF",
+      "parsed": {
+        "street": "cln 109 asa norte",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "street"
+      }
+    }
+  },
+  "Rua 35 Norte – Av. Boulevard - Quiosque | Águas Claras, Águas Claras - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "alt_name": "RA XX",
+          "loc_name": "RA 20",
+          "reg_name": "Região Administrativa Vinte"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Águas Claras",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "iso3166_2": "BR-DF",
+        "lon": -48.0281208,
+        "lat": -15.8419933,
+        "state_code": "DF",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Águas Claras, DF, Brazil",
+        "address_line1": "Águas Claras",
+        "address_line2": "DF, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH5X5C+6Q",
+        "rank": {
+          "importance": 0.3623846332493779,
+          "confidence": 0.16683197778218609,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512f2b5e76990348c059f9e6edbe19af2fc0f00101f9010543330000000000c00208",
+        "bbox": {
+          "lon1": -48.0494854,
+          "lat1": -15.8760109,
+          "lon2": -47.9623783,
+          "lat2": -15.8177635
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 35 Norte – Av. Boulevard - Quiosque | Águas Claras, Águas Claras - DF"
+    }
+  },
+  "SCRN 708/709, Bloco E, 708  | Asa Norte, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bloco E",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70750-735",
+        "suburb": "Asa Norte",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8948429,
+        "lat": -15.7601869,
+        "state_code": "DF",
+        "result_type": "amenity",
+        "formatted": "Bloco E, Asa Norte, Brasília - DF, 70750-735, Brazil",
+        "address_line1": "Bloco E",
+        "address_line2": "Asa Norte, Brasília - DF, 70750-735, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ64Q4+W3",
+        "plus_code_short": "64Q4+W3 Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.08007805065995267,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5166474f368af247c059fcb1a43737852fc0f00102f901b9c51b4200000000c00201920307426c6f636f2045",
+        "bbox": {
+          "lon1": -47.8951776,
+          "lat1": -15.7604147,
+          "lon2": -47.8945094,
+          "lat2": -15.759959
+        }
+      }
+    ],
+    "query": {
+      "text": "SCRN 708/709, Bloco E, 708  | Asa Norte, Brasília - DF",
+      "parsed": {
+        "housenumber": "708 |",
+        "street": "bloco e",
+        "suburb": "asa norte",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Quadra CCSW, 5  | Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ab": "Бразилиа",
+          "name:am": "ብራዚሊያ",
+          "name:ar": "برازيليا",
+          "name:ay": "Brasilia",
+          "name:az": "Brazilia",
+          "name:be": "Бразілія",
+          "name:bg": "Бразилия",
+          "name:bn": "ব্রাসিলিয়া",
+          "name:bo": "པུ་རུ་ཟི་ལི་ཡ།",
+          "name:bs": "Brazilija",
+          "name:ce": "Бразилиа",
+          "name:co": "Brasilia",
+          "name:cv": "Бразилиа",
+          "name:de": "Brasilia",
+          "name:dv": "ބްރަސީލިއާ",
+          "name:el": "Μπραζίλια",
+          "name:eo": "Braziljo",
+          "name:es": "Brasilia",
+          "name:eu": "Brasilia",
+          "name:fa": "برازیلیا",
+          "name:fo": "Brasilia",
+          "name:fr": "Brasilia",
+          "name:gl": "Brasilia",
+          "name:gn": "Brasilia",
+          "name:ha": "Brasilia",
+          "name:he": "בראזיליא",
+          "name:hi": "ब्रासीलिया",
+          "name:hr": "Brazilija",
+          "name:ht": "Brazilia",
+          "name:hu": "Brazíliaváros",
+          "name:hy": "Բրազիլիա",
+          "name:ia": "Brasilia",
+          "name:ie": "Brasilia",
+          "name:ig": "Brasilia",
+          "name:io": "Brasilia",
+          "name:is": "Brasilía",
+          "name:it": "Brasilia",
+          "name:ja": "ブラジリア",
+          "name:jv": "Brasilia",
+          "name:ka": "ბრაზილია",
+          "name:kg": "Brasilia",
+          "name:kk": "Бразилиа",
+          "name:kl": "Brasilia",
+          "name:km": "ប្រាស៊ីលីយ៉ា",
+          "name:kn": "ಬ್ರಾಸಿಲ್ಯಾ",
+          "name:ko": "브라질리아",
+          "name:ky": "Бразилиа",
+          "name:la": "Brasiliopolis",
+          "name:ln": "Brazilia",
+          "name:lo": "ບຣາຊີເລຍ",
+          "name:lt": "Brazilija",
+          "name:lv": "Brazilja",
+          "name:mk": "Бразилија",
+          "name:ml": "ബ്രസീലിയ",
+          "name:mn": "Бразилиа",
+          "name:mr": "ब्राझिलिया",
+          "name:mt": "Brażilja",
+          "name:my": "ဘရာစေးလေးယားမြို့",
+          "name:ne": "ब्रसिलिया",
+          "name:nl": "Brasilia",
+          "name:or": "ବ୍ରାସିଲିଆ",
+          "name:os": "Бразилиа",
+          "name:pa": "ਬ੍ਰਾਜ਼ੀਲੀਆ",
+          "name:ps": "برازیلیا",
+          "name:qu": "Brasilia",
+          "name:rm": "Brasilia",
+          "name:ro": "Brazilia",
+          "name:ru": "Бразилиа",
+          "name:sc": "Brasìlia",
+          "name:sd": "برازيليا",
+          "name:sh": "Brazilija",
+          "name:sk": "Brazília",
+          "name:sl": "Brasilia",
+          "name:so": "Barasiliya",
+          "name:sq": "Brazilia",
+          "name:sr": "Бразилија",
+          "name:sw": "Brasilia",
+          "name:ta": "பிரசிலியா",
+          "name:tg": "Бразилиа",
+          "name:th": "บราซีเลีย",
+          "name:tl": "Brasilia",
+          "name:to": "Palāsilia",
+          "name:tr": "Brezilya",
+          "name:tt": "Бразилиа",
+          "name:ty": "Brasilia",
+          "name:uk": "Бразилія",
+          "name:ur": "براسیلیا",
+          "name:uz": "Brazilia",
+          "name:vi": "Brasilia",
+          "name:yi": "בראזיליא",
+          "name:yo": "Bràsílíà",
+          "name:zh": "巴西利亚",
+          "alt_name": "RA I",
+          "loc_name": "BSB",
+          "name:arz": "برازيليا",
+          "name:ast": "Brasilia",
+          "name:bar": "Brasilia",
+          "name:bpy": "ব্রাসিলিয়া",
+          "name:ckb": "بەڕازیلیا",
+          "name:eml": "Brasilia",
+          "name:ext": "Brasilia",
+          "name:frp": "Brasilia",
+          "name:lez": "Бразилиа",
+          "name:lij": "Braxilia",
+          "name:lmo": "Brasilia",
+          "name:mzn": "برازیلیا",
+          "name:nah": "Brasilia",
+          "name:pms": "Brasilia",
+          "name:pnb": "برازیلیہ",
+          "name:tet": "Brazília",
+          "name:vec": "Braxiłia",
+          "name:wuu": "巴西利亚",
+          "name:yue": "巴西利亞",
+          "reg_name": "Região Administrativa Um",
+          "name:bat-smg": "Brazilėjė",
+          "name:cbk-zam": "Distrito Federal de Brasil",
+          "name:zh-Hans": "巴西利亚",
+          "name:zh-Hant": "巴西利亞",
+          "name:be-tarask": "Бразылія"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70391-900",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8828,
+        "lat": -15.7939869,
+        "state_code": "DF",
+        "result_type": "postcode",
+        "distance": 0,
+        "formatted": "Brasília, DF, Brazil",
+        "address_line1": "Brasília",
+        "address_line2": "DF, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ6448+CV",
+        "plus_code_short": "6448+CV Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.6925659039688494,
+          "confidence": 0.14387633769322233,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5154742497fff047c059a4e7717385962fc0f00103f901ff740f0200000000c0020792030c37303339312d3930302b6272",
+        "bbox": {
+          "lon1": -48.0428,
+          "lat1": -15.9539869,
+          "lon2": -47.7228,
+          "lat2": -15.6339869
+        }
+      }
+    ],
+    "query": {
+      "text": "Quadra CCSW, 5  | Brasília - DF"
+    }
+  },
+  "Rua 15 - QE 40 Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua 15",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70430-900",
+        "district": "Vila da Telebrasília",
+        "street": "Rua 15",
+        "iso3166_2": "BR-DF",
+        "lon": -47.919207,
+        "lat": -15.8452613,
+        "state_code": "DF",
+        "result_type": "street",
+        "formatted": "Rua 15, Vila da Telebrasília, Brasília - DF, 70430-900, Brazil",
+        "address_line1": "Rua 15",
+        "address_line2": "Vila da Telebrasília, Brasília - DF, 70430-900, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ533J+V8",
+        "plus_code_short": "533J+V8 Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.053411383993285995,
+          "confidence": 0.5785714285714285,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "518ca03193a8f547c0591e26d016c6b02fc0f00102f9012a5e6e0800000000c00204920306527561203135",
+        "bbox": {
+          "lon1": -47.9193198,
+          "lat1": -15.846674,
+          "lon2": -47.918441,
+          "lat2": -15.8442814
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 15 - QE 40 Brasília - DF"
+    }
+  },
+  "QN 320, Conjunto 01, 3 | Samambaia Sul, Samambaia - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Samambaia",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "72302-605",
+        "suburb": "Samambaia Sul",
+        "iso3166_2": "BR-DF",
+        "lon": -48.0720049,
+        "lat": -15.8734007,
+        "state_code": "DF",
+        "result_type": "suburb",
+        "formatted": "Samambaia Sul, Samambaia, DF, Brazil",
+        "address_line1": "Samambaia Sul",
+        "address_line2": "Samambaia, DF, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH4WGH+J5",
+        "rank": {
+          "importance": 0.14671666819256882,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "516d53e174370948c059659b65602ebf2fc0f00103f901fa8262f402000000c00205",
+        "bbox": {
+          "lon1": -48.0920049,
+          "lat1": -15.8934007,
+          "lon2": -48.0520049,
+          "lat2": -15.8534007
+        }
+      }
+    ],
+    "query": {
+      "text": "QN 320, Conjunto 01, 3 | Samambaia Sul, Samambaia - DF",
+      "parsed": {
+        "street": "3 samambaia sul",
+        "city": "samambaia",
+        "state": "df",
+        "expected_type": "street"
+      }
+    }
+  },
+  "SCLRN 706, Bloco B, 3  | Asa Norte, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bloco B",
+        "other_names": {
+          "reg_name": "SCLRN 706 Bloco B"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70740-513",
+        "suburb": "Asa Norte",
+        "retail": "SCLRN 706",
+        "street": "SCLRN 706",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8892636,
+        "lat": -15.770998,
+        "state_code": "DF",
+        "result_type": "amenity",
+        "formatted": "Bloco B, SCLRN 706, Asa Norte, Brasília - DF, 70740-513, Brazil",
+        "address_line1": "Bloco B",
+        "address_line2": "SCLRN 706, Asa Norte, Brasília - DF, 70740-513, Brazil",
+        "category": "building.commercial",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ64H6+J7",
+        "plus_code_short": "64H6+J7 Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 7.805065995265153e-05,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f9c2bf63d3f147c0591590f63fc08a2fc0f00102f9011de2550b00000000c00201920307426c6f636f2042",
+        "bbox": {
+          "lon1": -47.8893954,
+          "lat1": -15.771303,
+          "lon2": -47.8891319,
+          "lat2": -15.7706948
+        }
+      }
+    ],
+    "query": {
+      "text": "SCLRN 706, Bloco B, 3  | Asa Norte, Brasília - DF",
+      "parsed": {
+        "house": "3 | asa norte",
+        "housenumber": "bloco b",
+        "street": "sclrn 706",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Av. Central, 14 - Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avenida Central",
+        "other_names": {
+          "alt_name": "Avenida Central Pacheco Fernandes"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70804-180",
+        "suburb": "Vila Planalto",
+        "street": "Avenida Central",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8467895,
+        "lat": -15.7924478,
+        "state_code": "DF",
+        "housenumber": "14",
+        "result_type": "building",
+        "formatted": "Avenida Central 14, Vila Planalto, Brasília - DF, 70804-180, Brazil",
+        "address_line1": "Avenida Central 14",
+        "address_line2": "Vila Planalto, Brasília - DF, 70804-180, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ6553+27",
+        "plus_code_short": "6553+27 Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.053411383993285995,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51508c2c9963ec47c0590593d1b7bb952fc0f00102f901c1de2d0100000000c0020392030f4176656e6964612043656e7472616c",
+        "bbox": {
+          "lon1": -47.8470898,
+          "lat1": -15.7935434,
+          "lon2": -47.8465037,
+          "lat2": -15.7913483
+        }
+      }
+    ],
+    "query": {
+      "text": "Av. Central, 14 - Brasília - DF",
+      "parsed": {
+        "housenumber": "14",
+        "street": "av. central",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Quadra 13 CL, 8  | Sobradinho, Sobradinho - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Quadra 8 Conjunto C",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Sobradinho",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "73005-083",
+        "street": "Quadra 8 Conjunto C",
+        "iso3166_2": "BR-DF",
+        "lon": -47.7987078,
+        "lat": -15.6461376,
+        "state_code": "DF",
+        "result_type": "street",
+        "formatted": "Quadra 8 Conjunto C, Sobradinho - DF, 73005-083, Brazil",
+        "address_line1": "Quadra 8 Conjunto C",
+        "address_line2": "Sobradinho - DF, 73005-083, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ9632+GG",
+        "rank": {
+          "importance": 0.053383334859235486,
+          "confidence": 0.43199999999999994,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.567,
+          "match_type": "full_match"
+        },
+        "place_id": "51b207a40e3ce647c0598e6e298cd24a2fc0f00102f9011250510e00000000c00204920313517561647261203820436f6e6a756e746f2043",
+        "bbox": {
+          "lon1": -47.7990549,
+          "lat1": -15.6478397,
+          "lon2": -47.7983526,
+          "lat2": -15.6444372
+        }
+      }
+    ],
+    "query": {
+      "text": "Quadra 13 CL, 8  | Sobradinho, Sobradinho - DF"
+    }
+  },
+  "Rua B, 2 -  Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rua B",
+        "other_names": {
+          "alt_name": "Edf Acampamento Ebe B"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70804-180",
+        "street": "Rua B",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8425737,
+        "lat": -15.7921455,
+        "state_code": "DF",
+        "housenumber": "2",
+        "result_type": "building",
+        "formatted": "Rua B 2, Brasília - DF, 70804-180, Brazil",
+        "address_line1": "Rua B 2",
+        "address_line2": "Brasília - DF, 70804-180, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ6554+4X",
+        "plus_code_short": "6554+4X Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.053411383993285995,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5120fc7a74d9eb47c059de58501894952fc0f00102f901e56a9f3600000000c002039203055275612042",
+        "bbox": {
+          "lon1": -47.843723,
+          "lat1": -15.7923555,
+          "lon2": -47.8413398,
+          "lat2": -15.7916757
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua B, 2 -  Brasília - DF",
+      "parsed": {
+        "housenumber": "2",
+        "street": "rua b",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "building"
+      }
+    }
+  },
+  "Rua 5 - Av. Boulevard | Águas Claras, Taguatinga - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ja": "タグアチンガ",
+          "alt_name": "RA III",
+          "loc_name": "RA 3",
+          "reg_name": "Região Administrativa Três"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Taguatinga",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "iso3166_2": "BR-DF",
+        "lon": -48.0565716,
+        "lat": -15.8335277,
+        "state_code": "DF",
+        "result_type": "city",
+        "distance": 0,
+        "formatted": "Taguatinga, DF, Brazil",
+        "address_line1": "Taguatinga",
+        "address_line2": "DF, Brazil",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH5W8V+H9",
+        "rank": {
+          "importance": 0.4422097936253295,
+          "confidence": 0.07535563244905807,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f2f0f9bc3d0748c059c59e8724c4aa2fc0f00101f9010243330000000000c00208",
+        "bbox": {
+          "lon1": -48.1124359,
+          "lat1": -15.8758871,
+          "lon2": -48.0030019,
+          "lat2": -15.736516
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 5 - Av. Boulevard | Águas Claras, Taguatinga - DF"
+    }
+  },
+  "QE 19, Bloco B, 19 – Pça. Central | Guará II, Guará - DF": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "S/N",
+        "street": "Edf Qe 19 Bloco B",
+        "country": "Brazil",
+        "county": "Federal District",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "71050-623",
+        "state": "Central-West",
+        "city": "Guará",
+        "county_code": "DF",
+        "lon": -47.972906,
+        "lat": -15.838012,
+        "result_type": "building",
+        "formatted": "Edf Qe 19 Bloco B S/N, Guará - Central-West, 71050-623, Brazil",
+        "address_line1": "Edf Qe 19 Bloco B S/N",
+        "address_line2": "Guará - Central-West, 71050-623, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ526G+QR",
+        "rank": {
+          "confidence": 0.6561000000000001,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51850a0e2f88fc47c059a54fabe80fad2fc0c00203e203466f70656e6164647265737365733a616464726573733a62722f64662f7374617465776964652d6164647265737365732d73746174653a31326464666362303263656161336565"
+      }
+    ],
+    "query": {
+      "text": "QE 19, Bloco B, 19 – Pça. Central | Guará II, Guará - DF",
+      "parsed": {
+        "house": "pça. central | guará ii",
+        "housenumber": "19",
+        "street": "bloco b",
+        "city": "guará",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "QNL 10, Bloco H, 2 – Lote 2 | Taguatinga Norte, Taguatinga - DF": {
+    "results": [
+      {
+        "country_code": "br",
+        "housenumber": "S/N",
+        "street": "Edf Qnl 2 Bloco H",
+        "country": "Brazil",
+        "county": "Federal District",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "© OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "72155-218",
+        "state": "Central-West",
+        "city": "Taguatinga",
+        "county_code": "DF",
+        "lon": -48.074048,
+        "lat": -15.83279,
+        "result_type": "building",
+        "formatted": "Edf Qnl 2 Bloco H S/N, Taguatinga - Central-West, 72155-218, Brazil",
+        "address_line1": "Edf Qnl 2 Bloco H S/N",
+        "address_line2": "Taguatinga - Central-West, 72155-218, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PH5W8G+V9",
+        "rank": {
+          "confidence": 0.6561000000000001,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "match_type": "match_by_building"
+        },
+        "place_id": "51c72aa5677a0948c05926df6c7363aa2fc0c00203e203466f70656e6164647265737365733a616464726573733a62722f64662f7374617465776964652d6164647265737365732d73746174653a33636237323965336363356635623566"
+      }
+    ],
+    "query": {
+      "text": "QNL 10, Bloco H, 2 – Lote 2 | Taguatinga Norte, Taguatinga - DF",
+      "parsed": {
+        "house": "lote 2 | taguatinga norte",
+        "housenumber": "2",
+        "street": "bloco h",
+        "city": "taguatinga",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua 3, Chácara 92, Lotes 66/67, 92 | Vicente Pires, Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "other_names": {
+          "name:ab": "Бразилиа",
+          "name:am": "ብራዚሊያ",
+          "name:ar": "برازيليا",
+          "name:ay": "Brasilia",
+          "name:az": "Brazilia",
+          "name:be": "Бразілія",
+          "name:bg": "Бразилия",
+          "name:bn": "ব্রাসিলিয়া",
+          "name:bo": "པུ་རུ་ཟི་ལི་ཡ།",
+          "name:bs": "Brazilija",
+          "name:ce": "Бразилиа",
+          "name:co": "Brasilia",
+          "name:cv": "Бразилиа",
+          "name:de": "Brasilia",
+          "name:dv": "ބްރަސީލިއާ",
+          "name:el": "Μπραζίλια",
+          "name:eo": "Braziljo",
+          "name:es": "Brasilia",
+          "name:eu": "Brasilia",
+          "name:fa": "برازیلیا",
+          "name:fo": "Brasilia",
+          "name:fr": "Brasilia",
+          "name:gl": "Brasilia",
+          "name:gn": "Brasilia",
+          "name:ha": "Brasilia",
+          "name:he": "בראזיליא",
+          "name:hi": "ब्रासीलिया",
+          "name:hr": "Brazilija",
+          "name:ht": "Brazilia",
+          "name:hu": "Brazíliaváros",
+          "name:hy": "Բրազիլիա",
+          "name:ia": "Brasilia",
+          "name:ie": "Brasilia",
+          "name:ig": "Brasilia",
+          "name:io": "Brasilia",
+          "name:is": "Brasilía",
+          "name:it": "Brasilia",
+          "name:ja": "ブラジリア",
+          "name:jv": "Brasilia",
+          "name:ka": "ბრაზილია",
+          "name:kg": "Brasilia",
+          "name:kk": "Бразилиа",
+          "name:kl": "Brasilia",
+          "name:km": "ប្រាស៊ីលីយ៉ា",
+          "name:kn": "ಬ್ರಾಸಿಲ್ಯಾ",
+          "name:ko": "브라질리아",
+          "name:ky": "Бразилиа",
+          "name:la": "Brasiliopolis",
+          "name:ln": "Brazilia",
+          "name:lo": "ບຣາຊີເລຍ",
+          "name:lt": "Brazilija",
+          "name:lv": "Brazilja",
+          "name:mk": "Бразилија",
+          "name:ml": "ബ്രസീലിയ",
+          "name:mn": "Бразилиа",
+          "name:mr": "ब्राझिलिया",
+          "name:mt": "Brażilja",
+          "name:my": "ဘရာစေးလေးယားမြို့",
+          "name:ne": "ब्रसिलिया",
+          "name:nl": "Brasilia",
+          "name:or": "ବ୍ରାସିଲିଆ",
+          "name:os": "Бразилиа",
+          "name:pa": "ਬ੍ਰਾਜ਼ੀਲੀਆ",
+          "name:ps": "برازیلیا",
+          "name:qu": "Brasilia",
+          "name:rm": "Brasilia",
+          "name:ro": "Brazilia",
+          "name:ru": "Бразилиа",
+          "name:sc": "Brasìlia",
+          "name:sd": "برازيليا",
+          "name:sh": "Brazilija",
+          "name:sk": "Brazília",
+          "name:sl": "Brasilia",
+          "name:so": "Barasiliya",
+          "name:sq": "Brazilia",
+          "name:sr": "Бразилија",
+          "name:sw": "Brasilia",
+          "name:ta": "பிரசிலியா",
+          "name:tg": "Бразилиа",
+          "name:th": "บราซีเลีย",
+          "name:tl": "Brasilia",
+          "name:to": "Palāsilia",
+          "name:tr": "Brezilya",
+          "name:tt": "Бразилиа",
+          "name:ty": "Brasilia",
+          "name:uk": "Бразилія",
+          "name:ur": "براسیلیا",
+          "name:uz": "Brazilia",
+          "name:vi": "Brasilia",
+          "name:yi": "בראזיליא",
+          "name:yo": "Bràsílíà",
+          "name:zh": "巴西利亚",
+          "alt_name": "RA I",
+          "loc_name": "BSB",
+          "name:arz": "برازيليا",
+          "name:ast": "Brasilia",
+          "name:bar": "Brasilia",
+          "name:bpy": "ব্রাসিলিয়া",
+          "name:ckb": "بەڕازیلیا",
+          "name:eml": "Brasilia",
+          "name:ext": "Brasilia",
+          "name:frp": "Brasilia",
+          "name:lez": "Бразилиа",
+          "name:lij": "Braxilia",
+          "name:lmo": "Brasilia",
+          "name:mzn": "برازیلیا",
+          "name:nah": "Brasilia",
+          "name:pms": "Brasilia",
+          "name:pnb": "برازیلیہ",
+          "name:tet": "Brazília",
+          "name:vec": "Braxiłia",
+          "name:wuu": "巴西利亚",
+          "name:yue": "巴西利亞",
+          "reg_name": "Região Administrativa Um",
+          "name:bat-smg": "Brazilėjė",
+          "name:cbk-zam": "Distrito Federal de Brasil",
+          "name:zh-Hans": "巴西利亚",
+          "name:zh-Hant": "巴西利亞",
+          "name:be-tarask": "Бразылія"
+        },
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70391-900",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8828,
+        "lat": -15.7939869,
+        "state_code": "DF",
+        "result_type": "postcode",
+        "distance": 0,
+        "formatted": "Brasília, DF, Brazil",
+        "address_line1": "Brasília",
+        "address_line2": "DF, Brazil",
+        "category": "populated_place",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ6448+CV",
+        "plus_code_short": "6448+CV Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.6925659039688494,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_postcode"
+        },
+        "place_id": "5154742497fff047c059a4e7717385962fc0f00103f901ff740f0200000000c0020792030c37303339312d3930302b6272",
+        "bbox": {
+          "lon1": -48.0428,
+          "lat1": -15.9539869,
+          "lon2": -47.7228,
+          "lat2": -15.6339869
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 3, Chácara 92, Lotes 66/67, 92 | Vicente Pires, Brasília - DF",
+      "parsed": {
+        "house": "92 | vicente pires",
+        "housenumber": "66/67",
+        "street": "lotes",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "amenity"
+      }
+    }
+  },
+  "Rua 5, Lote 1,  - 101 |  Brasília - DF": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "SCES Trecho 1 Lote 3",
+        "country": "Brazil",
+        "country_code": "br",
+        "region": "Central-West Region",
+        "state": "Federal District",
+        "county": "Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "state_district": "Região Geográfica Intermediária do Distrito Federal",
+        "city": "Brasília",
+        "municipality": "Região Geográfica Imediata do Distrito Federal",
+        "postcode": "70420-900",
+        "suburb": "Asa Sul",
+        "street": "SCES Trecho 1 Lote 3",
+        "iso3166_2": "BR-DF",
+        "lon": -47.8894797,
+        "lat": -15.8292126,
+        "state_code": "DF",
+        "result_type": "street",
+        "formatted": "SCES Trecho 1 Lote 3, Asa Sul, Brasília - DF, 70420-900, Brazil",
+        "address_line1": "SCES Trecho 1 Lote 3",
+        "address_line2": "Asa Sul, Brasília - DF, 70420-900, Brazil",
+        "timezone": {
+          "name": "America/Sao_Paulo",
+          "offset_STD": "-03:00",
+          "offset_STD_seconds": -10800,
+          "offset_DST": "-03:00",
+          "offset_DST_seconds": -10800
+        },
+        "plus_code": "58PJ54C6+86",
+        "plus_code_short": "54C6+86 Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Brazil",
+        "rank": {
+          "importance": 0.04007805065995269,
+          "confidence": 0.7290000000000001,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.7290000000000001,
+          "match_type": "full_match"
+        },
+        "place_id": "515bfa8678daf147c059bddccc8d8ea82fc0f00102f90187466f0800000000c00204920314534345532054726563686f2031204c6f74652033",
+        "bbox": {
+          "lon1": -47.8897922,
+          "lat1": -15.8296403,
+          "lon2": -47.8887928,
+          "lat2": -15.8283736
+        }
+      }
+    ],
+    "query": {
+      "text": "Rua 5, Lote 1,  - 101 |  Brasília - DF",
+      "parsed": {
+        "street": "lote 1",
+        "city": "brasília",
+        "state": "df",
+        "expected_type": "street"
+      }
+    }
+  }
+}
