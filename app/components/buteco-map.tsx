@@ -249,12 +249,13 @@ function ButecoMarker({ buteco }: ButecoMarkerProps) {
   );
 }
 
-export function ButecoMap() {
-  const { filteredButecos } = useButecosStore();
-  const butecos = filteredButecos();
+interface ButecoMapProps {
+  allButecos: any[];
+}
 
-  // Calculate center based on butecos
-  const validButecos = butecos.filter((b) => b.lat && b.lon);
+export function ButecoMap({ allButecos }: ButecoMapProps) {
+  // Exibe todos os pins no mapa, independente do filtro da lista
+  const validButecos = allButecos.filter((b) => b.lat && b.lon);
   const center: [number, number] =
     validButecos.length > 0
       ? [
@@ -280,7 +281,7 @@ export function ButecoMap() {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         <MapController />
-        {butecos.map((buteco, index) => (
+        {allButecos.map((buteco, index) => (
           <ButecoMarker key={`${buteco.name}-${index}`} buteco={buteco} />
         ))}
       </MapContainer>
