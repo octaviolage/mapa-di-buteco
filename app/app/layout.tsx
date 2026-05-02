@@ -7,18 +7,13 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Mapa di Buteco - Encontre os Butecos Participantes',
-  description: 'Encontre os butecos participantes do Comida di Buteco perto de você. Explore por cidade, bairro e regional.',
+  title: 'Mapa di Buteco - Encontre os Butecos Participantes do Comida di Buteco',
+  description: 'Encontre os butecos participantes do Comida di Buteco perto de você. Explore por cidade e bairro.',
   generator: 'v0.app',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
+        url: '/icon-32x32.png',
       },
       {
         url: '/icon.svg',

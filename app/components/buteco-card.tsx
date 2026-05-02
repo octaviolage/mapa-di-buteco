@@ -52,6 +52,7 @@ export function ButecoCard({ buteco, priority = false }: ButecoCardProps) {
           priority={priority}
           className="object-cover transition-transform duration-300 hover:scale-105"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          loading="eager"
         />
         <div className="absolute top-3 left-3 flex gap-2">
           {buteco.district && (
