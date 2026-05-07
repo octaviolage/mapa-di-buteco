@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useMemo, useRef } from "react";
 import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import { useButecosStore } from "@/store/butecos-store";
 import { ExternalLink } from "lucide-react";
@@ -52,11 +52,9 @@ const selectedIcon = L.divIcon({
 
 function MapController() {
   const map = useMap();
-  const { selectedButeco, selectionSource, filteredButecos } =
+  const { selectedButeco, selectionSource, filteredButecos, butecos: rawButecos, filters, viewMode } =
     useButecosStore();
-  const butecos = filteredButecos();
-
-  const { viewMode } = useButecosStore();
+  const butecos = useMemo(() => filteredButecos(), [rawButecos, filters]);
 
   // Ref para saber se o mapa já foi exibido/renderizado
   const mapReadyRef = useRef(false);
@@ -125,11 +123,11 @@ function ButecoMarker({ buteco }: ButecoMarkerProps) {
 
   // Open popup when this buteco is selected from the list
   useEffect(() => {
-    if (isSelected && selectionSource === "list" && markerRef.current) {
-      // Small delay to ensure the map has flown to the location
+    if (isSelected && markerRef.current) {
+      const delay = selectionSource === "list" ? 900 : 50;
       const timer = setTimeout(() => {
         markerRef.current?.openPopup();
-      }, 900);
+      }, delay);
       return () => clearTimeout(timer);
     }
   }, [isSelected, selectionSource]);
@@ -166,7 +164,6 @@ function ButecoMarker({ buteco }: ButecoMarkerProps) {
         e.preventDefault();
         e.stopPropagation();
         setSelectedButeco(buteco, "map");
-        marker.openPopup();
       }
     };
 
@@ -193,9 +190,8 @@ function ButecoMarker({ buteco }: ButecoMarkerProps) {
       position={[buteco.lat, buteco.lon]}
       icon={icon}
       eventHandlers={{
-        click: (e) => {
+        click: () => {
           setSelectedButeco(buteco, "map");
-          markerRef.current?.openPopup();
         },
         mouseover: () => setHighlightedButeco(buteco),
         mouseout: () => setHighlightedButeco(null),
